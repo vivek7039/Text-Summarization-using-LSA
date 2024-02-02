@@ -7,6 +7,6 @@ In our extractive text summarization approach for financial documents, we are im
 
 In our extractive text summarization study focused on financial documents, we conducted evaluations using the ROUGE (Recall-Oriented Understudy for Gisting Evaluation) score on the provided validation dataset. This metric allowed us to quantitatively assess the performance of our summarization model by measuring the overlap between the generated summaries and the reference summaries in the validation set. The use of ROUGE scores provides a comprehensive evaluation framework, considering precision, recall, and F1-score, ensuring that our extractive summarization approach is robust and aligns with the content of the financial documents present in the specified dataset.
 
-In addition to employing the ROUGE score for evaluation, we utilized a Java-based open-source evaluator to assess our extractive text summarization model. This evaluator generated a result.csv file containing detailed evaluation metrics. The evaluator can be found [here]("https://github.com/kavgan/ROUGE-2.0").
+In addition to employing the ROUGE score for evaluation, we utilized a Java-based open-source evaluator to assess our extractive text summarization model. This evaluator generated a result.csv file containing detailed evaluation metrics. The evaluator can be found [here](https://github.com/kavgan/ROUGE-2.0).
 
-Also, the entire FNS dataset can be accessed [here]("https://drive.google.com/file/d/1o7iW-cpIXCpQI7mNaYJ4T-2vQOwgRbVw/view").
+Also, the entire FNS dataset can be accessed [here](https://drive.google.com/file/d/1o7iW-cpIXCpQI7mNaYJ4T-2vQOwgRbVw/view).
