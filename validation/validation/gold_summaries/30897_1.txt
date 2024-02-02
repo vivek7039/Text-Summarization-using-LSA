@@ -1,0 +1,158 @@
+ Bringing the 
+digital twin to life
+We have made good progress in realigning our 
+business around our two core products. 
+Market opportunity 
+Ubisense excels at helping customers to convert 
+their physical worlds into a living, breathing digital 
+twin of their core operational assets, products and 
+processes. In fact, Lockheed Martin, a giant in the 
+aerospace industry, recently listed digital twins as the 
+number one technology trend of 2018. This is why in 
+2017 we have sold more of our own products to 
+more customers. 
+Looking at the trends in our main markets of automotive, 
+aerospace, telecoms and utilities we see some 
+common challenges such as increased competition 
+from globalisation, more demanding technical savvy 
+customers and ageing workforces with skill gaps. 
+However, as we look more closely within our target 
+segments we also see some very positive indicators 
+including automotive manufacturing output at an all-time 
+high of 93.5m units
+1
+, aircraft order backlogs at an all-time 
+high of 8-10 years
+2
+ and global rollout plans for millions 
+of homes worldwide to be connected to fibre 
+broadband services in the next few years. 
+These long term trends are creating tremendous 
+opportunities for us. This is why Lockheed Martin has 
+trusted Ubisense with its mission critical function of 
+controlling all shop floor tool operations for its high 
+profile F-35 fighter program. This is also why Daimler 
+has standardised every plant worldwide to work with 
+our SmartSpace software to deliver their global vision 
+of a “paperless factory”. And this is why one of the 
+largest North American utilities business has employees 
+using our myWorld solution every day.
+Our solutions are chosen because they combine 
+industry-leading technology that includes: indoor 
+and outdoor geolocation, wirelessly enabled 
+machine-to-machine and machine-to-device 
+communication, advanced analytics and big 
+data middleware. 
+Underlying strategic focus
+Our progress in 2017 can most easily be measured 
+by observing the percentage of revenue our own 
+products generate. For 2017 I am proud to report 
+that not only did we break the 50% barrier but that 
+we exceeded 60%. This important shift in our revenue 
+mix  has been achieved by focusing on a 
+three-point strategy:
+1. Refocusing the business: 
+Since 2016 we have been growing our focus on 
+own-product sales into four main verticals: automotive, 
+aerospace, telecoms and utilities. In doing so we are 
+actively managing out our legacy third-party Geospatial 
+service business which has now been reduced 
+by 22% year on year. This has allowed greater 
+management focus on building a stronger business 
+that is based on our own products. Our goal is to 
+become a market standard in each of our chosen 
+verticals, we are focusing on the top global quartile 
+of our selected market, which means concentrating 
+our efforts on a group of approximately 200 global 
+companies worldwide. 
+Focusing ensures that we develop a deeper 
+understanding of our chosen markets. In 2017 
+we seeded our product roadmaps with extensive 
+customer research which has helped us understand 
+new areas where existing and prospective customers 
+are facing specific problems. This market research 
+has led to the launch of important new products 
+in both product lines and increased pipeline 
+generation. By increasing our focus on specific 
+verticals we have been able to offer existing 
+customers new product roadmaps that align with 
+their challenges, and give new customers reasons 
+to adopt Ubisense technology.
+4 Ubisense Group plc Annual Report 2017
+CHIEF EXECUTIVE’S STATEMENT Real progress towards our 
+goal of revolutionising the 
+world’s ability to locate, 
+connect and manage 
+industrial assets.”
+Financial results
+The repositioning work has allowed us to increase 
+the percentage of software across the board and in 
+a typical transaction software will be the dominant 
+source of revenue and margin. This ability to drive 
+software sales underpins our goal of increasing 
+margin and recurring revenue by way of maintenance 
+and support services.
+With respect to financial performance, we were 
+able to grow our top line to £27.3 million, more than 
+overcoming the decline in our legacy third party 
+service revenues. This top line growth is thanks to the 
+increased sales of our own products, which grew at 
+an impressive rate of 28%. Our margins made some 
+positive progress which will improve further as the 
+momentum builds from the sales of our own products. 
+Above all, the Ubisense team continues to work hard 
+to deliver improved returns for your investment. 
+Richard Petti
+Chief Executive Officer
+14 March 2018
+2.  Improved sales execution: 
+Within our own organisation we have strengthened 
+our go-to-market capabilities by recruiting market 
+leading sales, pre-sales and marketing talent over 
+2017 and we have invested in training to help our 
+organisation successfully complete complex 
+multi-stakeholder buying processes. 
+As a result of this we have seen a significant shift in 
+the shape of our pipeline, and across both business 
+lines we have seen increases in the number of 
+opportunities in the £250K–£1m band by an average 
+of 115% and the £1M+ band by 25%. We have also 
+increased our presence in new markets such 
+as Thailand and Turkey by signing new distribution 
+agreements with carefully selected partners that 
+have both sales and delivery capabilities into our 
+strategic markets of automotive, aerospace, 
+telecoms and utilities. 
+3. Repositioning the product portfolio: 
+Thanks to our renewed engagement with our chosen 
+markets we have invested in the development of our 
+two enterprise class software solutions: SmartSpace 
+and myWorld. Both product sets have been elevated 
+from a positioning perspective so that our ability 
+to solve enterprise level problems are more clearly 
+communicated to our target markets. This elevation 
+takes the form of positioning our products in the context 
+of enterprise systems already in place (in manufacturing, 
+for example, this is referred to as the ‘manufacturing 
+enterprise systems stack’) and targeting our messaging 
+directly at specific job roles. 
+In addition to elevating the two products, we have 
+invested in modularising them, separating functionality 
+into applications which can be packaged to address 
+customer specific needs. This approach allows us to 
+position both products along the value chains of our 
+target market and illustrates how our products can 
+improve core operations at each node in the value 
+chain of their added-value operations. By positioning 
+our product along the value chain we have been able 
+to offer specific solutions to the challenges in particular 
+areas, thereby eliminating the need to purchase 
+enterprise licenses to solve discrete problems and 
+preserving more value for future sales. 
+“
+1  https://thefly . com/landingP ageNews.php ?id=2508077&headline=GM;NS ANY ;F;VLK
+AY;TM;DDAIF;FCAU;HMC-IHS-Markit-Global-auto-sales-set-to-reach-M-in-
+2  https://centreforaviation. com/insights/analysis/record-global-aircraft-deliveries-in-
+2017-boeing-ahead-of-airbus-again-but-behind-on-order-backlog-393914
+Strategic report
+5 Ubisense Group plc Annual Report 2017

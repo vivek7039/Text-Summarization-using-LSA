@@ -1,0 +1,273 @@
+ Overall how would you describe the  
+performance of the Company last year?
+I think we had a very satisfactory financial year 2017 
+and I am pleased with the outcome.
+Revenue growth was really strong at 24%. I’m always 
+most interested in our gross profit growth and that was 
+equally pleasing for me, being up 13% despite last year 
+containing a one-off benefit that we knew would not 
+repeat. So, excluding that, in underlying terms growth in 
+gross profit was 16%. Our growth would indicate that once 
+again we have taken further market share in our sector.
+The gross profit growth resulted in 10% adjusted EBIT 
+growth (16% underlying, i.e. excluding the 2016 one-off 
+procurement-related profit benefit), while we continue 
+to invest in new capabilities. That, combined with another 
+year of strong cash generation, resulted in the special 
+dividend we’ve proposed alongside these results.
+But time doesn’t stand still and we are now focused 
+on the opportunity to do it all again in 2018. 
+Did any technology area or business line 
+particularly stand out for you in 2017?
+All our major business lines showed good growth in the 
+year. Our security and services businesses were perhaps 
+the two standout performers, delivering very strong growth.
+Our security business has been one of our key strengths 
+for many years now. We saw strong underlying growth in 
+this area, which was further assisted by purchases related 
+to organisations preparing themselves for General Data 
+Protection Regulation (‘GDPR’) compliance, which will be 
+enforced from 25 May 2018. This is a significant challenge 
+for the majority of our customers and there is a lot more 
+work required in this area, which is therefore a good 
+opportunity for us moving forward. General security risks 
+continue to grow in complexity and frequency and are 
+now a major boardroom priority, highlighted by high profile 
+events like the WannaCry attacks. Softcat was particularly 
+proactive in advising and assisting customers on these 
+types of threats.
+We have invested significantly in our own services 
+capability and we continue to work with a number of third 
+party organisations to complement our internal offering. 
+Particularly in areas such as hybrid cloud migration and 
+mobility, in many cases customers are looking to Softcat 
+to provide a complete solution rather than trying to stitch 
+various technology components together themselves. 
+We completed a large number of projects in these areas 
+using tried and tested expertise and templates.
+OUR COMPANY WORD OF THE YEAR 
+FOR 2018 IS OPPORTUNITY
+Chief Executive’s statement
+I’m delighted by how the 
+Company has performed 
+in 2017, and our momentum 
+into the new financial year 
+is strong.
+Q&A
+with Martin Hellawell
+Chief Executive
+Strategic report
+7 Softcat plc Annual Report and Accounts 2017 Chief Executive’s statement continued 
+Y ou have six branches now; how did they each perform?
+Yes, that’s right; we have branches in Marlow, London, 
+Manchester, Leeds, Glasgow and Bristol but have also 
+recently announced that we intend to open a seventh location 
+on the South Coast in the first half of this new financial year. 
+All existing branches met expectations and achieved 
+positive growth. For me the standout performers were 
+Manchester and London. We very much enjoyed our first 
+full financial year in Scotland and are delighted with the 
+number of new Scottish customers who are trading with 
+Softcat since we became established there.
+What about the markets you serve?
+The SMB and mid-market remains our largest segment 
+and, despite our market leadership position, continues 
+to grow very nicely from a very large base. Our public 
+sector business saw very strong growth again this year 
+and the enterprise segment also outpaced overall Company 
+growth and it’s pleasing to see us tapping into that opportunity. 
+The vast majority of our business is in the UK but we assist 
+an increasing number of our customers with their 
+requirements outside the UK.
+How have you performed against  
+your business model this year?
+In essence, our business model begins by recruiting large 
+numbers of new employees into the organisation to help 
+support and further augment our growth. Most sales 
+people join straight from university or at early stages of 
+their career. This has been supplemented by a successful 
+apprenticeship scheme which has been recognised with 
+a number of awards this year. We take more experienced 
+people into the organisation for other positions, notably 
+in services. Finding the right people to join the Company 
+is never easy and perhaps our biggest challenge as a 
+business, but we had another excellent year of recruiting 
+excellent new talent into the organisation.
+Once in the organisation, we strive to be a great place to 
+work and to fully motivate our employees. While we are 
+well known for this and have received many accolades 
+over the years, we are far from complacent and as the 
+business gets bigger the employee engagement challenge 
+doesn’t become any easier. Last year in our annual employee 
+engagement survey we recorded our highest ever employee 
+net promoter scores and our score for personal morale was 
+exceptionally high, and opportunities for training and 
+development is our most improved area over the last 
+five years.
+If we employ the right people and they are fully engaged 
+with the business, we believe our employees will provide 
+exceptional customer service. We believe this is the key 
+to our success and providing exceptional service is at the 
+very heart of our model. Again, we aren’t perfect and know 
+that while once again our customer satisfaction survey 
+produced outstanding results and our customers continued 
+to increase the amount of business they do with Softcat, 
+we can still get better and we are very much “on it”, which 
+was our Company phrase of the year in 2017 and is the 
+theme of this Annual Report.
+Which accolades and milestones  
+of note have you received this year?
+I was delighted Softcat was named as the overall largest 
+Microsoft licensing partner in the UK and we also received 
+awards from a number of other vendors. These include 
+Partner of the Year awards from HPE, Mimecast, Veeam 
+and others. 
+What is your latest view on  
+cloud and how it is affecting you?
+It is a very consistent view with what we have been saying 
+for the last five years and there are several levels to this. 
+We see an increasing proportion of our software licensing 
+business transition to a cloud-based platform. For example 
+we may previously have sold Microsoft licensing agreements 
+for Office which were installed by customers on their sites. 
+Today, many customers are choosing to consume Office 
+from the cloud with Office 365. 
+13,000
+12,200 customers in FY16
+£10.5k
+£9.9k GP per customer in FY16
+8 Softcat plc Annual Report and Accounts 2017 99%
+customer  
+satisfaction rating
+In terms of customers running their own legacy applications 
+many have come to the conclusion that they should continue 
+running on their own infrastructure, while a preference is 
+often given to consuming new applications from the cloud. 
+This results in the majority of our customers favouring 
+some form of hybrid IT, using some combination of their 
+own infrastructure and the cloud.
+Some customers may effectively outsource the management 
+and possibly ownership of that infrastructure to a third party. 
+This is often known as the private cloud and a small part 
+of Softcat’s business is running private cloud environments 
+for our customers. 
+For reasons of control, security, cost and the difficulty of 
+porting legacy applications to the cloud, customers’ own 
+infrastructure and private cloud infrastructure still has its 
+place. Indeed we have seen several instances of customers 
+moving back from the public cloud to the private cloud 
+environment. Overall, however, we see a continuing trend 
+from customers to transition towards the public cloud for 
+an increasing number of workloads. Softcat has subsequently 
+grown a strong Microsoft Azure business over recent 
+years and is working with a number of customers on the 
+Amazon AWS platform.
+Consequently Softcat sees a growing opportunity to 
+develop our services and support business by helping 
+customers migrate to a hybrid and public cloud 
+environment. We can then work with customers to support 
+and manage those environments. This is effectively an 
+opportunity to augment our already very large subscription 
+licensing business, a part of the business we’ve been well 
+known for throughout our history and received many 
+plaudits for.
+The move to the cloud reduces the hardware opportunity 
+as customers need fewer servers and storage as a result. 
+But this impact shouldn’t be overly exaggerated as these 
+transitions always take longer than anyone predicts and 
+the requirement for computer and storage capacity continue 
+to increase exponentially as data volumes further expand, 
+and with new waves of technology such as artificial 
+intelligence this will further accelerate.
+As a Company which has evolved from the software world, 
+we still have a relatively low market share in the datacentre 
+infrastructure business. By helping customers intelligently 
+migrate to the hybrid cloud world and by taking share from 
+our competition, we believe that we can continue to grow 
+our business in this segment despite the changing market. 
+That’s exactly what we did very successfully in the last 
+financial year. 
+In terms of what you do,  
+what do you want to be famous for?
+We define our business into three broad categories – 
+workplace technology, which is all the standard technology 
+on or around a customer’s desk; networking and security; 
+and cloud and datacentre. All areas are affording us plenty 
+of opportunity and we continue to expand our offering in 
+each. In the workspace area our managed print offering 
+has gained significant traction. Last year we expanded 
+our range of extended support services particularly in 
+the networking area and this has added considerable 
+incremental business and profitability for the Company.
+In particular, we want to be the best in cloud and traditional 
+subscription software. We want to be the go-to security 
+company in the market and the partner of choice for cloud 
+and datacentre. There’s plenty to do but we’re well on 
+our way.
+WE’RE ON IT
+Strong performance from our 
+new offerings such as 
+managed print and contractual 
+support services.
+Strategic report
+9 Softcat plc Annual Report and Accounts 2017 Chief Executive’s statement continued
+And your transition to Chairman? How is that going 
+and when will the new Chief Executive be announced?
+I haven’t started transitioning to the role of Chairman and I 
+am still fully focused and totally committed to being Chief 
+Executive of Softcat until a new Chief Executive is on board 
+and in place. That will take the time it takes and we are not 
+working to any set deadline. That said, the search for the 
+new Chief Executive is progressing. I am delighted with the 
+way the organisation has responded to the proposed change, 
+fully embracing the continuity provided by my transition to 
+the Chairman role and the opportunity to kick on under 
+new leadership. 
+I very much look forward to passing the baton of leading 
+Softcat to my successor and to my continued involvement 
+as Chairman.
+How do you see the opportunity ahead?
+While we have performed well for many years now and have 
+enjoyed 48 quarters of top-line and bottom-line growth, 
+the opportunity ahead of us feels larger than ever. If you 
+just take the list of the top 100 VARs in the UK and put our 
+turnover against the aggregated total, that gives us c.6.5% 
+market share. And there’s a lot more than 100 VARs out 
+there. So that gives us at least 93.5% of the market still to 
+go for. Our sales force strength and the breadth and depth 
+of our capability have never been better and there’s great 
+momentum in the Company. Despite questions around the 
+economy, our exit from the EU and public sector policy, the 
+market for what we do feels quite buoyant. We’re lucky to 
+have a very broad portfolio and our customer-centricity 
+and flexibility allow us to move quickly to the areas in the 
+market where there is most demand, which makes us far 
+less vulnerable to more challenging technology segments.
+The opportunity is there for the taking but we are well 
+aware that only constant hard work, hunger and excellent 
+execution will allow us to take it.
+We can extend that opportunity by considering further 
+geographical expansion both locally and internationally 
+and by considering acquisitions. We will continue, as we 
+always have done, to consider both extremely carefully 
+and cautiously.
+I would like to thank our employees for taking the opportunity 
+last year and for all their tremendous support, commitment, 
+hard work and camaraderie during 2017 and over my last 
+eleven years with Softcat. I would also like to thank our very 
+valued customers, who continue to be a pleasure to work 
+with and who keep pushing us on to ever greater things. 
+And finally I would like to thank our business partners, who 
+continue to give Softcat a tremendous amount of support 
+for which we are extremely grateful.
+And to close, Martin, how has  
+financial year 2018 started for you?
+Our financial year starts on 1 August and as I write this we 
+are approximately ten weeks into the new year. It’s very 
+early days and there is still all to play for but we are where 
+we would like to be at this stage. 
+Martin Hellawell
+Chief Executive
+18 October 2017
+OPPORTUNITY
+10

@@ -1,0 +1,617 @@
+ 25546.04    9 August 2017 3:58 PM    Proof Six
+Highlights
+Financial highlights 
+ z Group revenue grew by 17 per cent to £244.5m (2016: £209.1m) made up of: 
+ — Organic growth of 3 per cent (excluding the impact of FX and acquisitions)
+ — Impact of acquisitions (prior year and current year): £21.1m (all in Assurance)
+ — Impact of changes in foreign exchange rates: £9.8m
+ z In terms of business segments, underlying organic growth can be broken down as follows:
+ — Assurance – UK Security Consulting: 19.4 per cent; US Assurance: 13.9 per cent
+ — Assurance – Software Testing and Web Performance: down 1 1.3 per cent
+ — Escrow: 0.3 per cent rise
+ z Adjusted
+1
+ EBIT: £27 .5m (2016: £39.7m)
+ z Operating loss: £53.4m (2016: £1 1.4m profit)
+ — Assurance Adjusted EBIT down to £16.6m (2016: £25.8m) 
+ — Escrow Adjusted EBIT down to £19.1m (2016: £20.1m)
+ — Head office costs increased to £8.2m (2016: £5.7m)
+ z Individually significant charges of £71.0m, including intangible asset write downs of £62.0m
+ z Adjusted EBITDA: £36.2m (2016: £45.0m)
+ z Adjusted basic earnings per share: 6.7p (2016: 1 1.8p)
+ z Total dividend maintained at 4.65p per share with final dividend of 3.15p per share
+ z Net debt reduced to £43.7m from half-year level of £48.8m
+Strategic and operational highlights 
+ z Strategic Review of the Group, its portfolio, market and competitive position completed (see pages 18 to 23)
+ z Strategic Plan created, based on output from the Strategic Review
+ z Work ongoing on Target Operating Model designed to improve organisational clarity and efficiency as well as margin 
+improvement (see pages 19 and 23)
+ z Significant changes to the Board and Executive management team
+ z Acquisitions completed of two small bolt-on businesses in the US to enhance the product offering of our existing Assurance 
+businesses and expand our US footprint.
+Outlook for 2017/18
+ z Implement new Target Operating Model to drive more effective “Go to market” strategies and operational efficiencies.
+ z Leverage high value products and services from acquisitions through the NCC Group global footprint and sales channels by 
+lowering internal barriers to Group-wide co-operation.
+ z Short-term focus on internal self-help measures and efficiencies in a buoyant market will deliver margin growth
+1 
+This is a non-GAAP or Alternative Performance Measure (APM). Adjusted figures exclude the amortisation of acquired intangibles, 
+individually significant items, share-based charges, the unwinding of discount on deferred and contingent consideration, the results of 
+the exited Domain Services business and any associated tax thereon. 
+NCC Group plc Annual Report and Accounts for the year ended 31 May 2017
+17
+NCC AR2017 - proof 8-Front.indd   17 09/08/2017   16:04:08 25546.04    9 August 2017 3:58 PM    Proof Six
+The strategic review  
+and target operating model
+The Group began a Strategic Review 
+in February 2017 . The objectives of the 
+review fell into three broad categories:
+ z Assessing our marketplace and 
+customers’ buying preferences and 
+criteria
+ z Customer and market views of NCC 
+Group and our capabilities, strengths 
+and weaknesses
+ z Assessing the commercial and 
+portfolio logic of the current business 
+lines within the Group
+As findings began to emerge from the 
+initial scope of work in the Strategic 
+Review, we began a parallel work stream 
+to consider: 
+ z Assessing how we currently organise 
+ourselves to address and capture 
+the opportunities presented in 
+our markets by best leveraging 
+our strengths and unique selling 
+propositions
+Key findings from the 
+Strategic Review
+The key findings from the Strategic 
+Review are set out in more detail in the 
+later sections of this report but can be 
+summarised as follows:
+Marketplace: Our markets continue to 
+grow strongly at or around a double-digit 
+rate. Companies’ buying decisions are 
+more about technical expertise and value 
+for money than a simple price basis. See 
+page 21 for more detail.
+Our customers: NCC Group scores 
+well on the issues that matter to 
+customers: technical expertise, value for 
+money and speed of delivery. The quality 
+of customer service does appear to be 
+an issue for the industry generally and 
+NCC Group is similar in this regard. Our 
+customers want to buy more from us 
+and value our brand and reputation for 
+excellence. See page 21 for more detail.
+Our portfolio: The two divisions 
+of Assurance and Escrow see little 
+crossover in customer purchasing. 
+However, Escrow is a robust stabilising 
+influence on the Group. Within 
+Assurance, we have identified two 
+service lines that would have a better 
+opportunity to flourish under alternative 
+ownership and these will be sold in due 
+course. See pages 8 and 29 for more 
+detail.
+As we digested the emerging outputs 
+from the Strategic Review it became 
+clear that to reach our full potential we 
+would need to reorganise how we go 
+to market and how we do business (in 
+terms of our internal processes and 
+structures). We have therefore started 
+work on developing and implementing a 
+new Target Operating Model (TOM), as 
+further described on page 19. 
+18
+www.nccgroup.trust      Stock Code: NCC
+STRATEGIC REPORT
+NCC AR2017 - proof 8-Front.indd   18 09/08/2017   16:04:11 25546.04    9 August 2017 3:58 PM    Proof Six
+Sales & Marketing
+Consulting  
+including  
+RMG  
+TSC   
+IR / CDO
+Threat Intelligence
+MD 
+ NORTH 
+AMERICA
+Sales & Marketing
+Consulting  
+including  
+RMG  
+TSC   
+IR / CDO
+MD  
+UK (& ROW)
+Sales & Marketing
+Consulting  
+including  
+RMG  
+TSC   
+IR / CDO
+MD  
+NETHERLANDS
+Sales & Marketing
+UK Sales
+US Sales
+Europe 
+Sales
+Consulting  
+including  
+RMG  
+TSC   
+IR / CDO
+MD  
+DENMARK
+CONSULTING MANAGED SERVICE PRODUCT
+ESCROW
+Software 
+verification
+Escrow 
+contracts 
+(legal)
+CEO
+ASSURANCE
+HEAD OF 
+ESCROW
+Operations Sales
+Research and Thought Leadership
+Finance
+Internal IT
+CHRO HR
+HEAD OF 
+ASSURANCE 
+DELIVERY
+CISO
+CFO
+Legal
+Products Products Products Products
+CTO
+Threat Intelligence Threat Intelligence Threat Intelligence
+Managed Security 
+Services
+Managed Security 
+Services
+Managed Security 
+Services
+Managed Security 
+Services
+KEY:
+Management Sales & Marketing Consulting Managed Service Product Central Service Escrow Not currently offered
+Target Operating Model
+NCC Group plc Annual Report and Accounts for the year ended 31 May 2017
+19
+NCC AR2017 - proof 8-Front.indd   19 09/08/2017   16:04:11 25546.04    9 August 2017 3:58 PM    Proof Six
+The market 
+opportunity
+Introduction
+Fundamentally, NCC Group is operating 
+in a dynamic and fast growing market. 
+Or rather, a series of related but 
+separate fast growing markets. These 
+statements apply whether one considers 
+the marketplace from a product and 
+service perspective, from a geographical 
+perspective, or from an industry vertical 
+perspective. Change is literally the one 
+constant in almost all aspects of the 
+market.
+Today, cyber crime is one of the 
+single biggest threats to businesses 
+and individuals around the world. 
+The average cost to recover from a 
+DDoS attack is £275,000 and more 
+than 90 per cent of businesses have 
+experienced some form of cyber security 
+threat. On average, it takes almost 
+120 days for an organisation to find out 
+that it has been compromised.
+Furthermore, from our own research 
+into the safety of the Internet, almost 
+two-thirds of consumers believe an 
+online data breach will compromise their 
+financial information within the next 
+year. The fact that some 60 per cent of 
+consumers are more worried than ever 
+before about protecting their personal 
+and financial information online should 
+certainly confirm the threat as one of the 
+greatest to face businesses today.
+Online security still seems to be behind 
+the curve in failing to keep pace with 
+the numerous types of organisations 
+and individuals that seek to disrupt 
+the Internet and organisations’ use of 
+systems and data. The threat of being 
+hacked or having valuable data stolen 
+continues to evolve rapidly and at a 
+seemingly unstoppable pace. Attacks 
+using phishing, fake payment requests 
+and ransomware are now everyday 
+events. These attacks often cause 
+significant operational disruption whose 
+economic consequences can vastly 
+outweigh any cost of remediation or 
+prevention. Our challenge is to ensure 
+that customers understand that a 
+relatively modest up front investment 
+in advice or other cyber services can 
+ultimately save significant sums in 
+remediation costs or arising from 
+reputational damage.
+The world in which we live cannot be 
+made completely safe from cybercrime. 
+As the number and range of threats 
+proliferate, being innovative and using 
+our experience and skills to protect 
+against attacks becomes more important 
+than ever. NCC Group is doing this by 
+providing the best security consultants 
+to world leading clients as well as 
+conducting world-renowned security 
+research. 
+SIZE $BN
+*
+MARKET SEGMENT NCC GROUP OFFERING
+Operational
+Fully Outsourced IT Security
+Managed Security Services
+Advisory, Governance & Assessment
+Forensic & Legal Response SECURITY TESTING
+PROCESS & GOVERNANCE
+MONITORING
+NCC GROUP PROVIDES LIMITED 
+SERVICES IN THIS SEGMENT
+THREAT INTELLIGENCE
+SECURITY TESTING 10.0
+4.0
+6.0
+11.0
+7.0
+*OC&C estimated
+20
+www.nccgroup.trust      Stock Code: NCC
+STRATEGIC REPORT
+Market dynamics
+The relevant sub-segments that NCC Group’s core cyber offering competes in are shown below:
+NCC AR2017 - proof 8-Front.indd   20 09/08/2017   16:04:20 25546.04    9 August 2017 3:58 PM    Proof Six
+The addressable market is clearly very large at $38 bn 
+in total and very fragmented. Management estimate that 
+NCC Group is one of the largest “pure play” cyber security 
+companies focusing on services as opposed to products 
+but yet has relatively low market shares in most segments 
+and geographies. Once we have developed robust and 
+scalable internal structures and processes, this will 
+represent a significant opportunity to grow the business 
+profitably though bolt-on acquisitions.
+Market research as part of the Strategic Review also 
+confirmed that market growth is likely to continue and that 
+customers’ propensity to pay more for high quality advice 
+and solutions is growing.
+Customers buying behaviours and key 
+purchasing criteria (KPCs)
+Customers made clear that their key buying criteria focus more 
+on quality of technical expertise and advice as opposed to 
+price. While value for money (effectively a ratio or a comparison 
+of quality and cost) is very important, that reflects more on the 
+demand for quality than low cost.
+This is highlighted in the chart below that shows the relative 
+importance of customers’ Key Purchasing Criteria (i.e the 
+factors that influence their buying decisions). 
+Interestingly, customers did not place as high a value on the 
+ability to source internationally. Even in those customers who 
+did buy in multiple territories.
+In summary, on the items that matter most to customers in 
+their buying decisions, NCC Group scores well or very well 
+with the exception of customer service, which appears to be an 
+industry-wide issue.
+Technical 
+Expertise
+Consistently noted as having top-tier 
+technical talent, Fox-IT seen as most 
+technically advanced player in NL.
+UK and US customers often feel 
+NCC Group too transactional. Fox-
+IT customers value their trusted 
+partnership.
+NCC Group and Fox-IT generally 
+perceived as good value. Customers 
+very willing to pay more for quality.
+Seen as “mid-sized”, competing with 
+boutique pure-plays, NCC Group 
+advantages include wider capabilities 
+and flexibility.
+Well known by security professionals  
+in the UK and US. Fox-IT highly regarded 
+in NL (Dutch government work).
+Seen to be expensive but price rarely 
+the deciding factor. NCC Group rated 
+highly as good “value for money”.
+Customer 
+Service
+Value for 
+Money
+Speed of 
+Delivery
+Brand / 
+Reputation
+Low  
+Price
+UK
+9.5%
+USA
+12.1%
+Rest of 
+World
+8.5%
+NL
+7.4%
+Estimated CAGR 2016-20
+INCREASING IMPORTANCE
+NCC Group plc Annual Report and Accounts for the year ended 31 May 2017
+21
+NCC AR2017 - proof 8-Front.indd   21 09/08/2017   16:04:28 KEY: Bubble size indicates NCC FY17 revenue
+ESCROW
+PRODUCTS
+Commoditised products with low 
+levels of recurring revenue
+PROCESS & 
+GOVERNANCE
+INCIDENT RESPONSE
+HIGH ASSURANCE
+MONITORING
+Premium products with 
+recurring revenues
+THREAT 
+INTELLIGENCE
+FREQUENCY OF PURCHASE
+LEVEL OF DIFFERENTIATION
+One-off
+Standardised Differentiated
+Ongoing
+SECURITY TESTING
+25546.04    9 August 2017 3:58 PM    Proof Six
+The market 
+opportunity
+Our competitive position
+We must continue to drive innovation and thought leadership 
+in our key market segments. The key is to ensure that our 
+thought leadership also leads to practical new solutions to 
+apply to the challenges and issues that our customers face. We 
+must find the right balance of “blue sky” thinking and ideas that 
+can be rapidly commercialised.
+Innovation and creativity are two key foundations for the 
+Group’s continued development and growth. Our new Target 
+Operating Model is designed to ensure that these remain a 
+core feature of the business. The recent and well publicised 
+cyber attacks on a wide range of public and private enterprises 
+around the world are a reminder of the need to constantly 
+innovate.
+The graphic below shows the current range and scale of the 
+services and products offered by NCC Group in the cyber 
+security market. Our aim is to shift more of our business to the 
+right and upwards; that is, more repeat business of a highly 
+differentiated nature.
+During the Strategic Review we assessed the Group’s “Net 
+Promotor Score” (NPS). This metric is widely used across a 
+range of industries where customer satisfaction is a critical 
+performance indicator. What NPS measures, quite simply, is 
+whether or not a customer, on the basis of its experiences with 
+a service provider, would recommend that service provider to 
+another organisation. The measurement scale in NPS is itself 
+a challenge – a positive score is counted if it rates a nine or 
+ten out of ten. Conversely, a negative score is recorded for any 
+outcome ranging from zero to six. What this means is that if a 
+company received 100 scores of its service, with 10 ratings in 
+each category, its NPS score would be negative 40.
+The results of the NPS survey found NCC Group with a score 
+of “positive 26”. As noted above in the explanation of the 
+methodology, achieving any sort of positive score is difficult 
+and a positive score of 26 means the significant majority of 
+ratings by customers had to be above six out of ten and with a 
+high proportion of those scoring the top two marks.
+What the survey did show was that NCC Group scored better 
+than many of its direct competitors in the Big Four or in the 
+pure play cyber services companies. The business only rated 
+less strongly compared to large Systems Integrators, defence 
+contractors or product-based cyber companies. It is clear, when 
+combined with direct interview feedback from customers, that 
+NCC Group is well regarded for our technical expertise and 
+its ability to help its customers overcome their cyber security 
+challenges.
+22
+www.nccgroup.trust      Stock Code: NCC
+STRATEGIC REPORT
+NCC AR2017 - proof 8-Front.indd   22 09/08/2017   16:04:30 KEY: Bubble size indicates NCC FY17 revenue
+ESCROW
+PRODUCTS
+Commoditised products with low 
+levels of recurring revenue
+PROCESS & 
+GOVERNANCE
+INCIDENT RESPONSE
+HIGH ASSURANCE
+MONITORING
+Premium products with 
+recurring revenues
+THREAT 
+INTELLIGENCE
+FREQUENCY OF PURCHASE
+LEVEL OF DIFFERENTIATION
+One-off
+Standardised Differentiated
+Ongoing
+SECURITY TESTING
+25546.04    9 August 2017 3:58 PM    Proof Six
+Target Operating Model 
+(TOM)
+Our current organisational structures 
+and operating model have reached 
+the limits of their design tolerances. In 
+many cases the overlay of our business 
+processes on those organisational 
+design features creates a “spaghetti 
+wiring diagram” that is complex, 
+delivers unclear accountabilities and 
+is undoubtedly inefficient at delivering 
+business processes and services to 
+customers. The recent addition of 
+some relatively large acquisitions has 
+emphasised further the need for a clear 
+and transparent operating model that 
+delivers a number of key objectives, the 
+principal ones being as set out below.
+TOM OBJECTIVE 1: Align the 
+business to how our customers want 
+to buy
+The Strategic Review revealed that even 
+our global customers tend to want to 
+buy local services for delivery in country. 
+This is true even for customers who have 
+a central technology input to sourcing 
+decisions. This finding drives the 
+conclusion of a TOM that has a primary 
+dimension of geographical business 
+units and P&L accountability.
+TOM OBJECTIVE 2: Leverage NCC 
+Group value between business units
+The business has historically operated 
+within silos. This has been the case even 
+inside individual business units where 
+our structures have not encouraged 
+service or product line leaders to cross 
+sell or provide fully integrated solutions 
+to our customers. Our historical Go-
+To-Market model was identified by 
+customers as being too transactional in 
+many cases. While initiatives to address 
+this issue began during the year, the old 
+operating model barriers to collaboration 
+were not removed. 
+Our customers value our technical 
+expertise and the wide range of services 
+that we offer. Therefore, in order to 
+leverage value across the geographies 
+and service lines, we concluded that a 
+matrix structure would be appropriate 
+for the TOM. Therefore, the secondary 
+dimension of the TOM is based around 
+key service and product lines with key 
+leadership and accountability roles 
+identified within each to ensure sharing 
+of best practice. To avoid unnecessary 
+cost increases or duplication of roles, 
+there will be some “double-hatting” in 
+smaller businesses as they grow.
+TOM OBJECTIVE 3: Deliver an 
+integrated Go-To-Market proposition
+Our customers value our expertise 
+and range of services. They would like 
+to buy more from us. But our current 
+Go-To-Market approach can make 
+this difficult. The challenges flow from 
+disparate accountabilities and targets 
+for different teams within the business 
+units. We are therefore creating aligned 
+sales and delivery teams with single 
+leaders within each geography. Critically, 
+sales leadership for strategic accounts, 
+transactional sales activities, inside 
+sales, bid preparation and management, 
+and supporting marketing activities will 
+report to one person in each territory. 
+This will allow us to join up our offerings 
+at a more strategic purchasing level 
+within customers while also ensuring 
+that our current successful transactional 
+sales generation machine continues to 
+perform.
+TOM OBJECTIVE 4: Create 
+scalable structures that facilitate 
+profitable growth
+Our historical ways of working and focus 
+on certain services and products prevent 
+benefits of scale from being realised. 
+Selling more of a particular service 
+would lead to an equal and proportionate 
+increase in our costs and hence no 
+positive operational leverage to drive 
+improving margins.
+Our staff management and work 
+allocation processes have been less 
+efficient than we would like. This has led 
+to under-selling of key technical skills 
+in that they are used on activities that 
+attract a lower day rate than they should. 
+As well as more accurate matching of 
+our staff skills to the value of the work 
+being performed for customers, we also 
+intend to increase our focus on platform-
+based sales such as monitoring services 
+and after sales value added services. In 
+particular, these will be driven from our 
+Security Operations Centres in Delft 
+(Fox) and Leeds (MSS) and will include 
+services such as Threat Intelligence, 
+DetACT, Managed Security Services, and 
+our CTMp platform.
+TOM OBJECTIVE 5: Design and 
+implement effective and efficient 
+business processes that support 
+operating leverage
+Over the last few years our support costs 
+have been rising steadily, creating a 
+further erosion of operating leverage or 
+in some cases even leading to negative 
+operating leverage. This reflects the 
+fact that in many cases our business 
+processes and systems have not been 
+upgraded to keep pace with the size 
+and complexity of the Group. The Group 
+has been slow in rolling out its preferred 
+core systems and this has caused undue 
+delays, cost increases and inefficiency in 
+how we work. These issues extend from 
+finance and reporting systems to CRM 
+systems to work and staff planning and 
+management processes and beyond.
+A key part of implementing the TOM 
+is to embed effective and efficient 
+business processes and systems within 
+it. Over the next two years we will 
+therefore be focusing on designing and 
+implementing standardised business 
+processes and making sure that they, 
+and the underpinning systems, are rolled 
+out across all of our business units. 
+These systems and processes will often 
+be designed and monitored centrally to 
+ensure shared disciplines and effective 
+control of the business.
+Underpinning all of the objectives for 
+the TOM will be a series of direct and 
+specific key performance indicators 
+and other metrics that drive the desired 
+behaviours and outcomes. For example, 
+we will be focusing on realisation for 
+our consultants’ time as opposed to 
+the more simple but less informative 
+utilisation measure. Realisation will focus 
+on a combination of hours worked but 
+also, critically, on the amount of work 
+that is actually billed and the rate at 
+which it is billed. These are currently 
+areas where we believe there is value 
+leakage from the Group and plugging 
+these leaks will help to generate 
+improved margins in future.
+NCC Group plc Annual Report and Accounts for the year ended 31 May 2017
+23
+NCC AR2017 - proof 8-Front.indd   23 09/08/2017   16:04:30

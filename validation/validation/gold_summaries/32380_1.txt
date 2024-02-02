@@ -1,0 +1,386 @@
+ Spread bet
+The Group’s spread betting product is offered exclusively in the 
+UK and Ireland as profits from spread betting are currently free 
+from capital gains tax and stamp duty in these jurisdictions. 
+Spread betting provides similar economic benefits to those 
+experienced when investing in an underlying asset, but without 
+the costs and limitations associated with physical ownership. 
+With a spread bet a client bets a specific stake size per point 
+movement of an instrument, rather than trading a specific 
+number of shares or units. Our spread betting instruments 
+allow a client to take long or short positions. As spread betting 
+is a leveraged product, losses can exceed deposits. 
+Example 
+If a client feels that the price of a particular instrument is likely 
+to fall, they can place a sell bet or ‘go short’ . Conversely, if they 
+believed that the price will go up, they can place a buy bet, or ‘go 
+long’ . If the market moved in the direction they predicted, they 
+make a profit. If the market moves in the opposite direction to 
+what they predicted, they make a loss. 
+When you spread bet, you buy or sell an amount per point 
+movement, such as £5 per point, which is known as your ‘stake’ . 
+For every point the instrument’s price moves in your favour, you 
+gain a multiple of your stake. For every point the price moves 
+against you, you lose a multiple of your stake.
+CFD
+A CFD is a cash-settled investment based on currencies, 
+commodities, treasuries, indices and shares, providing economic 
+benefits similar to an investment in an underlying asset without 
+certain costs and limitations associated with physical ownership. 
+A CFD is a leveraged product which has the potential to magnify 
+profits as well as losses. In the UK, CFD trades currently do not 
+incur stamp duty tax charges, in contrast to trades in traditional 
+financial investments, such as equity securities. Our clients can 
+trade in fractions of units per CFD, and we charge commission 
+on CFD trades for equity shares while there is a spread charge 
+for all other asset classes. Our CFD instruments allow a client to 
+take long or short positions. As a CFD is a leveraged product, the 
+Group requires varying levels of margin to be posted in respect 
+of the full value of a client’s position. Margins vary depending 
+on a client’s position and the type of instrument in which the 
+client invests.
+Example 
+If a client believes that the price of a particular instrument 
+is likely to fall, they could place a sell trade or ‘go short’ . 
+Conversely, if they think the price will rise, they could place a buy 
+trade or ’go long’ . If the market moved in the direction they 
+predicted, they would make a profit. If the market moved in the 
+opposite direction, they would make a loss. When you trade 
+CFDs, you buy or sell a number of units. For every point the 
+price of the instrument moves in your favour, you gain based on 
+the number of units you have bought or sold. For every point the 
+price moves against you, you make a loss.
+Our products
+*There are no separate commissions to pay on spread bets on company shares. This cost is built into our slightly wider spread.
+**Mid-price 
+The mid-price is 200.5, the mid-point between the buy and sell price.
+^Holding cost calculation
+Stake x opening trade price  x buy financing rate / 365  (10 x 201.50 x 3) / 365  16.5p per day  5 days  £0.82
+Breakdown
+Trade: 
+219.5 - 201.5 = 18pts
+x £10 per point = £180
+Holding costs for 5 days: 
+16.5p per day = -£0.82
+^
+Total proﬁt = £179.18
+Winning trade
+Losing trade
+Trade: 
+181.5 - 201.5 = -20pts
+x £10 per point = -£200
+Holding costs for 5 days: 
+16.5p per day = -£0.82
+^
+    
+Total loss = -£200.82
+Breakdown
+181.5    /    183.5
+Assuming the market 
+went down, you sell £10 
+per point at 181.5
+to exit the trade
+BUY SELL
+20 June
+Underlying market price
+( 182 / 183 ) 
+Spread bet spread
+*
+219.5   /   221.5
+Assuming the market 
+went up, you sell £10 per 
+point at 219.5 
+to exit the trade
+BUY SELL
+20 June
+Underlying market price
+( 220    /    221) 
+Spread bet spread
+*
+Underlying market price
+( 200    /    201 ) 
+Spread bet spread
+*
+199.5      /      201.5
+ABC corporation
+15 June
+5% of trade value. 
+10 x 200.50** x 0.05 =  £100.25
+Margin
+BUY SELL
+You hold the position 
+open for 5 days
+You think the price will rise so you 
+place a buy trade for £10 per point
+The spread bet
+* Mid-price  
+The mid-price is 200.5, the mid-point between the buy and sell price
+** Holding cost calculation  
+No. of units x opening trade price  x buy holding rate / 365  (2,500 x £2.01 x 3) / 365  41.3p per day  5 days  £2.07
+ T otal profit  
+Profit gross of potential capital gains tax
+15 June
+200    /    201
+You think the price will rise so 
+you buy 2500 CFDs
+ABC corporation
+5% of trade value. 
+2500 x 200.5* x 0.05 =   £250.63
+Margin
+0.1% to enter trade.  
+2500 x 201 x 0.1% = -£5.03
+Open commission
+Breakdown
+Trade: 
+220 - 201 = 19p
+x 2500= £475
+Commission (open + close)
+£5.03 + £5.50 = -£10.53
+Holding costs for 5 days at 
+41.3p per day = -£2.07**
+Total proﬁt of £462.40***
+BUY SELL
+20 June
+220   /   221
+Assuming the market 
+went up, you sell 2500 
+CFDs at the price of 220 
+to exit the trade
+Close commission (0.1%)
+2500 x 220 x 0.1% 
+= -£5.50
+Winning trade
+BUY SELL
+You hold the position 
+open for 5 days
+Spread = 1
+20 June
+182   /   183
+Assuming the market 
+went down, you sell 
+2500 CFDs at the price 
+of 182 to exit the trade
+Close commission (0.1%)
+2500 x 182 x 0.1% 
+=  -£4.55
+Losing trade
+BUY SELL
+Trade: 
+182 - 201 = -19p
+x 2500= -£475
+Commission (open + close)
+£5.03 + £4.55 = -£9.58
+Holding costs for 5 days at 
+41.3p per day = -£2.07**
+Total loss of -£486.65
+Breakdown
+The CFD trade
+16 17
+CMC Markets plc Annual Report 2017 Strategic report Strategic report Will the settlement price be ‘Above’ or 
+‘Below’ the Countdown price at the end 
+of the Countdown expiry?*
+Gold
+Countdown price at 11:30:25
+10 minute expiry
+1,200
+Settlement price ﬁnishes 
+above the Countdown 
+price at the end 
+of the expiry.
+ 
+Payout = (£20 x 80%) + 
+£20 stake
+Payout = £36
+Winning trade
+Current settlement price
+Losing trade
+11:40:25
+Countdown expiry
+1,200
+PAYOUT 80%
+You think the settlement price will 
+ﬁnish higher than the Countdown price 
+so you place an ‘Above’
+^
+ trade 
+for £20 (your stake)
+Settlement price ﬁnishes 
+below the Countdown 
+price at the end 
+of the expiry
+ 
+Loss = £20 stake
+Stockbroking (Australia only)
+CMC Markets offers Australian clients the opportunity to trade Australian shares on the ASX and SSX. Clients can choose from a wide 
+variety of investment instruments, including shares, managed funds, warrants and ETFs. The Group offers two stockbroking platforms: 
+the Standard platform, which provides everyday self-directed investors with advanced tools and research; and the Pro platform, which 
+gives frequent traders integrated access to institutional-like trading tools and professional charting.
+Binaries and Countdowns
+Countdowns is a limited risk product that enables clients to 
+place trades over a range of short-term timeframes. The client 
+decides the timeframe starting from time of trade as opposed 
+to selecting a pre-determined expiry time. Countdowns has 
+been rolled out internationally to the majority of markets where 
+the Group has an office and has proven popular with both new 
+and existing clients.
+The Group also offers binaries in the majority of its 
+international markets. With binaries, the client’s risk and 
+potential profit are determined at the point of trade entry. 
+Clients are offered the opportunity to place a trade depending 
+on whether they believe a particular market’s price will be 
+above or below a certain level at a specific time in the future. If 
+their trade is “in the money” at the end of the specified 
+timeframe, they will be credited with the amount agreed at the 
+point of trade entry; if they are “out of the money” they will 
+forfeit their stake. Clients also have the opportunity to close a 
+binary trade prior to the time of expiry as the odds of the 
+instrument being above or below a pre-determined level 
+change when the price in the underlying market changes. The 
+Group offers four types of binaries: Ladder, One T ouch, Up/
+Down and Range across 22 instruments including certain 
+indices, commodities and FX pairs.
+*  Binary prices are always quoted between 0 & 100. If the price is closer to 100 then we are pricing the event as more likely to occur, while if the price is closer to 0 
+then we are pricing the event as less likely to occur.
+  If you believe the binary event will not occur you can sell the binary. In the example above you would sell the binary at 18.5 and if the event does not happen your 
+profit is equal to (18.5 – 0) x £5  £92.50. If the event did occur then your loss is equal to (18.5 – 100) x £5  -£407.50.
+**  Binary positions may be closed partially or fully prior to the binary expiry except for during the ‘Pre-Close’ period which may be different for each product and expiry.
+Will the settlement price be at or above 
+a speciﬁed strike price at the end of 
+the binary expiry
+Gold
+Strike price
+18.5
+^
+Current binary price* for this strike
+1,200
+If a binary event occurs 
+the price settles at 100.
+ 
+The settlement price at 
+11:40:00 is 1,240, 
+therefore the binary 
+ﬁnished above the strike 
+price and settles at 100
+ 
+Proﬁt = (100 – 27.4) x £5
+= £363
+Winning trade
+Current settlement price
+Losing trade
+11:40:00
+Binary expiry**
+1,209
+BUY SELL
+27.4
+You think the event will occur so you 
+place a buy trade for £5 at 27.4
+If a binary event does 
+not occur the price 
+settles at 0.
+ 
+The settlement price at 
+11:40:00 is 1,201, 
+therefore the binary 
+ﬁnished below the strike 
+price and settles at 0
+ 
+Loss = (0 – 27.4) x £5
+= -£137
+ 
+* If the Countdowns price finishes equal with the settlement price at the end of the expiry, the trade will end in a draw and a percentage of your stake is returned. The 
+percentage of your stake returned will differ depending on the product traded and expiry.
+ If you believe the settlement price will finish below the Countdowns price at the end of the expiry then you can choose to place a ‘Below’ trade. If the price finished below at 
+expiry then you would receive a payout of £36 ((£20 x 80%) + £20 initial stake). If it finished above then your loss would be limited to your stake size of £20. 
+The Binary ‘Ladder’ trade
+The Countdowns trade
+18 19
+CMC Markets plc Annual Report 2017 Strategic report Strategic report Our geographical reach
+CMC Markets has operations in 15 offices across many of the world’s 
+leading financial centres. The Group operates a hub and spoke model, 
+with London being the Group headquarters and the primary hub to 
+support European operations, and Sydney being a secondary hub to 
+support the Asia-Pacific and Canada regions. This approach enables the 
+Group to achieve the optimum balance between operational gearing 
+and efficiency.
+London Frankfurt
+Paris Shanghai
+Madrid Singapore
+Milan Beijing
+Oslo Sydney
+Stockholm Auckland
+Warsaw
+Vienna
+Toronto
+21
+20 21
+Annual Report 2017 Strategic report Strategic report CMC Markets plc Dedicated support 
+to help you navigate 
+the markets
+Explore your trading potential  
+with a range of resources to  
+suit all levels of experience 
+Access platform guides and trading videos, live webinars and 
+seminars, plus a dedicated Client Services team that’s available 
+whenever the markets are open.
+Switch today at cmcmarkets.co.uk
+Spread betting | CFDs | FX | Binaries
+Spread betting and CFD trading can 
+result in losses that exceed your 
+deposits. All trading involves risk.
+to help you navigate 
+the markets
+Explore your trading potential  
+with a range of resources to  with a range of resources to  
+to help you navigate 
+the markets
+Explore your trading potential  
+with a range of resources to  
+Prisad
+plattform
+Framröstad till ”Bästa Handelsplattform” 
+vid 2016 års Shares Awards
+“Vi är mycket hedrade över att Shares Magazines läsare 
+har röstat fram oss som vinnare.” 
+– Joakim Sandblom, chef för CMC Markets Sverige.
+Under de senaste dagarna har vi tilldelats en mängd ﬁna utmärkelser  
+där Financial Times läsare har röstat fram oss till ”Bästa CFD-aktör”  
+och analysföretaget Investment Trends resultat visar att vi har ”Högst 
+kundnöjdhet*” och den bästa ﬁnans-appen. 
+Välkommen att testa själv på cmcmarkets.se
+Investera i aktier, index, råvaror och valutor via CFD-kontrakt. 
+*En rapport från oberoende Investment Trends 2016 
+UK 2016 om hävstångsprodukter. Det ﬁnns en risk att 
+förluster överstiger insättningar.
+Take a position on the US 30 with  
+our Next Generation platform
+President-elect Donald Trump is already commenting on the decisions of 
+major companies through Twitter. What effect will his unique leadership 
+style have on his ﬁrst 100 days in ofﬁce? Whichever direction the markets 
+move, you can trade the US 30 and take advantage of any volatility.
+Switch today at cmcmarkets.co.uk
+Spread betting | CFDs | FX | Binaries
+Spread betting and CFD trading can result in losses 
+that exceed your deposits. All trading involves risk.
+Unpresidented 
+volatility ?
+Die von CMC angebotenen Knock-Outs sind eine Form von CFDs. Diese ermöglichen Ihnen eine 
+überproportionale Partizipation an der Kursentwicklung bei einem geringeren Kapitaleinsatz, abhängig von dem 
+von Ihnen gewählten Strike-Kurs. Sie riskieren den mit uns investierten Betrag zu verlieren. CFD Knock-Outs 
+eignen sich nicht für alle Investoren. Stellen Sie daher bitte sicher, dass Sie die damit verbundenen Risiken 
+verstehen und investieren Sie nur Kapital, dessen Verlust Sie sich leisten können.
+Wie überwinde 
+ich den Zertiﬁkate-
+Dschungel?
+Treffen Sie bessere Entscheidungen 
+mit Knock-Out-CFDs. 
+Im Bereich der Zertiﬁkate und Hebelprodukte 
+gibt es weltweit Millionen Produkte. Bei uns 
+können Sie sich Ihr gewünschtes Knock-Out 
+einfach selbst erstellen. Mit ﬂexiblem Hebel 
+und das zu weltweit wettbewerbsfähigen 
+Preisen. Entdecken Sie die neue Generation 
+von Knock-Outs!
+Die
+bessere
+Entscheidung
+Wechseln Sie zu cmcmarkets.de

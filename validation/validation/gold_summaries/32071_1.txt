@@ -1,0 +1,211 @@
+ Chief Executive’ s Review
+We continue to roll out our model, which is designed to address  
+fundamental market drivers and to be resilient in the face of  
+current regulatory uncertainty.
+HIGHLIGHTS
+The last year saw the achievement of two related 
+milestones for Plutus Powergen. Our first site 
+- Attune Energy in Plymouth – came online in 
+November 2016 and, as a result of meeting the three 
+Triad periods, the site was profitable over the small 
+number of hours it generated. Secondly, as a result 
+of securing access to planning for the Rockpool 
+sites, the Company was pleased to be able to 
+report achieving our maiden trading profit before 
+development site write offs at the year end.
+We have made good progress with the installation 
+of power generation projects, and will have 6 
+operational facilities representing 120MW of capacity 
+by the end of 2017. We have the remaining three 
+Rockpool sites with planning and anticipate having 
+these built in time for next winter. 
+Further sites will be based on gas powered engines 
+(see Strategy, below). We have submitted planning 
+applications for 80MW of gas capacity, and have a 
+total pipeline of gas, (mains and LNG), and battery 
+sites of 700MW.
+In last December’s capacity auction, we were 
+awarded Capacity Mechanism contracts for three 
+20MW sites and have entered a further eight sites 
+for the next auction in February 2018.
+MARKET CONTEXT
+There remains regulatory uncertainty in the market. 
+In March 2017, Ofgem published a ‘minded to’ 
+decision, which it confirmed recently. From the 
+winter of 2020/21, this would reduce the embedded 
+benefits received by distribution connected 
+generators such as PPG to the residual charge. 
+While this change settles down, there is concern 
+among industry participants that price volatility will 
+increase, which in turn will lead to higher energy 
+prices. Additionally, third party analysis indicates  
+that generators generating for the Triad market  
+have acted to depress volatility over the winter –  
+or peak demand – months. The effect of increased 
+volatility over the winter months, when demand is 
+high, increases the risk that energy prices will spike.  
+While there is a price cap of £1,500/MWh, there are 
+plans in place for this to be raised to £3,000 initially 
+and then to £6,000 per MWh. This cost must either 
+be absorbed by suppliers or passed on to  
+the consumer, but we may be able to benefit  
+from such spikes.
+Despite Ofgem’s decision, our returns are still 
+anticipated to be at or above our base case 
+projections. Any loss of Triad income is expected to 
+be offset by firmer prices in the balancing markets 
+as National Grid seeks to physically balance the grid 
+and the market for flexible power as suppliers seek 
+to balance their retail power books and mitigate 
+energy price volatility.
+The outcome of DEFRA’s consultation on lower 
+emissions limits was delayed by the general election 
+until just recently, but we are confident of being able 
+to comply with the proposed new rules without any 
+material impact on investor returns. The proposed 
+outcomes in relation to the transposition into UK 
+law of the Medium Combustion Plant Directive 
+(MCPD) will require us to fit selective catalytic 
+reduction (SCR) or other measures to reduce the 
+NOx from our green fuel fleet, but the cost of this 
+is manageable. We continue to monitor and be 
+involved in the consultation process.
+08
+PLUTUS POWERGEN PLC  
+ANNUAL REPORT AND ACCOUNTS 2017 National Grid launched a review in June of all 
+markets which seeks to make the balancing markets 
+in which we compete more dynamic and closer to 
+real-time. Over the next 18 months National Grid 
+plans to rationalise the number of markets they 
+operate for balancing, and also be more transparent 
+with the data and the way that they balance. They 
+also want to make the markets more real time: a 
+day ahead FFR market and STOR, and an in-day 
+trading market around frequency response. They 
+are consulting about shifting the market away from 
+auctions to a traded market, to trade capacity in the 
+same way as the market trades electrons. These 
+changes will cement the role of local, reliable, flexible 
+generation in the UK energy mix.
+Notwithstanding this uncertainty and likely changes 
+to the way that value will be distributed in the 
+market, the fundamental drivers remain the same. 
+Insufficient base load power generation capacity 
+is being installed. No large gas power stations are 
+being built, and still no nuclear, yet demand for 
+energy is increasing and becoming more reliant 
+on renewable sources to meet it. The proposed 
+withdrawal of new petrol and diesel cars from the 
+roads by 2040 will further increase demand for 
+power for charging electric vehicles.
+A key indicator of the importance of flexible 
+generation is that energy suppliers are finding 
+ever more inventive ways to access that capacity.  
+These solutions range from innovative procurement 
+arrangements, through to co-investment.  
+Additionally, some suppliers are starting to develop 
+innovative solutions, such as using existing energy 
+market contracts to hypothecate or match up 
+demand and supply, so consumers can be more 
+certain of the price in a highly volatile market. This 
+is a good thing for big power consumers or local 
+communities that are a little off grid or can organise 
+to capitalise on such opportunities, but the net effect 
+is that the remaining market may become even more 
+volatile, resulting in further separation between the 
+energy rich and energy poor. 
+OBJECTIVES AND STRATEGY
+Our original objective was to have 200MW of 
+generating capacity within three years. By the end 
+of this calendar year we will have 120MW installed 
+and operational, and the remaining three renewable 
+diesel sites operational in time for next winter. This 
+means we will have achieved 180MW of renewable 
+diesel sites – or 90% of our target – after four  
+years, through some very challenging times from  
+a regulatory and financing perspective.
+Our most significant strategic shift is our decision 
+to diversify into gas powered engines. We started 
+this process in the new year, and now have 80MW 
+of projects in planning and a further 120MW in the 
+pre-planning stage. This means that we are aiming 
+for around 200MW of gas-fired generation over the 
+next two to three years, and we continue develop 
+our overall pipeline of 700MW further.
+There are several factors that favour gas for use in 
+flexible generation: 
+• More hours of running
+• Lower levels of pollution, in terms of NOx, CO
+2
+ 
+and CO, and SOx;
+• Negligible soot and particulate emissions, and no 
+smoke or odour in exhaust gases;
+• Similar levels of efficiency as green fuel engines;
+• Greater reliability, allowing higher maintenance 
+intervals and thus reducing costs as well as 
+waste oil;
+• Reduced noise and vibration;
+• The ability to operate on a wide range of gaseous 
+fuels, from mains gas and LNG through to 
+digester gas derived from the anaerobic digestion 
+of sewage and other organic wastes.
+Each gas powered site, which will take approximately 
+eight months to construct, is anticipated to generate 
+an EBITDA of up to £3m per year when Capacity 
+Mechanism payments commence.
+OVERVIEW GOVERNANCE STRATEGIC REPORT FINANCIAL STATEMENTS
+09
+PLUTUS POWERGEN PLC  
+ANNUAL REPORT AND ACCOUNTS 2017 Chief Executive’s Review continued
+With gas engines, the economics are such that they 
+are able to run merchant to take advantage of peak 
+prices as well as assist suppliers in managing volatility 
+in their retail power books. Looking back over history, 
+peak energy prices suggest these facilities would 
+need to run in the range of 1200-1400 hours per 
+year. Since volatility drives peak energy prices, these 
+numbers may well increase.  
+We are beginning to look at hybrid technologies 
+whereby both the gas and green fuel sites would 
+be fitted with a storage (or exhaustible) capability, 
+such as batteries. Combining firm and exhaustible 
+generation on the same site allows us to compete 
+in more real-time markets, which is the strategic 
+direction in which National Grid is consulting to 
+implement these markets. We will be piloting these 
+technologies on our sites once we have established 
+the economic and technical cases.
+SolarFlex, which seeks to co-locate firm generation 
+and intermittent generation sources, and investigate 
+installing exhaustible generation to build ‘real-world’ 
+operational data sets, remains part of our strategy 
+however has been slower to come to fruition as 
+prospective partners have not yet decided their 
+preferred approach. We continue to explore this 
+approach and remain confident we can demonstrate 
+the value to solar operators as our hybrid sites 
+establish themselves.
+OUTLOOK 
+We have a healthy pipeline, and will continue to 
+progress with our strategy to develop, build, own 
+and operate flexible generation capacity. The 
+renewable green diesel sites for Rockpool are 
+secured, with five to be connected by the end of 
+the year and the remaining three by the end of next. 
+We are beginning our gas journey with 80MW in 
+planning with the aim to meet our initial target of 
+200MW. Although we are closing the chapter on 
+renewable diesel fuel, we will seek to make those 
+assets more valuable by retrofitting appropriate 
+storage technology as it becomes economic. 
+Despite some regulatory question marks, we remain 
+confident that our FlexGen model is a key part of the 
+solution to the challenges ahead as a result of the 
+structural changes to the UK’s energy mix.
+Phil Stephens
+Chief Executive Officer
+13 September 2017
+10
+PLUTUS POWERGEN PLC  
+ANNUAL REPORT AND ACCOUNTS 2017

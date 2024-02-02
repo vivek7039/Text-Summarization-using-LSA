@@ -1,0 +1,166 @@
+ Chief Executive’s statement
+Mark Sabin Tadeusz Popkiewicz, Chief Executive Officer
+We have demonstrated the
+TREMENDOUS 
+MARKETING  
+POWER
+of in-video advertising
+Progress in 2017: focus and maturing technology
+Mirriad’s strategy has centred on three key areas: the 
+development of core technologies; the development of an 
+organisation capable of supporting large enterprise‑class 
+customers; and the deployment of the trading platform and 
+associated in‑video ad unit deemed essential to connect 
+clients’ advertising budgets to the inventory we create 
+and allow our business to scale.
+We have maintained our tight focus on the world’s largest 
+and fastest growing advertising markets with high levels of video 
+consumption. On that basis we have rebalanced our customer 
+portfolio in favour of larger, more dominant players in each 
+respective market including Alibaba/Youku, NBCU, RTL Group, 
+Globosat and others. We expect this focus to yield results in 
+terms of revenues from the second half of 2018 and beyond 
+as we deploy our platform and service model. We anticipate the 
+number of customers under contract to show a small increase by 
+the end of 2018 as current contractual negotiations complete.
+The value chain for in‑video advertising involves three parties: 
+content producers, distributors (digital or broadcast) and 
+advertisers/media agencies. Mirriad’s platform provides 
+a marketplace for activity. 
+The Group’s business is principally based on contracting with 
+distributors, the primary sellers of the in‑video advertising 
+inventory, and taking a share of revenue from resulting in‑video 
+advertising transactions. 
+Mirriad’s revenue share generally averages approximately 20%.
+Our technologies are designed to make a complex problem 
+simple: Mirriad receives video content; analyses it for advertising 
+inventory; makes it available to our customers to sell; and ultimately 
+fulfils the campaigns they have sold to media agencies and brands. 
+As our technology has developed we have increasingly focused 
+resources on the last steps in this process. 
+2017 was an important year for technology developments as 
+we solidified our capabilities for creating or predicting advertising 
+inventory from premium entertainment content and naturally 
+inserting realistic branded imagery into video at scale. Development 
+work continued around the Marketplace platform, which will 
+enable key stakeholders such as content owners, distributors 
+and advertisers to transact. We also laid foundations for the 
+2017 was an important year 
+for technology development.
+Mirriad Advertising plc Annual report and accounts 2017
+05 Marketing effectiveness
+We ran the Group’s largest campaign at the end of 2017 
+and into the beginning of 2018. Mirriad partnered with Youku/
+Alibaba to create an in‑video ad campaign for a leading Chinese 
+car leasing company, T angeche. The campaign embedded T angeche’s 
+brand messages as ad units across more than 20 different shows 
+over five months. This large‑scale campaign successfully reached 
+the target audience and hit Tangeche’s awareness and 
+consideration goals. 
+We are delighted that the campaign results, independently 
+researched by Miaozhen Systems, exceeded even our 
+high expectations.
+The campaign delivered nearly 800 million impressions. At the end 
+of the campaign almost 71% of the audience had seen the ads, 72% 
+of viewers thought that the inclusion of the brand in the shows 
+made the scenes look more realistic and 94% of the target audience 
+said they would take follow‑up action, with their intention to 
+use the brand three times higher than before the campaign.
+We believe that the Tangeche campaign is an excellent example 
+demonstrating the marketing power of In‑Video advertising when 
+delivered at scale.
+The future
+The path to success for Mirriad requires the Group to complete 
+a number of steps. 
+In 2017 and into the first half of 2018 we have concentrated 
+on the first of those steps: deploying our Marketplace platform 
+and services as well as establishing the In‑Video advertising unit 
+through independent third party verification. This requires 
+the organisation to onboard customer sales organisations at 
+some of the world’s largest media companies and takes considerable 
+time and effort. It also requires integration with third party systems 
+either at the customer, for core services, or externally for third 
+party verification and tracking of ad unit delivery. Both integration 
+and onboarding are complex and time consuming but worthwhile 
+initiatives, each requiring agreement with and co‑ordinated 
+rollout with our customer organisations, their clients and 
+other third parties.
+Once the supply side of the model is operational our next 
+step is to leverage demand for in‑video advertising by driving 
+demand‑side awareness of the product and its benefits to 
+advertisers and clients. We do this through delivery of advertising 
+effectiveness research, executed locally and culminating 
+in case studies on behalf of different brand categories. 
+When demand is generated Mirriad has the technology and 
+processes in place to fulfil transactions using Marketplace.
+The final step is to achieve scale in our target markets. 
+Ultimately, we believe we can drive scale in the business 
+by establishing Mirriad In‑Video Advertising as a media buying 
+plan line item. It is also worth emphasising that Mirriad has 
+planned capabilities to support programmatic buying and can 
+provide personalisation depending on our distribution 
+partners’ infrastructure.
+Mark Sabin Tadeusz Popkiewicz
+Chief Executive Officer
+9 May 2018
+Progress in 2017: focus and maturing technology 
+continued
+launch of an industry credible In‑Video advertising unit capable 
+of supporting media trading at scale; a third party certified, verifiable, 
+consistent currency in the form of an In‑Video advertising unit is 
+essential to market liquidity.
+The Company has been actively protecting its IP and currently 
+holds 11 granted patents, with more in process over 2017. 
+Industry trends
+There continues to be significant publicity around the verification 
+and value of advertising media with recent comments from both 
+Marc Pritchard and Keith Weed, respectively Chief Marketing 
+Officers of Proctor & Gamble and Unilever, the world’s largest 
+two advertisers by spend. 
+In 2017 Marc Pritchard said that:
+“We bombard consumers with thousands of ads a day, subject 
+them to endless ad load times, interrupt their screens with 
+pop‑ups and overpopulate their screens and feeds… We’re 
+awfully busy, but all of this activity is not breaking through 
+the clutter. It’s just creating more noise.”
+While Keith Weed said at the IAB Annual Leadership Meeting 
+in 2018 that:
+“[Consumers] don’t care about good value for advertisers. 
+But they do care when they see their brands being placed next 
+to ads funding terror, or exploiting children.”
+Mirriad Ad Units are designed to address these issues and more: 
+bringing a new ad unit format to market requires a new metric 
+that is transparent, verifiable and validated by some of the most 
+respected industry measurement companies. 
+We have very recently announced the results of work we 
+have been undertaking for over two years concerning the 
+standardisation of the Mirriad advertising unit with comScore 
+in the USA and Miaozhen Systems in China. This work is critical 
+in enabling Mirriad In‑Video Advertising to become a trading 
+currency alongside other advertising products. The work in 
+these two pivotal markets should drive more transactional 
+liquidity between media owners and advertisers.
+In 2017 Mirriad solved the challenge of consistent delivery 
+of the ad units by finalising the development of an automated 
+measurement and gating technology called the Visual Impact Score 
+(“VIS”), now integrated into the Marketplace platform. VIS solves 
+a formidable problem by ensuring each instance of ad exposure 
+meets thresholds known to drive effectiveness such as exposure 
+size and proportion, clarity, proximity to action and prominence. 
+Early in 2018 Mirriad commissioned independent research from 
+global measurement company comScore, which analysed a large, 
+statistically valid random sample of the new Mirriad ad units. 
+The audit verified Mirriad’s VIS score, with 98.5% of the tested 
+ad units passing the independent audit. Full study results are 
+available in a whitepaper on the Mirriad website (www.mirriad.com). 
+So advertisers can now have independently verifiable certainty 
+around the quality of each billable ad – essential in today’s highly 
+scrutinized world of value for money and data transparency, 
+especially in the two largest advertising markets in the world. 
+Mirriad will continue working with multiple independent vendors 
+of advertising measurement in securing further validation of the 
+In‑Video advertising unit construct and its effectiveness.
+Chief Executive’s statement continued
+Mirriad Advertising plc Annual report and accounts 2017
+06
+STRATEGIC REPORT

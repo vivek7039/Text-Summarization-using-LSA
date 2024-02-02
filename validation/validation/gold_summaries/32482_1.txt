@@ -1,0 +1,98 @@
+ iomart Group plc Annual report and accounts 2017
+Introduction
+We have again enjoyed another very successful year with revenues and profits growing to record levels both organically and through 
+acquisition as we continue to deliver an ever broader range of cloud solutions.
+Our revenues in the year were £89.6m, an increase of 17% over the previous year, our adjusted EBITDA of £36.6m showed a 13% 
+increase over the previous year and our profit before tax also increased by 13% to £14.7m. 
+The opportunity remains to continue to grow both organically and through a disciplined acquisition strategy. 
+Market
+The market for cloud services continues to grow and evolve. There is still a long runway of opportunity as the ‘IT as a service’ philosophy 
+and delivery unfolds. There is an inevitability around this fundamental change in how IT is delivered but there is also a built in delay 
+mechanism as systems, processes and applications are dealt with on a ‘one by one’ basis rather than in one full organisation wide 
+swoop, as applications and workloads are individually considered for an upgrade, refresh or rewrite.
+Security has again been in the headlines and it serves to show that on premise infrastructure is far more difficult to keep secure and 
+available on a 24x7x365 basis than those in the cloud, in specialist datacentres, with 24x7x365 monitoring and management and with 
+all the required perimeter defences in place.
+We believe that iomart is one of the most compliant organisations with regard to security and certification in the sector. This will drive 
+more opportunity for us, with our long experience of security whether it be infrastructure and network protection, detection and 
+response to threats, access control, log management, or compliance with various standards.
+We are now less than a year away from the introduction of the new regulations around data security, the EU General Data Protection 
+Regulation (GDPR). Our plans for the introduction of these regulations are well advanced both for the Group’s own needs and to help 
+other organisations understand the implications for their own business and thereby to become compliant.
+Organisations today are confronted by an increasingly complex set of cloud decisions in terms of cost, value, effectiveness, complexity, 
+security, data protection and compliance. Whatever the cloud challenge iomart can assist all organisations in moving to the cloud, 
+whether it be private, public or hybrid approach. The long term recurring revenue opportunity for iomart remains compelling. We are 
+well established as a major player in providing the flexible cloud solutions that businesses require.
+The future success of cloud companies will be driven by their ability to address further towards the application layer as well as the 
+underlying infrastructure. There is growing evidence of different market segments with distinct hosting and cloud requirements and 
+characteristics. This is leading to a growing trend in specialisation in various verticals such as e-commerce or financial software and 
+this is one reason why the hosting and cloud markets will be served by a wide variety of vendors and vendor types.
+Our challenge is to continue to navigate through these early days of the further evolution of cloud adoption and to ensure we build 
+the skills and resources necessary to be successful in that ever more complex space.
+Acquisitions
+We again augmented our organic growth through the acquisition of Cristie Data Limited (“Cristie”) in August and after the year-end, in 
+May, through the acquisition of Dediserve Limited (“Dediserve”), a Dublin based provider of Cloud solutions in ten locations around the 
+world. To date we have not seen any impact from the UK’s decision to leave the European Union other than the weakening of Sterling. 
+The Board has considered the impact on the Group of the UK’s decision to leave and whilst there are still many issues to be resolved 
+we believe we will be able to deal with them as they arise. The acquisition of Dediserve gives us a Cloud operation in geographical areas 
+where we do not currently have a presence, including another base in the European Union.
+We continue to look for businesses that fit our criteria with a view to making further acquisitions in the coming year.
+Operational Review
+We have previously reported in two operating segments (Cloud Services and Easyspace) both of which involve the provision of services 
+from common infrastructure delivering a very high level of recurring revenue. During the year we acquired Cristie and we have decided 
+to report that in a separate segment as it predominantly involves the provision of IT infrastructure on customers’ premises with little 
+by the way of recurring revenue. We have designated this segment as Non-recurring Revenue.
+Strategic Report
+Chief Executive Officer's Report
+8 iomart Group plc Annual report and accounts 2017
+Cloud Services 
+Revenues in this segment have grown by 11% to £72.7m (2016: £65.4m) partly as a result of the continued organic growth and as a 
+result of acquisitions. Organic growth in the year was 10%, slightly above the level of 9% we have delivered in our last two financial years 
+and our adjusted EBITDA percentage margin continues to be amongst the highest in the industry.
+Through our iomart Cloud unit we provide complex hosting solutions, involving private, public and hybrid cloud solutions with 
+customers typically paying for these services on a monthly basis on contracts ranging from one to three years in length. Our churn 
+levels in this unit have stabilised and are in line with that experienced last year.
+Our server infrastructure business, delivering dedicated physical servers to customers, is run as one unit encompassing the RapidSwitch 
+and Redstation brands. We manage many thousands of physical servers for our customers using highly automated systems and 
+processes which we continue to develop and improve. 
+Our Back-up and Disaster Recovery specialism is primarily sold through Backup Technology.
+SystemsUp provides consultancy services to organisations, particularly in the public sector, helping them to decide on their cloud 
+strategy with an emphasis on the public cloud. Having a consultancy division within the Group allows us to engage at an earlier stage 
+with organisations considering their cloud strategy and provides the opportunity to leverage the provision of those consultancy services 
+to gain recurring revenue through the deployment of cloud solutions. However, unlike our other activities within the Cloud Services 
+segment there is less recurring revenue generated from consultancy services and this area has not performed as predicted during 
+the year and in future we will be more prudent in projecting the revenues which we expect to generate to recognise the difficulty in 
+estimating revenue levels. We have made some changes to senior management within the consultancy unit and have also refined its 
+strategic approach to focus on the delivery of a set of core cloud technologies. This is with a view to ensuring that as often as possible 
+projects that are delivered will ultimately have a managed service and recurring revenue element.
+We are able to supply products and services across the cloud spectrum and do so using common platforms across the Group.
+Within the scope of our product set we have strengthened our relationships with Amazon Web Services (AWS) and Microsoft now 
+labelled as Hypercloud vendors. Both are growing strongly on a global basis although they still account for a very small fraction of 
+overall IT and Cloud spend.
+We are now an Advanced Partner of AWS and moving towards the next level. We are one of Microsoft’s most respected Cloud Service 
+Providers in the UK and we are being presented with a growing number of Microsoft Azure opportunities. 
+We continue to build on our skills and accreditations and see constant improvement across the Group’s skillset.
+Easyspace
+In line with our expectations the Easyspace segment has performed well over the year, returning to a position of organic revenue 
+growth. 
+Our activities within this segment provide a range of products to the micro and SME markets including domain names, shared, 
+dedicated and virtual servers and email services.
+Revenues in the segment have grown by 22% to £13.2m (2016: £10.9m) mainly as a result of the acquisition of United Hosting in the 
+previous year.  Organic growth in the year was 4% against a decline of 8% in the previous year.
+Non-recurring revenue
+The non-recurring revenue segment contains the results of Cristie since we acquired that business in August 2016. In just over 7 
+months of ownership the revenue generated was £3.6m. 
+Cristie primarily provides solutions similar to those provided by the Cloud Services segment with the exception that they would tend to 
+be less complex in nature and predominantly installed on the customers’ own premises rather than from a datacentre location. These 
+solutions would involve, for example, the provision of storage and back-up infrastructure. Cristie has a substantial number of public 
+sector customers in areas such as health and education and we welcome its activities into the Group.
+Current trading and outlook
+This has been another year of strong growth and trading since the year end remains good.
+The long term opportunity and runway for success remains large and long. iomart remains well positioned to take advantage of that 
+opportunity and to deliver further significant growth.
+I look forward, once again, with confidence to the year ahead.
+Angus MacSween
+Chief Executive Officer
+12 June 2017
+Strategic Report. Chief Executive Officer's Report
+9

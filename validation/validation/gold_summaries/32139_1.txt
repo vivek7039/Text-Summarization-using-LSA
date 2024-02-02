@@ -1,0 +1,657 @@
+ 14
+AVEVA GROUP PLC ANNUAL REPORT AND ACCOUNTS 2017
+CHIEF EXECUTIVE’S STRA TEGIC REVIEW
+WHILST CONDITIONS REMAIN CHALLENGING IN 
+OUR CORE OIL & GAS AND MARINE MARKETS,  
+OUR BUSINESS HAS SEEN EXCELLENT SUCCESSES  
+IN OUR KEY GROWTH INDUSTRIES.
+As expected, AVEVA’s financial 
+performance was resilient despite the 
+challenging conditions in our core end 
+markets. In addition to delivering solid 
+results, we made good progress in 
+delivering against our strategy during 
+the year and in structuring the business 
+to enable future growth. Revenue 
+increased 7 .1% to £215.8 million (2016 
+– £201.5 million), assisted by a currency 
+translation benefit of 11.4%. Profit 
+before tax grew to £46.9 million (2016 
+– £29.4 million), supported by a strong 
+focus on cost control. On an adjusted 
+basis, profit before tax grew 7 .4% to 
+£55.0 million (2016 – £51.2 million).
+On a regional basis, revenue in the 
+Americas grew due to a strong 
+performance in North America, partly 
+offset by difficult market conditions 
+in Latin America, specifically in Brazil. 
+AVEVA’s performance in EMEA and Asia 
+Pacific was robust in the context of the 
+subdued Oil & Gas and Marine markets. 
+Overall Group revenue declined in 
+constant currency terms by 3.8%, 
+although we did see an improvement 
+in the second half. Excluding Latin 
+America, Group revenue declined only 
+2.3% in constant currency terms for the 
+full year, and was flat in the second half.
+We made good progress in executing 
+our strategy. On a constant currency 
+basis, we delivered good growth with 
+More Than 3D (MT3D), Owner 
+Operators and sales to the Power 
+sector.
+The strength of our product offering 
+was demonstrated by several key 
+new business wins during the year. 
+These included wins in both markets 
+that offer growth opportunities 
+for us and in our more mature 
+product and geographic areas.
+During the year, I took over as CEO and 
+David Ward transitioned to the post of 
+CFO. We have both been in the 
+business for many years and were core 
+to formulating AVEVA’s strategy. We 
+plan to continue to pursue this strategy, 
+with a sharp focus on execution and 
+getting closer to our customers. As 
+part of this, I have simplified AVEVA’s 
+management structure with greater 
+decision-making capabilities and direct 
+accountability for performance being 
+allocated to our regions. I have also 
+added more customer-facing people to 
+our Executive team, including a recently 
+recruited Chief Revenue Officer, who 
+will take overall responsibility for 
+leading Global Sales, Partnership 
+Management and Marketing.
+James Kidd
+Chief Executive Officer
+“ WE MADE GOOD 
+PROGRESS IN 
+DELIVERING AGAINST 
+OUR STRATEGY DURING 
+THE YEAR AND IN 
+STRUCTURING THE 
+BUSINESS TO ENABLE 
+FUTURE GROWTH” 
+11 .4 %
+Constant currency growth  
+in Power revenue 
+5.4 %
+Constant currency growth in 
+Owner Operator revenue STRATEGIC REPORT
+15
+STRATEGIC REPORT
+15
+Delivery against our strategy 
+AVEVA’s strategy is to increase 
+revenues by growing the addressable 
+market for its products as the concept 
+of the Digital Asset is more widely 
+adopted; to sell a wider range of 
+products; and to grow in industry and 
+geographic verticals where the Group’s 
+market share is underweight, versus 
+the strength of its product offering.
+Notwithstanding the cyclical headwinds 
+in end markets that AVEVA has 
+experienced in the recent past, we 
+expect our strategy to deliver solid 
+organic growth in the long term, across 
+end market cycles.
+The building blocks of this strategy  
+are as follows.
+• More than 3D: We see a major 
+market opportunity in leveraging our 
+customer base and market position 
+by selling additional engineering 
+software tools, extending beyond 
+our core 3D design platforms. 
+Further to this, information 
+management tools such as AVEVA 
+NET, can generate revenue 
+throughout the operation life cycle 
+of assets, therefore expanding the 
+market that we address. 
+• Owner Operators: OOs such as 
+energy and power generation 
+companies currently only account 
+for approximately 16% of our 
+revenue. However, a significant 
+market opportunity is developing as 
+OOs increasingly adopt the Digital 
+Asset concept to help them manage 
+their physical assets throughout 
+their life cycles. 
+• Growth markets: AVEVA generates 
+approximately half of its revenue 
+from EMEA. This largely relates to 
+our heritage as a UK-based 
+company. Over time, we intend to 
+grow our revenues in key markets 
+such as the USA and China, using 
+the competitive advantages that our 
+products offer. 
+• Broaden market exposure: We  
+aim to grow our market share in 
+industries beyond our core Oil & Gas 
+and Marine markets, with a particular 
+focus, in the short term, on Power, 
+by applying the strength of our core 
+technology and the rich knowledge 
+of our people in these markets. 
+• Software as a Service (SaaS) and the 
+Cloud: We intend to unify all of our 
+applications onto a common Cloud 
+platform to provide greater value to 
+our customers and address a wider 
+customer base.
+CASE STUDY
+GROWTH MARKETS
+AVEVA is an established global company with 50 offices in 
+30 countries. As such, we can provide customers with local 
+sales and support in all of the world’s major economies. 
+Notwithstanding this, AVEVA was not the first mover in 
+some of the world’s key growth markets and therefore  
+has underweight positions due to the ‘stickiness’ of 
+customers to incumbent providers. 
+We believe that our products offer a strong advantage  
+over competing offerings, due to their inherent integration 
+based on our leading object-modelling technology, which 
+reduces complexity and lowers the total cost of ownership 
+for our customers. Our strategy is therefore to apply our 
+competitive advantage to gain share in key target markets. 
+We are enjoying considerable success in North America, 
+where our strategy of leading with sales to Owner 
+Operators, often with innovative MT3D product offerings,  
+is delivering strong results.
+18.9%
+AVEVA’s constant currency growth in North America
+ 
+“ KEY GROWTH MARKET SUCCESSES 
+DURING THE YEAR INCLUDED EXPANDING 
+OUR BUSINESS WITH SOUTHERN 
+COMPANY IN THE USA AND SINOPEC  
+ENGINEERING GROUP IN CHINA.”
+For details of our strategy see pages 8 to 9.
+WWW.AVEVA.COM 16
+AVEVA GROUP PLC ANNUAL REPORT AND ACCOUNTS 2017
+CHIEF EXECUTIVE’S STRATEGIC REVIEW CONTINUED
+More than 3D ‘MT3D’
+AVEVA’s MT3D sales grew during the 
+year, increasing 2.1% on a constant 
+currency basis. MT3D products 
+represented 26.5% of total revenue, 
+increasing from 25.2% in the prior 
+year. Sales of our wider product suite 
+have been a feature of this year’s key 
+customer wins, with for example 
+the AVEVA NET and AVEVA Engage 
+information management tools helping 
+to strengthen our offer to OOs.
+We are also achieving success 
+in leveraging our existing EPC 
+(Engineering, Procurement and 
+Construction) customer base to sell 
+MT3D products. We have developed 
+our technology to help deliver 
+Building Information Management 
+(BIM) projects in Infrastructure – 
+not only to help satisfy any BIM 
+mandate, but also to support faster, 
+more effective project execution 
+and handover through improved 
+data management. A good example 
+is Jacobs, who have used AVEVA 
+technologies (AVEVA NET, AVEVA 
+Engineering™ and AVEVA Information 
+Standards Manager™) to meet their 
+client’s information management 
+and BIM level 2 requirements, and 
+to achieve efficiency improvements 
+for a UK highways project.
+Owner Operators
+AVEVA’s sales to OOs also grew during 
+the year, increasing 5.4% on a constant 
+currency basis. OOs represented 
+16.2% of total revenue, increasing 
+from 14.9% in the prior year. We had 
+particular success in North America and 
+Asia, where we won contracts in the 
+Petrochemical & Chemical and Power 
+sectors. These included KEPCO E&C, a 
+leading global energy solutions provider 
+based in South Korea, which chose 
+AVEVA for a full range of 3D and MT3D 
+design and information management 
+products for its new nuclear power 
+plant projects. Similarly, another leading 
+power generation OO, Southern 
+Company, in the USA, selected our 
+design and information management 
+tools to help improve project execution 
+efficiency and asset information 
+access. Meanwhile, we strengthened 
+our relationship with Eastman, a 
+global speciality chemical company.
+Growth markets
+We enjoyed success in North 
+America, where our local strategy 
+of leading with sales to OOs and 
+of MT3D products is working well, 
+and we achieved significant new 
+business wins. The business grew by 
+18.9% during the year on a constant 
+currency basis. We continue to see 
+growth potential in China, where 
+successes during the year included 
+expanding our business with Sinopec 
+Engineering Group, which adopted 
+AVEVA’s Integrated Engineering and 
+Design solution for effective design, 
+collaboration and improved efficiency. 
+However, overall our business there 
+was broadly flat during the year, 
+being impacted by tougher market 
+conditions, particularly in shipbuilding.
+Broaden market exposure
+We made good progress during the 
+year in broadening our market exposure 
+away from the cyclical Oil & Gas and 
+Marine end markets. We enjoyed 
+particular success in Power where 
+revenue increased 11.4% on a constant 
+currency basis during the year. Our 
+software is well suited to creating and 
+managing large complex projects, 
+such as gas powered and nuclear 
+power stations. During the year, we 
+achieved several key wins within the 
+Power market with Southern Company 
+and TerraPower in the USA, KEPCO 
+EPC in Korea and Japan Nuclear Fuel. 
+We also achieved success in Paper & 
+Pulp, where Valmet, the leading global 
+developer and supplier of technologies, 
+automation and services for the pulp, 
+paper and energy industries, signed a 
+multi-year agreement for AVEVA E3D.
+AVEVA also enjoyed success in the 
+steel fabrication market where sales 
+increased by 10.0% on a constant 
+currency basis as we continue to 
+integrate and leverage the Bocad 
+and FabTrol acquisitions. STRATEGIC REPORT
+17
+“ ON A CONSTANT 
+CURRENCY BASIS,  
+WE DELIVERED GOOD 
+GROWTH WITH MORE 
+THAN 3D (MT3D),  
+OOs AND SALES TO 
+THE POWER SECTOR” 
+SaaS and the Cloud
+While AVEVA’s business model 
+already has the high level of recurring 
+subscription revenues typically 
+associated with Cloud delivery, we 
+aim to be technologically ready to 
+offer our products on a SaaS model 
+in response to customer demand.
+For the industries we serve, there 
+are several challenges facing our 
+customers which need to be overcome 
+before there is a full transition to 
+Cloud. However, over time we do 
+expect that customers will want 
+to explore ways of using the Cloud 
+to drive efficiency and improve 
+collaboration through the supply chain 
+and operating cycle of their assets.
+We launched our Cloud platform 
+AVEVA Connect together with our first 
+SaaS offering, Asset Visualisation, at 
+the AVEVA World Summit in October 
+2016. AVEVA Connect is our SaaS 
+ecosystem for Engineering, Design 
+and Information Management 
+solutions. Asset Visualisation is 
+our new Information Management 
+as a Service offering. There is a 
+willingness from the OOs to move 
+towards SaaS for the provision of the 
+Digital Asset and we expect these 
+products to gain traction with major 
+customers in the medium term.
+In April this year, we launched a second 
+SaaS offering on AVEVA Connect, 
+Information Standards Management. 
+The Sales team has now been equipped 
+to sell these solutions and we have 
+brought on board several major oil 
+Owner Operators as early adopters. 
+Both Asset Visualisation and 
+Information Standards Management 
+provide entry points for our Owner 
+Operator customers to access Digital 
+Asset-as-a-Service solutions flexibly 
+and cost effectively.
+Our technology
+Our software is used by customers 
+as they design, build and operate 
+large capital-intensive assets, mainly 
+in the Process, Power and Marine 
+industries. Our vision is for the 
+widespread adoption of constantly-
+evolving Digital Assets, enabling 
+our customers to manage continual 
+change as they design, build and 
+operate some of the world’s most 
+complicated physical assets.
+We believe that our products offer a 
+strong advantage over competing 
+offerings, due to their inherent 
+integration based on our leading object 
+modelling technology, which reduces 
+complexity and lowers the total cost of 
+ownership for our customers.
+AVEVA’s heritage is in 3D design, where 
+our core products are AVEVA PDMS 
+(Plant Design Management System), 
+AVEVA E3D and AVEVA Marine 
+products. These products represented 
+73.5% of 2016/17 revenues. AVEVA E3D 
+is the latest generation 3D product 
+which carries a price premium 
+reflecting its higher productivity and 
+advanced feature set.
+AVEVA E3D grew strongly during the 
+year as existing customers continued 
+to migrate towards it and new contracts 
+were won. It contributed almost 13% of 
+total revenue, up from below 10% in 
+the prior year.
+Within More than 3D, the largest 
+product sets are schematics 
+applications such as Piping and 
+Instrumentation Diagram (P&ID), 
+Instrumentation & Electrical 
+applications and our unique multi-
+discipline AVEVA Engineering solution; 
+together with information 
+management applications such as 
+AVEVA NET. These areas grew during 
+the year with strong growth in 
+information management sales 
+particularly to the Owner Operators. 18
+AVEVA GROUP PLC ANNUAL REPORT AND ACCOUNTS 2017
+CHIEF EXECUTIVE’S STRATEGIC REVIEW CONTINUED
+Our markets and our customers
+AVEVA’s key end markets are  
+Oil & Gas, Marine, Power and 
+Petrochemical & Chemical. Other 
+markets we serve include Architecture, 
+Construction & Steel Fabrication, 
+Mining & Minerals Processing, 
+Paper & Pulp and Pharmaceuticals. 
+Oil & Gas accounts for 40–45% 
+of revenue, Marine 20%, Power 
+15–20%, Petrochemical & Chemical 
+10% and the remainder 10%.
+AVEVA has four main groups 
+of customers. These are EPCs, 
+shipyards, OOs and Fabricators.
+ 
+EPCs primarily use AVEVA’s software 
+to design and build industrial assets, 
+such as oil platforms, power stations 
+and process plants for OOs. Demand 
+from EPCs for AVEVA’s products is 
+therefore impacted by end market 
+demand and particularly the level of 
+capital expenditure on new installations 
+and brownfield projects. AVEVA has 
+strong long-standing relationships 
+with many leading EPCs. The large, 
+global EPCs are managed as strategic 
+partnerships through AVEVA’s 
+Global Accounts programme. 
+OOs are key to achieving AVEVA’s vision 
+of a constantly-evolving Digital Asset. 
+Whereas historically the Digital Asset 
+was core only to the design phase 
+of physical assets, it is now widely 
+accepted that Digital Assets can help 
+OOs to drive efficiency and reduce 
+risk through minimising downtime 
+and unplanned outages, while 
+complying with ever more stringent 
+environmental and safety legislation.
+We won 9 new OO customers 
+during the year and significantly 
+expanded our business with 
+several existing OO customers.
+Oil & Gas
+In the Oil & Gas industry, end-market 
+demand was weak, with global industry 
+capital expenditure falling by over 40% 
+between calendar 2014 and calendar 
+2016 (Sources: Barclays, Bank of 
+America Merrill Lynch).
+This decline had a significant impact on 
+the workloads of our EPC customers, 
+with the more complex (and therefore 
+design-intensive) greenfield upstream 
+and offshore projects being impacted 
+most significantly. This impacted 
+demand for our software.
+EPC customers tend to favour a rental 
+model for software, meaning that their 
+spend with AVEVA adjusts to market 
+demand relatively quickly and some 
+EPCs have reduced their seat count 
+reflecting lower activity. There was 
+also some consolidation amongst 
+EPCs and in the oil services sector 
+more generally. However, as OOs seek 
+to extend the life of existing assets, 
+we saw an increase in revamps and 
+modifications (known as brownfield 
+projects), which helped to sustain a 
+level of demand from EPCs, although 
+these projects are typically shorter 
+in duration and lower in value.
+Due to the downturn in the Oil & Gas 
+industry, OOs are putting pressure 
+on EPCs to reduce the cost of capital 
+projects, often by up to 50%. This is 
+putting pressure on the margins of the 
+EPCs and they have been forced to look 
+at how they become more efficient and 
+reduce the cost of projects. EPCs are 
+also increasingly looking to technology 
+to help drive efficiency in projects. 
+Our integrated engineering and design 
+approach, which helps manage the 
+engineering data across the different 
+engineering disciplines, is receiving very 
+positive feedback, enabling customers 
+to reduce the total cost of ownership 
+compared to our competition.
+An area of focus for EPCs has 
+been around reducing the cost 
+of supporting, maintaining and 
+developing in-house systems by 
+looking to third-party vendors such 
+as AVEVA to replace these with 
+commercial software products.  STRATEGIC REPORT
+19
+This is particularly pronounced 
+around materials procurement and 
+construction management, given 
+that many still use in-house systems 
+in these areas. As such we are seeing 
+significant interest in our Enterprise 
+Resource Management product.
+We are also seeing EPCs start 
+to consider standardising their 
+engineering technology strategy 
+on one toolset and we believe 
+that we are well positioned to 
+capitalise on that trend.
+Oil & Gas industry capital expenditure 
+is forecast to increase in future years 
+as investments are made to maintain 
+production and reserves. There are 
+early signs of improvement in the 
+market, however the exact timing of a 
+market recovery is difficult to predict.
+Marine
+AVEVA is a market leader in Marine 
+design software, with customers 
+including 90% of the world’s largest 
+shipyards. The Marine market is in a 
+cyclical trough, with a relatively low 
+number of new ship builds ongoing. 
+Shipyard customers typically prefer an 
+Initial Licence Fee model, because they 
+view software as a longer-term 
+investment rather than being project 
+specific. This results in annual 
+maintenance payments continuing 
+even in tougher market conditions.  
+Our recurring revenue from the Marine 
+market was broadly flat during the year.
+We are also winning significant new 
+business in the sector, with new wins  
+in Europe, including a customer 
+focused on cruise ships, and in Asia, 
+where we won a major South East 
+Asian customer focused on Marine and 
+offshore capital projects. 
+As with Oil & Gas, the Marine market is 
+forecast by commentators such as 
+Clarksons Research to recover from the 
+current trough conditions. We expect 
+activity to increase as overcapacity in 
+the world fleet reduces and demand for 
+specialist ships such as Floating 
+Production, Storage and Offloading 
+vessels and naval vessels grows, 
+although again, the exact timing of a 
+market recovery is difficult to predict.
+CASE STUDY
+BROADENING 
+MARKET EXPOSURE
+AVEVA has a high proportion of recurring revenues at  
+76.9% in 2016/17 due to our ‘right-to-use’ licensing model. 
+Notwithstanding this resilience, some 65% of our revenues 
+are generated in the Oil & Gas and Marine markets. To an 
+extent therefore, the Group’s growth prospects have 
+historically been materially influenced by end market 
+conditions within these markets (e.g. the number of oil 
+installations and ships being ordered, designed, built and 
+operated). Both Oil & Gas and Marine have grown over the 
+long term, but have been subject to short-term cyclicality.  
+As such, our strategy is to broaden our exposure to other 
+industries, which are growing, offering the opportunity to 
+achieve market share gains in areas that are less cyclical  
+than our core markets. 
+Our focus in 2016/17 was on obtaining share gains in  
+the Power industry. We achieved great success in this 
+endeavour, developing our business with multiple OO 
+customers as well as with companies involved in the  
+design and production of generation technology.
+11.4%
+AVEVA’s constant currency growth in the Power sector
+ 
+“ KEY SUCCESSES IN BROADENING  
+OUR MARKET EXPOSURE DURING  
+THE YEAR INCLUDED NEW ORDER 
+WINS AND EXPANDING OUR BUSINESS 
+WITH JAPAN NUCLEAR FUEL, KEPCO 
+E&C, SOUTHERN COMPANY , 
+TERRAPOWER AND VALMET .”
+For details of our strategy see page 8 to 9.
+WWW.AVEVA.COM 20
+AVEVA GROUP PLC ANNUAL REPORT AND ACCOUNTS 2017
+CHIEF EXECUTIVE’S STRATEGIC REVIEW CONTINUED
+Power
+We had significant success in the 
+Power market during the year, winning 
+several new contracts with both utilities 
+and power systems design companies.
+Longer-term trends in the Power 
+market are positive as the world’s 
+emerging economies invest in their 
+power generation requirements and the 
+ageing infrastructure of the developed 
+world is maintained and replaced.
+In the shorter term, AVEVA benefited 
+from market share gains and 
+requirements from operators in the 
+sector for both design and information 
+management tools, as they seek 
+to improve asset efficiency.
+Petrochemical & Chemical
+We saw ongoing investment in the 
+sector during the year, particularly in 
+Asia, with stable market conditions on a 
+global basis. AVEVA enjoyed success in 
+winning new OO customers in Asia 
+during the year in the refining sector.
+Other markets
+Conditions in AVEVA’s other markets 
+are less subject to cyclical volatility, 
+meaning that AVEVA can grow in a 
+more linear fashion through the 
+execution of its strategy. Notable 
+developments during the year included 
+solid constant currency growth in sales 
+to fabricators and a new OO customer 
+win in the Pharmaceutical sector.
+In the Fabrication sector, AVEVA 
+provides integrated end-to-end 
+solutions for 3D modelling, detailing 
+and fabrication of structural steelwork. 
+This enables rapid, high-quality 
+fabrication and construction for 
+on-time, on-budget, integrated project 
+execution for customers specialising  
+in the engineering, manufacturing  
+and assembly of advanced steel 
+structures. In 2016/17 our revenue  
+from Fabricator customers increased 
+10.0% on a constant currency basis.
+Outlook
+We believe that AVEVA has both 
+the market opportunity and the 
+right strategy to deliver substantial 
+growth over the longer term.
+In the short term, demand cycles 
+within our end markets have had an 
+impact on growth. Our core markets 
+of Oil & Gas and Marine, which 
+together account for over 60% of 
+Group revenue, have been in a cyclical 
+trough over the last three years.
+There are early signs of improvement 
+in Oil & Gas. Although the timing 
+of a full recovery in demand is still 
+uncertain, we expect that as the 
+headwinds lessen, the growth resulting 
+from our strategic initiatives will 
+begin to show at the Group level.
+The Board remains confident in 
+the long-term strength of AVEVA’s 
+business model, the deliverability 
+of its organic growth strategy and 
+its positioning to benefit from a 
+recovery in our end markets.
+James Kidd
+Chief Executive Officer
+23 May 2017

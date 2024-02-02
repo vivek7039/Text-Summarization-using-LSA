@@ -1,0 +1,152 @@
+ 5
+ANNUAL REPORT AND ACCOUNTS 2017
+Strategic Report
+   
+HIGHLIGHTS   
+HIGHLIGHTS
+INVESTMENT HIGHLIGHTS
+During 2017, an aggregate of $81.1 million was invested into new and existing subsidiary businesses, including:
+• $64.5 million from subsidiary fundraisings with $35.1 million coming from third-party investment and 
+$29.4 million from Allied Minds, to support and accelerate the development of four of the Group’s existing 
+companies: Federated Wireless; BridgeSat; HawkEye
+360
+ and Signature Medical.
+ o On 7 February 2017, HawkEye
+360
+ completed the second closing of its $13.8 million Series A preferred 
+funding round of $1.3 million, adding additional investors to a syndicate including Razor’s Edge Ventures 
+and a defence market leader.
+ o On 5 May 2017, BridgeSat closed a $6.0 million Series A preferred funding round, including 
+participation from Space Angels, a prominent angel investor network of experts focused on Space 2.0.
+ o On 26 July 2017, Signature Medical completed a $2.5 million Series A preferred funding round, 
+including participation from Riot Ventures and Bose Corporation.
+ o On 14 September 2017, Federated Wireless announced the closing of a $42.0 million Series B 
+preferred funding. The round was led by new investors who are key members of the shared spectrum 
+ecosystem: Charter Communications (NASDAQ: CHTR); American Tower (NYSE: AMT); and ARRIS 
+International plc (NASDAQ: ARRS), and by GIC, Singapore’s sovereign wealth fund. The balance of the 
+raise was subscribed principally by Allied Minds and Woodford Investment Management (WIM).
+ o On 5 October 2017, Spin Transfer Technologies, Inc. announced that it had secured $22.8 million of 
+funding via a convertible bridge facility. Proceeds from the bridge are to be applied to fund development 
+work of next-generation ST-MRAM. The convertible bridge was underwritten by Allied Minds with initial 
+subscription of $12.7 million. The note was designed to bridge the company to the completion of a Series 
+B round, targeting strategic investors. Post-period end on 11 January 2018, the company announced 
+that existing shareholders Invesco Asset Management and Woodford Investment Management would 
+subscribe for a combined $10.3 million of the bridge facility.
+• In addition to these fundraisings, $16.6 million was invested by the Group into new and other existing 
+subsidiary businesses.
+CORPORATE HIGHLIGHTS
+• On 13 March 2017, the Company appointed Jill Smith, formerly a Non-Executive Director, as interim CEO. 
+Jill’s appointment as President and CEO was confirmed on 30 May 2017.
+• On 29 June 2017, Allied Minds announced the appointment of Simon Davidson as Executive Vice President, 
+Technology Investments.
+• On 19 September 2017, Allied Minds announced the appointment of Harry Rein as an Independent Non-
+Executive Director. 6
+ANNUAL REPORT AND ACCOUNTS 2017
+   
+HIGHLIGHTS (CONTINUED)  
+FINANCIAL HIGHLIGHTS
+• Net cash and investments* of $169.1 million (2016: $226.1 million) of which $84.2 million (2016: 
+$136.7 million) is held at the parent level.
+* includes funds in form of fixed income securities.
+• Revenues of $5.0 million (2016: $2.7 million) mainly from non-recurring engineering (NRE) and service 
+contracts, reflecting the early stage nature of our portfolio of subsidiary businesses.
+• Net loss of $111.1 million, (2016: $128.7 million) primarily reflects G&A and R&D spending of 
+$55.2 million and $49.0 million, respectively, to support the portfolio activities, offset, in part, by NRE 
+revenue of $5.0 million.
+• Group Subsidiary Ownership Adjusted Value (GSOAV) of $395.6 million as of 22 March 2018 
+($416.2 million as at 24 April 2017), reflecting the estimated ownership adjusted value of Allied Minds’ 
+investment in the group subsidiaries.
+CORPORATE PARTNERSHIP HIGHLIGHTS
+• On 30 October 2017, Allied-Bristol Life Sciences, LLC, a biopharmaceutical enterprise jointly owned by 
+Allied Minds and Bristol-Myers Squibb Company announced that it had formed a new subsidiary, ABLS IV, 
+to enter into an alliance with Weill Cornell Medicine and an exclusive licensing agreement with Cornell 
+University in relation to a novel class of inhibitors of immunoproteasomes.
+SELECTED SUBSIDIARY HIGHLIGHTS
+• On 11 July 2017, Spin Transfer Technologies announced the appointment of Tom Sparkman as CEO, 
+signalling a transition to focus on the commercial exploitation of its product differentiators. Tom is a veteran 
+of the semiconductor industry who has held CEO and senior executive roles at Spansion, Integrated Device 
+Technologies, and Maxim Integrated Products.
+• On 12 July 2017, BridgeSat announced the appointment of Barry Matsumori, formerly a senior executive at 
+Qualcomm, SpaceX and Virgin Galactic, as CEO. In April 2017, BridgeSat secured an agreement with The 
+Swedish Space Corporation to install its optical ground stations in at least three ground sites and announced 
+a partnership with York Space Systems (York) to include its optical downlink technology on York satellites 
+delivering the Harbinger Mission for the U.S. Army.
+• Federated Wireless concluded or currently is in live trials with a total of 30 partners across the spectrum 
+sharing ecosystem, and continued to make progress towards full FCC certification expected later in 2018.
+• HawkEye
+360
+ progressed in its preparations for the Pathfinder launch scheduled for Q2 2018 and entered 
+into revenue contracts with commercial and government entities to provide demonstrations of capabilities 
+anticipated to be available with the Pathfinder cluster.
+• Precision Biopsy completed enrolment for its ClariCore™ Cohort A trial and has delivered its algorithm for 
+system level U.S. Food and Drug Administration (FDA) validation and verification. 7
+ANNUAL REPORT AND ACCOUNTS 2017
+   
+HIGHLIGHTS (CONTINUED)  
+Strategic Report
+• On 28 September 2017, SciFluor Life Sciences announced positive top-line results of a Phase 1/2 study 
+of SF0166, the company’s lead drug in development for the topical (eye drop) treatment of patients with 
+Diabetic Macular Edema (DME). The Phase I/II study assessed the safety and preliminary efficacy of SF0166 
+in 40 evaluable patients with DME who were randomized to one of two dose strengths (2.5% and 5.0% 
+solutions) self-administered by patients as an eye drop twice-a-day for 28 days, with a 28 day follow-up 
+period.
+• On 16 October 2017, Spin Transfer Technologies and Tokyo Electron Ltd. announced that they signed 
+an agreement for a collaborative engineering program for next-generation Static Random-Access Memory 
+(SRAM) and Dynamic Random-Access Memory (DRAM)-class Spin-Torque Magnetoresistive Random-Access 
+Memory (ST-MRAM) devices.
+• On 18 December 2017, SciFluor announced positive top-line results of a Phase I/II trial studying the 
+treatment of ‘Wet’ Age-Related Macular Degeneration patients with SF0166, the company’s lead eye drop 
+drug for back of the eye diseases. The double masked Phase I/II study assessed the safety, tolerability and 
+preliminary efficacy of SF0166 in 42 evaluable subjects with neovascular (wet) AMD who were randomised 
+1:1 to self-administer an eye drop containing either a 2.5% or a 5% solution of SF0166 twice-a-day for 28 
+days.
+• Post-period end on 17 January 2018, Allied Minds announced that it had completed the sale of Percipient 
+Networks to WatchGuard Technologies, Inc. 8
+ANNUAL REPORT AND ACCOUNTS 2017
+   
+HIGHLIGHTS (CONTINUED)  
+OUTLOOK FOR TOP SIX SUBSIDIARIES
+Highlighted below are the key operational management objectives for 2018 across the top six subsidiaries. In 
+addition, several of these subsidiaries aim to secure additional funding in the course of 2018. It is in the nature 
+of early stage company creation and development that business plans need to adapt dynamically in response to 
+changing circumstances. Where this becomes necessary we will provide an update on materially revised plans.
+Subsidiary 2018 Key Operational Management Objectives
+BridgeSat • Successfully demonstrate end-to-end service: Network Operations Centre 
+(NOC), at least one ground station, and customer pathfinder(s)
+• Sign 2+ customer agreements; build strong commercial revenue backlog
+Federated Wireless • FCC certification
+• Support multiple customer launches and realise commercial revenue
+• Build out national availability of Environmental Sensing Capability (ESC) network 
+to meet customer requirements
+HawkEye
+360
+• Successfully launch Pathfinder satellite cluster
+• Launch Marine Domain Awareness (MDA) products and realise commercial 
+revenue
+Precision Biopsy • Gain CE Mark
+• Complete Cohort B trial
+SciFluor • Initiate at least one Phase II trial for SF0166
+• Complete in-life Investigational New Drug (IND) enabling study for one new 
+asset
+Spin Transfer Technologies • Successfully demonstrate the advantages of the Spin Polarizer and Endurance 
+Engine
+• Sign 2+ customer/partner agreements 9
+ANNUAL REPORT AND ACCOUNTS 2017
+   
+HIGHLIGHTS (CONTINUED)  
+Strategic Report
+BOARD AND MANAGEMENT HIGHLIGHTS
+Following Jill Smith’s appointment as President and CEO, vacating her previous Non-executive Directorship, the 
+Board appointed Harry Rein as a Non-executive Director in August 2017. Harry brings extensive experience 
+from the venture capital sector, most recently serving as General Partner for 10 years at Foundation Medical 
+Partners (Foundation), an early stage venture capital firm focused on the healthcare sector. Prior to Foundation, 
+Harry served as Founder and Managing Partner at Canaan Partners (Canaan). Harry was responsible for life 
+sciences investments at both Foundation and Canaan. Earlier in his career Harry was President and CEO of GE 
+Venture Capital Corporation, having joined General Electric Company in 1979.
+In July, Simon Davidson was appointed Executive Vice President, Technology Investments. In this role Simon has 
+lead responsibility for the origination of new technology investments and plays an important role in the oversight 
+of our existing technology subsidiaries. Simon has 25 years’ experience in the technology sector and joins Allied 
+Minds from In-Q-Tel, where he was a Managing Partner of the US-based strategic investor that identifies and 
+partners with start-up companies that develop innovative technologies for the US intelligence community.
+In addition to Chris Silva’s resignation as Chief Executive Officer on 10 March 2017, the Company accepted 
+the resignation of Marc Eichenberger as Chief Operating Officer on 26 April 2017.

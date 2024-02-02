@@ -1,0 +1,619 @@
+ Building our future
+Building on the strong 
+foundations of 2016 we 
+have driven significant 
+and sustainable 
+improvements in 
+profitability
+£10.2m
+Invested in product development
+over
+800
+people serving customers in over
+55
+countries worldwide
+Chief Executive's report
+Tribal Group plc Annual Report and Accounts 2017 16 In 2017, the Group has continued to build on the strong 
+foundations built in 2016 and has driven a significant and 
+sustainable improvement in profitability. 
+Revenues fell in 2017 to £84.9m (2016: £90.3m); however, 
+2016 revenue included £11.6m relating to the Ofsted contract 
+which successfully concluded in March 2017 (2017 Ofsted 
+revenue: £3.0m), and £1.7m from Synergy (disposed of in March 
+2016) and SLS (closed 2015). Excluding these items, revenue 
+relating to continuing operations increased by 6.5%, to £81.9m 
+(2016: £76.9m). 
+Annually Recurring Revenues, which from 2017 include cloud 
+services, increased by 5.5% to £37.5m (2016: £35.5m).
+We identified areas where we can more effectively align the 
+Group’s resources to deliver material cost efficiencies and 
+improve margin without impacting the Group’s ability to serve our 
+customers or drive our business forward. Cumulative annualised 
+cost savings achieved since the start of the cost efficiencies 
+programme total £12.0m, of which £3.0 annualised savings were 
+realised in 2017 (2016: £9.0m annualised, of which £5.8m in year). 
+The impact of these actions has grown through the year, and 
+we can report a significantly improved trading performance for 
+2017, with the first full year statutory profit since 2013, and 
+adjusted operating profit up 82% to £8.5m (2016: £4.7m). This, 
+coupled with good cash generation, with net cash up 59% to 
+£14.1m (2016: £8.8m), has left the Group in a stronger position 
+at the end of the financial year.
+2017 in summary
+In our chosen regional markets and sectors, overall activity 
+levels for the replacement or enhancement of student 
+management systems have remained stable; we have seen 
+significantly improved win rates in our UK Further Education 
+and Work-based Learning businesses and we continue to win 
+new customers in the Higher Education sector, reaffirming 
+the strength of Tribal’s software and services portfolio, and 
+confirming that our international customer base and continued 
+market leading position provide a strong platform around which 
+to build long-term shareholder value.
+The Group won significant new contracts in the Higher Education 
+sector, including at the University of Sheffield, a major UK 
+Russell Group University, as well as contracts with Glasgow 
+Caledonian University, University of South Wales and Heriot-
+Watt University. We also secured our third Higher Education 
+customer in Malaysia at the University of Malaya.
+Our Callista business, which provides student information 
+systems to 25% of Australian universities, performed well, and 
+we finalised a AUD$27.5m (approx. £16.8m), four-year extension 
+to our contract with the 11 Universities for the on-going 
+development of the Callista product with seamless migration 
+into the cloud-ready Tribal Edge product platform.
+Quality Assurance Solutions (QAS) confirmed its position as a 
+market-leading international school inspections business. QAS 
+completed the first term as sole provider of school inspections 
+for the Department of Education and Knowledge in Abu Dhabi. 
+In Dubai, a contract with the Ministry of Education (MoE) for the 
+review of public schools was won and delivered. In 2018, the MoE 
+in Dubai also awarded us the contract for the review of private 
+schools. In the US, evaluations of schools and districts in New 
+York State continued under a new contract extension and similar 
+review work was won with a new state, Alabama. The contract 
+to provide the National Centre for Excellence in the Teaching of 
+Mathematics for the UK Department for Education was expanded 
+to include additional maths development in the North of England. 
+The Group's large customer base ensures it is well positioned 
+to take advantage of the increasing market trend to improve 
+student engagement, through our experience in data analytics 
+and student barometers from the i-graduate line of business. 
+Shareholder returns & dividends
+Given recent performance of the business, a strengthened 
+balance sheet and confidence in the sustained profitability of 
+the business, the Board has declared a full year dividend of 1p 
+which will be paid in May 2018, pending approval at the AGM in 
+April 2018. The Board of Directors believes that the payment of 
+dividends is important, and will continue to pursue a progressive 
+dividend policy. 
+Find out more
+Read more about our financial performance in 2017
+24
+Understand more about the key performance indicators  
+we use to track our progress 25
+With significant improvement in profitability as a result of continued restructuring and 
+efficiency drive, Tribal has maintained its market leadership, with strong sales momentum 
+and new customers gained; ongoing investment in the development of a next generation, 
+cloud-based platform for Student Information Systems
+1
+ provides a roadmap for new and 
+existing customers into the future.
+ 17 Financial Statements Governance Strategic Report Introduction
+1 Student Information System (SIS) is the general industry term for education management solutions that encompasses Management Information Systems 
+(MIS), Customer (or Student) Relationship Management (CRM), business insight and data analytics products. Student Management System (SMS) is more 
+specifically the administration aspect of Student Information Systems. We refer to our heritage products as SMS, our new offerings (aligned with their wider 
+applicability) as SIS, and the general industry as student information. Chief Executive's report continued
+Product & Services Strategy
+Tribal is a worldwide, software and services company focussed 
+on the education market. At the core of our business, we have 
+a portfolio of functionally rich student information systems 
+and these are being expanded with the development of a next 
+generation, cloud-based solution – Tribal Edge. Our new product 
+investment will focus on Tribal Edge and delivering a solution 
+that enables institutions to significantly enhance the student 
+experience they are able to offer. 
+The Group also continues to invest significantly in our existing 
+products; in 2017 , the Group spent £10.2m (2016: £10.3m) 
+on product development, of which £2.1m (2016: £1.1m) was 
+capitalised, and related to development of SchoolEdge and the 
+new Tribal Edge solution. The remaining £8.1m (2016: £9.2m) was 
+expensed in year and related to product development costs and 
+related overheads for the existing SITS, ebs, and Maytas products.
+Tribal Edge was successfully launched at our UK Higher Education 
+conference in July. The launch was followed by a series of 
+roadshows to all our UK customers. This has drawn high interest and 
+secured commitments for beta sites and early adopters for the first 
+Tribal Edge modules. The launch to our Asia Pacific customers has 
+been equally well received, with those using Callista having agreed 
+a four-year contract extension that includes the integration of Tribal 
+Edge for their use in the near-term. 
+Our strategy for Tribal Edge has been to first develop a number of 
+new modules that deliver additional functionality for our Higher 
+and Further Education customers and that integrate to all our 
+core student information systems. The initial modules are:
+• Student View – a mobile app giving students anytime, 
+anywhere availability to see their day at a glance and enabling 
+them to access all information they need at their fingertips, 
+all personalised to their timetable and their lifestyle. Student 
+View incorporates Student Engage. 
+• Student Engage – a social collaboration app designed to 
+operate like a social network but with added safeguarding 
+features that keep staff’s professional and personal 
+lives separate. It enables staff and students to connect, 
+communicate and collaborate with each other safely  
+and securely. 
+• Student Support – ensures students are supported through 
+the complete education lifecycle. Institution support staff 
+have a single view of all student performance issues and 
+identify opportunities to deliver critical support to reduce 
+drop-outs and maximise student successes, while students 
+have easy access to support wherever they are. 
+• Student Insight – a learning analytics solution that monitors 
+and tracks student engagement, analysing student data from 
+multiple sources, and flagging students at potential risk, thus 
+enabling the targeting of students that need support. This 
+timely intervention improves outcomes and reduces dropouts. 
+The Student Engage module was kick-started with the 
+acquisition of intellectual property and exclusive distribution 
+rights for an existing private social network solution in the 
+education markets across the UK, Australia and New Zealand. 
+This gave both an existing customer base and a solution that 
+was actively used and could be developed upon, and is now 
+available as Student Engage, fully integrated into a single mobile 
+app, Student View. 
+A closed-beta (limited access) was completed at the end of 
+2017 and a full beta programme is now underway with both 
+Higher Education and Further Education customers in the UK and 
+in Australia. Several early adopters have also been identified and 
+they will receive the roll-out of new modules in early 2018. The 
+Student Insight module was also used as the enabling platform 
+in the ongoing trial of student analytics and analysis with JISC. 
+Our progress with Tribal Edge has been further enhanced 
+with a strategic partnership with Microsoft. Microsoft’s 
+Azure application development team will work with Tribal to 
+accelerate the creation of new functionality, enabling the 
+rapid development of an enhanced cloud-based platform and 
+the conversion of the current functionally-rich applications of 
+SITS:Vision and ebs to the Tribal Edge framework. 
+Outside of Higher and Further Education, we have continued 
+the successful development of SchoolEdge, a new, web-
+based product for schools. Schools in Australia have adopted 
+many of the new modules on offer and the development 
+continues to offer a completely refreshed schools student 
+information system. 
+We have also continued to invest in our market-leading 
+employers and training providers solution, Maytas. This has seen 
+particular growth in the UK where the Government’s introduction 
+of the Apprenticeship Levy has encouraged companies to 
+explore and adopt apprentices. Maytas fully supports the 
+management of apprenticeship programmes including the 
+critical area of funding. 
+Business Structure
+“Oxford chose to work with T ribal 
+because its SITS product is the 
+market leader, and there is a very 
+strong user base and an active user 
+group. We have found T ribal to be a 
+high quality and responsive company 
+to work with, with very good customer 
+engagement from consultancy staff 
+right up to Board level.”
+Oxford University 
+UK
+Tribal Group plc Annual Report and Accounts 2017 18 Tribal’s organisational structure has been simplified to 
+drive improved customer focus, more agile management, 
+responsiveness to local needs and clear accountability across 
+our business and is managed through three segments. 
+Within the Student Management Systems business, we have 
+adopted a primarily regional structure, split between Europe, 
+Middle East and Africa (EMEA), and Australia, New Zealand and 
+Asia-Pacific (APAC). QAS and i-graduate operate as independent 
+businesses and are managed globally. 
+Student Management Systems (SMS) focusses on the following 
+market sectors: Higher Education, Further Education, Colleges 
+and Employers (referred to in Australia as VET), and Schools, and 
+across three main markets, UK, Australia and New Zealand. Product/
+Offerings are split between License & Development Services, 
+Support & Maintenance, Implementation, and Cloud Operations; 
+from 2017 , SMS no longer includes K2 Asset Management (K2) or 
+Software Solutions, as they are non-core businesses and are now 
+included within the i-graduate line of business. 
+Quality Assurance Solutions covers inspection and review 
+services which support the assessment of educational delivery 
+including the Ofsted Early Years inspection contract. From 2017, 
+it also includes Performance Benchmarking. 
+i-graduate covers i-graduate student surveys and data 
+analytics as well as various non-core businesses, not forming 
+part of Student Management Systems or QAS. These include 
+K2 Asset Management, Software Solutions and Information 
+Matters. It no longer includes Performance Benchmarking, which 
+has moved to QAS in 2017.
+Revenue and profit for each segment are restated for 2016 to 
+reflect the above changes.
+Product & Services revenues
+The table below groups products and offerings, irrespective of 
+the segment in which they fall. Most license and related services 
+(Support & Maintenance, Implementation Services and Cloud 
+Services) relate to the Group’s Student Management Systems; 
+however, there are businesses which are non-core, managed 
+under the i-graduate line of business, which include license and 
+related services. This includes K2 and Software Solutions where 
+we continue to support and maintain the existing product; the 
+Group also has a software product, developed and sold by QAS, 
+to support Ofsted as they manage school inspections following 
+the conclusion of our Ofsted contract at the end of March 2017. 
+All revenue (which includes license, support & maintenance, 
+and other services) relating to Synergy (disposed of) and SLS 
+(closed) is shown separately.
+Revenue £’000
+Revenues by LoB 2017
+2016
+(restated) Change
+License &  
+Development fees 9,989 10,973 (9.0%)
+Support &  
+Maintenance fees 33,474 32,211 3.9%
+Implementation Services 14,840 12,411 19.6%
+Cloud Services 4,004 3,322 20.5%
+Software & Related 
+Services 62,307 58,918 5.8%
+School Inspections  
+& related services 
+(excl Ofsted) 14,119 10,925 29.2%
+Survey & data analytics 
+(i-graduate) 3,031 3,147 (3.7%)
+Other Services 2,441 3,918 (37 .7%)
+Non-Software  
+related services 19,591 17 ,989 8.9%
+Continuing Operations 81,898 76,907 6.5%
+Ofsted contract revenues 
+(contract completed) 3,020 11,620
+Synergy/SLS  
+(disposed of/ closed) – 1,728
+Total Revenue 84,918 90,255 (5.9%)
+Annually Recurring 
+Revenue 37,478 35,533 5.5%
+“We wanted a technology partner with 
+the completeness of vision to help 
+us with the radical transformation 
+of post-16 education in Nottingham. 
+Tribal’s integrated technology suite 
+will enable us to deliver the level of 
+student experience, engagement and 
+outcomes to achieve our ultimate 
+ambition of creating one of the best 
+colleges in the country.”
+Nottingham College 
+UK
+ 19 Financial Statements Governance Strategic Report Introduction Chief Executive's report continued
+Overall, the revenue from License & Development fees has 
+fallen 9.0% to £10.0m (2016: £11.0m). This is due in part to 
+contracts successfully moving from a software development 
+phase further into the implementation phase. We have also seen 
+some Higher Education institutions moving towards a bundled 
+pricing model, where the contractual terms result in license 
+revenue being phased over time rather than being recognised 
+upfront, as previously. In 2017, the contract awarded by Glasgow 
+Caledonian University was based on a bundled pricing model 
+with contractual terms that resulted in the software license 
+recognition being phased over the implementation period. 
+For 2018, this transition ends with the move to IFRS15 accounting, 
+by which the Group’s revised revenue recognition policy requires all 
+significant license revenue to be spread over the implementation 
+period (as detailed in the Financial Review section). 
+Support & Maintenance retention rates remain high, and as a 
+result, our Annual Recurring Revenue base has continued to 
+grow. Support & Maintenance fees in the period were £33.5m 
+(2016: £32.2m), an increase of 3.9%.
+Implementation services deliver the technical implementation 
+of our software products at customer sites, typically working 
+alongside customer teams. Implementation projects vary in 
+length, and range from a small number of days, to more than two 
+years for more complex projects. Revenues are typically based 
+on day rate fees, although we sometimes operate under fixed fee 
+contracts for defined implementation scopes. Overall growth of 
+19.6% was driven by the extensive implementation work at British 
+Council, University of Waikato and Massey University.
+Cloud services cover the provision of managed IT services and 
+hosting services to customers to manage their Tribal products 
+either on premise, in a private cloud, or in a public cloud. These 
+services have grown by 20.5% in 2017, to £4.0m (2016: £3.3m) 
+as customers increasingly migrate their IT systems into the 
+cloud. These hosting services are recurring, and from 2017 the 
+Group will include Cloud services revenue in the calculation of 
+Annually Recurring Revenue.
+School inspections & related services covers all products and 
+services offered by the QAS line of business which do not relate 
+to the sale of software licenses and related services.
+Surveys & data analytics covers all products and services 
+offered by the i-graduate line of business which do not relate  
+to the sale of software licenses and related services.
+Geographic revenues
+Revenues generated in Tribal's key geographic markets were as 
+follows:
+Revenue 
+£’000
+2017 2016
+UK 39,252 46,469
+Asia Pacific 33,713 31,819
+North America and rest of the world 11,953 11,967
+84,918 90,255 
+Revenues in Asia Pacific have increased by 6%, mostly due to 
+the QAS contracts secured in Abu Dhabi and Dubai. 
+Headcount
+Headcount 
+As at 31 December
+2017 2016
+UK 542 741
+Asia Pacific 287 323
+North America and rest of the world 21 25
+850 1,089
+Full Time Equivalent (FTE) headcount 820 1,041
+Our overall workforce has reduced by 22% to a total headcount 
+of 850, down from 1,089 at 31 December 2016. Full time 
+equivalent headcount (FTE) has reduced by 221 FTEs in the year.
+This follows an 18% headcount reduction in the previous year, a 
+total reduction of 473 heads (36%) since 31 December 2015. 
+Of these reductions in 2017, approximately 100 FTE reductions 
+were the result of specific actions taken as part of our cost 
+reduction program to drive increased profitability. The other 
+reductions were due to the winding down of the Ofsted contract, 
+and were transferred back to Ofsted under TUPE regulations.
+“I am more than happy to recommend 
+Tribal and their SchoolEdge 
+solution to any school considering a 
+Timetabling solution.”
+The Australian International School 
+Singapore
+Tribal Group plc Annual Report and Accounts 2017 20 Segmental Performance
+Results for each business segment are shown in the table 
+below. The Central and Group costs represent the aggregate of 
+all costs which support the Lines of Business, and which are not 
+directly and specifically attributable to each Line of Business. 
+This provides greater transparency into the profitability of  
+each business.
+Revenue  
+£’000
+Adjusted Operating 
+Profit £’000
+2017
+2016
+(restated) 2017
+2016
+(restated)
+Student 
+Management 
+Systems 60,026 59,005 17,613 12,021
+i-graduate 7,101 8,705 1,064 1,007
+Quality 
+Assurance 
+Solutions 17,791 22,545 4,408 6,537
+Total Lines of 
+Business 84,918 90,255 23,085 19,565
+Central / 
+Group costs 
+1
+(14,543) (14,877)
+8,542 4,688
+1 Central/Group: these are costs described as Unallocated Corporate 
+expenses and represent all costs which are not directly attributable or 
+controllable by the Line of Business. Costs include Finance, HR, Legal, IT, 
+General (non-Line of Business specific) Marketing costs, Corporate Services 
+and Board of Director costs including all attributable office costs. It was 
+detrmined the previous methodology allocated costs in a way that did not 
+represent the level of resource utilised by that business, and accordingly  
+did not provide sufficient insight into the underlying profitability of the  
+Lines of Business.
+Student Management Systems
+Overall activity levels in our markets and sectors for the 
+replacement or enhancement of student information systems 
+remain stable and we continue to see a steady stream of new 
+opportunities in all sectors. 
+In 2016, the Student Management System included combined 
+revenue of £1.7m and profits of £1.0m, from Synergy (disposed 
+of in March 2016) and SLS (closed in 2015). 
+Student Management Systems revenues increased by 1.7% to 
+£60.0m (2016: £59.0m). Excluding Synergy/SLS, SMS revenue 
+grew by 4.8%.
+Adjusted operating profit was £17.6m (2016: £12.0m) and the 
+adjusted operating margin was 29% (2016: 20%). Excluding 
+Synergy/SLS, SMS profit grew by 60%.
+The capitalised development cost was £2.1m in 2017 
+(2016: £1.1m). This relates to continued development of our 
+SchoolEdge product and investment in our Tribal Edge next 
+generation, cloud-based student management system.
+Year ended  
+31 December £’000
+2017 2016
+Total Revenue 60,025 59,005
+Adjusted Operating Profit 17,613 12,021
+Adjusted Operating Profit Margin 29% 20%
+Capitalised Product Development 
+Expenditure 2,135 1,098
+Amortisation of Development costs (1,445) (1,411)
+The Group won significant new contracts in the Higher Education 
+sector, including a £4.3m contract for the implementation of the 
+full student information system at the University of Sheffield, 
+a major UK Russell Group University, as well as contracts 
+with Glasgow Caledonian University, the University of South 
+Wales and Heriot-Watt University. We secured our third Higher 
+Education customer in Malaysia, at the University of Malaya, 
+reaffirming Tribal as an international market leader in student 
+information systems. 
+“We were really impressed with the 
+level of integration and efficiency 
+the combination of Maytas and 
+e-track could bring to our learner 
+management. The Tribal team 
+suggested the best combination of 
+systems and tools to address our 
+specific business needs.”
+Travis Perkins  
+UK
+ 21 Financial Statements Governance Strategic Report Introduction Chief Executive's report continued
+Within the Higher Education sector, our Callista business, 
+which was acquired in March 2015, and which provides student 
+information systems to 25% of Australian universities, 
+performed well, and we finalised a AUD27.5m (approx. £16.8m), 
+four-year extension to our contract with the 11 Universities for 
+the on-going development of the Callista product and seamless 
+migration into the cloud-ready Tribal Edge platform.
+We have successfully completed key implementation stages at 
+Massey University and the University of Waikato in New Zealand, 
+as well as commencing the implementation of recent wins at 
+the University of the Arts London, the University of Malaya, 
+and Sheffield University. Other key implementation contracts 
+continue to proceed well, if slightly delayed, including Universiti 
+Teknologi Petronas (UTP) and Institut Teknologi Petroleum 
+Petronas (INSTEP) in Malaysia, and University of Bristol.
+In the EMEA Further Education and Work-based Learning 
+(WBL) business, we continued to make strong progress in 
+2017, with key wins at Nottingham College, Bridgend College 
+and the Met Film School, and, following the introduction of the 
+apprenticeship levy, secured new WBL Maytas customers, 
+including Travis Perkins, Boots Opticians and EY (Ernst & Young).
+In the APAC Further Education (referred to as VET in Australia/
+New Zealand) and Schools sectors, the New South Wales 
+Student Administration and Learning Management (SALM) 
+programme has continued to deploy our ebs Student 
+Management System successfully; in 2017, we successfully 
+concluded the roll-out to 2,200 schools in New South Wales 
+(NSW). This is in addition to the 138 TAFE (Technical & Further 
+Education) campuses, which continue to operate successfully 
+– although, as previously noted, the NSW Government made a 
+public announcement in June 2016 that they will be reviewing 
+their TAFE student enrolment system and will look to implement 
+a new, cloud-based solution. Tribal continues to discuss the 
+future solution with TAFE NSW but, regardless, we expect TAFE 
+NSW to be a customer into 2019, and the schools’ element of 
+SALM will continue as planned.
+Within our Campus business, the implementation at the British 
+Council continues to proceed well, and we have now gone live in 
+119 locations in 34 countries worldwide.
+Our other Student Information product for schools, SchoolEdge, 
+has enjoyed good customer retention rates during the 
+year. However, we have been informed that the dioceses 
+representing around 800 of the 1800 schools have decided 
+to move from Tribal to a student information system that 
+they are building in collaboration with two providers; we have 
+commenced discussions regarding transitional arrangement; 
+however, we expect to continue to provide software and 
+services to these schools into at least 2019.
+i-graduate
+Year ended  
+31 December £’000
+2017 2016
+Student surveys & data analytics 3,031 3,147
+Other 4,070 5,558
+Total Revenue 7,101 8,705
+Adjusted segment operating profit 1,064 1,007
+Adjusted operating margin 15% 12%
+The i-graduate division provides a range of services for 
+managers of universities, colleges and schools, so they are able 
+to assess and enhance the quality of the education they provide 
+and improve their operational performance. Also included in 
+this line of business are non-core services. Products/Offerings 
+provided by this division include:
+•  i-graduate student surveys & data analytics
+•  K2 Asset Management
+•  Software Solutions
+•  Transformation and change advisory services
+•  Information Management Services
+This division’s activities have increasingly focused on those 
+skills and tools that closely relate to our student information 
+systems. Increasingly, we integrate these activities with our 
+software offerings.
+“We’ve used Tribal software to 
+improve the experience for our 
+applicants. The University absolutely 
+pushes experience far more than 
+it does the nuts and bolts of 
+administration, which really  
+should be as invisible, but as  
+robust as possible.”
+The University of St Andrews 
+UK
+Tribal Group plc Annual Report and Accounts 2017 22 i-graduate line of business revenue in the period was £7.1m 
+(2016: £8.7m), a reduction of 18%. 
+Revenue from the core i-graduate student survey and data 
+analytics offerings fell 3.7% from £3.1m to £3.0m. In our 
+i-graduate business there was a change of leadership in the 
+first half of the year, and we successfully secured contracts in 
+Australia, including for the Australian Universities International 
+Student Barometer. We also extended the strategic partnership 
+with Universities UK International, delivering underpinning 
+research for the widely distributed UK's Competitive Advantage 
+report. However, the overall participation by universities in 
+the key International Student Barometer survey towards the 
+end of 2017 was disappointing, as more universities than 
+expected chose to skip a year. There were also costs of further 
+investment in the business and management transition. These 
+factors adversely impacted the segmental operating profit, 
+which fell to £0.4m (2016: £1.1m).
+The revenue from the non-core businesses fell by £1.5m, 
+including £0.8m in K2 Asset Management and £0.4m in 
+Information Matters as the businesses are transitioned to a 
+maintenance mode. However, the focus on optimising margins 
+improved the operating profit to £0.7m (2016: £(0.1)m).
+Quality Assurance Solutions
+Year ended  
+31 December £’000
+2017 2016
+Education services 14,772 10,925
+Ofsted contract revenues 3,019 11,620
+Total Revenue 17,791 22,545
+Adjusted segment operating profit 4,408 6,538
+Adjusted operating margin 25% 29%
+QAS provides inspection services used by the Office of 
+Standards in Education, Children’s Services and Skills (Ofsted), 
+the UK government agency responsible for monitoring quality in 
+settings such as colleges, schools and nurseries. These services 
+have also been purchased by government agencies in the US 
+and Middle East. Typically, we provide these services under 
+multi-year contracts, with fixed and variable pricing elements. 
+We also provide complementary services including training for 
+prospective quality assurance inspectors, training and software 
+tools for school leaders to prepare for inspections, online 
+professional development tools for teachers to enhance their 
+professional development, and other similar offerings. 
+QAS revenue declined in the period by 21% to £17.8m. However, 
+in March 2017, the final Ofsted contract (“Early Years”) came to 
+a successful conclusion, as previously announced, to be taken 
+back in-house by Ofsted. Revenues relating to Ofsted contracts 
+were £3.0m, down from £11.6m in 2016. 
+The remaining Quality Assurance Solutions business, which 
+excludes the Ofsted contract, had a strong performance and grew 
+by 35% in 2017 , to £14.8m. QAS has secured significant contract 
+wins at the Abu Dhabi Education Council, worth £8.4m over two 
+years, where we are the sole supplier of school reviews in Abu 
+Dhabi, and the Ministry of Education of Dubai & Northern Emirates. 
+The first tranche of these contracts was successfully delivered in 
+2017 . In the US, we signed an extension to our contract with the 
+New York State Education Department, as well as gaining a new 
+customer, the Alabama State Education Department. We also 
+successfully retendered for the NCETM contract (National Centre 
+for Excellence in the Teaching of Maths).
+QAS adjusted operating profit was £4.4m (2016: £6.5m), and 
+adjusted operating margins were 25% (2016: 29%).
+  
+Ian Bowles
+Chief Executive Officer
+“The successful implementation 
+of the single ebs can be largely 
+attributed to the efforts of a highly 
+skilled, highly capable and motivated 
+project team who worked across 
+sites to bring this project in on time, 
+under budget and in scope. The 
+expertise and commitment from 
+the Tribal NZ consulting team must 
+also be commended. This is the 
+first merger project of this scale 
+to be delivered and positions the 
+organisation well to provide student 
+support and services across our 
+numerous delivery locations.”
+Toi Ohomai Institute of Technology 
+New Zealand
+ 23 Financial Statements Governance Strategic Report Introduction

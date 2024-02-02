@@ -1,0 +1,817 @@
+ STRATEGIC REPORT
+12
+Eagle Eye Solutions Group plc
+Annual Report 2017
+13
+Eagle Eye Solutions Group plc
+Annual Report 2017
+For more information, please visit:
+www.eagleeye.com
+Key performance indicators
+Financial
+2017 
+£000
+2016 
+£000
+Revenue 11,058 6,458
+Adjusted EBITDA loss
+1
+(1,769) (1,823)
+Loss before interest and tax (3,843) (4,100)
+Cash and cash equivalents 3,724 1,322
+Non-financial 2017 2016
+Number of redemptions 60.4m 38.4m
+Messaging volumes 44.4m 40.3m
+Percentage of subscription transaction revenue 68% 80%
+Customers and brands on the platform 233 219
+1 Adjusted EBITDA loss excludes share-based payment charges along with depreciation, amortisation,  
+interest and tax from the measure of profit.
+Overall, £7.5m of revenue generated 
+from subscription fees and transactions 
+over the network represented 68% 
+of total revenue (2016: 80%, £5.2m). 
+The balance, £3.5m, relates to 
+implementation fees for new customers 
+and new services and represents 
+32% of total revenue (2016: 20%, 
+£1.3m). This increase in value and 
+share for implementation fees reflects 
+the progress made in deepening the 
+Group’s product offering within major 
+accounts, particularly for our UK and 
+international Tier 1 grocer clients where 
+implementation fees were £2.8m (2016: 
+£0.7m). These implementations open 
+up recurring transactional revenues 
+which benefit future periods.
+Although message volumes increased 
+10% in the year to 44.4m (2016: 
+40.3m), messaging revenue fell to 
+£1.6m for the year (2016: £1.8m). This 
+reduction reflects the increasingly 
+competitive messaging market. The 
+Group renewed two key contracts 
+during and after the year, for UK 
+Power Networks and Paragon, and 
+has seen increases in transactional 
+volumes following those renewals. 
+Gross profit
+The gross margin increased to 88% 
+(2016: 79%) as gross profit grew to 
+£9.8m (2016: £5.1m). The core AIR 
+gross margin carries a significantly 
+higher margin than the messaging 
+business, and has continued to 
+improve during the year to 96% (2016: 
+92%). This increase, together with the 
+increase in core AIR revenue which 
+now accounts for 85% of total revenue, 
+has driven the improved margin.
+Adjusted operating costs
+Adjusted operating costs of £11.5m 
+(2016: £6.9m) represent sales and 
+marketing, product development (net 
+of capitalised costs), operational IT, 
+general and administration costs. 
+The overall increase was in line with 
+management’s expectations and 
+plans for strategic growth, including 
+supporting the international activity 
+for Loblaw in Canada. The investment 
+in people is the main driver of this 
+growth, with the average headcount 
+for the year increasing to 100 
+(2016: 73). During the year the Group’s 
+infrastructure was also enhanced with 
+both an operational and a disaster 
+recovery data centre in North America 
+having been established, in addition 
+to the existing facilities in the UK.
+Within staff costs gross expenditure 
+on product development increased 
+69% to £2.9m (2016: £1.7m) reflecting 
+investment in enhancing the capacity, 
+features and speed of the AIR platform. 
+Capitalised product development 
+costs were £1.5m (2016: £1.2m) whilst 
+amortisation of capitalised development 
+costs was £1.5m (2016: £1.6m). 
+EBITDA 
+Reflecting the strategic re-investment 
+of increased gross profits, adjusted 
+EBITDA loss for the year was held at 
+£1.8m (2016: loss £1.8m). To provide a 
+better guide to the underlying business 
+performance, adjusted EBITDA excludes 
+share-based payment charges along 
+with depreciation, amortisation, interest 
+and tax from the measure of profit. 
+The GAAP measure of loss before 
+interest and tax improved to £3.8m 
+(2016: £4.1m) reflecting a reduction in 
+the non-cash share-based payment 
+charge to £0.4m (2016: £0.6m).
+EPS and dividend
+Following receipt of £0.3m research 
+and development tax credit 
+(2016: £0.4m), reported basic and 
+diluted loss per share was 15.73p 
+(2016: loss per share 16.36p). 
+The Board does not feel it appropriate at 
+this time to commence paying dividends.
+Group statement of financial 
+position
+Following the successful placing 
+completed in June 2017 which raised 
+£5.8m (net of costs), the Group had 
+net assets of £8.9m at 30 June 2017 
+(2016: £5.9m), including capitalised 
+intellectual property of £2.2m (2016: 
+£2.2m) and cash of £3.7m (2016: 
+£1.3m). The increase in net assets 
+reflects the proceeds of the placing 
+offset by the loss made in the year. 
+Cash flow and net cash 
+Cash at the end of the year had 
+increased to £3.7m (2016: £1.3m). The 
+main components to the gross cash 
+increase of £2.4m for the year (2016: 
+£3.0m decrease) were the proceeds 
+from the placing of £5.8m, offset by an 
+operating cash outflow of £2.0m (2016: 
+£1.5m) and capital investment in the 
+AIR platform of £1.5m (2016: £1.2m).
+Banking facility
+During the year the Group extended 
+its three-year revolving loan facility 
+with Barclays Bank plc (first arranged 
+in June 2016) to £3.0m (2016: 
+£1.5m) that is currently undrawn and 
+together with the funds raised in the 
+placing means that the Group is well 
+positioned to capitalise on recent 
+momentum in the business and to 
+pursue identified growth opportunities. 
+Financial review
+Redemption volumes, a key measure of usage of the 
+AIR platform, grew by 58% year-on-year to 60.4m for 
+the year (2016: 38.4m). In addition, loyalty interactions 
+totalled 1.1m (2016: 0.1m).
+Group results
+Revenue
+Revenue growth for the Group was up 
+38ppts to 71% for the year (2016: 33%), 
+with revenue increasing to £11.1m (2016: 
+£6.5m). The Group is continuing to grow 
+half-by-half and H2 2017 revenue 
+accounted for £6.0m (H1 2017: £5.1m), 
+representing growth of 18% on H1 2017 
+(H1 2016 to H2 2016: 19%).
+This growth has been driven by 
+increased revenue from the AIR 
+platform which now represents 85% 
+of total revenue, £9.4m (2016: 72%, 
+£4.6m). This increase was largely as 
+a result of the Group’s success with 
+Tier 1 grocer clients; Asda, Sainsbury’s 
+and Loblaw. Revenue from Tier 1 
+clients in the UK increased by 92% 
+to £3.3m (2016: £1.7m). This growth 
+was also supported by new business 
+wins such as John Lewis and Society 
+of London Theatres and deepening 
+relationships with existing clients, thus 
+increasing redemption volumes. 
+Of the AIR platform revenue stream, the 
+element specifically linked to recurring 
+subscriptions and transactions saw a 
+69% increase to £5.9m (2016: £3.5m), 
+aided specifically by increased licence 
+fees for the Tier 1 clients and the full 
+year effect on transactions of the 
+national roll out of the AIR platform 
+across all Asda stores. This Tier 1 AIR 
+revenue growth is also supported by 
+growth from F&B clients (20%) and 
+other retail clients (69%) in the year. 
+Redemption volumes, a key measure 
+of usage of the AIR platform, grew 
+by 58% year-on-year to 60.4m for 
+the year (2016: 38.4m) driven by the 
+full year impact of our solution for 
+Asda’s coupon counting going fully 
+live in the prior year, initial Sainsbury’s 
+transactions and increased volumes 
+from existing F&B and other retail 
+clients. In addition, loyalty interactions 
+totalled 1.1m (2016: 0.1m) reflecting 
+the adoption of our loyalty solution by 
+Greggs and M&B during the year. STRATEGIC REPORT
+14
+Eagle Eye Solutions Group plc
+Annual Report 2017
+15
+Eagle Eye Solutions Group plc
+Annual Report 2017
+For more information, please visit:
+www.eagleeye.com
+Product risk
+The Group’s business involves providing 
+customers with highly reliable software 
+and services. If the software or services 
+contain undetected defects when first 
+introduced or enhanced, the Group may 
+fail to meet its customers’ performance 
+requirements or otherwise satisfy the 
+contract specifications. As a result, it 
+may lose customers and/or may become 
+liable to them for damages. Whilst the 
+Group has liability insurance in place 
+and endeavours to negotiate limitations 
+on its liability in its customer contracts, 
+this is not always commercially possible. 
+Additionally, the Group is committed to 
+developing products for its customers 
+on a set timeline. However, the pace of 
+progress of the development projects 
+may not be as expected and the Group 
+could fail to meet its customers’ timing 
+or performance requirements. As a 
+result of these risks, the Group may 
+lose customers, may become liable 
+to those customers for damages and 
+may suffer damage to its reputation.
+The Group has service level commitment 
+obligations with some of its customers 
+in which it provides various guarantees 
+regarding levels of service. The Group 
+may not be able to meet these levels 
+of service due to a variety of factors, 
+both inside and outside the Group’s 
+control. If the Group fails to provide 
+the levels of service required by the 
+agreements, such customers may be 
+entitled to terminate their contracts or 
+may choose not to enter into new work 
+orders with the Group and this may also 
+damage the Group’s reputation and 
+reduce the confidence of the Group’s 
+customers in its software and services, 
+impairing its ability to retain existing 
+customers and attract new customers.
+Online security breaches,  
+data loss and fraud
+Security breach and fraud remain key 
+concerns in the online payments world 
+and any security breach or fraud event 
+might deter consumers from purchasing 
+goods via online voucher and offer 
+content. Any move away from the mobile 
+channel for purchasing goods could 
+have a negative impact on the Group’s 
+growth prospects and revenues. 
+Security breach and fraud may also 
+lead to regulatory investigations, 
+sanctions (including fines) and litigation 
+with clients and consumers. Any 
+regulatory investigation or litigation 
+may be costly and may divert efforts 
+and attention of the Group’s key 
+management and other personnel 
+and resources, may cause wider 
+reputational damage to the Group and 
+may result in existing clients terminating 
+contracts and deter potential new 
+clients from becoming actual clients.
+Any compromise of the Group’s 
+systems, security breaches or data loss 
+may result in the temporary inability of 
+the Group to operate its services and 
+clients’ mobile sites and applications 
+and therefore may have a detrimental 
+impact on the Group’s revenues, 
+both directly through the inability of 
+the Group’s clients to trade or of the 
+Group to authenticate offers, and 
+indirectly through loss of confidence in 
+the security of the Group’s platform. 
+In line with its ISO 27001 accredited 
+procedures, the Group uses a third party 
+security and data compliance service to 
+monitor and mitigate against this risk in 
+addition to client specific security testing.
+Dependence on key customers 
+The Group is dependent on a 
+number of key contracts and partner 
+relationships for its current and future 
+growth and development. A limited 
+number of clients account for a large 
+percentage of the Group’s revenue. 
+Whilst the Group endeavours to enter 
+and renew long-term agreements with 
+its clients, there can be no assurance 
+that clients will continue to be secured 
+on acceptable terms and conditions.
+ 
+Financial review continued
+Principal risks and uncertainties
+Evolution of the market
+The Group operates in an evolving 
+market and there is a possibility that the 
+rate of growth in mobile commerce will 
+not match independent predictions or 
+that users of mobile devices will change 
+their behaviour with respect to mobile 
+commerce. The Group’s services are 
+new and evolving and it is difficult to 
+predict the future growth rates, if any, 
+and the size of these markets. Even if 
+the market for the Group’s products 
+develops as anticipated, the Group 
+may face severe competition from other 
+businesses offering similar products 
+and services and there can therefore 
+be no assurance that the Group will 
+be able to secure customers for its 
+products and services on acceptable 
+terms and conditions, or successfully 
+adjust the Group’s strategy to meet 
+the changing market dynamics. 
+The Group is also entering new 
+international markets and not all of 
+these markets may be at the same 
+stage of development. The Group 
+may face competition from other local 
+businesses in those territories offering 
+similar products and services and there 
+can therefore be no assurance that the 
+Group will be able to secure customers 
+for its services on acceptable terms and 
+conditions, or successfully adjust the 
+Group’s strategy to meet the different 
+dynamics of these new markets. 
+These risks are mitigated by the 
+strength and experience of the 
+Group’s management team.
+Technological changes could 
+overtake the products being 
+developed by the Group
+The Group’s business is dependent 
+upon technology which could be 
+superseded by superior technology, 
+more competitively priced technology 
+or a shift in retail practices which could 
+affect both the potential profitability 
+and the saleability of the Group’s 
+product offering. Staying abreast of 
+technological changes may require 
+substantial investment. The Group’s 
+existing software products need to 
+develop continually in order to meet 
+customer requirements. The Group may 
+encounter delays and incur additional 
+development and production costs 
+and expenses, over and above those 
+expected by the Directors, in order 
+to develop suitable technologies and 
+products. The technology used in the 
+Group’s products is still evolving and 
+is highly complex and may change 
+rapidly. Research and development by 
+other companies may render any of 
+the Group’s products in development, 
+or currently available, obsolete. This 
+risk is primarily mitigated by the quality 
+of the technical staff recruited.
+Protection of intellectual property
+The Group’s success and ability 
+to compete effectively are in large 
+part dependent upon exploitation of 
+proprietary technologies and products 
+that the Group has developed internally, 
+the Group’s ability to protect and enforce 
+its intellectual property rights so as to 
+preserve its exclusive rights in respect of 
+those technologies and products, and its 
+ability to preserve the confidentiality of 
+its know-how. The Group relies primarily 
+on enforcement of its pending and 
+granted patents under applicable patent 
+laws and non-disclosure agreements to 
+protect its intellectual property rights. 
+No assurance can be given that the 
+Group will develop further technologies 
+or products which are patentable, that 
+patents will be sufficiently broad in 
+their scope to provide protection for 
+the Group’s intellectual property rights 
+against third parties, or that patents 
+will have been granted in all new 
+territories which the Group enters.
+Patents pending or future patent 
+applications may not be granted and 
+the lack of any such patents may 
+have a material adverse effect on the 
+Group’s ability to develop and market 
+its proposed products. Where patents 
+have been granted the Group may not 
+have the resources to protect any such 
+issued patent from infringement. There 
+is a significant delay between the time of 
+filing of a patent application and the time 
+its contents are made public, and others 
+may have filed patent applications for 
+subject matter covered by the Group’s 
+pending patent applications without the 
+Group being aware of those applications. 
+The Group’s patent applications may 
+not have priority over patent applications 
+of others and its pending patent 
+applications may not result in issued 
+patents. Even if the Group obtains 
+patents, they may not be valid or 
+enforceable against others. Moreover, 
+even if the Group receives patent 
+protection for some or all of its products, 
+those patents may not give the Group 
+an advantage over competitors with 
+similar products. Furthermore, the Group 
+cannot patent much of the technology 
+that is important to its business. If the 
+Group fails to obtain adequate access 
+to, or protection for, the intellectual 
+property required to pursue its strategy, 
+the Group’s competitors may be able 
+to take advantage of the Group’s 
+research and development efforts.
+Once granted, a patent can be 
+challenged both in the patent office 
+and in the courts by third parties. 
+Third parties can bring material and 
+arguments which the patent office 
+granting the patent may not have seen. 
+Therefore, issued patents may be 
+found by a court of law or by the patent 
+office to be invalid or unenforceable 
+or in need of further restriction. STRATEGIC REPORT
+16
+Eagle Eye Solutions Group plc
+Annual Report 2017
+17
+Eagle Eye Solutions Group plc
+Annual Report 2017
+For more information, please visit:
+www.eagleeye.com
+Employee involvement
+The Group recognises and seeks 
+to encourage the involvement of its 
+employees, with the aim being the 
+recruitment, motivation and retention of 
+quality employees throughout the Group. 
+The Group encourages employee 
+performance through employee 
+remuneration packages, including by 
+granting share options, and by 
+promoting its core values to employees. 
+The Group ensures that employees are 
+fully aware of financial and economic 
+factors affecting its performance.
+The Group’s employment policies, including 
+the commitment to equal opportunity, are 
+designed to attract, retain and motivate 
+employees regardless of sex, race, 
+religion or disability. Equality of treatment 
+includes full and fair assessment of 
+applications and extends to training 
+and continuing career development.
+The Group is committed to ensuring and 
+communicating the requirements for a 
+safe and healthy working environment for 
+all employees, consistent with health and 
+safety legislation and, where practicable, 
+gives full consideration to applications 
+for employment from disabled persons.
+By order of the Board
+Lucy Sharman-Munday
+Company Secretary
+5 New Street Square
+London
+EC4A 3TW
+18 September 2017
+Financial review continued
+Staff recruitment and retention
+The ability to continue to attract and 
+retain employees with the appropriate 
+expertise and skills cannot be 
+guaranteed. Finding and hiring any 
+additional personnel and replacements 
+could be costly and might require the 
+Group to grant significant equity awards 
+or other incentive compensation, which 
+could adversely impact its financial 
+results. The Group’s future development 
+and prospects depend to a significant 
+degree on the experience, performance 
+and continued service of its senior 
+management team. Effective product 
+development and innovation, upon which 
+the Group’s success is dependent, 
+is in turn dependent upon attracting 
+and retaining talented technical and 
+marketing personnel, who represent a 
+significant asset and serve as the source 
+of the Group’s technological and product 
+innovations. In addition, to continue to 
+expand the Group’s customer base, 
+increase sales and achieve growth 
+generally, the Group will need to hire 
+additional qualified sales personnel 
+as well as recruit further personnel in 
+administrative and operational support 
+functions. If the Group is unable to hire, 
+train and retain such personnel in a 
+timely manner an undue burden could 
+be placed on existing personnel, the 
+development and introduction of the 
+Group’s products could be delayed 
+and its ability to sell its products and 
+otherwise to grow its business could 
+be impaired and the delay and inability 
+may have a detrimental effect upon 
+the performance of the Group.
+Changes in applicable  
+laws and regulations
+Laws and regulations governing internet-
+based services, related communication 
+services and information technology, 
+e-commerce, the processing of personal 
+data (including the introduction of the 
+General Data Protection Regulation 
+in 2018), the processing of payment 
+card data and mobile commerce in 
+the UK and other territories continue 
+to evolve and, depending on the 
+evolution of such regulations, may 
+adversely affect the Group’s business.
+Exit of UK from European Union
+The UK has voted in an advisory 
+referendum to leave the European Union 
+(commonly referred to as “Brexit”). 
+The impact of the referendum and 
+consequent triggering of Article 50 of the 
+Lisbon Treaty is not yet clear, but it may 
+significantly affect the fiscal, monetary 
+and regulatory landscape in the UK, and 
+could have a material impact on its 
+economy and the future growth of its 
+various industries. Depending on the exit 
+terms negotiated between EU Member 
+States and the UK following Brexit, the 
+UK could lose access to the single 
+European Union market and the global 
+trade deals negotiated by the European 
+Union on behalf of its members. Such a 
+change in trade terms could affect 
+the attractiveness of the UK as an 
+investment centre and, as a result, 
+could have a detrimental effect on UK 
+companies. This may impact the Group’s 
+ability to access funding in the future, 
+and its prospects. Although it is not 
+possible at this point in time to predict 
+fully the effects of an exit of the UK from 
+the European Union, it could have a 
+material effect on the Group’s business, 
+financial condition and results of 
+operations. In particular, it may impact 
+the Group’s ability to recruit suitably 
+skilled staff for its UK-based operations.
+Exchange rate risk
+As its international operations grow, 
+exchange rate fluctuations could 
+have a material adverse effect on 
+the Group’s profitability or the price 
+competitiveness of its services. There 
+can be no assurance that the Group 
+would be able to compensate or 
+hedge against such adverse effects 
+and therefore negative exchange rate 
+movements could have a material 
+adverse effect on the Group’s business, 
+prospects and financial performance.
+Corporate social responsibility
+The Group embraces working in a 
+way that delivers financial, socially 
+responsible and environmentally 
+sustainable business performance 
+and ensures adherence to the law and 
+conducts its affairs to the highest ethical 
+standards. We expect our customers 
+and suppliers to embrace these same 
+principles. The Group values teamwork, 
+taking personal responsibility, positive 
+attitudes and working hard to deliver 
+positive outcomes for all our stakeholders 
+– customers, staff and shareholders 
+alike. We encourage the personal 
+learning, growth and development of our 
+team and voluntarily try to eliminate 
+practices that harm the environment.
+MAKING EVERY DAY YOUR MASTERPIECE GOVERNANCE
+18
+Eagle Eye Solutions Group plc
+Annual Report 2017
+19
+Eagle Eye Solutions Group plc
+Annual Report 2017
+For more information, please visit:
+www.eagleeye.com Board of Directors
+Malcolm Wall 
+Non-Executive  
+Chairman 
+ 
+Malcolm joined the Group as 
+a non-executive director in 
+2014, taking the role of 
+Chairman in September 2016. 
+He was previously CEO, and 
+then advisor to the board, of 
+Abu Dhabi Media Company. 
+He is also the former chief 
+executive, content for Virgin 
+Media where he ran Virgin’s 
+television proposition, the 
+Virgin Media portal and their 
+television channel groups. 
+Malcolm joined Virgin from 
+United Business Media, 
+where he was chief 
+operating officer. 
+He has also worked in senior 
+executive roles for a number 
+of ITV companies, including 
+Granada, Anglia and 
+Southern. Malcolm is 
+currently chairman of 
+Audioboom plc and Dock10 
+Limited. He is also a non-
+executive director of Image 
+Nation LLC.
+Bill Currie 
+Non-Executive  
+Director 
+ Bill joined the Group as a 
+non-executive director in 
+2011. He is the founder 
+of the William Currie 
+group of companies. 
+Previously he was a top 
+ranked city investment 
+analyst, serving as joint 
+managing director of 
+Charterhouse Securities and 
+Director of Research at BZW. 
+Bill and his wife, Kate, 
+were co-founders of The 
+Fragrance Shop Limited. His 
+current directorships include 
+Metapack Limited, Belvedere 
+Schools Limited, LTS Group 
+Limited and Wranx Limited.
+Steve Rothwell 
+Founder and Chief 
+Technical Officer
+Steve founded the Group 
+in 2003, and is responsible 
+for the product vision, 
+development and roadmap. 
+Prior to that, he was 
+the founder and chief 
+executive officer of Eagle 
+Eye Technology Limited, 
+a software consultancy 
+business. Before that he was 
+a developer and consultant 
+for Consult Hyperion, 
+developing concepts in 
+the media and payments 
+industries, and a software 
+engineer for Ericsson. 
+Steve has a BEng in 
+electrical and electronic 
+engineering from the 
+University of Leicester.
+Drew Thomson 
+Non-Executive  
+Director 
+
+Drew joined the Group as 
+a non-executive director in 
+2014. He is a business leader 
+and entrepreneur with a track 
+record in funding, creating, 
+building and growing 
+international businesses. 
+Most recently Drew was 
+the co-founder and chief 
+executive of Starcount. 
+Prior to this he was 
+executive chairman of 
+Iris Worldwide where he 
+led the development and 
+international growth of 
+the Iris group business. 
+Previously to joining Iris, 
+Drew was a founding 
+partner of Paternoster, the 
+UK’s first defined benefit 
+pension scheme risk 
+transfer company. Before 
+setting up Paternoster, 
+he was chief executive of 
+Airmiles and BA Miles.
+Tim Mason 
+Chief Executive Officer 
+Tim joined as Chairman in 
+January 2016, later moving 
+to CEO in September 2016. 
+He has over 30 years’ 
+experience within the 
+grocery and retail industries, 
+with a strong background 
+in strategic marketing 
+and customer loyalty. 
+Tim’s last role was as 
+chairman of Bonmarche 
+Holdings plc from 2013 to 
+2015. Prior to that he was 
+deputy CEO at Tesco from 
+January 2010 to December 
+2012. He held a number 
+of other roles within the 
+Tesco Group between 
+1982 and 2012 including 
+CMO for Tesco and CEO 
+of Fresh & Easy LLC. 
+He is also currently chairman 
+of Starcount Limited and a 
+director of It’s Fresh Limited 
+and So Purple Group Limited.
+Sir Terry Leahy 
+Non-Executive  
+Director
+Sir Terry joined the Group 
+as a non-executive 
+director in 2011. 
+Sir Terry completed a 32 
+year career at Tesco plc as 
+chief executive from 1997 
+to 2011. Sir Terry received 
+a Knighthood for services 
+to food retailing in the 2002 
+New Year Honours. He 
+was chosen as Britain’s 
+“Business Leader of the Year” 
+in 2003 and the Fortune 
+European Businessman 
+of the Year for 2004.
+Since 2011 he has focused 
+on investments in early-stage 
+businesses. He is a director 
+of Metapack Limited, the 
+Social Mobility Foundation 
+and the Foundation Years 
+Trust. He is a senior advisor 
+to CD&R, the US private 
+equity firm, and serves 
+as chairman of B&M 
+Stores, BUT International 
+and is a director of the 
+Motor Fuel Group.
+Lucy Sharman-Munday 
+Chief Financial Officer 
+Lucy joined the Group in 
+2014. Prior to this, she was 
+the CFO of the 5one group, 
+the global consultancy 
+providing services, analysis 
+and software to help retailers 
+achieve a customer-centric 
+strategy. The global role 
+covered Europe, South Africa 
+and setting up America. 
+Prior to this she worked for 
+Adapt Group Ltd, and in 
+2006 iSOFT plc as an integral 
+part of the turn-around 
+team that successfully sold 
+the business to IBA Health 
+Group at the end of 2007. 
+Lucy began her career at 
+KPMG in 1999 and is a 
+member of the Institute of 
+Chartered Accountants 
+in England & Wales.
+Board committee membership
+ – Audit Committee
+ – Remuneration Committee

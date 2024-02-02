@@ -1,0 +1,62 @@
+ Corero at a glance
+Corero is dedicated to improving the 
+security and availability of the Internet 
+through the deployment of innovative  
+DDoS mitigation solutions.
+DDoS attacks continue to rise in size, frequency  
+and complexity, impacting the security and availability  
+of the Internet.
+35%
+increase in attacks  
+per quarter
+8
+attacks per  
+customer per day
+71%
+attacks 10 minutes  
+or less
+96%
+attacks 5Gbps  
+or less
+Service providers, cloud providers and Internet 
+connected businesses require real-time protection 
+against this evolving threat landscape. The Corero 
+SmartWall family of products can be deployed in  
+various topologies (in-line or scrubbing). 
+ 
+The SmartWall family of products utilises 
+modern DDoS mitigation architecture to 
+automatically and surgically remove 
+DDoS attack traffic, while allowing good 
+user traffic to flow uninterrupted.
+Corero’s key operational centres are in 
+Marlborough, Massachusetts in the USA 
+and Edinburgh in the UK, with the 
+Company’s registered office in Uxbridge 
+in the UK.
+The goal of the Corero real-time DDoS 
+mitigation solution is to protect the 
+customer’s service availability and 
+ultimately revenues and brand 
+reputations from harmful DDoS attacks. 
+The Corero solutions are among the 
+highest performing in the industry, while 
+providing the most automated DDoS 
+protection at unprecedented scale with 
+the lowest total cost of ownership to  
+the customer. 
+ 
+These solutions are designed to  
+provide real-time attack mitigation  
+with continuous threat visibility,  
+enabling the monetisation of DDoS 
+protection as-a-service offering for 
+service providers. 
+The Corero SmartWall protects against 
+the latest breed of DDoS attacks in 
+seconds not minutes, including 
+volumetric and multi-vector attacks.
+(Source: Corero DDoS Trends Report 
+Q2-Q3 2017)
+Corero Network Security plc
+Annual Report & Accounts 2017 02

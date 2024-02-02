@@ -1,0 +1,176 @@
+ Chief Executive’s review
+Martin	Rolfe
+Overall we made good progress in implementing our strategic objectives this year and achieved all but one of the priorities we set ourselves. I was pleased 
+with	our	performance	as	we	handled	the	most	rapid	growth	in	air	traffic	volumes	in	a	decade	while	in	parallel	continuing	to	make	changes	to	our	operation.	
+Priorities for 2017 How we did
+Provide a safe, efficient and reliable service every day from our airports and centres
+Deliver SESAR technology and transform the business for the future:
+ > Complete	the	introduction	of	iTEC	into	Scottish	Upper	Airspace
+ > Deploy	and	operate	electronic	flight	strips	in	Swanwick	Terminal	Control
+Win and retain commercial business:
+ > Establish a remote tower capability
+ > Establish further strategic partnerships with our airport customers
+ > Achieve	Mode	S	Surveillance	capability	for	Project	Marshall
+NATS Holdings Limited Annual Report and Accounts 2017 Strategic report   |  10
+Progress Provide a safe, efficient and reliable service every day
+This	year	we	safely	handled	7.6%	more	flights	than	last	year.	We	saw 	
+high	growth	rates	in	international	flights,	particularly	from	London	
+airports,	and	the	volume	of	North	Atlantic	flights	exceeded	its	previous	
+peak	in	2008.	The	number	of	flights	was	also	higher	than	projected	
+by the Civil Aviation Authority (CAA) in our Performance Plan for 
+Reference Period 2 (RP2: 2015-2019) which, while challenging to handle 
+operationally,	has	benefited	our	revenue.
+The	basic	structure	of	the	UK’s	airspace	(its	routes,	sectors	and	holding	
+patterns)	was	designed	over	50	years	ago	when	traffic	volumes	were	far	
+lower than they are today. Airspace in the South East is now operating 
+to its maximum capacity during the busiest times of the year. When 
+the airspace is at capacity our service performance is very sensitive 
+to	the	timing	and	distribution	of	traffic	flows	across	the	country.	This	
+was evident last summer when periods of bad weather combined with 
+industrial	action	in	neighbouring	countries	(causing	flights	to	divert	into	
+UK	airspace)	changed	the	patterns	of	flight	across	the	UK.	We	faced	
+similar operational challenges when particularly high demand coincided 
+with the introduction of new systems (e.g. iTEC) into our operation.
+Our primary objective is to ensure that, irrespective of the prevailing 
+conditions,	all	flights	are	handled	safely.	For	this	reason,	on	certain	
+days,	we	regulated	traffic	flows	in	some	sectors	of	airspace	to	maintain	
+safety	which	resulted	in	more	air	traffic	delay	than	has	been	seen	in	
+recent years, and slightly more than our regulatory targets anticipated. 
+However, at no point did our performance fall outside of the bounds of 
+the RP2 Performance Scheme targets which was very good, considering 
+the	scale	of	traffic	growth.	Our	service	was	also	extremely	good	in	
+comparison to Europe, with delay amounting to one third of the 
+European average. 
+Learning from last summer, we have been working closely with 
+airlines, airports and the CAA over the winter to assess demand across 
+the	UK	airspace	network	and	to	develop	a	strategy	to	minimise	delay 
+this summer.
+Deliver SESAR technology and transform the business 
+for the future
+The longer term solution to minimising delay during periods of high 
+demand	is	the	combination	of	new	technology	and	modern	UK	airspace	
+structures. The process of modernising airspace started in the previous 
+financial	year	but	further	stages	have	been	paused	pending	Government	
+consultation	on	a	UK	aviation	strategy	over	the	next	year.
+We expect this strategy to include greater Government emphasis on 
+airspace	modernisation	and	its	effect	on	those	who	are	overflown.	
+Modernising	airspace	will	significantly	increase	its	capacity	but,	like	
+runway	capacity	enhancement,	there	are	significant	social	and	political	
+hurdles (such as public opposition to changing aircraft noise patterns) to 
+be overcome, even when the noise impact is an overall improvement for 
+a community. By engaging effectively with local communities, alongside 
+airports and airlines, we can establish rules for respite and distribution 
+that can help mitigate some of the noise impact on the ground. 
+We also welcome Government’s clear decision on the location of a new 
+runway and a faster planning process to deliver it. We have already 
+started working with Heathrow Airport and other stakeholders to review 
+the design of the local airspace, taking account of safety, noise and other 
+environmental considerations. 
+We consulted customers during the year on a revised capital investment 
+plan for RP2. This follows changes that we have seen in the business 
+environment	(such	as	higher	than	expected	traffic	growth)	and	progress	
+made by the industry in developing SESAR technologies, such as iTEC. In 
+a programme we refer to as Deploying SESAR
+5
+, we propose to accelerate 
+the	deployment	of	new	technology	to	deliver	capacity	and	safety	benefits	
+to customers more quickly while reducing our investment in legacy 
+systems and their running costs. To achieve this, we expect to invest 
+up to £160m more than the RP2 Performance Plan assumed. In order 
+to mitigate the impact of this additional investment on prices in future, 
+we	have	secured	£100m	of	EU	(INEA)	funding	and	we	are	applying	for	a	
+further £30m.
+As we deploy new technology we will be retiring our legacy systems. 
+This	requires	significant	change	to	our	operation,	including	the	need	to	
+train our people in the use of these new systems and in new methods of 
+operation. While the transition will be challenging we will be doing all we 
+can to minimise any operational impacts for our customers. 
+This year we achieved key programme milestones, developing our ability 
+to manage similar transitions in future: we delivered a new system to 
+control upper airspace from our Prestwick Centre and we have started 
+trial	operational	use	of	electronic	flight	strips	in	our	Swanwick	terminal	
+control operation.
+Chief Executive’s review
+NATS Holdings Limited Annual Report and Accounts 2017 Strategic report   |  11
+Progress Chief Executive’s review
+Win and retain commercial business
+We are working hard to strengthen that part of our business which is not 
+economically	regulated.	In	particular,	within	the	UK	we	face	increasing	
+competition for the provision of airports ATC. Our response is to build 
+trusting	and	sustainable	partnerships	with	UK	airport	customers,	
+combined with a clear and compelling proposition for different airport 
+market segments and to use advances in technology to improve price 
+competitiveness.
+During the year we were awarded the ATC contract by George Best 
+Belfast City Airport and renewed ATC contracts with Aberdeen, Glasgow 
+and Southampton airports, along with our engineering contract with 
+Highlands and Islands Airports. However, the Edinburgh Airport ATC 
+service	will	transfer	to	a	competitor	at	the	end	of	March	2018	and	we	
+are working with the airport and its new provider on the transition of this 
+service. This is evidence that we must continue to innovate and offer our 
+service cost effectively. 
+Digital	towers	(which	see	air	traffic	controllers	manage	aircraft	from	
+remote facilities instead of in traditional airport towers) are becoming 
+a demonstrably viable option for airports and have the potential to 
+transform the way air navigation services at airports are delivered: 
+London City has announced plans for a digital tower service in the future. 
+In	April	2017,	we	invested	£5m	to	acquire	a	50%	interest	in	Searidge 	
+Technologies, a Canadian provider of digital tower capability, and during 
+the year we continued to develop a digital tower capability at Swanwick. 
+Together these enable us to offer a wider choice of digital tower 
+solutions to customers depending on their requirements.
+We	are	supporting	our	Aquila	joint	venture	with	its	delivery	of	the	MOD’s	
+Project	Marshall.	The	service	provision	element	of	this	contract	is	
+performing extremely well. However, the asset provision element has 
+faced schedule challenges. Together with our joint venture partner, 
+Thales, we are committing more resources in 2017/18 to re-plan and 
+execute on a delivery schedule for asset provision that will ensure our 
+military customer has the capability required to perform its mission. 
+We continue to develop our international activities, focusing on the 
+Middle	East	and	Asia	Pacific.	Of	note	this	year	was	the	award	of	an	
+airspace design contract in Thailand.
+Our people
+One	of	the	priorities	I	have	set	for	the	2018	financial	year	(see	below) 
+is a focus on our people. 
+We have a record of good relations with our employees and enjoy 
+generally	constructive	relationships	with	our	Trades	Unions.	However,	
+all parties faced a challenging pay round last summer and, on its 
+conclusion,	we	jointly	reflected	that	our	ways	of	working	and	partnership	
+approach needed to be reinvigorated and renewed. We are now working 
+with union representatives to understand how we can work together 
+more effectively; an objective which will take time but to which we 
+are all committed.
+As	noted	above,	a	large	part	of	our	strategy	over	the	next	five	years	is	
+to replace much of our technical infrastructure. This infrastructure has 
+served	us	well	but	is	coming	to	the	end	of	its	useful	life.	Updating	this	
+technology	will	be	a	significant	change	for	everyone	working	for	NATS	
+and this priority recognises that we will need to support our people 
+through this transformation.
+Our priorities for 2018
+ > Provide	safe	and	resilient	air	traffic	services	from	our	airports 
+and centres;
+ > Focus on our people and employee relations as we transform our 
+infrastructure;
+ > Achieve Swanwick site acceptance testing for London City 
+Digital Tower;
+ > Deliver key Deploying SESAR milestones: expanding electronic 
+flight	strips	in	Terminal	Control	and	fit	out	Combined	Operations	room 
+at Swanwick;
+ > Provide support to Heathrow and Hong Kong for their third runways; and
+ > Enhance the Oceanic technical platform and Operations at Prestwick.
+Our immediate focus is ensuring that we have the right resources to 
+support this summer’s airline schedules so as to minimise the need for 
+regulations that cause delay to the travelling public. We are also focusing 
+on	continuing	the	delivery	of	electronic	flight	strips	which	transition	from	
+trial to full operational use in our terminal control operation starting in 
+January 2018. Finally, we are starting to turn our attention to developing 
+next year’s business plan which will form our initial proposal to customers 
+for RP3 (calendar years: 2020 to 2024). Our key objective in developing this 
+plan	will	be	to	ensure	that	we	have	sufficient	resources	in	RP3	to	continue	
+to	deliver	a	safe	and	efficient	service	to	the	travelling	public	which	is	
+resilient to changing circumstances and operational conditions.
+Martin Rolfe 
+Chief Executive
+NATS Holdings Limited Annual Report and Accounts 2017 Strategic report   |  12
+Progress 13 Annual Report and Accounts 2017 NATS NATS Holdings Limited Annual Report and Accounts 2017 Strategic report   |  13
+Progress

@@ -1,0 +1,382 @@
+ Electronic Data Processing PLC Annual Report and Accounts 2017 3
+Governance Notice of meeting Strategic report Financial statements
+Chief Executive’s Statement
+Julian Wassell
+Revenue for the year was up 3% at 
+£5.11 million compared with £4.96 million 
+the year before. We saw slightly higher 
+sales activity throughout the year in relation 
+to both of our key products, Quantum VS 
+and Vecta, and also increased levels of 
+professional services activity, for which 
+credit should go to our professional 
+services team.
+Because of the high margin nature of 
+the business (our gross margin is typically 
+over 90%), this increase in turnover had a 
+significant impact on our underlying operating 
+profitability, which increased 26% to £540,000 
+from £430,000 a year earlier. Continued 
+careful management of the cost base meant 
+that overheads (as used in the calculation of 
+adjusted operating profit) were maintained 
+at near identical levels to the previous year. 
+Whilst an increase in sales of 3% can result 
+in a 26% increase in operating profit, we 
+are always mindful that the converse is also 
+true and remain vigilant in controlling the 
+cost base.
+In common with many businesses, we 
+are conscious that the UK economy faces 
+considerable uncertainty over the coming 
+years. Most of our customers are directly 
+impacted by Brexit one way or another. The 
+majority of them import and are affected by 
+the significant exchange rate movements 
+that we have experienced over the last 
+18 months or so. Different sectors have 
+varying views of the future, with some of 
+those in the Builders Merchants sector, 
+for example, currently feeling more positive 
+than some of those who are not directly 
+involved in construction. The fact that we 
+offer our products into a variety of industry 
+verticals within the distribution sector, 
+provides our business with a good degree 
+of resilience as we are not overly reliant on 
+any one sector. However, economic uncertainty 
+typically can mean that significant capital 
+expenditure decisions can be delayed or 
+even cancelled as businesses take a 
+“wait and see” approach.
+Our consistent strategy for many years has 
+been to strengthen the relationship we have 
+with our customers by growing the proportion 
+of our revenues delivered through our hosting 
+centre in Milton Keynes. Last year hit yet 
+another record as 61% of our revenues 
+were delivered using the hosting model. 
+This was up from 59% last year, and, in 
+fact, we have seen this figure grow for 
+17 out of the last 18 years.
+We continue to manage the migration process 
+from our legacy applications to Quantum VS 
+carefully. At 30 September 2017, we had 
+signed 48 customers for Quantum VS 
+compared to 40 a year earlier. The decision 
+to change ERP solution is a major decision 
+for any business, and, whilst we believe that 
+Quantum VS provides an excellent solution 
+for the majority of the users of our older, 
+legacy products, the migration process 
+itself inevitably leads to higher levels of 
+customer churn than we have historically 
+seen. This will continue to be the case. 
+Some of the users of our legacy products 
+are keen to remain on their current system 
+for the foreseeable future and we are geared 
+to offer a flexible approach to work with 
+them. This often leads to a new long term 
+(5 year) contract, which provides them with 
+comfort and us with excellent visibility of 
+revenues and the ability to plan our resources 
+going forwards. Of course, we will seek 
+to promote Quantum VS to them at an 
+appropriate time in the future.
+Our combined CRM and Business 
+Intelligence (BI) product Vecta generated 
+28% of total revenues during the period 
+under review, up from 25% a year earlier. 
+We have stated previously that in the medium 
+term, we would expect to see the proportion 
+of our total revenues represented by Vecta 
+to increase due to the fact that its sales 
+cycle is much shorter than that for an ERP 
+solution, such as Quantum VS, and this 
+remains the case.
+Strategy
+Our principal software products, Quantum 
+VS and Vecta, offer clear business benefits 
+to our customers helping them to generate 
+sales growth or to create efficiencies and 
+reduce costs. Quantum VS and Vecta are 
+complementary, with many of our 
+customers using both.
+Quantum VS is a comprehensive ERP 
+application, which addresses a focussed 
+number of verticals within the distribution 
+sector, including builders and timber merchants, 
+suppliers of fixings and fastenings, industrial 
+and security products and electrical 
+wholesalers. As noted above, our long-term 
+strategy is to manage the migration of 
+customers from our four legacy applications 
+(Merchant, Charisma, Esprit and The Business 
+Programme) to Quantum VS, whilst identifying 
+and exploiting new business opportunities 
+in our target vertical markets.
+Summary
+•  Revenue for the year was up 3% at 
+£5.11 million compared with £4.96 million 
+the year before. We saw slightly higher 
+sales activity throughout the year in 
+relation to both of our key products, 
+Quantum VS and Vecta. 
+•  This increase in turnover had a significant 
+impact on our underlying operating 
+profitability, which increased 26% to 
+£540,000 from £430,000 a year earlier.
+•  Contracted recurring revenues represented 
+80% of total revenues during the year, 
+compared with 82% last year.
+•  Cash balances amounted to £6.4 million 
+at 30 September 2017, up from £5.4 million 
+the previous year.
+Last year hit yet another 
+record as 61% of our 
+revenues were delivered 
+using the hosting model. 
+This was up from 59% last 
+year, and, in fact, we have 
+seen this figure grow for 
+17 out of the last 18 years. Electronic Data Processing PLC Annual Report and Accounts 2017 4
+“ Quantum VS is a comprehensive ERP application, 
+which addresses a focussed number of verticals 
+within the distribution sector.”
+Strategy continued
+Vecta is an extremely powerful combined 
+CRM and BI product which drives sales 
+growth for businesses in a range of verticals 
+much wider than those addressed by 
+Quantum VS. 
+Our strategy remains to exploit the space 
+between the major CRM products, which 
+typically do not deliver sales analysis as 
+standard, and pure BI tools. 
+We continue to invest in the long-term future 
+of our key products through significant levels 
+of R&D. During the year to 30 September 2017 
+our R&D expenditure was £901,000 
+(2016: £982,000). This represented 18% 
+of total revenues (2016: 20%).
+Business model
+All of our software products are supplied 
+under long-term contracts. In the case of 
+Quantum VS and our legacy products these 
+are typically of five years initial duration; in 
+the case of Vecta it is typically three years. 
+Contracts for ERP applications can be either 
+in the form of traditional on-site licencing 
+arrangements or hosted service level 
+agreements. In the case of Vecta, which is 
+only offered as a cloud-based service, new 
+contracts are exclusively hosted service level 
+agreements. These contracted recurring 
+revenues represented 80% of total revenues 
+during the year, compared with 82% last 
+year. Typically, our customer relationships 
+extend well beyond the initial contract period. 
+The recurring revenue model gives us good 
+visibility of revenues and strong cash flows 
+as charges are mainly invoiced annually 
+in advance. 
+The remainder of our revenues arise 
+from initial software licence fees, initial 
+hosting service charges and the provision 
+of professional services. We also supply 
+a small amount of low-margin 
+computer hardware.
+Financial review
+Revenue for the year was £5.11 million 
+compared with £4.96 million last year, an 
+increase of 3%. Second half revenues were 
+£2.57 million (2016: £2.45 million) compared 
+with £2.54 million in the first half of the 
+year (2016: £2.51 million). 
+As noted above adjusted operating profit 
+increased 26% to £540,000 (2016: £430,000) 
+representing an operating margin of 10.6% 
+(2016: 8.7%). Statutory pre-tax profit was 
+£417,000 (2016: £244,000).
+Adjusted operating profit is used by 
+the Board and management to monitor 
+the performance of the business on a 
+day-to-day basis and it is the headline 
+profit figure in the management accounts. 
+It excludes interest receivable, any gains 
+and losses on property transactions, 
+one-off exceptional items and a number 
+of non-cash items which arise under 
+IFRS (including defined benefit pension 
+scheme charges and the capitalisation 
+and amortisation of development costs). 
+A full reconciliation of adjusted operating 
+profit to statutory operating profit is 
+provided in note 4 to the consolidated 
+financial statements. Furthermore, 
+as noted in the Remuneration Report, 
+adjusted operating profit is the measure 
+on which the Directors’ bonus is based.
+Cash balances amounted to £6.4 million 
+at 30 September 2017, up from £5.4 million 
+the previous year. This includes operating 
+cash flows of £580,000 and £1.2 million 
+cash received from the sale of property. 
+Other significant cash items were dividends 
+paid of £635,000 and capital expenditure 
+of £118,000.
+R&D expenditure was £901,000 
+(2016: £982,000). Of this £89,000 
+(2016: £127,000) was capitalised as 
+required by IAS 38. Amortisation of 
+previously capitalised R&D expenditure 
+amounted to £110,000 (2016: £96,000). 
+Accordingly, the R&D charge in the income 
+statement is £922,000 (2016: £951,000).
+The tax charge for the year was £23,000 
+(2016: £86,000) which represents an effective 
+tax rate of 5.5%. The main reason for the low 
+effective tax rate this year is a prior year 
+corporation tax adjustment of £71,000. Of 
+this, £61,000 relates to tax refunds received 
+in respect of R&D tax relief claimed for the 
+2015 and 2016 accounting periods.
+Earnings per share was 3.11p compared to 
+1.25p last year, an increase of 149%. On a 
+fully diluted basis this amounted to 3.09p 
+(2016: 1.24p).
+Pension
+As a result of the significant increase in 
+the discontinuance surrender value of the 
+defined benefit scheme’s Grouped Funding 
+policy, the value of the pension scheme’s 
+assets under IAS 19 has increased by 
+approximately £3 million this year. This 
+factor, coupled with actuarial gains of 
+approximately £900,000 resulting from 
+updated financial and mortality assumptions, 
+has eliminated the deficit of £3.88 million 
+(£3.22 million net of deferred tax) that was 
+shown in the 2016 balance sheet. In 2017, 
+the balance sheet shows a small pension 
+surplus under IAS 19 of £240,000 
+(£156,000 net of deferred tax), a movement 
+of £4.12 million (£3.38 million after deferred 
+tax). Of this movement, net of deferred tax, 
+£70,000 has been charged in the income 
+statement and £3.45 million has been 
+credited directly to reserves.
+Chief Executive’s Statement continued
+Julian Wassell Electronic Data Processing PLC Annual Report and Accounts 2017 5
+Governance Notice of meeting Strategic report Financial statements
+As previously announced, the triennial 
+valuation of the scheme as at 31 July 2016 
+was completed and signed off by the actuary, 
+trustees and employer in October 2017. 
+On a scheme funding basis, the deficit 
+at 31 July 2016 was finalised at £70,000, 
+representing a funding level of 99%.
+The deficit is expected to have been 
+cleared by the 2018/19 scheme year as a 
+result of the payment of terminal bonuses 
+by the scheme insurer in respect of member 
+retirements that will take place over the 
+next two years. The formal deficit recovery 
+plan does not therefore require the immediate 
+payment of cash contributions by the Company. 
+However, the Company has agreed with the 
+trustees to make a one-off contribution of 
+up to a maximum of £118,000, payable on 
+or before 31 July 2020, in the event that the 
+terminal bonus payments do not cover the 
+deficit in full.
+Net assets
+Net assets per share increased to 50.7p 
+(2016: 25.3p). The increase is primarily due 
+to the improvement in the position on the 
+defined benefit pension scheme.
+Property
+As previously reported we sold our last 
+remaining surplus freehold property in 
+December 2016 for £1.2 million. We had 
+previously written the property down in the 
+balance sheet to reflect the expected net sale 
+proceeds which amounted to £1.17 million 
+after costs. Following the sale we have 
+achieved expected cash cost savings of 
+around £20,000 a year.
+Outlook
+Balancing the migration of customers from 
+our legacy ERP products to Quantum VS, 
+whilst identifying and converting new business 
+opportunities for Quantum VS and Vecta 
+remains our principal focus. Wider economic 
+factors and uncertainty over Brexit, in particular, 
+continue to affect business confidence 
+generally and may impact discretionary 
+capital expenditure decisions including 
+replacement of IT systems. However, the 
+strength of our business model built around 
+an 80% recurring revenue base, together 
+with continued investment in our sales 
+team and product development, should 
+mean we are well placed to deal with the 
+challenges we face over the coming year.
+Finally, I would like to thank all of my 
+colleagues throughout the business for 
+their hard work and commitment during 
+the year.
+Julian Wassell
+Chief Executive
+12 December 2017
+“ Vecta is an extremely powerful combined 
+CRM and BI product which drives sales 
+growth for businesses in a range of verticals.”
+Key Performance 
+Indicators
+The following 
+financial KPIs 
+are used by the 
+Board to review 
+the performance 
+of the business:
+Level of software 
+related revenues
+Revenue from software and 
+services increased by 2.7% in FY17.
+Sales of software and services 
+account for 97% of total Group 
+revenues in FY17, with the remainder 
+comprising low-margin hardware 
+sales and hardware maintenance.
+Adjusted operating 
+profit margin
+Our adjusted operating margin was 
+10.6% in FY17 compared with 8.7% 
+in FY16.
+Adjusted operating margin is calculated 
+using operating profit excluding 
+one-off property costs, certain non-cash 
+IFRS adjustments relating to defined 
+benefit pension scheme charges, 
+holiday pay accruals and capitalisation/
+amortisation of development costs 
+and other exceptional non-trading 
+items. A reconciliation of statutory 
+operating profit to adjusted operating 
+profit is shown in note 4 to the 
+consolidated financial statements. 
+Level of contracted 
+recurring revenues
+Recurring revenues represent 80% 
+of total revenues in FY17 compared 
+with 82% in FY16.
+Recurring revenues underpin our 
+business model and principally 
+comprise contracted ongoing 
+software licences and hosting fees. 
+Level and growth 
+of hosted revenues
+61% of our revenues were delivered 
+through our hosting centre in FY17 
+compared with 59% in FY16.

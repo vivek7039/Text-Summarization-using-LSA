@@ -1,0 +1,115 @@
+ Strategic Report
+Business at a glance
+We provide innovative 
+solutions to develop new 
+devices and equipment  
+and to operate networks. 
+We focus on providing test products and 
+services to satisfy three customer imperatives:
+• to accelerate the time to develop and launch new 
+products into the market;
+• to improve effectiveness to turn-up new services and 
+isolate and resolve problems in the network; and
+• to save money.
+Networks & Security
+We delight in knowing our products and 
+expertise keep people and companies 
+connected, communicating and safe online. 
+It’s all part of what we do. Our products enable 
+vendors to accelerate the time to get their 
+products to market while ensuring the quality and 
+performance of their product protects their brand. 
+What we do
+Develop performance and security test systems to 
+accelerate the development of new devices, networks 
+and applications for high-speed Ethernet/IP, mobile 
+and global satellite navigation systems. 
+Business focus
+High-speed Ethernet, cloud performance, network 
+functions virtualisation, cyber security, positioning 
+and timing simulation and robustness verification.
+Highlights
+• We are the industry leader in high-speed Ethernet 
+performance test systems.
+• We are the industry leader in global navigation 
+satellite test systems.
+• We grew our Application Security test business by more 
+than 20 per cent.
+We have organised our 
+business for a sharper focus 
+on our target business opportunities.
+Operating segments
+ Read more on pages 32 to 35
+Notes
+1. Before exceptional items, acquired intangible asset amortisation, 
+goodwill and acquired intangible asset impairment and share-based 
+payment amounting to $15.2 million in total.
+2. Percentages calculated by reference to adjusted operating profit 
+before corporate costs.
+Spirent Communications plc Annual Report 2017
+10 Lifecycle Service Assurance
+Our service assurance solutions accelerate 
+the turn-up of new services and measure 
+network and service performance to understand 
+and improve customer experience. We get 
+excited when our service provider customers 
+reduce their costs while radically reducing the 
+time to isolate problems and improve their 
+network performance and customer experience.
+What we do
+Develop active test and analytics solutions for service 
+turn-up, network performance improvement and customer 
+experience management.
+Business focus
+Business Ethernet services, mobile networks and the 
+Internet of Things.
+Highlights
+• We installed four new large active service assurance 
+and analytics solutions in Tier 1 service providers.
+• We are the industry leader in mobile test tools for 
+development, system integration and qualification testing.
+• We have helped major manufacturers consolidate and 
+automate their labs. 
+Connected Devices
+Today, everyone wants to do things faster. 
+Our test systems reduce the time to develop 
+and test new devices and connect them to 
+networks. Using our products or services, 
+service providers can understand how 
+new mobile devices operate on their network. 
+What we do
+Develop automated test systems and offer services 
+to test new devices in the lab or on networks.
+Business focus
+Voice, video, data services; location-based services; 
+Internet of Things, 4G/LTE and 5G.
+Highlights
+• We won key deals with our new channel emulator 
+(Spirent Vertex) with unprecedented scalability and 
+modularity for wireless radio frequency testing.
+• We released our Spirent Elevate Internet of Things 
+Device Test solution.
+• China Telecom selected our Spirent Umetrix® Voice 
+solution for voice quality testing.
+ Read more on pages 36 to 39 Read more on pages 40 to 43
+Networks & Security
+Lifecycle Service Assurance
+Connected Devices
+57%
+24%
+19%
+Revenue
+$454.8m
+Networks & Security
+Lifecycle Service Assurance
+Connected Devices
+65%
+27%
+8%
+Adjusted 
+operating proﬁt
+1,2
+$58.9m
+Spirent Communications plc Annual Report 2017
+11
+Strategic Report Corporate Governance Financial Statements Other Information

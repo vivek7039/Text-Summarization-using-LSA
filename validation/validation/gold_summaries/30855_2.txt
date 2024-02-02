@@ -1,0 +1,239 @@
+ 27.2
+28.4
+22.5
+36.0
+51.6
+43.2
+Mar
+2013
+Mar
+2014
+9m Dec
+2014
+Dec
+2015
+Dec
+2016
+Dec
+2017
+Dividends per share (pence)
+63.0
+54.4
+74.8
+153.6
+63.8
+Mar
+2014
+Dec
+2014**
+Dec
+2015
+Dec
+2016
+Dec
+2017
+Basic earnings per share (pence)
+98.6
+100.5
+103.4
+148.7
+124.7
+Mar
+2014
+Dec
+2014**
+Dec
+2015
+Dec
+2016
+Dec
+2017
+Adjusted basic earnings 
+per share (pence)*
+353
+337
+404
+626
+427
+Mar
+2014
+Dec
+2014**
+Dec
+    2015
+Dec
+2016
+Dec
+2017
+Operating proﬁt
+£ m
+515
+545
+585
+812
+686
+Mar
+2014
+Dec
+2014**
+Dec
+2015
+Dec
+2016
+Dec
+2017
+Adjusted operating proﬁt*
+£ m
+1,213
+1,292
+1,419
+1,955
+1,657
+Mar
+2014
+Dec
+2014**
+Dec
+2015
+Dec
+2016
+Dec
+2017
+Total income
+£ m
+The figures in the graphs below are for the Group on a continuing basis,  
+so exclude businesses classified as discontinued during the periods shown.
+The Group changed its financial reporting reference date in 2014, hence the graphs show full 12 month figures on either a March or December year-end basis.
+Year ended 31 December
+12 months to 31 December 2017 12 months to 31 December 2016
+Total Variance
+Continuing
+Variance Continuing Discontinued Total Continuing Discontinued Total
+Total income £1,955m – £1,955m £1,657m £391m £2,048m (5%) 18%
+Adjusted operating profit* £812m – £812m £686m £27m £713m 14% 18%
+Operating profit £626m (£23)m £603m £427m £103m £530m 14% 47%
+Adjusted profit before tax* £750m – £750m £623m £28m £651m 15% 20%
+Profit before tax £564m (£23)m £541m £364m £104m £468m 16% 55%
+Basic earnings per share 153.6p (7.2)p 146.4p 63.8p (20.3)p 43.5p 237% 141%
+Adjusted basic earnings per share* 148.7p – 148.7p 124.7p 5.0p 129.7p 15% 19%
+*  London Stock Exchange Group uses non-GAAP performance measures as key financial indicators as the Board believes these better reflect the underlying performance of the business. As in previous years, 
+adjusted operating profit, adjusted profit before tax and adjusted earnings per share all exclude amortisation and impairment of purchased intangibles assets and goodwill and non-underlying items 
+** December 2014 numbers are unaudited
+Total income increased by 18% to
+£1,955m
+AEPS increased by 19% to
+148.7 p
+Dividend per share increased by 19% to
+51.6p
+2 London Stock Exchange Group Annual Report December 2017
+Highlights 1
+2
+3
+4
+5
+6
+1. Information Services  736
+2. Post Trade Services LCH  562
+3. Post Trade Services 
+CC&G and Monte Titoli     151
+4. Capital Markets  391
+5. Technology Services  91
+6. Other   24
+ 1,955
+12 months to
+31 Dec 2017
+Group Total Income by segment
+£ m
+Note: Organic growth is calculated in respect of businesses  
+owned for at least 12 months in either period and so excludes 
+ISPS, Mergent, Russell IM, Swapmatch and The Yield Book.  
+The Group’s principal foreign exchange revenue exposure arises 
+from translating our European based Euro and US based USD 
+reporting businesses into Sterling.
+The Group continues to execute on its 
+strategy, delivering best-in-class capabilities, 
+driving global growth and developing our 
+partnership approach. Key headlines are 
+provided below:
+Information Services
+ – Revenues for the year increased by 24% to £736 
+million (2016: £595 million), and up 13% on an 
+organic constant currency basis driven by strong 
+growth in FTSE Russell
+ – FTSE Russell revenue for the year increased by 33% 
+to £546 million (2016: £409 million) and up 15% on 
+an organic constant currency basis
+ – LSEG acquired The Yield Book and Citi Fixed Income 
+Indices for total cash consideration of US$679 
+million (£525 million)
+ – LSEG completed the acquisition of Mergent for total 
+consideration of US$ 1 4 7 million (£1 19 million)
+Post Trade Services – LCH
+ – LCH’s income for 201 7 was £562 million, up 26% 
+and increased by 21 % on a constant currency basis
+ – SwapClear cleared US$87 4 trillion notional, up 31 %, 
+with client trades cleared up by 29% to 1.2 million 
+and compression up by 59% to US$609 trillion
+ – ForexClear non-deliverable forwards clearing 
+increased by 252%, to US$1 1.2 trillion. Membership 
+increased to 30 (2016: 25)
+ – Fixed income clearing increased to €87 .5 trillion  
+in nominal value cleared
+ – LSEG increased its majority stake in LCH Group  
+to 65.9% (2016: 57 .8%)
+Post Trade Services – CC&G and Monte Titoli
+ – Income for the year increased by 3% to £15 1 
+million in sterling terms but decreased by 4%  
+on a constant currency basis 
+ – Net Treasury Income decreased by 3% to £42 
+million in sterling terms and by 9% in constant 
+currency terms
+ – Contracts cleared by CC&G down 16% to  
+108.3 million
+ – CC&G signed contracts to provide CCP hosted 
+solutions to CCP .A Austria. Casablanca Stock 
+Exchange has also selected CC&G for a CCP 
+development project in 2018
+Capital Markets 
+ – Revenues increased by 6% to £391 million (2016: 
+£368 million) and up 3% on an organic constant 
+currency basis
+ – Primary Markets saw 194 new companies admitted 
+to our markets (2016: 134) of which 80 joined AIM 
+(2016: 64); total money raised across our equity 
+markets was up 73% at £44.2 billion
+ – In Secondary Markets, UK cash equity average daily 
+value traded increased by 4%; average daily 
+number of equity trades in Italy decreased by 6%; 
+and, average daily value traded overall on Turquoise 
+decreased 28%. Turquoise Plato dark value traded 
+increased by 15%
+ – CurveGlobal, a joint venture with leading dealer 
+banks and Cboe, built on its launch in 2016 and  
+has since seen over 2 million contracts traded on  
+its platform
+Technology Services 
+ – Technology revenues increased by 3% to £91 
+million (2016: £88 million) and was unchanged  
+on an organic constant currency basis 
+ – LSEG Technology was launched; a re-branding  
+and re-engineering of our technology businesses. 
+We introduced a new Leadership Team, created  
+a more nimble and product-driven delivery 
+capability, and improved our collaboration with 
+innovation teams, all with the aim of better  
+serving existing and new customers
+ – LSEG Business Services Limited, our shared  
+services company, has broadened into services  
+for corporate functions
+FURTHER INFORMATION
+More detailed information on the performance  
+of our business segments can be found on  
+pages 19–33.
+NEED HELP?
+Like any industry, global financial markets 
+infrastructure has its own unique language.  
+For that reason, we have included a glossary  
+on pages 162–165.
+3 London Stock Exchange Group Annual Report December 2017
+Strategic Report Highlights

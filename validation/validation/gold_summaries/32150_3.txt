@@ -1,0 +1,233 @@
+ CHAIRMAN’S STATEMENT
+We are pleased to report continued growth both in 
+market share and company scale, driven by strong 
+operating and financial performance. 
+Our significant growth in billings and free cash flow 
+over the previous financial year was driven by ongoing 
+investment in organic and acquired product innovation. 
+This growth continues to fuel a strengthening talent 
+pool and an extended reach of our selling and 
+marketing operations.
+Cybersecurity remains a top priority for organisations 
+of every size, and our rigorous focus on delivering 
+enterprise-grade IT security to mid-market enterprises 
+via the channel that serves them differentiates and 
+strongly positions Sophos in the enormous and growing 
+global IT security market. This past year we have made 
+strong progress against our strategic goals in both our 
+enduser and network security offerings. We have added 
+significant customer value and expanded our market 
+opportunity across our product lines through numerous 
+product enhancements and additions, including through 
+Sophos Central, our rapidly growing born-in-the-cloud 
+offering. As we look ahead, we have a robust product 
+roadmap, with planned offerings that will incorporate 
+next-generation machine learning and artificial 
+intelligence technologies, which will further differentiate 
+Sophos and strengthen the value we deliver to our 
+customers and channel partners. 
+We have also strengthened our Board by welcoming 
+two highly qualified UK-based global executives as 
+independent non-executive directors. 
+Vin Murria joined our Board in January and serves on 
+our nomination and remuneration committees. Vin 
+is a successful entrepreneur with strong operational 
+leadership experience in growing UK-based global 
+technology businesses and associated shareholder 
+value. Rick Medlock joined our Board in April, bringing 
+more than thirty years of experience in the financial 
+management of large international technology 
+companies in the UK and US. Rick also serves on 
+our nomination, remuneration and audit and risk 
+committees. Rick will be appointed Chairman of the audit 
+and risk committee at the next Annual General Meeting 
+(“AGM”). 
+Ed Gillis, our current Chairman of the audit and risk 
+committee, will be retiring from our Board at the 
+upcoming AGM after eight years of service. We thank 
+Ed for his very active and impactful leadership and for 
+a strong foundation that Rick Medlock will now carry 
+forward. 
+FY17 has demonstrated the strength of our offerings 
+as well as our capacity to execute on our strategy. As 
+a result, we feel very encouraged about our ability to 
+continue our growth and profitability trends. 
+On behalf of our Board, we thank our Sophos employee 
+team all around the world for your tireless dedication 
+and good work to serve our customers, our partners, 
+and our shareholders. We thank our customers and 
+partners for your much-valued business and confidence 
+in our capabilities throughout our journey together. 
+Finally, we say ‘thank you’ to our investors for the trust 
+you have placed in Sophos. We appreciate your support, 
+and we will continue to work hard to earn your 
+continued trust.
+Peter Gyenes
+Non-Executive Chairman
+THIS HAS BEEN AN IMPORTANT YEAR IN WHICH SOPHOS HAS DELIVERED 
+AGAINST ITS COMMITMENTS TO SHAREHOLDERS – OPERATIONALLY, 
+FINANCIALLY AND STRATEGICALLY. 
+  
+06 AWARDS
+DURING THE YEAR SOPHOS GAINED FURTHER 
+RECOGNITION OF ITS LEADERSHIP POSITION IN 
+ITS INDUSTRY
+SC Magazine Awards Europe
+Best UTM –Sophos UTM
+AV-TEST
+Sophos Mobile Security for Android – 100% for protection and usability – 10th time running
+CRN ARC awards
+Winner – Network Security;  
+Winner – Data Security;  
+Winner – Product Innovation in Endpoint Security
+SE Labs
+AAA award for SMB protection – Sophos Endpoint
+AAA award for enterprise protection – Sophos Endpoint
+GEC Awards 2016
+Top Vendor for Endpoint Security 
+Computing Security Excellence Awards 2016
+Firewall Solution and Unified Threat Management Award – Sophos XG Firewall
+Computing Security Excellence Awards 2016
+Data Encryption Award – Sophos SafeGuard Encryption 8
+CRN Tech Innovators Award
+Winner – Network Security – Synchronized Security
+Channelnomics
+Overall Winner – Security Vendor of the Year
+AV-Test
+Best Android Security 2016 – Sophos Mobile
+Computerwoche
+Best Solution “Premium Class” – UTM Home Firewall
+07 INTRODUCTION STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS Sophos maintains a 
+single brand promise – 
+security made simple.
+Sophos believes that complexity 
+is the enemy of security.  In 
+a crowded marketplace and 
+within increasingly diverse IT 
+environments, we concentrate 
+on making life simpler for the 
+end user without compromising 
+security. Sophos differentiates 
+itself by making enterprise-
+grade products that are easy 
+to sell, easy to deploy and easy 
+to manage. Making something 
+more effective by making it 
+simpler to manage is a difficult 
+challenge but one our teams rise 
+to every day. 
+Our 
+Brand
+08 Our 
+Brand
+INTRODUCTION STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS
+Strategic 
+Report
+Markets 10
+Business Model 12
+Focus on Strategic 
+Priorities 14
+Key Performance 
+Indicators  15
+Chief Executive 
+Officer’s Statement  16
+Q&A With 
+Management Team 19
+Product Review  24
+Financial Review  28
+Principal Risks and  
+Risk Management 34
+Corporate 
+Responsibility Report 38
+09 MARKETS
+THE DEMAND FOR SECURITY SOLUTIONS CONTINUES TO 
+GROW. THIS IS CONSISTENT ACROSS THE WORLD AND ACROSS 
+ORGANISATIONS OF ALL SIZES. INDUSTRY ANALYSTS PREDICT 
+THAT THE GLOBAL IT SECURITY MARKET1 WILL BE IN EXCESS OF 
+$39B IN 2017, REACHING AN ESTIMATED $48B BY 2020... 
+THREAT LANDSCAPE
+The 2016 threat landscape was dominated by two 
+themes: state-sponsored hacking and cyberwarfare at 
+the global level; and the specific threats of ransomware 
+and phishing at the local business level.
+These themes demonstrated the challenges that face 
+all businesses worldwide – attacks can be targeted, 
+sustained and highly sophisticated, and they can be 
+opportunistic and random. Cybercrime has reached an 
+industrial scale and continues to be lucrative.
+While the headlines were consumed with high profile 
+hacking, customers and partners across the world 
+highlighted ransomware and phishing threats as the 
+biggest challenge to maintaining security. An increasing 
+amount of ransomware intercepted by SophosLabs was 
+now seen to be targeting mobile devices, 
+especially Android. 
+Finding vulnerabilities and exploits on new platforms 
+and devices continued. This year the security research 
+communities concerns about inherent insecurity in 
+internet of things (“IoT”) devices became reality after 
+the Mirai assault against one of several companies 
+hosting the Domain Name System (“DNS”). That 
+denial of service attack affected some of the highest 
+profile media, social media and commercial payment 
+platforms, in turn impacting millions of users worldwide.
+While these new vectors of attack were exploited, 
+high profile brands disclosed data breaches dating 
+back to 2013, demonstrating how challenging it is to 
+identify and investigate breaches at even the most 
+sophisticated technology-based companies. Indeed, we 
+also heard reports of an alleged auction of hacking tools 
+stolen from the US National Security Agency. The year 
+ended with allegations of nation-state involvement in 
+the leak of emails during the US election, serving as 
+a reminder to all that the threat from highly 
+sophisticated, well-coordinated and well-funded 
+attackers is a new normal.
+REGULATORY ENVIRONMENT
+The current geo-political landscape in Europe and 
+the US will have an ongoing effect on regulations 
+and government legislation related to privacy, data 
+protection and cyber-security. As the UK moves towards 
+Brexit, we anticipate clarification on the regulations 
+affecting UK businesses and expect them to remain 
+largely in line with the current legislation, as much of the 
+EU proposals are built on UK requirements.
+There is currently a heightened focus on cybersecurity 
+and nation-sate sponsored activity in the US and 
+increased collaboration is anticipated between private 
+industry and government agencies in the protection of 
+US citizens’ data and privacy.
+The Investigatory Powers Act that was ratified by the 
+UK government in December 2016 continues to remain 
+under scrutiny and was most recently declared unlawful 
+by the European Court of Justice. 
+The EU Data Protection regulation (“GDPR”) will take 
+effect at the end of 2017 and companies holding data 
+on citizens within the EU will accelerate their readiness 
+for it. It has numerous components, but one key 
+takeaway is that European businesses will now be held 
+responsible for the protection of the data they process, 
+including cloud providers and other third parties. 
+Indeed, regulatory pressures are here to stay and 
+companies must continue to invest resources to 
+ensure compliance. 
+10 IT Security a $39B Market 
+Growing at 7 .4%
+INCREASED ATTACK
+SOPHISTICATION
+GROWING RISK
+AWARENESS
+VANISHED 
+PERIMETER
+EXPANDING 
+ATTACK SURFACE
+$39B  
+IT Security Market 
+1
+1 Source for c.$39B IT security market (hardware + software) is IDC Worldwide IT Security Products Forecast, 2017-2020: Comprehensive Security Products 
+Forecast Review (March 2017, IDC #US42374417) and represents expected market size in 2017. Growth of 7.4% represents 2015E-2020E CAGR.
+...THE HIGHLY CONNECTED, HIGHLY COMPLEX IT 
+ENVIRONMENTS OF TODAY ARE CHALLENGING TO 
+PROTECT AGAINST THE RISING COMMERCIALISATION AND 
+INDUSTRIALISATION OF ORGANISED CYBERCRIME
+INTRODUCTION STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS 11

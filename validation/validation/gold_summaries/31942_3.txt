@@ -1,0 +1,134 @@
+ Transense Technologies plc 
+Annual report and financial statements 
+For the year ended 30 June 2017 
+ 
+ 
+5 
+Chairman’s statement 
+ 
+The Group has made further significant progress over the last year in positioning each of the two core 
+businesses for future success. Revenue from continuing operations was steady compared with the prior 
+year, and the net loss for the year came in line with the Board’s expectations.  
+Financial results and condition  
+Revenues for the current year amounted to £2.00m, compared with £2.08m in the prior year (stated before 
+the IntelliSAW related license fee of £3.04m). Administrative expenses increased to £3.32m from £2.54m 
+in the prior year. This increase in expenditure reflects new product support and the commercial and 
+marketing activity within Translogik to launch iTrack II and deliver effective pre-contract engagement with 
+a number of key customers for this system.   
+The pre tax loss from continuing operations for the year was £2.16m compared with a profit of £1.59m 
+and loss in the prior year adjusted for the effects of the net IntelliSAW licence fee of £1.17m.  The total 
+loss attributable to shareholders was £2.17m (2016: profit of £1.15m) resulting in a net loss per ordinary 
+share of 22.84 pence (2016: earnings of 12.90 pence). The Board do not recommend payment of a 
+dividend (2016: Nil). 
+Net cash balances at 30 June 2017 were £2.52m (2016: £3.65m).  
+Strategy 
+The Group provides innovative sensor systems for various complex applications and operates two 
+principal businesses, SAWSense and Translogik. 
+The Group intends to continue to commercialise sensor technologies by working closely with global 
+partners in order to build value for shareholders through the generation and distribution of net income, 
+and/or the return of capital on realisation. 
+SAWSense designs and develops Surface Acoustic Wave (or “SAW”) sensor devices that can be used to 
+measure torque, pressure and/or temperature in harsh, restricted or demanding environments to very high 
+accuracy. This world leading technology has a broad range of potential uses ranging from premium value 
+custom applications through to high volume mass markets. 
+Translogik designs and markets a range of Tyre Pressure Monitoring Systems (“TPMS”), products and 
+services for heavy duty off road vehicles (particularly mine-haul trucks), commercial truck and bus as well 
+as passenger cars. These comprise the iTrack system, which provides real-time tyre temperature and 
+pressure measurements for mine-haul trucks in service, and a range of tyre probes and other offerings for 
+the road transport sector.  
+The Translogik product offerings are continually evolving with the focus on providing a comprehensive 
+service to clients in the mining and truck industry and this strategy has resulted in the successful launch 
+of the iTrack II system in September 2016. 
+Our markets 
+SAW sensing in global industries 
+ 
+Sensor technology is widely used in virtually every industrial application across a broad range of industries, 
+contributing to many billions of dollars in revenue. Sensors using SAW technology are powered by radio 
+frequency and do not require a battery and are wireless. This means that the sensor has significant 
+benefits, as the package can be extremely small and light and is suited to harsh environments or remote 
+locations, and does not require regular maintenance. Being wireless enables the sensor to be used in 
+rotating components, other moving parts, or environments where electrical wiring would pose a safety 
+risk. 
+These benefits are particularly appropriate in drives, motors, gearboxes, valves and couplings, which are 
+in common use in the industrial equipment, energy generation, oil & gas, aviation, military and automotive 
+sectors.  Transense Technologies plc 
+Annual report and financial statements 
+For the year ended 30 June 2017 
+ 
+ 
+6 
+Chairman’s statement (continued) 
+As Original Equipment Manufacturers (OEMs) seek ever more data on a real-time basis to optimise the 
+performance of their products, accurate and frequent measurement becomes increasingly important. The 
+world’s largest and most successful companies in these fields are recognising SAW as one of the enabling 
+technologies in developing the “Internet of Things” in this arena, contributing to a vision by which machines 
+are networked with embedded sensors to optimise performance using real time analytical tools, algorithms 
+and interactive controls. 
+TPMS in Mining 
+ 
+The original iTrack system was developed to provide tyre pressure and temperature monitoring data to 
+mine haul-truck operators, primarily to reduce or eliminate the incidence of tyre failure. The associated 
+benefits in tyre life management were evident, and were initially viewed as a means of payback for the 
+improved safety performance achieved. 
+Over recent years the collection of pressure and temperature data has become increasingly sophisticated, 
+and our systems for measuring, monitoring and reporting tyre conditions are seen by key customers as a 
+management tool to optimise asset utilisation and productivity, whilst continuing to make a key contribution 
+to mine safety. 
+This work culminated in the September 2016 launch of the iTrack II system. iTrack II collects live tyre 
+performance data from sensors, and transmits this instantly to an optional in-cab display, and to web 
+based applications readable in real time by the Translogik Global Control Centre, and by individual mine 
+operators in their own operational control rooms.  This valuable data can be utilised to minimise truck 
+down time, extend tyre life, and improve safety. Crucially, it can also be used to increase mine productivity 
+by identifying opportunities to optimise routings, loadings, and even road architecture. 
+During earlier stages of commercialisation, we were met with resistance to financing the outright purchase 
+of equipment by mine operators under severely constrained capital budgets during what has been a 
+cyclically challenging few years for the industry. Accordingly, we are now offering implementation of iTrack 
+II on an operating lease financing model, which enables users to generate additional revenues and save 
+costs, against which they are able to meet the ongoing operating costs associated with using the system 
+at a net gain.  
+During the launch and market engagement phase, we have focused most of our attention on our more 
+developed markets in Chile, Australia and Southern Africa, in which we have highly effective teams and 
+channel partners. We have also begun to increase resources in additional territories such as the US, 
+Canada and other countries in the Latin America region during the year.  Results have been very 
+encouraging, with several mine operators running successful trials and choosing to adopt iTrack II toward 
+the end of the financial year. The gestation period for widespread adoption, and the lead time to translate 
+positive trial outcomes and orders into revenue, have been slower than we originally may have hoped, 
+however we are confident that there are encouraging signs of commercial traction with a number of major 
+global mining companies.  
+Tyre pressure probes 
+Our tyre tread depth probes offer a fast and reliable way for mining and on the road truck service providers 
+as well as passenger car tyre fitters to record and automatically transmit tread depth data by bluetooth. 
+The tool has been manufactured for over 15 years during which time it has earned a reputation in the 
+market place as a rugged and reliable tool. Coupled with software developed in-house we also offer a 
+Passenger Car Audit System (“PCAS”), which has recently received its first significant order.   
+   Transense Technologies plc 
+Annual report and financial statements 
+For the year ended 30 June 2017 
+ 
+ 
+7 
+ 
+Chairman’s statement (continued) 
+New Joint Brokers  
+The Company announced the appointment of Beaufort Securities Limited ("Beaufort") as joint broker to 
+the Company to improve the service available to the large group of private investors interested in 
+Transense. Beaufort have a large network of UK retail and High Net Worth investors and will provide retail 
+tailored research on Transense as part of its ongoing services to the Company. 
+Capital structure 
+During the year, the Company undertook a reduction in share capital by the cancellation of the deferred 
+shares and the share premium account. This action should provide a better base to facilitate the Company 
+having distributable reserves and in turn enabling the payment of dividends from income or return of capital 
+to shareholders from major licensing transactions or partial disposals from profits arising in future. 
+Additionally, the ordinary share capital was subject to a 50:1 consolidation to mitigate the effect of prior 
+dilutions on the unit price per share, and to reduce trading spreads and transaction costs for shareholders 
+in future dealings. 
+Prospects  
+The Board believes that the technology and products developed by the Group are now well positioned in 
+their marketplaces. It anticipates that the market traction demonstrated to date will continue to build and 
+is accordingly cautiously optimistic of future prospects. 
+ 
+ 
+David M Ford  
+Group Chairman  
+25 September 2017 
+  

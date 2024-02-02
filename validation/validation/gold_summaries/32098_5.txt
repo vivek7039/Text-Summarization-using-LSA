@@ -1,0 +1,674 @@
+ Introduction
+The SUSE Product Portfolio represented 22.0% of the total 
+Group revenue in FY17 (2016: pro-forma CCY revenue 18.0%).
+SUSE has continued with the mandate to deliver “accelerated, 
+sustainable and proﬁtable revenue growth” and has continued 
+to invest in the business to support this vision. FY17 has been 
+another successful year for SUSE with growth in revenue, 
+Annual Contract Value (“ACV”), Total Contract Value (“TCV”) 
+and Underlying Adjusted EBITDA. 
+SUSE created additional capacity with the objective of sustainable proﬁtable 
+growth, by expanding the SUSE headcount across all of the key disciplines 
+and SUSE also completed two technology led acquisitions during the ﬁscal 
+year. Closer alignment of critical support functions continued during the year, 
+as we aligned SUSE Services and SUSE Renewals to have dedicated leaders 
+reporting into SUSE Sales leadership. In FY17, we continued to strengthen our 
+partner eco system, with continued investment in broadening and deepening 
+the partnership with Alliances, OEM, two tier distributors, value add resellers, 
+cloud service providers and system integrators. We continue with our concerted 
+effort to broaden the ISV partnership and accredit SUSE offerings on critical 
+and relevant business applications. SUSE continues to rely on sustained 
+growing contribution from these strategic partnerships for its overall success.
+Technology acquisitions during the year:
+During the year, SUSE acquired OpenStack IaaS and Cloud Foundry based 
+PaaS technology from HPE together with a workforce of 105 Engineers. This 
+will strengthen SUSE’s existing OpenStack Cloud (IaaS) offering and also 
+SUSE’s Cloud Foundry PaaS offering when brought to market. The acquisition 
+also enables SUSE to broaden its Original Equipment Maintenance (“OEM”) 
+partnership with HPE to now include SUSE’s OpenStack Infrastructure as a 
+Service (“IaaS”), Enterprise Linux and Software Deﬁned Storage solutions as 
+well as fast track provision of more comprehensive offerings in the OpenStack 
+IaaS and Cloud Foundry Platform as a Service (“PaaS”) space to all of its IHVs 
+and alliance partners.
+SUSE also acquired distributed storage management technology from 
+OpenATTIC together with eight Engineers, which was a group within IT Novum 
+GmBH, a German registered company. This will enable SUSE to strengthen 
+SUSE Enterprise Storage and its open source software deﬁned distributed 
+storage offering by adding advanced storage management capabilities to 
+the solution.
+We continued to extend SUSE’s presence and contribution in key Open Source 
+projects and relevant industry groups both in support of strengthening our 
+contribution to Open Source innovation and development efforts as well as in 
+support of our partner and enterprise customer relationships. 
+SUSE
+SUSE provides and supports enterprise-grade Open Source software deﬁned 
+infrastructure solutions and Linux with exceptional service, value and ﬂexibility. 
+Founded in 1992, for almost 20 years, SUSE has collaborated with partners 
+and Open Source communities to innovate, adapt and secure Open Source 
+technologies and create solutions for the world’s most computer intensive and 
+data intensive IT environments across physical, virtual, containerized and 
+multi-cloud platforms. 
+Thousands of customers around the world rely on SUSE for their Open Source, 
+software-deﬁned infrastructure needs ranging from enterprise Linux to 
+OpenStack private cloud to software deﬁned, distributed storage and container 
+based application delivery – all combined with comprehensive management 
+capabilities for the complete software deﬁned infrastructure architecture. 
+By harnessing the power, reliability and ﬂexibility of SUSE solutions, our 
+customers and partners are able to operate more efﬁciently, create new 
+products and services faster and ultimately to compete better and win.
+In a world of rapid and continuous technology change, SUSE customers 
+can conﬁdently embrace new development and operational models such as 
+Dev/Ops, containers, Iaas and PaaS solutions while simultaneously leveraging 
+the beneﬁts of well-established mission critical paradigms and platforms.
+The SUSE Product Portfolio comprises:
+ – SUSE Linux Enterprise Server and Extensions 
+SUSE Linux Enterprise Server (“SLES”) is the industry’s original enterprise 
+Linux distribution. Optimized for mission-critical workloads, certiﬁed on all 
+major hardware platforms and available for on demand use from the world’s 
+leading public cloud providers. The SLES product family also includes 
+specialized extensions and services for High Availability clustering, 
+Real-time precision computing needs and Live Kernel Patching for 
+maximizing system uptime.
+ – SUSE OpenStack Cloud 
+SUSE OpenStack Cloud is an enterprise-grade solution for building and 
+managing highly scalable infrastructure as service private clouds. The 
+support for all major hardware platforms and hypervisors, automated 
+installation, non-disruptive upgrades and true high-availability conﬁguration 
+capabilities makes SUSE OpenStack Cloud the ideal solution for creating 
+business-critical private clouds that are ready for today’s software-deﬁned 
+compute, storage and networking needs.
+ – SUSE Enterprise Storage 
+Built on Ceph technology, SUSE Enterprise Storage is a resilient and 
+scalable software-deﬁned storage solution. Support for industry standard 
+hardware combined with intelligent self-management and self-healing 
+capabilities provides customers a feature-rich yet economically scalable 
+solution for growing data needs.
+ – SUSE Manager 
+SUSE Manager provides integrated management capabilities across the 
+entire range of SUSE products and solutions whether they are deployed on 
+premise or in the cloud. From server provisioning to application deployment, 
+from automated patching to conﬁguration management, SUSE Manager 
+simpliﬁes administration and enables the secure, compliant systems 
+management practices today’s enterprises require. 
+ – SUSE Linux Enterprise Desktop and Workstation Extension 
+High quality Linux workstation solution designed for interoperability with 
+other operating systems and infrastructures including Windows, Mac 
+and UNIX.
+ – SUSE Container as a Service (“CaaS”) Platform 
+SUSE CaaS Platform, is a development and hosting platform for 
+container-based applications and services. The solution lets IT operations 
+and developers provision, manage and scale container-based applications 
+and services to improve business agility by adopting a software-deﬁned 
+infrastructure approach to support containerization of their existing and 
+cloud native applications. SUSE CaaS Platform consists of three key 
+components – orchestration using Kubernetes, a purpose-built operating 
+system (SUSE MicroOS) for microservices and containers, and 
+conﬁguration capabilities.
+Overview Strategic report Corporate governance
+Consolidated ﬁnancial 
+statements and notes
+Company ﬁnancial 
+statements and notes Additional information
+27 Micro Focus International plc Annual Report and Accounts 2017
+CEO Review – SUSE Product Portfolio  SUSE Product Portfolio
+Open Source Software
+SUSE products and solutions are developed from Open Source technologies 
+and brought to market with an Open Source business model. Open Source 
+software source code is made available in the public domain under a number 
+of different licensing models (such as GPL) which fosters collaboration and 
+rapid innovation by developers around the world working as private individuals, 
+for Enterprise customers and from within many of the industry’s largest 
+IT companies.
+SUSE actively utilizes and engages in a wide range of Open Source projects 
+and related industry initiatives where we work together with communities and 
+partners to drive the new innovation and create meaningful industry standards. 
+These projects include the Linux Foundation, OpenStack, Ceph, Cloud 
+Foundry, openHPC, OPNFV, Open Mainframe Project, Open Container 
+Initiative, the Cloud Native Computing Foundation (CNCF) and many more.
+Additional detail can be found at: https://www.suse.com/company/open-source
+Enterprise Linux
+Linux is one of the ﬁrst and most successful Open Source software projects in 
+the industry and has now become a well-established choice in the enterprise 
+operating system market but also in numerous other use cases including 
+mobile devices, Internet of Things (“IoT”), cloud computing, big data analytics 
+and more. All of the industry’s major software-deﬁned infrastructure 
+innovations are being developed on and for the Linux operating system.
+SUSE was the industry’s ﬁrst provider of an enterprise distribution of the Linux 
+operating system and are the preferred choice on platforms such as IBM z 
+Systems and for workloads such as SAP applications and SAP HANA.
+Some of the key drivers behind the continued demand for enterprise Linux 
+solutions such as SUSE Linux Enterprise Server include:
+ – UNIX to Linux migrations – the movement of workloads from proprietary 
+UNIX operating systems on specialized hardware to Linux on industry 
+standard hardware platforms but also IBM z Systems and Power.
+ – Data Center consolidation and virtualization – maximizing hardware 
+investments by running multiple operating system instances on the same 
+physical server.
+ – Cloud computing infrastructure – the most prevalent OS for the cloud 
+infrastructure and also widely used as the OS for the workloads running 
+on the private and public clouds. 
+ – High Performance Computing – the world’s top supercomputing clusters 
+and the growing use of high performance computing systems leverage the 
+ﬂexibility and performance of Linux operating systems.
+ – Software-deﬁned innovations – Linux has become the de-facto standard 
+OS for the industry’s infrastructure software innovations from IoT, Big Data 
+analytics and software-deﬁned storage, IaaS and private cloud, Containers 
+and orchestration, PaaS, NFV and software-deﬁned networking.
+OpenStack Private Cloud
+OpenStack has become the industry’s clear Open Source standard for IaaS 
+cloud with active engagement from dozens of leading IT companies and 
+enterprises. This technology provides a highly ﬂexible alternative to proprietary 
+solutions which both commercial companies and end-customer enterprises 
+can directly engage with through the OpenStack project in addition to utilizing 
+distributions such as SUSE OpenStack Cloud.
+SUSE was a founding platinum member of the OpenStack Foundation and has 
+held the Foundation’s board Chair position since its creation. SUSE OpenStack 
+Cloud’s streamlined installation capabilities, unattended upgrades, high 
+availability features and support for all leading hyper-visors makes it an ideal 
+choice for enterprise private cloud.
+Some of the key drivers creating demand for OpenStack private cloud solutions 
+such as SUSE OpenStack Cloud include:
+ – Data center evolution to Software Deﬁned Infrastructure (“SDI”) –  
+the next step beyond data center consolidation and virtualization is to 
+embrace the ﬂexibility and agility of cloud capabilities such as self-service, 
+direct integration with software-deﬁned storage and networking.
+ – On demand services and business agility – in a world that expects instant 
+access to everything, the ability to rapidly stand up new products and 
+services for both internal and external customers is essential to competing 
+effectively.
+ – Cost and value – traditional solutions lag in innovation and don’t bring the 
+economic scalability in both CAPEX and OPEX costs needed to support 
+modern business models the way Open Source solutions can.
+Software-deﬁned Storage
+Enterprises across all industry segments and sizes are struggling to control 
+and manage the impact of explosive data growth at the very time that 
+effectively using information is rapidly becoming the key to competitive 
+differentiation. With more data to store in increasingly large and complex 
+formats for longer periods of time, traditional storage solutions are not able 
+to adequately address all the user cases and needs.
+SUSE Storage, built on Ceph technology, is a unique solution with resilient 
+self-managing and self-healing capabilities combined with ﬂexibility to 
+dynamically utilize both existing hardware as well as today’s latest industry 
+standard hardware components.
+Some of the key drivers creating demand for Open Source software-deﬁned 
+storage solutions like SUSE Storage include:
+ – Massive data growth – more data volume, complex, large data formats and 
+requirements to keep data for longer periods of time for analytics and 
+regulatory compliance.
+ – Need for ﬂexibility and elasticity – replacing traditional static storage 
+appliances when more capacity is needed is simply not tenable in many 
+cases. Enterprises require the ability to dynamically add capacity using 
+industry standard hardware.
+ – Cost and value – traditional storage solutions are often not economically 
+scalable when faced with the massive data growth, larger complex data 
+formats and need for longer term storage.
+28 Micro Focus International plc Annual Report and Accounts 2017
+CEO Review – SUSE Product Portfolio 
+continued Systems Management
+For mid-sized or larger computing environments, comprehensive systems 
+management is a critical factor that many enterprises still struggle to address. 
+Considering the complexity of multiple hardware platforms, a wide variety of 
+infrastructure technologies and the increasing use of combinations of on 
+premise, hosted and public cloud resources, the business challenges are 
+signiﬁcant as are the potential beneﬁts.
+SUSE Manager is designed with a deep understanding of today’s Linux-based, 
+Open Source enterprise infrastructure technologies whether those are used 
+on premise, virtualized or in a cloud deployment. SUSE Manager is a powerful 
+tool for integrated management and orchestrations of system provisioning, 
+monitoring, conﬁguration management, automated patching – all designed to 
+support the most complex enterprise and supercomputing scale deployments.
+The key drivers behind the demand for systems management solutions like 
+SUSE Manager include:
+ – Managing complexity – growth in systems (physical, virtual and cloud) and 
+new infrastructure technologies like IaaS, Containers, PaaS creates needs 
+for new management methodologies (Dev/Ops) and new tooling 
+to manage effectively.
+ – Maintaining security, Service Level Agreements (“SLAs”) and uptime – to 
+be most effective, systems and servers, wherever they are deployed, must 
+be secure and able to meet stringent SLAs with maximum uptime.
+ – Reducing Operating Expenses (“OPEX”) – the days of manual systems 
+management processes are past for any enterprise that needs to also 
+innovate and compete. Automation is essential to free up resources and 
+control systems management OPEX. 
+ – Meeting regulatory compliance requirements – to stay compliant, 
+enterprises must have comprehensive monitoring, conﬁguration 
+management controls and remediation capabilities in place.
+Application Containers
+Organizations can improve business agility by adopting a software-deﬁned 
+infrastructure approach to support containerization of their applications. 
+Container innovation helps to develop and deploy next-generation, cloud native 
+container-based applications and to progressively migrate traditional and 
+existing apps.
+SUSE CaaS Platform, is a development and hosting platform for container-based 
+applications and services. The solution lets IT operations and developers 
+provision, manage and scale container-based applications and services. The 
+solutions consist of three key components – orchestration using Kubernetes, 
+a purpose-built operating system (SUSE MicroOS) for microservices and 
+containers, and conﬁguration capabilities.
+Some of the key drivers creating demand for Application Containers and 
+solutions like SUSE CaaS Platform include:
+ – Reduced time to market using out-of-the-box container platform 
+capabilities that enable customers to implement container orchestration 
+using production grade Kubernetes, deploy resilient container services, 
+maximize portability, and develop in a trusted computing environment;
+ – Increased operational efﬁciency with automation of deployment 
+management tasks and full application lifecycle support of containers; and
+ – Faster and more automated application releases across different 
+infrastructure. Enablement of DevOps for improved application lifecycle 
+management. Bridging developers and operations using a single, uniﬁed 
+container platform that helps save development and operations time. 
+Deployment of microservices and coexistence of conﬁguration and code.
+SUSE – Key Performance Metrics
+SUSE provides technical support together with rights to updates, patches 
+and security ﬁxes for its Open Source solutions on a subscription basis with 
+revenues being recognized rateably over the period of the contract. The key 
+metrics are Revenue, TCV and ACV of the TCV. The ACV represents the value 
+of the ﬁrst 12 months of each contract reported as TCV. 
+Revenue
+The table below provides a breakdown of the revenue for the year and a 
+comparison to FY16 on a pro-forma CCY basis and as reported.
+SUSE Product Portfolio
+Year
+ended
+30 April 
+2017
+As reported
+Actual
+$m
+Year ended 
+30 April
+2016
+Pro-forma
+CCY
+1
+ 
+$m
+Growth/
+(Decline)
+%
+Year 
+ended
+30 April 
+2016
+As reported
+Actual
+$m
+Subscription 298.7 245.5 21.7% 248.9 
+Consultancy 4.7 4.9 (4.1%) 4.9 
+303.4 250.4 21.2% 253.8 
+1
+ unaudited.
+The SUSE Product Portfolio revenue increased by 21.2% to $303.4m 
+compared with the pro-forma CCY revenues for FY16 of $250.4m, with the 
+Subscription revenue increasing by 21.7% to $298.7m (2016: pro-forma CCY 
+$245.5m). The Subscription revenue is net of the fair value deferred revenue 
+haircut of $3.2m (2016: $6.4m). Prior to this adjustment Subscription revenue 
+grew by 19.8%. 
+Overview Strategic report Corporate governance
+Consolidated ﬁnancial 
+statements and notes
+Company ﬁnancial 
+statements and notes Additional information
+29 Micro Focus International plc Annual Report and Accounts 2017 Regional revenue performance
+Year 
+ended
+30 April 
+2017
+As reported
+Actual
+$m
+Year ended 
+30 April
+2016
+Pro-forma
+CCY
+1
+ 
+$m
+Growth
+%
+Year
+ended
+30 April 
+2016
+As reported
+Actual
+$m
+North America 121.8 108.7 12. 1% 108.6
+International 142.8 111.6 28.0% 115.6
+Asia Pacific & Japan 38.8 30.1 28.9% 29.6
+303.4 250.4 21.2% 253.8
+1
+ unaudited.
+International and Asia Paciﬁc & Japan regions have shown strong growth 
+in revenue of 28.0% and 28.9% respectively. Growth in these regions was 
+derived across all routes to markets together with securing new business with 
+large enterprise accounts. We are pleased to note that the change to specializing 
+and aligning the ﬁeld sales and marketing resources to SUSE in the Asia 
+Paciﬁc & Japan has enabled setting the foundation for sustained proﬁtable 
+revenue growth. 
+Revenue growth in North America was lower than expected, with some of the 
+larger transactions not closing within the ﬁscal year as expected. We expect 
+to see continuing growth in FY18. 
+TCV and ACV
+TCV represents the gross billings for the year of $339.1m, an increase of 
+1 1.6% from the pro-forma CCY for FY16 of $303.8m. The weighted average 
+contract duration marginally reduced to 28 months in FY17 from 29 months 
+in FY16. The ‘in ﬁscal year yield’ from TCV to revenue remained broadly the 
+same at 34% in FY17 as it was in FY16. ‘In ﬁscal year yield’ represents the 
+proportion of TCV generated in the ﬁscal year that can be recognized as 
+Subscription Fee Revenue (“SFR”) in the same ﬁscal year. As the weighted 
+average contract duration reduces, we would generally expect to get a higher 
+‘in ﬁscal year yield’. Net new subscription TCV increased by 12.4% year-on-
+year and renewal subscriptions TCV grew by 10.4% year-on-year. Net new 
+subscription contracts are derived from sale of subscriptions to new logo 
+customers and existing customers expanding footprint of existing product 
+portfolio or subscribing to new product solutions. 
+ACV measures the ﬁrst 12 months duration equivalent of TCV. ACV grew to 
+$220.1m, an increase of 15.7% from the pro-forma CCY for FY16 of $190.3m. 
+ACV removes the impact of multi-year TCV and is a cleaner KPI on the 
+performance of the business. Where subscription term is less than 12 months, 
+all of the subscription TCV billing is included in the ACV measure.
+Regional TCV performance
+Year
+ended
+30 April 
+2017
+As reported
+Actual
+$m
+Year ended 
+30 April
+2016
+Pro-forma
+CCY
+1
+ 
+$m
+Growth/
+(Decline)
+%
+Year 
+ended
+30 April 
+2016
+As reported
+Actual 
+$m
+North America 117.3 137 .3 (14.6%) 137 .3
+International 175.4 131. 1 33.8% 128.9
+Asia Pacific & Japan 46.4 35.4 31.1% 35.1
+339.1 303.8 11.6% 301.3
+1
+ unaudited.
+Regional ACV performance
+Year 
+ended
+30 April 
+2017
+As reported
+Actual
+$m
+Year ended 
+30 April 
+2016
+Pro-forma
+CCY
+1
+ 
+$m
+Growth/
+(Decline)
+%
+Year 
+ended
+30 April 
+2016
+As reported
+Actual
+$m
+North America 84.2 88.4 (4.8%) 81.7
+International 99.7 75.6 31.9% 67 .8
+Asia Pacific & Japan 36.2 26.3 37 .6% 25.3
+220.1 190.3 15.7% 17 4.8
+1
+ unaudited.
+30 Micro Focus International plc Annual Report and Accounts 2017
+CEO Review – SUSE Product Portfolio 
+continued North America had below expected performance on TCV and ACV, declining 
+by 14.6% and 4.8% respectively. Timing of some of the larger enterprise 
+multi-year renewals together with deferral of some of the larger enterprise 
+deals contributed to this decline. 
+International achieved strong TCV and ACV growth at 33.8% and 31.9% 
+respectively. Good solid performance across all countries in the region 
+together with closing of some large enterprise deals contributed to this 
+outstanding growth.
+Asia Paciﬁc & Japan had very strong performance in TCV and ACV, growing 
+by 31.1% and 37.6% respectively. We continue to have strong performance in 
+China and Japan, and are also continuing to win new accounts in some of the 
+other key markets in the region. The region continues to get good traction and 
+growing revenue streams on local OEM relationships and also by leveraging 
+the global agreements we have in place with key independent hardware 
+vendors and cloud service providers.
+ACV contribution by route to market
+Year 
+ended
+30 April 
+2017
+As reported
+Actual
+$m
+Year ended
+30 April
+2016
+Pro-forma
+CCY
+1
+ 
+$m
+Growth/
+(Decline)
+%
+Year 
+ended
+30 April 
+2016
+As reported
+Actual
+$m
+Direct 47.3 41.5 14.0% 37 .2
+Indirect 87.1 72.3 20.5% 61.8
+Global Service 
+Partners 80.2 70.6 13.6% 63.8
+OEM (Embedded 
+Systems) 5.5 5.9 (6.8%) 12.0
+220.1 190.3 15.7% 17 4.8
+1
+ unaudited.
+Direct represents customers that have a master licence agreement with SUSE 
+and subscribe directly with SUSE or via authorized fulﬁllment partners.
+Indirect represents customers that subscribe via the SUSE Value Added 
+Reseller network and predominantly through a two tier distribution model.
+Global Service Partners represents primarily Independent Hardware 
+Vendors who sell SUSE subscriptions alongside the sale of their respective 
+hardware and subscriptions generated from cloud service providers.
+OEM (Embedded Systems) represents entities that embed SUSE 
+subscriptions within the sale of their respective specialized appliance offerings.
+We continue to see signiﬁcant growth in Direct, Indirect and Global Service 
+Partners routes to market, growing by 14.0%, 20.5% and 13.6% respectively. 
+We also see a trend of customers, who purchased subscriptions at the outset 
+direct and through Value Added Resellers, subsequently subscribing through 
+Global Service Partners. We continue to see strength in the Value Added 
+Reseller network, where we have seen signiﬁcant growth in ACV during the 
+ﬁscal year.
+OEM (Embedded Systems) transactions tend to be large, custom, specialized 
+and binary in nature, and thus year-on-year ﬂuctuations in ACV generated are 
+to be expected.
+In aggregate the ACV mix by route to market remains stable in the year ended 
+30 April 2017 compared to the year ended 30 April 2016 as we saw 
+homogenous contribution to SUSE’s growth from the various routes to market.
+The diagrams below show the percentage share of ACV by the different routes 
+to market in FY17 compared to FY16 pro-forma CCY.
+FY17 total FY16 total
+OEM 
+Direct  
+Global Service Partners 
+Indirect  
+Percentage share of ACV bookings by different routes to market
+3% 2%
+22% 22%
+37% 36%
+38% 40%
+Overview Strategic report Corporate governance
+Consolidated ﬁnancial 
+statements and notes
+Company ﬁnancial 
+statements and notes Additional information
+31 Micro Focus International plc Annual Report and Accounts 2017 SUSE Adjusted Operating Proﬁt and Adjusted EBITDA
+The table below shows the Adjusted Operating Proﬁt for the SUSE product 
+portfolio and compares it against the pro-forma CCY numbers for FY16:
+Adjusted Operating Proﬁt
+Year
+ended
+30 April 
+2017
+As reported
+Actual
+$m
+Year  
+ended
+30 April 
+2016
+Pro-forma
+CCY
+1
+$m 
+Year
+ended
+30 April 
+2016
+As reported
+Actual
+$m
+Revenue 303.4 250.4 253.8
+Directly managed costs (178.5) (143.2) (145. 1)
+Allocation of centrally managed 
+costs from Micro Focus (26.2) (27 .3) (28.9)
+Total Adjusted Operating 
+Costs (204.7) (170.5) (17 4.0)
+Adjusted Operating Profit 98.7 79.9 79.8
+Margin 32.5% 31.9% 31.4%
+1
+ unaudited.
+SUSE Adjusted Operating Proﬁt for the year was $98.7m at a proﬁt margin 
+of 32.5%. This is compared to the year ended 30 April 2016 pro-forma CCY 
+Adjusted Operating Proﬁt of $79.9m, which is an increase of $18.8m (23.5%). 
+Proﬁt margin improved to 32.5%, an increase of 0.6% (2016: 31.9%). We 
+have seen a signiﬁcant increase in directly managed costs in SUSE that is 
+consistent with the continuation of investments being made to deliver the 
+SUSE growth charter. Reduction in allocation of centrally managed costs is a 
+combination of Asia Paciﬁc & Japan moving to directly managed costs from 
+allocated costs in FY16 together with some synergy beneﬁts and efﬁciencies 
+driving reduced allocation of costs for centrally managed functions. 
+The table below shows the reconciliation between Adjusted Operating Proﬁt 
+and Underlying Adjusted EBITDA for SUSE:
+Adjusted EBITDA and Underlying Adjusted EBITDA
+Year
+ended
+30 April 
+2017
+As reported
+Actual
+$m
+Year  
+ended
+30 April
+2016
+Pro-forma
+CCY
+1
+$m 
+Year 
+ended
+30 April 
+2016
+As reported
+Actual
+$m
+Adjusted Operating Profit 98.7 79.9 79.8
+Depreciation of property, plant 
+and equipment 2.1 1.7 1.7
+Amortization of software 
+intangibles 0.1 0.1 0.2
+Adjusted EBITDA 100.9 81.7 81.7
+Foreign exchange credit (2.0) (0.3) (0.3)
+Net capitalization of product 
+development costs – ––
+Underlying Adjusted EBITDA 98.9 81.4 81.4
+1
+ unaudited.
+Deferred revenue
+We continue to have year on year steady growth in the deferred revenue 
+balance. At 30 April 2017 SUSE’s total deferred revenue balance was 
+$374.3m (2016: $326.8m), an increase of $47.5m (14.5%) year-on-year. 
+56.4% of this increase in deferred revenue balance is recognizable revenue 
+in the next 12 months and 82.6% recognizable in 24 months.
+Headcount
+At the end of April 2016, direct headcount in SUSE was 641 increasing to 
+936 by 30 April 2017, a net increase of 295 heads (46.0%) in the ﬁscal year, 
+which includes the additional heads joining from the OpenATTIC acquisition 
+in November 2016 and from the acquisition of OpenStack and Cloud Foundry 
+assets in March 2017. The increased investment in direct headcount is 
+primarily in Engineering, Product Management, Sales, Marketing, Product 
+Marketing and Alliances to address the opportunity we see in the market for 
+SUSE’s existing offerings together with new opportunities in OpenStack IaaS, 
+Software Deﬁned Distributed Storage based on Ceph technology and with 
+public cloud service providers. 
+In addition to the direct headcount, the SUSE portfolio received in the year 
+ended 30 April 2017 support from SUSE dedicated employees, who are 
+organizationally aligned in the shared service functions of the Group. Most 
+prominently in Renewal Sales, Consulting, Customer Care, Sales Operations 
+and other corporate operations functions. These add up to approximately 
+201 full-time equivalents (“FTEs”), which brings the total SUSE dedicated 
+headcount supporting the SUSE business and customers to approximately 
+1,137 FTEs at the end of April 2017.
+32 Micro Focus International plc Annual Report and Accounts 2017
+CEO Review – SUSE Product Portfolio 
+continued Recruitment and on-boarding
+The successful execution of the growth charter and investment plan for SUSE 
+depends on the ability to ﬁll the new, incremental positions in a timely fashion 
+and thus ramping up our capacity in key areas of the business. 
+To build on the momentum of this year we need to improve our ability to grow 
+our team. To this end changes have been initiated, that will have a positive 
+impact on the recruitment and on-boarding of new employees to the SUSE 
+business as well as ongoing, quality HR management of the enlarged team 
+that shall beneﬁt from those changes. This includes hiring of a VP HR 
+dedicated to the SUSE business in Q3 FY17, closer alignment of shared 
+HR service functions with the SUSE business and organization as well as 
+deploying additional HR management and recruitment employees paired 
+with an increase of third party recruitment spending.
+Outlook “Sustainable, Proﬁtable Revenue Growth”
+We will continue to invest in building out the organization to ensure continuing 
+improvements in execution capacity across all major business functions and 
+geographies as well as further investment in marketing program spend to drive 
+demand generation and build brand awareness for SUSE.
+The SUSE portfolio will expand in FY18 to provide a broader range of open 
+source SDI solutions paired with improved and more complete management 
+tools for the SDI architecture as demanded by our enterprise customers and 
+technology partners. Examples include:
+ – SUSE OpenStack Cloud Monitoring (launched in May 2017);
+ – SUSE Container as a Service Platform (launched in June 2017); and
+ – SUSE Cloud Foundry PaaS (scheduled to launch in Q3 of CY 2017).
+For FY18 SUSE will focus on the successful execution of SUSE’s mandate for 
+sustainable, proﬁtable revenue growth. The objective is to grow revenue ahead 
+of growth rates for relevant markets.
+Nils Brauckmann
+Chief Executive Ofﬁcer
+SUSE
+17 July 2017
+Overview Strategic report Corporate governance
+Consolidated ﬁnancial 
+statements and notes
+Company ﬁnancial 
+statements and notes Additional information
+33 Micro Focus International plc Annual Report and Accounts 2017

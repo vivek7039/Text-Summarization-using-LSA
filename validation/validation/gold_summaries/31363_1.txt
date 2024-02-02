@@ -1,0 +1,345 @@
+ 14
+Sportech PLC Annual Report and Accounts 2017
+Operating Review of the 
+Business by the CEO
+Since then, there have been a number of significant 
+changes in the Group: firstly, the sale of the Football 
+Pools, which post completion saw two existing 
+Directors move on; and secondly, the Formal Sale 
+Process which followed a number of unsolicited 
+approaches for the Group as a whole.
+The Group emerged from this period leaner and more 
+invigorated, executing strategies that include the 
+continued expansion of our international footprint in 
+Racing and Digital, and the ongoing development of 
+the Bump 50:50 product focused on the charitable 
+foundations of tier-one professional sports teams. 
+We are also pursuing further deployment of online 
+and mobile platforms to drive growth and reduce 
+operational costs, and diversification into new forms 
+of gaming, including sports wagering, as and when 
+regulations permit, both in the Venues business and in 
+the US Racing and Digital business.
+The Group now has two operating divisions: Racing 
+and Digital (including Bump 50:50), and Venues.
+Racing and Digital
+Description and financial performance summary
+Racing and Digital provides pari-mutuel betting 
+technologies and services to 293 racetracks,  
+off-track betting network, casino, lottery, and online 
+pari-mutuel operator customers, plus an additional 
+145 commingling customers, in 37 countries and   
+37 US states. We have approximately 27,000 betting 
+terminals, 26 white-label betting websites, and   
+23 white-label mobile apps deployed worldwide and 
+our pari-mutuel systems annually process nearly 
+USD12 billion in betting handle.
+£’000s 2017
+2016 
+Reported
+Service revenue 1,389 5,789
+Sales revenue 34,080 30,248
+Total revenues 35,469 36,037
+Contribution 30,380 28,977
+Contribution margin 85.7% 80.4%
+Adjusted operated expenses (22,672) (19,601)
+Adjusted Ebitda 7,708 9,376
+Internal software capitalised 3,026 3,022
+Purchase of other intangibles 865 113
+Purchase of PPE 1,281 2,885
+Total capex in year 5,172 6,020
+Andrew Gaughan, CEO
+I am pleased to address the 
+Sportech shareholders as the 
+Group’s new Chief Executive 
+Officer, having been appointed to 
+that position on 14 March 2018, 
+although I joined the Board in 
+January 2017.
+170749 Sportech Front end 27 April.indd   14 27/04/2018   20:30 15
+Strategic Report Governance Financial Statements
+Despite missing our 2017 international sales targets, 
+the Racing and Digital division’s core recurring tote 
+technology service and Bump 50:50 revenues have 
+progressed well, providing a clear indication of 
+longer term sustained earnings growth and value 
+creation emanating from the technology and business 
+investments already made.
+The sales anticipated in 2017 that did not come to 
+fruition have not yet been closed and continue to be 
+considered realistic opportunities. Some of these have 
+been rolled into our 2018 pipeline, including multiple 
+projects in Asia and Europe such as our recently-
+announced Quantum™ System upgrade sale to Royal 
+Sabah Turf Club of Malaysia. After four years of strong 
+sales revenues, with annual average sales exceeding 
+USD6.5million and contribution margins of 45%, 2017 
+is considered an unusually low sales year. However, 
+continued strong growth in recurring commingling 
+service revenues helped offset this one-time relatively 
+soft year in sales.
+Developments
+In 2017, key technology advances in the core 
+Quantum™ System software were realised and the 
+global commingling business grew significantly 
+through high-value connections between the UK, 
+Asia, Europe, and North America, facilitated by the 
+global network of Quantum™ Data and Operations 
+Centres. These are Sportech’s proprietary products 
+and centres.
+The capacity of the Quantum™ System-supported 
+global pools and bet types was significantly expanded 
+to include exotic complex parlays, of particular 
+interest to customers in Asia, and the popular  
+French pools offered by ZEturf and PMU.
+The North American footprint was strengthened, 
+executing 13 long-term contract extensions with 
+existing customers, and we further expanded the 
+global footprint to include four new customers, 
+including Dansk Hestevæddeløb ApS, the joint 
+operating company for horseracing and operator of all 
+nine racetracks in Denmark. This is in addition to the 
+long-standing contract we have with Danske Spil A/S, 
+the national lottery in Denmark.
+Racing and Digital also continued to enhance and 
+promote its digital technologies, rolling-out key 
+updates to the G4 white-label betting website 
+product and deploying the Digital Link® mobile app, 
+along with the self-service BetJet® SL 2.5 betting 
+terminals at Ascot racecourse in the UK, under our 
+contract with Betfred.
+Looking forward
+I see additional opportunities in both the North 
+American and international markets, some of which 
+have already come to fruition.
+Since the start of the year, important new contracts 
+and contract extensions have been signed in the tote 
+services, global commingling, and digital services 
+businesses.
+Additional commingling agreements have already 
+been completed with new customers in Europe: 
+Norsk Rikstoto, the foundation that supervises pari-
+mutuel betting on horseracing in Norway; and OPAP, 
+the holder of exclusive rights to numerical lotteries 
+and sports betting in Greece. These commingling 
+contracts leverage the Quantum™ System software 
+and European hosting and operations services to 
+further expand the global commingling footprint and 
+the menu of hosted pools and bet types.
+A new ten-year, USD10 million agreement with 
+Camarero Racetrack has been signed covering both 
+Tote and Digital Services and including the provision 
+of a new G4 wagering website and Digital Link®   
+app to the exclusive operator of horseracing in  
+Puerto Rico. 
+Long-term Tote customer Parx® Racing once again 
+selected Sportech for Tote services under a contract 
+extension and also became a new Digital Services 
+customer beginning in 2018 under a new five-year, 
+USD4.1 million contract, using the G4 website and 
+Digital Link® mobile products. Parx® Racing has a 
+well-established intrastate account betting operation 
+in Pennsylvania and this contract is a significant 
+endorsement of Sportech’s digital technology 
+platforms.
+In North America, I am re-examining our Digital 
+Services business with a focus on improving 
+profitability and cash generation. We intend to push 
+our digital technologies into racetrack and OTB 
+operations in order to reduce capital and operational 
+costs through the encouragement of “bring your own 
+device” mobile apps and websites.
+New products will be added to the Quantum™ 
+System software including additional lottery products 
+currently offered by LEIDSA, (a Sportech customer in 
+the Dominican Republic), which would be suitable for 
+deployment by other small private lottery operators, 
+particularly in Latin America and Asia.
+170749 Sportech Front end 27 April.indd   15 27/04/2018   20:30 16
+Sportech PLC Annual Report and Accounts 2017
+Bump 50:50
+Description
+The Bump 50:50 sports raffle business provides the 
+technologies and services that allow the foundations 
+(or charities) associated with professional and 
+college sports teams and entertainment venues to 
+sell and fulfil 50/50 raffles to generate funds for their 
+charitable missions. Jackpots are divided equally 
+between the foundation and the winner. Bump 50:50 
+electronic raffle technologies and proven marketing 
+strategies help foundations maximise the return 
+on their charitable fundraising programs. Sportech 
+acquired the business in 2014 when the company 
+serviced just seven professional sports teams. Since 
+then the determination and professional acumen of 
+the team has seen our number of clients serviced 
+grow to more than 60.
+Financial performance
+Revenues, currently included within the Racing and 
+Digital division, were in 2017 up 46% at £1.2 million 
+(2016: £0.8 million). Adjusted EBITDA £0.5 million 
+(2016: £0.2 million). 
+Developments
+The Bump 50:50 business continued its multi-year 
+growth trajectory in 2017, signing 25 new customers 
+including the official charitable foundations of the 
+Atlanta Braves (MLB®), Columbus Blue Jackets 
+(NHL®), Houston Rockets (NBA®), Las Vegas 
+Golden Knights (new franchise team of the NHL®), 
+Pittsburgh Pirates (MLB®), New York Jets (NFL®), and 
+the NASCAR Foundation. These additions helped 
+bring the total number of Bump 50:50 customers 
+to 68, representing foundations from 16 different 
+professional and collegiate sports leagues. In 2017, 
+Bump 50:50 helped their customer foundations raise 
+just under US$11 million.
+This year Bump 50:50 launched a new online and 
+mobile raffle program to supplement in-stadia play 
+and used this new platform to help the Tampa Bay 
+Lightning Foundation reach a jackpot record of 
+US$270,000 during the NHL® All-Star event.
+In 2018, Bump 50:50 will continue its aggressive 
+customer acquisition strategy, flexing staff up to 
+accommodate additional deployments and to support 
+increased sales activity. The company will target more 
+non-sports customers – music and other large-scale 
+community and entertainment festivals – for the 
+online and mobile platforms in particular. The business 
+continues to look at revenue enhancing vertical 
+markets which may include internationalisation of the 
+core product.
+Venues
+Description and financial performance summary
+Sportech Venues in Connecticut, USA is the only 
+legally permitted betting operator in the state. It 
+operates the legal betting on horseracing, greyhound 
+racing and jai alai under an exclusive and perpetual 
+licence for retail, telephone, internet and mobile 
+channels. Sportech works in close collaboration with 
+the State of Connecticut which has a population 
+of 3.6 million, 76% of who are 18 and over, the legal 
+age for pari-mutuel wagering there, and a median 
+household income of around USD73k, around USD16k 
+higher than the national median household income.
+£’000s 2017
+2016 
+Reported
+F&B – Stamford 1,471 –
+F&B – Other 2,561 2,609
+F&B – Total 4,032 2,609
+Wagering revenue 27,574 27,050
+Total revenues 31,606 29,659
+Contribution 15,482 14,405
+Contribution margin 49.0% 48.6%
+Adjusted operated expenses (13,985) (11,957)
+Adjusted EBITDA 1,497 2,448
+PPE – Stamford 5,238 2,451
+PPE – Other 370 513
+PPE – Total 5,608 2,964
+Venues currently has over 400 employees and a 
+total of 16 locations in Connecticut, two of which 
+operate under our premium Bobby V’s Restaurant 
+and Sports Bar brand. Digital betting services are 
+offered through an online platform, MyWinners.com, 
+constructed around Sportech Racing and Digital’s G4 
+Operating Review of the 
+Business by the CEO continued
+170749 Sportech Front end 27 April.indd   16 27/04/2018   20:30 17
+Strategic Report Governance Financial Statements
+white-label betting website technology and a mobile 
+app powered by Sportech’s Digital Link® mobile, along 
+with a traditional phone betting service featuring 
+personal teller betting services.
+Developments during the year
+In 2017, Venues opened the 25,000 sq.ft. Bobby V’s 
+Stamford, featuring 200 high definition TV’s, multi-
+functional party spaces, an indoor golf simulator, and 
+a designated betting area with VIP spaces and state-
+of-the-art betting and viewing carrels in the heart 
+of Stamford’s downtown district. Performance to 
+date has been below the original expectations set by 
+previous management, and we are reviewing growth 
+initiatives for this venue, on both the wagering and 
+food and beverage sides, including a comprehensive 
+and aggressive plan for Group sales and food 
+and beverage management, and more proactive 
+deployment of mobile betting with Sportech’s  
+Digital Link®.
+The local management team successfully lobbied the 
+Connecticut legislature for permission to open an 
+additional six venues over and above the 18 we were 
+already permitted to open, which will allow expansion 
+and to eventually diversify into sports betting, should 
+the laws and regulations be adjusted to permit it.
+There remains illegal competition from unlicensed 
+internet betting operators who accept wagers from 
+Connecticut residents despite being issued cease and 
+desist letters by the State’s Attorney General’s office. 
+In 2017 and into 2018 we are pursuing new remedies 
+available to us, including increased legal protections 
+for Connecticut’s only licensed and taxed operator.
+Despite this, our brand MyWinners.com achieved an 
+11% increase in 2017 from online and mobile handle 
+versus prior year. Regardless of the outcome of any 
+remedial actions at the state level, the Board is taking 
+a much more aggressive and proactive stance with 
+regard to promotion and marketing of its digital 
+channels. Sportech holds a distinct advantage in 
+terms of both technology and access to bricks and 
+mortar cross-selling and these advantages will be 
+fully exploited to drive customer acquisition and to 
+increase betting by customers who may hold multiple 
+accounts.
+The Venues division capitalises on its operational 
+expertise to offer turn-key managed venue packages 
+to licensed operators. In 2017, Venues extended 
+key managed venue contracts with the Mohegan 
+Sun Casino in Connecticut, along with two other 
+racebooks in Louisiana and the Caribbean.
+Corporate Management Structuring  
+and Focus
+With a shift in the senior management presence 
+from the UK to North America, management 
+operations from the Group’s existing London base 
+will be relocating to the existing operations centres 
+in Toronto and the US, where both I and a new CFO 
+will be located. This shift will not only allow reduced 
+corporate overhead costs but will also place senior 
+corporate management in closer proximity to global 
+technology and operational focal points, and the 
+consumer-facing business, while maintaining key 
+bases of operation and secondary business offices 
+at existing locations in Bristol (UK), Ireland and 
+Singapore.
+Further financial focus will characterise senior 
+management of Sportech going forward, with a 
+renewed and vigorous focus on billing, debt collection, 
+and working capital improvements within the business 
+and a stricter financial evaluation of new business 
+opportunities, capital investments, and partnerships.
+2017 was a year of material change for Sportech 
+and 2018 is shaping up to be one of significant 
+opportunity. Global recurring service revenues in 
+our B2B businesses provide a clear indication of 
+growth resulting from several years of technology 
+and operational investment. New contracts and 
+sales opportunities in the 2018 pipeline speak to the 
+efficacy of our technology and business strategy. The 
+Bump 50:50 growth trajectory of the past four years 
+is on pace to continue, with new sales platforms and 
+opportunities in new markets. The Venues business 
+now has room for meaningful strategic expansion 
+and the tools to more aggressively compete in 
+Connecticut’s digital marketplace. Finally, both our 
+Venues and our Racing and Digital divisions are well 
+positioned to act quickly and decisively on sports 
+wagering, if and when the regulations allow it.
+I am pleased to be leading Sportech and enthusiastic 
+about what the future holds for its shareholders, 
+customers and employees. Indeed, at this juncture I 
+would like to thank all staff across the Group for their 
+hard work and commitment.
+Andrew Gaughan
+Chief Executive Officer
+23 April 2018
+170749 Sportech Front end 27 April.indd   17 27/04/2018   20:30

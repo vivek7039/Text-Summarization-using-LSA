@@ -1,0 +1,458 @@
+ SUMMARY
+• We are reporting record revenues 
+of £34.3m supported by an increase 
+of 21% in recurring revenue to 
+£12.4m and 35% growth in order 
+book to £10.1m.
+• We opened our new technology 
+development centre in Birmingham, 
+close to our London headquarters.
+• We have announced the launch 
+of AgileCOLLATERAL
+®
+ our flexible 
+cloud-based product harnessing 
+the power of COLLINE
+®
+.
+• We continue to develop 
+AgileREPORTER
+®
+ and have 
+deployed live instances both 
+direct to clients and through our 
+strategic partner Oracle.
+• We announced our strategic 
+partnership with Atos taking 
+our cloud-based collateral 
+management solution to the 
+German market.
+Delivering as planned
+During the 2016 placing, completed in 
+June, Lombard Risk presented a two-year 
+plan, setting out some clear objectives in 
+terms of delivery and financial performance. 
+At the halfway point of that two-year plan, 
+we are delighted to be sharing positive 
+news and significant progress on all fronts.
+Financial performance
+In terms of financial performance, the 44.8% 
+increase in top-line revenue to £34.3m 
+validates the Board’s belief that a step 
+change was possible. This dramatic increase 
+over the 10.3% achieved last year not only 
+eclipses the 15% compound annual revenue 
+growth from the previous five years, but also 
+maintains the momentum generated during 
+the first half. It is an excellent performance, 
+ahead of market expectations, and one 
+of which we are understandably proud.
+We anticipated making a loss in this 
+year, a year of significant investment 
+for the Group, although the loss before 
+tax we are reporting is much less than 
+anticipated at £1.6m, with an adjusted 
+EBITDA significantly ahead of market 
+expectations during the year at £2.6m. 
+We do capitalise certain of our research 
+and development costs, and stripping 
+out this accounting treatment would 
+show a cash loss before tax of £5.6m.
+We start the new fiscal year with 
+confidence, with our recurring revenues 
+at £12.4m, up 21.0%, and an order book 
+of £10.1m against £7.5m a year ago, an 
+increase of 35.0%. This is the year that 
+Lombard Risk is targeting a return to 
+cash profitability, and the team is fully 
+focussed on fulfilling this commitment.
+Finally, it is also very pleasing to report 
+that following rigorous working capital 
+management the Company’s cash 
+balance at the year end stood at £7.0m, 
+again significantly stronger than the 
+market anticipated.
+Delivering the future
+In addition to the expectations we set 
+around our ability to improve the financial 
+performance of Lombard Risk, we set out 
+an important strategic agenda showing 
+how we would use the proceeds from the 
+placing. In addition to critical investments 
+in our core platforms, these included the 
+creation of a new development centre, 
+closer to our London headquarters in 
+Birmingham. The Company has grown a 
+strong offshore capability in Shanghai over 
+the last decade, which has made a crucial 
+contribution to our product development. 
+However, in recent years, rising costs and 
+pressure for talent from both local software 
+firms and giant international brands has
+Alastair Brown
+Chief Executive Officer
+Chief Executive Officer’s statement
+Significant progress on all fronts.
+5 Annual report and accounts 2017 Lombard Risk Management plc
+Strategic report Delivering the future continued
+increased the pressure on our team, adding 
+to the complexities of managing a remote 
+centre. Supporting our clients and keeping 
+pace with the rapid changes in our key 
+markets demanded a new solution.
+After an extensive analysis of the 
+infrastructure and talent availability in 
+cities across Europe and mainland UK, 
+we were delighted to select Birmingham 
+as the centre for future investment 
+in our delivery capacity. With strong 
+communications links to London and 
+a deep talent pool, it is a natural choice 
+for technology companies, as evidenced 
+by the speed we could set it up, opening 
+the doors on 23 November 2016. Our 
+launch has been well received, we have 
+forged strong links with the local business 
+and education communities, and most 
+importantly we have been securing 
+excellent technology talent at the 
+rate we had planned.
+Cross-product 
+collateral management
+Existing and new clients have benefited 
+from the continued expansion of our 
+world-class collateral management system. 
+The regulatory release of COLLINE
+®
+ in May 
+supported clients who needed to comply 
+with Dodd Frank and IOSCO guidelines 
+for trading uncleared derivatives, and we 
+were delighted by both the response and 
+take-up across our existing customer base. 
+Our clients continue to strengthen their 
+operations in a period of intensive change, 
+injecting control, reducing both costs 
+and operational risk and complying with 
+the rapidly evolving regulatory framework. 
+As similar regulations are adopted in 
+Asia, and the Dodd Frank and IOSCO 
+framework extends to new waves of 
+market participants, Lombard Risk is 
+well placed to continue this success.
+With another major release in January, the 
+addition of exchange-traded derivatives to 
+COLLINE
+®
+ once again underlines the value 
+derived from creating a truly cross-product 
+collateral solution, designed to work across 
+asset classes from the ground up. Attracting 
+new Futures Commission Merchant (“FCM”) 
+clients in Europe and North America,
+as well as presenting an important upgrade 
+to existing customers, its immediate 
+success validates our strategy to offer a 
+comprehensive and up-to-date solution 
+suitable for the biggest Tier 1 organisations.
+However, our collateral expertise is 
+equally relevant across the market, to 
+participants of all sizes, and building on 
+our success of hosting COLLINE
+®
+ in the 
+cloud for some clients, we launched 
+AgileCOLLATERAL
+®
+ in November. With a 
+focus on control, combining simplicity 
+of both on-boarding and day-to-day 
+operations, AgileCOLLATERAL
+®
+ offers 
+the power of COLLINE
+®
+, tailored to the 
+operational model of clients of any size.
+Keeping pace with the regulators
+Work has continued to deliver our 
+vision to establish AgileREPORTER
+®
+ as the 
+leading regulatory reporting solution across 
+North America, Europe and Asia. Deployed 
+as either an integrated package with our 
+strategic partner Oracle, or implemented 
+directly on top of existing data sources 
+by Lombard Risk, we have clients live 
+on both versions of the platform.
+Creating a single platform to meet 
+the future challenges of regulatory 
+reporting whilst maintaining the value 
+of our clients’ previous investments is 
+the primary goal of AgileREPORTER
+®
+. 
+With critical new returns such as the 
+European Central Bank (“ECB”) AnaCredit 
+and the Federal Reserve 2052a supported 
+by the new web-based front end, we 
+have comprehensive migration paths 
+for our extensive customer base.
+The Basel Committee on Banking 
+Supervision’s regulation number 239 
+continues to dominate our and our 
+clients’ thinking alike, with the emphasis 
+on robust, timely, accurate and complete 
+returns driving a step change in both data 
+architecture and requirements for data 
+lineage. AgileREPORTER
+®
+ is designed 
+with all these characteristics in mind, 
+and in addition seeks to offer clients cost 
+savings by reusing core components, 
+with advanced workflow tooling 
+allowing for the optimisation of 
+regulatory reporting resources.
+A quality client base
+Lombard Risk’s extensive client base has 
+always been a huge asset to the Group, 
+both from a commercial perspective 
+and also in terms of the market insights 
+that such a diverse global community 
+brings. Our clients range from some of the 
+largest Tier 1 banks, through our specialism 
+in supporting foreign branches, to some 
+of the smallest buy-side participants in 
+the derivatives markets. This group offered 
+over 200 opportunities for services and 
+additional modules in addition to several 
+long-term renewal extensions on both 
+sides of the business during the year. 
+In addition to our valued existing 
+client base, we were pleased to add 
+four major collateral customers, close 
+two AgileREPORTER
+®
+ for Oracle Financial 
+Services Analytical Applications (“OFSAA”) 
+deals with our partner Oracle, and welcome 
+several other reporting clients, including 
+a major greenfield challenger bank, 
+choosing AgileREPORTER
+®
+ to meet 
+its reporting requirements.
+Delivering to such an extensive client 
+community requires a highly skilled 
+professional services organisation, 
+and we pride ourselves on the quality 
+of our implementation support. With a 
+high number of projects being managed 
+to an externally imposed regulatory 
+deadline, and multiple clients having 
+to meet those deadlines simultaneously, 
+we have become adept at leveraging 
+our extensive use of client feedback 
+to provide the highest levels of support.
+Critical partnerships
+We have continued to work closely with 
+our strategic partner Oracle America Inc., 
+adding the ECB and European Banking 
+Authority (“EBA”) reporting schedules to 
+those previously developed for the Federal 
+Reserve. The magnitude of the client 
+investment projects involving an end-to-end 
+solution offered in partnership with Oracle 
+has meant that deal progression has been 
+slower than both parties would have liked, 
+but with five clients signed and a strong 
+pipeline in North America, Europe and 
+Australia we are extremely optimistic 
+about the opportunities being pursued 
+for fiscal year 2018.
+Chief Executive Officer’s statement continued
+6 Lombard Risk Management plc Annual report and accounts 2017 In November, we announced an exciting 
+new relationship with Atos, taking our 
+cloud-based collateral management 
+solution to the German market. This 
+important milestone represents critical 
+progress in allowing us to open key 
+geographies with local expertise, and 
+represents a key strategic step. After 
+a year of internal, organic growth, 
+we anticipate partner arrangements such 
+as Atos and Oracle playing a major role 
+in driving our future expansion.
+The collateral management landscape 
+continues to evolve at a frenetic pace. 
+As a truly cross-asset-class collateral 
+management system, the key strengths 
+of COLLINE
+®
+ lie in a combination of that 
+asset class breadth, industry standard 
+connectivity, inventory management, 
+and intelligent automation. We continue 
+to work with other partners such as 
+AcadiaSoft and Razor Risk to extend 
+our reach whilst playing to our core 
+competencies. As the market evolves, we 
+continue to look ahead and co-operate 
+with our industry-leading partners for 
+the benefit of all our mutual clients.
+Lombard Risk is an innovative software 
+company with an outstanding services 
+organisation supporting our clients. 
+We continue to engage with consulting 
+partners not only to extend our reach, 
+but also to give clients implementation 
+and integration options with some 
+of the world’s leading firms including 
+Accenture and PwC.
+Leadership and talent
+Lombard Risk has continued to invest in 
+talent at all levels of the organisation to 
+support our growth. After major changes 
+to the executive leadership last year, 
+the focus has been on sales leadership, 
+sales executives, product expertise and 
+technology talent, including of course 
+the build-out of our new technology 
+centre in Birmingham.
+On a geographic basis, the focus 
+has been on developing and upgrading 
+talent in North America and Europe, 
+with additional strategic hires in Asia. 
+With strong partnerships in Australia 
+and Japan, and well established offices 
+in Hong Kong and Singapore, the Group 
+is well positioned for significant advances 
+in that region.
+Investment in our people globally remains 
+a key priority for the firm. Lombard Risk’s 
+expertise, a direct consequence of 
+maintaining its talent, remains a long-term 
+differentiator that is extremely hard to 
+replicate. With a focus on employee 
+engagement, training, talent management 
+and development, this is an advantage 
+we intend to keep. 
+The Strategic Report comprises:
+• Chief Executive Officer’s statement 
+– pages 5 to 8
+• Business review  
+– pages 14 to 15
+• Financial review  
+– pages 16 to 17
+• Principal risks and uncertainties 
+– pages 18 to 19
+The strategic report was approved by the 
+Board on 23 May 2017 and signed on its 
+behalf by:
+Alastair Brown
+Chief Executive Officer
+Conclusion
+We said we would use the funds raised 
+in June 2016 to develop a world-class 
+development centre in Birmingham, 
+make our category-leading collateral 
+management system cloud-ready, 
+and accelerate the delivery of our vision 
+for the future of regulatory reporting. 
+We justified this short-term investment 
+expenditure with our belief that a step 
+change in revenue growth was achievable 
+and that the opportunity was immediate 
+and had to be exploited immediately. We 
+have delivered on all those commitments 
+and face fiscal year 2018 with excitement 
+and confidence.
+Finally, after a turbulent fiscal year 
+2016, I would like to thank the Board, 
+the Executive Committee, the extended 
+leadership group and the whole 
+Lombard Risk team for their extraordinary 
+efforts in 2017. It is those efforts, applied 
+daily, which have delivered such a strong 
+performance, and it is a privilege to 
+lead such a focussed and committed 
+group of people.
+Alastair Brown
+Chief Executive Officer
+23 May 2017
+We have delivered 
+on our commitments 
+and face fiscal year 
+2018 with excitement 
+and confidence.”
+7 Annual report and accounts 2017 Lombard Risk Management plc
+Strategic report LOMBARD RISK OPENS NEW TECHNOLOGY CENTRE IN BIRMINGHAM
+On 23 November 2016 Lombard Risk 
+was pleased to announce the opening 
+of the new Technology Centre in the UK, 
+investing in the development of the next 
+generation of Lombard Risk products.
+“The new centre officially opened today and is located 
+at The Alpha Tower, Birmingham, a landmark Grade II 
+listed building. It represents an exciting new stage of growth 
+for Lombard Risk as the company looks to decrease its 
+time to market and bring technology closer to its clients. 
+Lombard Risk is creating a team of developers and 
+technical analysts from Birmingham and the surrounding 
+area. The centre will boast modern facilities and support 
+a collaborative and creative working environment.”
+“The Technology Centre will play a vital role in Lombard 
+Risk’s product development and will assist in accelerating 
+the roadmap for delivery to clients. Lombard Risk is 
+developing its next generation of products in response to 
+the evolving and complex challenges facing the market, 
+and is bringing both product and technical development 
+closer to its clients to ensure that they are always equipped 
+with the most agile and effective solutions. The Birmingham 
+office allows Lombard Risk to build a development centre 
+within easy travelling time of its London headquarters 
+and will allow the developers to work closely with our 
+business experts.”
+This is an exciting opportunity for 
+Lombard Risk, an opportunity to 
+establish a first class development 
+centre using the most up-to-date 
+technologies and methods.”
+Mike Payne
+Lombard Risk’s Chief Technology Officer
+Chief Executive Officer’s statement continued
+8 Lombard Risk Management plc Annual report and accounts 2017 LOMBARD RISK LAUNCHES AgileCOLLATERAL
+AgileCOLLATERAL – an ‘out of the box’, cross-product platform that supports your regulatory 
+and strategic collateral management needs.
+AgileCOLLATERAL Benefits
+• SECURITY – elimination of spreadsheets mitigates 
+risk associated with manual input and calculations. 
+Automated validation checks reduce the number 
+of manual errors – continuously applying systemic 
+control points to ensure accuracy and compliance 
+of collateral management lifecycle events.
+• TRANSPARENCY – aggregated views (across business lines, 
+portfolios, funds, etc.) provide a consolidated inventory 
+of your assets. Intuitive dashboards and an advanced 
+UI provides visibility over margin events, settlements, 
+corporate actions, cash interest, management approvals 
+and eligibility and concentration limits – with drill-down 
+capabilities into workflow on all collateral activities.
+• EFFICIENCY – automation of your day-to-day processes 
+improves performance. AgileCOLLATERAL provides direct 
+connections to electronic messaging services and 
+optimisation algorithms allow you to maximise the use 
+of your assets. Workflow tools provide users with the 
+most intelligent and efficient collateral management 
+operating model.
+• CONTROL – rapid implementation, flexible pricing models 
+and low cost deployment options allow you to reduce the 
+high cost of collateral management, achieve a greater 
+level of control over operational processes and redirect 
+resources to better serve investors. AgileCOLLATERAL 
+puts the control of your business and operating model 
+back in your hands.
+9 Annual report and accounts 2017 Lombard Risk Management plc
+Strategic report

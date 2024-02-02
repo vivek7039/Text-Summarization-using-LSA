@@ -1,0 +1,335 @@
+ Blue Prism Group plc ANNUAL REPORT AND ACCOUNTS 2017
+12 – 13
+OVERVIEW
+FY2017 was a year of global growth and growing 
+commercial momentum. We have seen significant increases 
+in our revenues, customer numbers, geographic coverage 
+and in our skilled developer base. Alongside this, we have 
+doubled our employee base and opened 3 new offices 
+globally. We have also seen significant growth in industry 
+recognition of the RPA sector, and strong, global 
+endorsement of Blue Prism’s leading position in the market. 
+As our business has developed, so has the market we 
+serve. The RPA market is now advancing beyond the 
+early hype stage and our indirect partner channel 
+continues to grow and diversify in recognition of this 
+shift. This channel was responsible for sourcing all new 
+customers in FY2017 and there was a healthy number of 
+upsells given that two thirds of our customer base joined 
+the roster in FY2017. In addition, all 21 expected 
+renewals in the year were secured.
+We are pleased to report that total recognised revenue 
+for the year ended 31 October 2017 increased by 155 per 
+cent to £24.5m (FY2016: £9.6m) driven by sales from 
+both new and existing customers. Sales momentum built 
+throughout the year such that our exit run-rate (monthly 
+recognised, recurring licence revenue) stood on  
+31 October 2017 at £2.8m per month (FY2016: £0.95m  
+per month): a strong foundation for FY2018 and beyond.
+EBITDA losses for the period were £9.4m (FY2016: £5.2m) 
+and adjusted EBITDA losses for the period were £8.3m 
+(FY2016: £4.7m), being EBITDA before share-based 
+payments, foreign exchange gains/(losses) and IPO costs 
+(FY2016), to remove the effect of volatile share-based 
+payments expenses , foreign exchange gains/(losses)and 
+one off IPO costs, both representing continued 
+investment in our global expansion. Cash and cash 
+equivalents at 31 October 2017 were £16.3m 
+(31 October 2016: £11.8m).
+CHIEF EXECUTIVE’S REVIEW
+Upsells
+264
+Renewal rate
+EXECUTING OUR STRATEGY
+The Group set out a growth strategy at the time of its 
+IPO based on 4 strategic objectives. During the past  
+12 months we have continued to make meaningful 
+progress against each, as follows:
+BUILDING SCALABLE DEVELOPMENT, SALES  
+AND DELIVERY CHANNELS
+Blue Prism’s sales strategy is to achieve broad and scalable 
+sales growth through a global channel of distribution 
+partners. This partner sales channel includes a wide  
+range of highly engaged partners, comprising some of 
+the world’s largest consulting firms such as Accenture,  
+EY, IBM, KPMG, Deloitte and HCL as well as specialist 
+technology and digital transformation firms, such as 
+Thoughtonomy, DXC, RPAi, Symphony and Reveal Group. 
+All of the 324 new customers in FY2017 were sourced 
+through the channel for the first time (FY2016: 90 per 
+cent), including an increase in reseller deals.
+The Group launched a partner certification programme 
+during the period, designed to maintain the highest levels 
+of quality assurance in our sales and delivery model.  
+11 partners are now certified and, in March 2017, EY 
+became the first partner to achieve Gold status, followed 
+later in the year by Accenture. As interest in RPA 
+continues to increase, our focus remains to ensure the 
+Group is best equipped to service increasing demand by 
+maximising and optimising this partner distribution 
+channel.
+The Group has seen strong levels of industry recognition 
+and community support, as evidenced by the scale of 
+attendance and quality of sponsors at our Blue Prism 
+World events. Almost 2,000 customers and partners 
+attended events in San Francisco, New York, London, 
+Tokyo and Sydney. With premium sponsors including 
+Accenture, EY, Deloitte, KPMG, IBM, and Capgemini, we 
+go into 2018 with the confidence of having leading names 
+in the sectors we serve supporting our long-term vision.
+100% Blue Prism Group plc ANNUAL REPORT AND ACCOUNTS 2017
+SAN FRANCISCO  NEW YORK  LONDON  SYDNEY
+Event delegates
+1,900+
+CHIEF EXECUTIVE’S REVIEW 
+CONTINUED
+INCREASING BUSINESS WITH THE 
+GROUP’S CUSTOMERS
+During the first 6 months of the year, the Group 
+introduced an account management function to help 
+improve the effectiveness of customer management 
+following the initial sale. This has proven effective in 
+driving increased adoption in the legacy direct accounts. 
+We have been working on rolling this out into the 
+indirect model with early signs of success. In FY2017 the 
+Group secured 264 upsells across 131 customers, a 
+meaningful increase on the 81 upsells secured across  
+47 customers in the prior financial year. 49 of the 131 
+customers who upsold during the period upsold more 
+than once with approximately 27 per cent of all 
+customers buying more licences in the period. Renewals 
+of existing licences also continue to be healthy with all  
+21 of those due in the period secured (FY2016: 12). 
+These increasing levels of adoption are a result of our 
+customers’ engagement with RPA and the subsequent 
+return on investment they see from increased use of our 
+software.
+The Financial Services sector is one of many realising real 
+benefits from RPA. For example, a leading Middle East 
+retail bank is using Blue Prism software robots to process 
+over 15,000 transactions daily, bringing greater 
+operational efficiency, accuracy and speed along with a 
+70 per cent reduction in fraud. Elsewhere in the sector, 
+within the first 12 months of its Blue Prism deployment, 
+BNY Mellon rolled out 222 robots in 35 of its different 
+businesses, spanning 147 different business functions. 
+Turnaround time has been reduced by an average of 62 
+per cent, including reducing one particular process from 
+10 days to 24 hours while also improving error rates.
+Blue Prism RPA has also delivered significant business 
+benefits, within just 6 months of deployment, to a 
+leading Fortune 500 financial services provider in the  
+US – with over $3tn of life insurance in force worldwide. 
+Blue Prism’s software robots were deployed to support 
+an enterprise-wide programme of strategic revenue 
+growth, which needed to be deployable at speed and 
+across all its subsidiary businesses and functional areas. 
+Using Blue Prism enabled the organisation to improve 
+customer experience and reduce costs by eliminating an 
+onerous, lengthy re-underwriting backlog. It took just 
+10 months to put the robotic operating model in place, 
+and since deployment Blue Prism RPA has resulted in a 
+$500,000 one-time cost avoidance and delivered more 
+than $3m savings from run rate cost reductions annually.
+In addition to process automation, the value of Blue 
+Prism’s RPA can be realised in its positive impact on 
+customer experience. A leading global payments services 
+provider – which in 2016 completed 791m transactions 
+for its consumer and business clients – needed to 
+improve customer experience whilst expanding 
+automation capabilities throughout the organisation. 
+Automating more than 15 processes to date, Blue Prism 
+delivered end-to-end automation of financial 
+transactions whilst enabling the Company to maintain 
+full regulatory compliance, and with seamless 
+integration with existing infrastructure. It took only half 
+a year to see the returns on investment of using Blue 
+Prism RPA, with $1.3m worth of savings generated in the 
+first 6 months, resulting in a 3.6 times return on the 
+investment in the RPA programme. Employee 
+satisfaction and productivity also increased with 12 FTEs 
+reassigned to more cognitive, value-added tasks, as 
+employee attrition reduced due to the elimination of 
+repetitive and non-value added work.
+Similarly, the advantage of Blue Prism’s RPA technology 
+can be seen in the scale of impact delivered, and value 
+generated, for a major player in the retail sector. Shop 
+Direct, one of the UK’s largest pure-play digital retailers, 
+has automated approximately 130 processes to date 
+using Blue Prism and continues to return 328,000 hours 
+annually (and rising) back to its business. As a result,  
+the Company was also able to generate £16m in 
+incremental revenue from just one single process.
+It is also possible to combine the operational benefits of 
+RPA with social benefits. At Lighthouse Works in Florida  
+– a not-for-profit social enterprise which exists to support 
+people in living, learning and earning with vision loss – 
+Blue Prism software robots are helping employees 
+complete tasks such as scheduling, billing and claims 
+processing, thereby expanding the scope of jobs that 
+visually challenged workers can complete. After deploying 
+Blue Prism’s RPA, blind workers could complete tasks in 
+their entirety 4 to 6 times faster and 3 times more 
+efficiently than before, for an estimated cost saving of 
+nearly 65 per cent.
+The breadth of RPA use cases is phenomenal with Blue 
+Prism software already in use across more than 40 
+industry sectors. It is hard to imagine an industry that 
+could not benefit from RPA. Blue Prism Group plc ANNUAL REPORT AND ACCOUNTS 2017
+14 – 15
+EXECUTING ON THE GROUP’S US 
+MARKET STRATEGY
+The Group has continued to invest in the US which is a 
+market of strategic importance. We are pleased to report 
+that Blue Prism has grown its US customer base by 419  
+per cent over the last financial year and the Americas 
+operations now accounts for 36 per cent of Group revenues 
+(FY2016: 28 per cent). In absolute terms, the Group’s US 
+customer base has advanced from 26 customers at the end 
+of FY2016 to 135 (or 28 per cent of total customers) at the 
+end of FY2017 (FY2016: c.17 per cent). US customers include 
+BNY Mellon, Western Union, Pfizer, AIG, Fannie Mae, 
+Walgreens and IBM.
+Investment in people is the most important part of our 
+expansion plans and, during the financial year, the 
+Group grew US employees by 150 per cent to 65 (FY2016: 
+26). This team now represents c.35 per cent of the 
+Group’s total global employee base.
+The Group will continue to invest in the US so it can meet 
+the growing demand for RPA in what remains the world’s 
+largest and most important software market. Against this 
+backdrop, we are encouraged by progress in the Group’s 
+home EMEA market and emerging APAC market. In FY2017 
+the Group’s APAC customer count grew from 3 at the close 
+of FY2016 to 52 at the close of FY2017, with a recognised 
+revenue contribution of £2.2m.
+EAST TO WEST COVERAGE
+Chicago
+New York
+Miami
+San Francisco
+Austin HQ and Tech Hub
+KEY US PARTNERS 
+New customers signed
+109
+New employees
+39 Blue Prism Group plc ANNUAL REPORT AND ACCOUNTS 2017
+CHIEF EXECUTIVE’S REVIEW 
+CONTINUED
+REINFORCING THE GROUP’S MARKET LEADERSHIP 
+TO TAKE ADVANTAGE OF RPA ADOPTION
+The launch of Version 6, billed as the “Operating 
+System” edition of our software, has helped to build on 
+Blue Prism’s profile as a thought leader in the RPA 
+market. This latest release of our software is designed 
+with the specific requirements of enterprise level 
+deployment as an execution platform, or “operating 
+system”, supporting the digital enterprise.
+During the year, advances have been made with our 
+Technology Alliance Program (“TAP"). Originally 
+designed with the architectural objective of positioning 
+Blue Prism as the de-facto “operating system” for digital 
+workforce deployments, the programme has enjoyed an 
+encouraging reception from customers, partners and 
+commentators. We have already announced TAP 
+collaborations with partners including Microsoft, 
+Appian, Captricity, and IBM. 
+We believe that the TAP offers Blue Prism the potential 
+to find new revenue streams. For example, Appian 
+offers Blue Prism as an extension to its low code 
+application development and BPM platform and extends 
+its automation footprint. FY2018 will see us invest in 
+further commercialisation and extension of the 
+Technology Alliance Program.
+Skills shortages can, as with any early market, hold back 
+customer adoption. In FY2017, the Group established a 
+formal Education Services department to bring customer 
+and partner education under one roof. This has resulted 
+in a 389 per cent increase in accredited Blue Prism 
+developers to 3,096, a 408 per cent increase in (now 
+outsourced) accreditation exams to 4,176 across 44 
+countries, and the introduction of new accredited roles 
+to align with our ROM delivery framework and 
+methodology.
+OPERATIONAL REVIEW
+Customer and sales growth 
+The 609 software licence deals secured during the 12 
+months ended 31 October 2017 equates to more than 3 
+times the number of software licence deals won in the prior 
+year.
+Software licence deals FY2017 FY2016
+New 324 96
+Renewals 21 12
+Upsells 264 81
+Total 609 189
+We experienced impressive growth in the number of new 
+customers: two thirds of our current customer base 
+signed-up to Blue Prism in the period bringing the total 
+to 477. Given that most customers buy on a “land and 
+expand” strategy, this represents a meaningful sales 
+opportunity for us over the medium term providing we 
+can continue to ensure that customers get real value 
+from their use of the software.
+Existing customers also continued to increase their 
+adoption of our product at a healthy rate. 264 upsells 
+were secured across 131 customers in FY2017, 
+representing a 225 per cent increase on FY2016. All 
+renewals that were due in the period were achieved.
+It is increasingly apparent that customer success is more 
+likely when customers, supported by our partners, adopt 
+Blue Prism’s Robotic Operating Model (“ROM"). The ROM 
+is a best practise delivery framework and methodology 
+designed to provide assurance and light touch governance 
+to maximise business benefits whilst meeting security, 
+scalability and compliance objectives. We promote the 
+ROM vigorously and have created a full partner 
+enablement programme so that our partners may 
+integrate it into their wider methodologies. Blue Prism Group plc ANNUAL REPORT AND ACCOUNTS 2017
+16 – 17
+Employees
+As at 31 October 2017, Blue Prism had 187 employees 
+worldwide, compared to 86 at the end of FY2016 and 127 
+at the end of H117. Whilst this level of growth inevitably 
+places challenges on the Company, the management team 
+has worked hard to build new organisational 
+infrastructure. In particular, we have strengthened the 
+management team with key appointments including Shail 
+Khiyara, Chief Marketing Officer; Pat Geary who stepped 
+into the newly-created role of Chief Evangelist; and Nicola 
+Bergstrom who joined Blue Prism to lead Human 
+Resources. We also implemented a new, scalable, 
+accounting platform and invested in a corporate 
+development team to co-ordinate and build the people, 
+systems and processes needed for a larger organisation. 
+Having made extensive use of our own robots in product 
+development, we are now starting to scale their use into 
+other parts of the business for flexibility, accuracy  
+and efficiency.
+Our Public Company status and employee share ownership 
+schemes are enabling us to attract high quality talent. We 
+will continue to invest in people to support our growth 
+plans, and in systems and processes to provide an 
+organisational platform for the next phase of 
+Blue Prism’s growth.
+SUMMARY AND OUTLOOK
+This has been a successful year for Blue Prism. Our 
+product and the global partner sales channel built to 
+commercialise it have delivered real sales momentum, 
+strengthening our market position and underpinning 
+our belief in our long-term potential. In FY2018, the 
+focus remains on addressing the global demand for RPA 
+software through our indirect go to market model with 
+particular investment in geographical expansion and  
+in our Technology Alliance Program.
+The Group has had a strong start to the first quarter  
+of FY2018 and as such now expect revenues for the full 
+financial year to be comfortably ahead of existing 
+market expectations. Funded by the anticipated net 
+proceeds of the placing we have announced today, the 
+additional investment planned for FY2018 to support 
+our global growth is expected to increase our revenue 
+growth in the next financial year. The 2018 financial year 
+shows every sign of being yet another exciting year of 
+growth for Blue Prism.
+Alastair Bathgate
+Chief Executive Officer

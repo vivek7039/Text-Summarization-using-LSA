@@ -1,0 +1,351 @@
+ Strategic Report
+Chief Executive Officer’s strategic review
+Spirent has adapted to the changes 
+in the test and measurement 
+industry and is aligned with the new 
+opportunities that have been created.
+Overview – realising our potential
+In 2017, we have established a firm basis 
+to realise Spirent’s potential. 
+We focused on our core expertise to 
+enable our customers to develop high-
+performance, high-security systems in a 
+shorter time. We have taken our expertise 
+in service assurance to deploy innovative 
+new systems, winning new business with 
+well-established and new customers. 
+In doing so, we gained market share 
+with the early adopters in the industry, 
+which should serve Spirent well in 2018 
+and the long-term.
+An essential part of realising our potential 
+has been to focus on our core strategies 
+and take these into the growth opportunities 
+offered by the global trend to move rapidly 
+from development into operations. A natural 
+consequence is a reduction in expenditure 
+as we cease or scale back activities outside 
+this focus area. This, in turn, has helped to 
+increase profitability of Spirent’s operations 
+and to increase cash generation.
+Eric Hutchinson
+Chief Executive Officer
+Spirent Communications plc Annual Report 2017
+14 Strategy – enabling the data revolution
+Spirent enables its customers to deliver 
+data connectivity which is faster, has 
+greater capacity and has resilient security. 
+This is essential to the development 
+and deployment of new technologies 
+worldwide: from smart industrial processes, 
+smart home management, autonomous 
+vehicles, smart enterprise business 
+processes to smart city construction. 
+Add in the digitisation of healthcare, 
+and it is clear that ultra-reliable, fail safe 
+connectivity at hyper-scale is necessary 
+to deliver this vision. Spirent has an 
+important role in enabling its customers to 
+deliver these new smart technologies in 
+an economic, secure and timely manner.
+Spirent’s core expertise in data 
+technologies – founded on high-speed 
+Ethernet, Wi-Fi, cellular wireless, satellite 
+constellations – combined with automated 
+service assurance and analytics, offers a 
+differentiated and powerful set of solutions 
+to our customers. Vital to our customers’ 
+success is our ability to deliver our 
+expertise in test, measurement, validation, 
+assurance and security in automated, 
+scalable systems that are easy to use. This 
+will enable our customers to realise their 
+vision of supplying data connectivity with 
+lower cost, higher reliability and security. 
+The dominant market trends are 
+underpinned by relentless traffic growth. 
+The business imperative is to enable the 
+industry to reduce operating cost and 
+capital expenditure. Operators cannot afford 
+to match traffic growth with higher and 
+higher levels of investment in new data 
+transport equipment. They also have to 
+reduce their cost of operations by 
+implementing new network architecture 
+and operating practices. These imperatives 
+drive the move to software defined 
+networks, network virtualisation and 
+automation. This is why Spirent’s strategic 
+focus is to offer enabling technologies, 
+systems and active service assurance so 
+that our customers, existing and new, can 
+meet the challenges in building out virtual 
+networks. Within this broad landscape there 
+are market disrupters: virtualisation, the 
+Internet of Things (IoT), 5G wireless and 
+cyber security.
+Network virtualisation is the only way to 
+support the exponential growth in data 
+consumption. Virtualisation allows radical 
+reduction in the capital cost of networks; 
+it also allows rapid deployment for new 
+services. Spirent provides active test 
+systems to assure performance before 
+deployment, and during operation to allow 
+real-time response to changing conditions 
+in the network. The existing hybrid 
+networks, with their inherent complexity, 
+will exist for decades to come. 
+Connected things range from personal 
+devices, such as a smart stylus, through 
+large autonomous vehicles and 
+industrial infrastructure.
+With regard to hyper-connectivity, there are 
+multifarious challenges for developer and 
+network operators. Spirent offers solutions 
+to avoid network bottlenecks, degradation 
+in performance and security breaches.
+The continuous evolution in wireless 
+technologies is now moving to the 
+development and deployment of 5G. 
+5G will allow new applications to access 
+extreme bandwidth and will offer ultra-low 
+latency. This will support new applications 
+such as virtual and augmented reality. 
+New test and assurance capabilities will 
+be required to support 5G both for 
+networks and for devices.
+Cyber security is at the forefront of 
+concerns around any data application and 
+network. High profile security incidents 
+make headlines across all aspects of life, 
+from individuals to business to government. 
+The overall prevalence and sophistication 
+of cyber threats continue to rise. There is a 
+necessary increase in spending on cyber 
+security to detect and protect against 
+threats. Spirent offers highly reliable and 
+up to date test and verification solutions 
+to give greater assurance that protections 
+are working.
+Spirent’s strategic direction is to take our 
+deep expertise in test and assurance in 
+data networking to provide leading-edge 
+solutions and services that enable the 
+realisation of smart connectivity at an 
+economic cost, achieved through 
+automation and lower cost operation. 
+We will consolidate on our leadership 
+positions in high-speed Ethernet and in 
+satellite navigation. We will deliver 
+solutions to meet the challenges of 
+virtualisation and cyber security. We will 
+deploy systems in production networks for 
+active test and management to lower the 
+cost of operations. We will develop new 
+solutions for the growth in 5G wireless 
+technology and to meet the requirements 
+for autonomous vehicles.
+Spirent Communications plc Annual Report 2017
+15
+Strategic Report Corporate Governance Financial Statements Other Information Performance highlights 2017
+Industry leadership
+• We remain the world’s leading vendor of 
+high-speed Ethernet performance test 
+systems. We participated in several high 
+profile first-to-market demonstrations: 
+New H3C demonstrated the industry’s 
+highest density 100G Ethernet data 
+center; Network World conducted 
+the largest port test of unicast switching 
+capability on a Cisco Nexus 9516 core 
+router switch; and China Telecom 
+China Co. Ltd., Guangzhou Research 
+Institute and Huawei verified 400G 
+Ethernet (400G) short and long 
+range technologies. 
+• We remain the world’s leading vendor 
+of global navigation satellite simulators. 
+We released the GNSS Vulnerabilities 
+and Threats test suite, a continuously-
+updated cloud-based library of real-
+world GNSS threats. The European 
+Union’s TREASURE project selected 
+our GNSS solution; the aim of the four 
+year project is to provide instantaneous 
+and high accuracy positioning anywhere 
+in the world, exploiting different satellite 
+systems operating together to provide 
+users with positional accuracy of a 
+few centimetres.
+Networks & Security 
+• Our Application Security test business 
+grew revenue by more than 20 per cent. 
+• We expanded the coverage of  
+our flagship security product 
+(Spirent CyberFlood) with support for 
+ransomware, Internet of Things (IoT), 
+industrial controls and distributed denial 
+of service (DDoS) attacks. CyberFlood 
+was the first platform to offer proactive 
+testing for the WannaCry ransomware 
+and was demonstrated at Black Hat, 
+the world-renowned information 
+security conference. 
+• We are a founding member of the 
+industry group NetSecOPEN, focused on 
+defining new open standards for testing 
+enterprise network security performance.
+• We earned global CREST (Council of 
+Registered Ethical Security Testers) 
+accreditation for penetration testing. 
+UK-based CREST an accreditation and 
+certification body that supports the 
+information security market.
+Lifecycle Service Assurance 
+• Our Lifecycle Service Assurance 
+business grew revenue 10 per cent. 
+• We expanded our footprint in our 
+three largest Tier 1 mobile operator 
+customers, winning four new Tier 1 
+deployments, addressing critical 
+challenges in the roll out of virtual 
+networks and business mobile services. 
+• We participated in high-profile 
+demonstrations at TM Forum Live in 
+Nice in a joint demonstration with AT&T, 
+Orange, TIM, Huawei, IBM, Infosys and 
+Tech Mahindra focusing on automated 
+validation of service enhancements 
+in virtual networks, at Mobile World 
+Congress in Shanghai with China Mobile 
+Research Institute focusing on automated 
+testing for virtual core networks. 
+Connected Devices
+• We won key deals with our new 
+channel emulator (Spirent Vertex) 
+with unprecedented scalability 
+and modularity for wireless radio 
+frequency (RF) testing and support  
+for future technologies, such as 5G.
+• We released our Spirent Elevate IoT device 
+test solution, a new cellular test solution 
+designed to support IoT applications, 
+including end-to-end cloud server 
+connectivity, security vulnerability 
+assessment and battery life measurement. 
+Strategic Report
+Chief Executive Officer’s strategic review continued
+With regard to hyper-
+connectivity, there are 
+multifarious challenges for 
+developer and network 
+operators. Spirent offers 
+solutions to avoid network 
+bottlenecks, degradation  
+in performance and  
+security breaches.
+• We demonstrated enhanced voice 
+services (EVS) with China Mobile at the 
+GSMA Mobile World Congress in Shanghai. 
+• China Telecom Corporation Limited 
+selected our Spirent Umetrix® 
+Voice solution for voice quality 
+testing of smartphones.
+• Our Spirent Umetrix Voice solution 
+was voted VoLTE Innovation of the Year, a 
+prestigious award presented at the recent 
+Telecom Asia Readers’ Choice & Innovation 
+Awards ceremony held in Singapore.
+Automotive 
+• We launched the first Automotive 
+Ethernet protocol conformance 
+and performance test system.
+• We released the first conformance 
+test solution for WAVE DSRC (wireless 
+access in vehicular environments for 
+dedicated short-range communications). 
+The test suite includes a set of tests 
+required for US Department of 
+Transportation certification. 
+Spirent Communications plc Annual Report 2017
+16 Q&A with Eric Hutchinson,  
+Chief Executive Officer,  
+on Spirent’s values in action
+What do you envision the future 
+to be for data technologies and 
+Spirent’s role in this area?
+The future will see the provision and 
+delivery of products, services and 
+environmental management by 
+automated, robotic, intelligent systems. 
+This is where smart technologies 
+are leading the world. This digital 
+revolution is underpinned by data 
+technologies in the broadest sense. 
+Spirent’s role will be to facilitate 
+and enable the development of the 
+digital technologies, infrastructure, 
+operations and the security necessary 
+for their implementation and operation.
+What are the exciting areas to 
+address in 2018 that give you 
+confidence in the outlook for Spirent?
+The near-term will be the provision 
+of autonomous service assurance for 
+operations. This is critical to realising 
+the benefits of the innovations that 
+allow network virtualisation. Without 
+these, the world will not feel the 
+economic benefits from the digital 
+revolution. There will be significant 
+investment in digital technologies; 
+some of this will involve demand for 
+our core technologies, some will 
+demand new solutions, such as 5G 
+wireless, all will offer an exciting role 
+for Spirent.
+2017 operating performance
+Spirent’s adjusted operating profit¹ 
+increased by 27 per cent through focus 
+and judicious cost management. Group 
+revenue was broadly flat, down by 
+$3.1 million to $454.8 million due to the 
+cyclical downturn in Ethernet and wireless 
+technologies. Strong revenue growth was 
+achieved in Lifecycle Service Assurance, 
+up 10 per cent to $109.2 million. Networks 
+& Security revenue decreased by 
+$1.2 million to $261.0 million, reflecting the 
+shift from 40G and 100G to 400G, which 
+saw a delay in the investments by major 
+customers during the year. Connected 
+Devices revenue decreased as expected, 
+by $11.9 million to $84.6 million. This was 
+due to two factors: the continued decrease 
+in device carrier acceptance testing with 
+an new impact of $4.9 million, and our 
+discontinuance of the Device Intelligence 
+and Developer Tools product lines, a 
+reduction of $7.0 million, with a further 
+impact in comparative numbers for 2018 
+of $5.9 million. Adjusting for the latter 
+total underlying Group revenue was 
+slightly up by $3.9 million.
+Eric Hutchinson
+Chief Executive Officer
+8 March 2018
+Adjusted operating  
+profit¹ up 27% to
+$58.9m
+Adjusted operating  
+margin² up to
+13%
+Notes
+1. Before exceptional items, acquired intangible asset amortisation, goodwill 
+and acquired intangible asset impairment and share-based payment  
+amounting to $15.2 million in total (2016 $87.6 million).
+2. Adjusted operating profit as a percentage of revenue in the period.
+Spirent Communications plc Annual Report 2017
+17
+Strategic Report Corporate Governance Financial Statements Other Information

@@ -1,0 +1,286 @@
+ Strategic report
+GROUP CHIEF EXECUTIVE 
+OFFICER’S REVIEW
+We’re proud of where we’ve come  
+from and proud of where we’re going. 
+In a combination that is unparalleled 
+in the industry, NEX will continue to 
+build platforms and services that  
+enable our clients to execute efficiently 
+throughout the transaction lifecycle.
+Michael Spencer
+Group Chief Executive Officer
+6 NEX Group plc Annual Report 2017 Strategic report Governance and directors’ report Financial statements Definitions
+A defining transaction
+For more than 15 years our strategy has been based  
+on continually investing in the development of financial 
+technology for the trading community. During the course 
+of last year we took our most significant step to date 
+with the founding of NEX. The sale of our voice broking 
+business to TP ICAP, which closed on 30 December  
+2016, enabled NEX to become a focused financial 
+technology business.
+Our marketplace is in flux. The ever evolving global 
+regulatory environment has caused our traditional 
+client base – the sell-side – to change their strategies 
+and business models as they seek to adapt. Banks and 
+other market participants rely even more on technology 
+to support their business and their management of 
+regulatory requirements. An increasing focus on 
+electronic markets and pre and post trade services has 
+created exciting opportunities for NEX and enables the 
+expansion of our product and service portfolio. 
+Becoming NEX
+During the last quarter of the financial year we turned 
+our focus to the future with a spirit and perspective 
+that confirms the decision to change our Company.
+Our culture is one of our great strengths. Only the right 
+characteristics can propel a company into the vanguard 
+of its industry, and we have a long-standing culture of 
+anticipating the needs of the markets and of our clients. 
+These are the foundations from which we will invest in 
+the long-term growth and success of our business.
+Our rebranding from ICAP to NEX was an exercise carried 
+out with our customary attention to detail, speed and 
+professionalism. During the last weeks of 2016 we 
+rebranded our offices around the world with no 
+disruption to our business, and we successfully launched 
+a new global intranet and multiple external websites 
+across the Group. This was accompanied by the largest 
+external advertising campaign we have undertaken. I am 
+confident that NEX is now firmly anchored in the minds 
+of our employees, clients and partners.
+  For strategic priorities  
+see pages 12-13 
+THE SALE OF OUR VOICE BROKING BUSINESS ENABLED NEX TO BECOME A FOCUSED 
+FINANCIAL TECHNOLOGY BUSINESS
+Number of employees
+Number of offices 70
+Number of regulated subsidiaries 39
+Consolidated regulatory supervision
+Yes 
+UK FCA
+Entity level regulatory  
+capital required
+In excess of £250 million
+Consolidated regulatory  
+capital required
+£500 million 
+absent the waiver
+4,500 1,900
+18
+8
+No 
+Local regulated entity oversight only
+£50 million 
+£110 million cash required for  
+regulatory liquidity purposes
+Nil
+7 NEX Group plc Annual Report 2017 Strategic report
+GROUP CHIEF EXECUTIVE OFFICER’S REVIEW CONTINUED
+Our move towards the consolidated infrastructure 
+and interface of NEX Infinity with its unified sales and 
+support environment that caters for both sell- and 
+buy-side as well as major corporates will provide us 
+with enormous opportunities.
+As part of this consolidation process we are aligning our 
+structure with that of our clients, allowing them a clear, 
+NEX business-agnostic view of our full suite of products 
+and services. 
+ “ The transformation of the Group 
+into a focused financial technology 
+company and our continued 
+investment in new product and 
+service offerings will result in  
+long-term growth.”
+Single legal agreements and a single interface will 
+further simplify our clients’ ability to pick and choose 
+multiple products either individually or in combination 
+based on their requirements and not our own  
+corporate structure. 
+An example of this is NEX Regulatory Reporting. 
+Launched in March, this combines a suite of best-in-
+breed services provided by multiple NEX Optimisation 
+businesses under a single umbrella to offer our clients 
+an extremely powerful and fully resilient cross-asset 
+and cross-jurisdictional regulatory reporting solution.
+At the beginning of the year we acquired ENSO Financial 
+Analytics. We have been and continue to be impressed 
+by ENSO, who have demonstrated the ability to build 
+a hedge fund client base to which they deliver an 
+expanding and well-regarded product set. In October 
+we completed our acquisition of Abide Financial. Since 
+Abide first came to our attention, we knew it was a 
+business which fitted perfectly with our strategy to  
+serve our clients’ changing needs. It is one of a very 
+small number of companies who offer holistic regulatory 
+reporting services, which will become ever more critical 
+as financial markets evolve.
+During the period we also invested in RSRCHXchange, 
+a MiFID II marketplace for institutional research; Axoni, 
+a leading provider of distributed ledger technology; 
+OpenFin, a unifying operating layer for financial desktops; 
+and Cloud9 Technologies, a cloud-based communication 
+provider. In addition, we made a further investment  
+in OpenGamma, a leading provider of derivatives  
+risk analytics.
+These acquisitions and investments demonstrate  
+how the team within our financial technology 
+investment business, NEX Opportunities, 
+is successfully building an impressive portfolio  
+of emerging financial technology companies. 
+In February, Per Sjöberg, CEO of TriOptima, decided 
+to leave the business to pursue other ventures. I would 
+like to record here my thanks to him for all his 
+contributions since he founded the business in 2000. 
+Ready for the future
+NEX is in a position to change our industry. We have 
+a portfolio of services that no one else can offer, and 
+which gives us the ability to build our reputation and 
+brand as the world’s leading electronic platform for  
+OTC transactions and post trade services to all parties. 
+We are already expanding beyond our traditional 
+sell-side client base of banks and professional trading 
+firms to embrace hedge funds, corporates, asset 
+managers, sovereign wealth funds and global, regional 
+and central banks. NEX will become synonymous with a 
+supermarket of services, delivering world-class products 
+and first-rate service and support to our clients.
+With NEX Markets we have the world’s leading 
+electronic trading platform for the fixed income 
+markets and a leading electronic FX trading business 
+with significant market share in many currencies. We 
+continue to develop the next generation of financial 
+technology for the trading community which will enable 
+us to create the pre-eminent global e-platform for the 
+FX and fixed income markets. At the same time, we are 
+restructuring the business to be far more client-focused.
+This past year we have seen significant growth on 
+EBS Direct, our FX relationship-based trading venue, 
+with new counterparties trading on the platform, record 
+daily volumes and the roll out of FX forwards to new 
+client segments. Our enhancements to the EBS central 
+limit order book, EBS Market, such as the launch of EBS 
+Live Ultra – our premium market data service – are 
+benefiting clients and maintaining our market share,  
+and we have seen further expansion of our Asian NDF 
+business in addition to our eFix matching service.
+BrokerTec continues to be the reference point in the 
+US Treasury market and we have seen growth in US  
+and EU repo. In March, BrokerTec acquired a majority 
+share in e-MID – a multilateral trading platform for 
+interbank deposits and money market instruments  
+in Europe. Integrating the e-MID technology into our 
+infrastructure, we can offer its Italian government 
+bond repo and interbank deposit businesses to our 
+extensive international client base. With access to 
+the domestic financial community in Italy, we plan to 
+establish a money market offering for Italian corporates 
+and are excited about contributing to the further 
+development and evolution in this central market.
+In NEX Optimisation we already have many solutions 
+that help clients simplify and optimise their resources 
+across the transaction lifecycle.
+8 NEX Group plc Annual Report 2017 Strategic report Governance and directors’ report Financial statements Definitions
+The event raised £8.2 million supporting over 200 
+charities globally, which is equivalent to more than 5% 
+of NEX’s full-year pre-tax trading profit. My thanks to 
+all involved for their tremendous spirit and support.
+This year’s dividend and outlook for the 
+coming year
+The directors recommend a final dividend of 27 .0p per 
+share which will result in a full-year dividend of 38.5p per 
+share (2015/16: 38.5p per share). If approved, the final 
+dividend will be paid on 21 July 2017 to shareholders  
+on the register at the close of business on 30 June 2017 .  
+The shares will be quoted ex-dividend from 29 June 2017 .
+Our performance continues to be strong in a tough 
+market environment while trading activity since the 
+start of the year has been subdued as volatility remains 
+low despite sporadic activity around political events. In 
+the year ahead NEX will continue to make progress on 
+its strategy to deliver against its growth objectives and 
+drive operational leverage.
+I would like to thank our employees for their energy and 
+commitment during this transition year. We have much 
+ahead of us as we create a strong identity for NEX. I am 
+convinced that together we have the innovation and 
+leadership skills to enable us to build a great business.
+Michael Spencer
+Group Chief Executive Officer
+We continue to identify and provide capital to firms 
+delivering new platforms, business models and next 
+generation technologies with the objective of driving 
+significant efficiency, transparency and scale across  
+the transaction lifecycle.
+NEX Exchange has exactly the same regulatory, legal 
+and tax status as the alternative markets, which we 
+combine with a high-quality service to help 
+entrepreneurs raise capital on the public market.
+2016/17
+For the year ended 31 March 2017 , the Group reported 
+revenue from continuing operations of £543 million,  
+up 18% on the prior year. On a constant currency basis, 
+revenue from NEX Markets was up 8% and from NEX 
+Optimisation was up 9%.
+During the course of the year, the Group’s trading 
+performance benefited from increases in market share 
+across various products including BrokerTec UST Actives 
+and Asian NDFs and new product launches such as 
+triResolve Margin and new functionality on EBS Treasury. 
+This was partly offset by historically low FX volatility 
+impacting trading activity on the EBS FX platform.
+The Group reported a trading operating profit of  
+£145 million, an increase of 4% on the prior year  
+(or 12% if we exclude the impact of FX hedging). 
+Although the Group’s trading operating profit margin 
+reduced to 27% (2015/16: 30%), underlying profitability 
+was higher after adjusting for FX hedging.
+Charity Day
+Our 24th Annual Charity Day was held in December 
+2016. This truly global fundraising event has become 
+a fixed point in the financial services industry calendar. 
+It was a delight to welcome Prince Harry as well as the 
+Countess of Wessex and many other celebrity patrons 
+of our selected charities to the London office. 
+  For the business model  
+see pages 2-3
+  For Charity Day 
+see pages 18-19
+  For financial results 
+see pages 24-29
+9 NEX Group plc Annual Report 2017 INNOVATIVE
+DELIVERY 
+Our investment in our people and culture 
+supports the success of our business. 
+We build long-term relationships and 
+are committed to the highest standards 
+in everything we do.
+10 NEX Group plc Annual Report 2017 EMPLOYEES BY LOCATION
+New Jersey
+China
+New York
+Hong Kong
+Tokyo 
+Singapore 
+Milan
+UK  (London: 634, Bristol: 42)
+Tel Aviv 
+Stockholm
+11
+16
+17
+89
+379
+147
+676
+300
+271
+13
+By region
+Americas and Canada 579
+Asia Pacific 143
+Europe, Middle East and Africa 1,219
+1,941
+Employees in satellite offices: 22
+11 NEX Group plc Annual Report 2017

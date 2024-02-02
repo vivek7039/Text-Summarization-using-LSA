@@ -1,0 +1,259 @@
+ Results
+Corero revenue for the year ended 31 
+December 2017 was $8.5 million (2016: 
+$8.8 million) with SmartWall revenue up 
+43% over the prior year whilst legacy 
+product revenues declined as expected. 
+Smartwall recurring revenue increased 
+to $3.4 million (2016: $1.5 million). The 
+EBITDA loss reduced to $5.1 million  
+(2016: EBITDA loss $6.4 million). 
+Revenue and the EBITDA loss for the year 
+ending 31 December 2017 was impacted 
+by delays in world-wide implementation 
+schedules for a large digital enterprise 
+customer win in Q3 2017 and an existing 
+customer’s ongoing deployment (with 
+the majority of the revenue from these 
+two customers now expected in the first 
+half of 2018).
+Market dynamics
+Cyber-security risks are growing, both in 
+their prevalence and in their disruptive 
+potential. Another growing trend is the 
+use of cyber-attacks to target critical 
+infrastructure and strategic industrial 
+sectors, raising fears that attackers 
+could trigger a breakdown in systems 
+that are essential to modern society. The 
+World Economic Forum Global Risks 
+Landscape for 2018 ranks cyber-attacks 
+as the third most likely risk in its top 10 
+risk analysis, behind extreme weather 
+events and natural disasters.
+The head of the National Cyber Security 
+Centre (“NCSC”), Ciaran Martin, recently 
+commented that while the UK is fortunate 
+to have avoided a so-called category one 
+cyber-attack so far, it is only a matter of 
+time before a catastrophic cyber-attack is 
+launched on its critical infrastructure or 
+election setup.
+A recent report from Neustar revealed 
+that many businesses viewed unsecured 
+Internet of Things (“IoT”) devices as a 
+major concern. This is hardly surprising, 
+given the recent developments in IoT 
+botnets and the huge potential for 
+unsecured IoT devices to be turned into  
+a botnet army and used by hackers to 
+launch DDoS attacks.
+IoT devices still suffer from basic 
+security vulnerabilities and it is 
+precisely this lack of security that 
+makes them so attractive to hackers. 
+But it’s not just a password problem 
+anymore. Attackers understand that 
+manufacturers and users are waking 
+up to the problem of passwords on IoT 
+devices, and so are seeking more 
+complex ways to access them. As this 
+trend continues, and hackers become 
+increasingly inventive when searching 
+for new devices and ways to enlist 
+them, there is really no limit to the size 
+and scale of future DDoS attacks 
+driven by IoT botnets. Any device that 
+has an Internet connection and a 
+processor can be exploited. In an ideal 
+world, all devices should be forced to 
+go through some sort of network 
+configuration before being used, 
+rather than being exploitable from a 
+default position.
+Businesses and government 
+departments can protect their networks 
+from DDoS attacks fuelled by IoT-driven 
+botnets by deploying a real-time, 
+automated solution at the network edge, 
+which can instantaneously detect and 
+mitigate DDoS activity, thereby 
+eliminating threats from entering a 
+network. As with all DDoS threats, clear 
+visibility is a crucial step in detecting and 
+defending against attacks. The Corero 
+SmartWall solution is this real-time 
+automated solution providing rich 
+actionable analytics.
+As organisations develop their 
+businesses to harness the benefits and 
+power of technology, we are seeing 
+companies reassess their security 
+architecture, including DDoS protection, 
+as traditional approaches will not be 
+sufficient to protect enterprises.
+Government regulations
+Corero welcomes the investment and 
+attention that governments are 
+committing to the cyber-security of 
+Critical National Infrastructure (“CNI”), 
+particularly recent guidance from the US 
+Government which sets out detailed 
+recommendations on how to boost 
+resilience and ensure suitable 
+protections and mitigation systems are 
+deployed. Corero recently submitted a 
+response to the Joint Committee on the 
+National Security Strategy’s inquiry 
+‘Cyber Security: UK National Security in a 
+Digital World’ and recommended the 
+following actions are taken:
+Chief Executive’s strategic update
+Corero is well positioned to deliver on its goal  
+of being the leading player in the real-time 
+DDoS mitigation market with SmartWall 
+solution validation from over 90 customers. 
+Corero Network Security plc
+Annual Report & Accounts 2017 06 Operating performance against strategy
+Our performance against our 2017 strategic objectives is summarised below:
+• Establish SmartWall as the leading solution for real-time DDoS mitigation:  
+Continued progress in growing our customer base to 90 customers and the 
+addition of a number of high profile customers including Corero’s first US 
+federal government customer, two one million dollar customers, first 
+Australian customer and first potentially significant revenue share contract 
+with a Tier 1 service provider. 
+• Improve Smartwall DDoS defence technology:  
+SmartWall software releases in 2017 have added new attack defence and 
+improved forensics and analytics capabilities.
+• New products to address the evolving requirements of the target market:  
+Corero further enhanced its market leading SmartWall product portfolio in 
+2017 with the deliverables from a two-year development program with a new 
+SmartWall 100Gbps capable product to capture growth in customer demand 
+for 100Gbps connectivity and SmartWall virtual software appliance to capture 
+demand for hybrid on-premises / Cloud DDoS mitigation deployments. Corero 
+announced the first sales of the 100Gbps product (totalling $0.4 million) in 
+early January 2018.
+• Target market focus:  
+Customer wins in 2017 have continued to validate the target market for 
+real-time, automatic DDoS mitigation solutions; namely service providers, 
+cloud providers and digital enterprises.
+• Expand routes to market:  
+Corero’s strategy is to work with leading IT and network technology vendors to 
+make DDoS mitigation an integral component of any well-engineered Internet 
+facing network design thereby increasing our go-to-market opportunities. In 
+2017, Corero signed agreements with major global technology companies 
+including Juniper Networks, Gigamon, and McAfee. The technology alliance 
+partnership with Juniper Networks, a US based multinational corporation that 
+develops and markets networking and security products, has provided benefits 
+in 2017 with the opportunity for Corero to expand its market reach by 
+leveraging Juniper Networks’ global footprint.
+• Develop sales models to attract new target customers:  
+The DDoS protection as-a-service model launched in late 2016 has gained 
+traction in 2017 with 16 customers by the year end. In addition, the Service 
+Portal, a turnkey solution for service provider customers to manage the 
+delivery of DDoS mitigation services to their customers, has been an 
+important competitive differentiator.
+• DDoS attacks on CNI, particularly 
+frequent low-volume and short 
+duration attacks, must be a priority 
+area for Government;
+• Government must take advantage of 
+opportunities, such as that provided by 
+the implementation of the NIS 
+Directive, to fulfil its ambition of 
+becoming ‘the safest place in the  
+world to live and work online’;
+• The implementation of the Directive 
+on Security of Network and 
+Information Systems (“NIS Directive”) 
+should not be treated as a tick box 
+exercise but instead should be grasped 
+as an opportunity for the UK to lead 
+the world in the strength of its 
+cyber-security regulatory framework;
+• Government should look at 
+international best practice and adopt a 
+more attack-specific and specialist-led 
+approach towards cyber-security, 
+moving away from generic wide-
+ranging statements;
+• Government must set out and 
+rigorously enforce detailed cyber-
+security requirements for operators  
+of critical national infrastructure; and
+• Government should clarify 
+Departmental cyber-security 
+responsibilities and allocate further 
+resource to the NCSC.
+“We were driven to seek out a DDoS mitigation solution due to the increasing 
+severity and frequency of DDoS attacks against our hosted client base.  
+DDoS attacks can create service interruptions for customers and create 
+unpredictable work efforts for the engineers tasked with resolving them.” 
+Larry Patterson, Chief Technology Officer  
+and Co-founder, Atomic Data
+07
+Strategic Report Financial Statements Governance Corporate Directory Fund raise
+On 5 April 2018, Corero will announce a 
+conditional placing and subscription to 
+raise £4.0 million ($5.2 million) (“Equity 
+Fund Raise”). In addition, Corero is in 
+advanced discussions with a UK bank to 
+provide a term loan of £3.0 million ($4.2 
+million) (“Bank Loan”), contingent on the 
+Equity Fund Raise. The Bank Loan is 
+expected to be finalised and drawn 
+down following the completion of the 
+Equity Fund Raise.
+Outlook
+Corero enters 2018 with the 
+foundations in place for continued 
+acceleration of SmartWall revenue 
+growth as a result of:
+• strong market demand from the 
+growing awareness of the threat and 
+impact of DDoS attacks, and increased 
+risk associated with the projected 
+growth of IoT deployments;
+• pending regulations in the US, UK and 
+Europe, including the NIS Directive 
+which comes into force for all EU 
+member states on the 9th May 2018, 
+are expected to positively impact 
+demand for DDoS mitigation 
+investment in 2018 particularly by 
+Digital Enterprises (including critical 
+national infrastructure providers);
+• Corero go-to-market partner 
+recruitment and enablement efforts 
+with partners is expected to 
+contribute to revenue in 2018; and
+• investment in channel sales 
+development to grow Corero’s routes 
+to market in 2018.
+This gives us confidence Corero will 
+deliver revenue growth in 2018.
+Ashley Stephenson 
+Chief Executive Officer 
+4 April 2018
+“Corero enters 2018 with confidence following a year of strong growth in SmartWall revenue 
+with proof points of multiple $1.0 million plus customers, a growing catalogue of industry 
+awards and several disruptive contract wins against competitors. In addition, Corero also 
+expanded its ecosystem of world class partners and introduced an enhanced product 
+portfolio. We are excited about the prospects for the future of the business.”
+Ashley Stephenson 
+C hi e f	E x e c u t i v e	O ffi c e r
+Chief Executive’s strategic update continued
+Corero Network Security plc
+Annual Report & Accounts 2017 08 KEY INSIGHT
+IoT Botnets should be a grave concern
+Despite its advantages, the Internet of Things comes with a host of security 
+challenges. IoT devices are usually poorly managed, patched and secured. They 
+are thus prime targets for hacker infiltration and takeover, aside from the 
+personal privacy and security concerns that result from these security gaps.
+The big danger is that these connected devices 
+can be harnessed by hackers for a variety of 
+nefarious purposes; in many cases hackers 
+use them to form a botnet to carry out 
+DDoS attacks. 
+Strategic Report Financial Statements Governance Corporate Directory
+09

@@ -1,0 +1,656 @@
+ 31
+|  IG Group Holdings plc • Annual Report 2017 30 IG Group Holdings plc • Annual Report 2017  |
+Company overview Strategic report Corporate Governance report Financial statements
+The backdrop this year was dominated by significant political 
+events, including the UK’s EU referendum in June, the US 
+presidential election in November and elections in key European 
+countries in the second half of the year. However, the uncertainty 
+these events created was not reflected in the financial markets, 
+which, outside the specific events, displayed low levels of volatility. 
+Although annual revenue was split almost equally between the two 
+halves of the year, the quarterly performance was more variable. 
+A weak first quarter was followed by a record second quarter 
+(£133.4 million). The second half of the year also started quietly 
+and recovered in the final quarter, with client trading levels peaking 
+around the French and German elections.
+UK
+OTC leveraged revenue in this region grew 0.3% to £223.0 million 
+(FY16: £222.3 million) and represented 45% of Group revenues. 
+Active client numbers were up by 8% to 64,725 (FY16: 59,940). 
+As previously outlined, the UK, due to the large installed client 
+base that comes with the most mature market, responds more 
+to volatility, both negatively and positively. In the quiet markets, 
+this, along with the heavy client acquisition around the UK’s EU 
+referendum and the US presidential election, meant that average 
+revenue per client was down by 7% to £3,446 (FY16: £3,710).
+An annual study of the UK’s retail leveraged trading industry was 
+released in July 2017. The survey concluded that, although the retail 
+leveraged trading market remains niche, the number of traders 
+grew to 148,000 (2016: 138,000 – restated). The survey showed that 
+IG’s primary market share of spread bettors fell slightly, from 46% 
+to 45%, and its primary share of CFD traders fell from 27% to 24%. 
+The measurement of primary market share is based on an estimate 
+of the number of primary accounts, excluding partner agreements, 
+and makes no allowance for client value. Therefore drawing precise 
+conclusions about the share of total market revenue is difficult.
+EMEA
+OTC leveraged revenue grew 17% to £137.5 million in the  
+2017 financial year (FY16: £117.3 million), which equates to 28% of 
+the Group revenue. 
+Active client numbers rose 10% to 45,903 (FY16: 41,566) and 
+revenue per client was up 6% to £2,997 (FY16: £2,821). 
+This region divides into two broad areas when analysing 
+performance. Like the UK, the EU-based offices are more mature 
+and generate a slower rate of growth than the newer, non-EU offices 
+of Dubai, South Africa and Switzerland. In the non-EU offices, where 
+the regulatory environment appears more stable, revenue almost 
+doubled to £30.7 million. Active client numbers were also up in 
+these countries by 22%, and revenue per client rose by 59%.
+APAC
+OTC leveraged revenue in the 2017 financial year grew by 9% to 
+£114.1 million, against a prior year of £104.7 million. This was driven 
+by a 3% growth in clients to 37,392 (FY16: 36,364) and a 6% rise in 
+revenue per client to £3,051. Revenue in the second half of the year 
+was 5% ahead of the first half.
+US 
+Revenue grew 26% over the period to £14.1 million  
+(FY16: £11.2 million). Active member numbers were up by 47%  
+and revenue per client was down by 14%.
+Share dealing and investments 
+Share dealing is now active in IG’s two largest markets of the UK and 
+Australia, and is also offered in Austria, France, Germany, Ireland 
+and the Netherlands. This is an important strategic product line for 
+the UK business, which further engages our current client base.
+Total client numbers in the year were up around 200% on FY16 
+at 20,417 (FY16: 6,748). Revenue and first trades were also up by 
+around 200% to £2.4 million and 18,188 respectively. This is partly 
+down to ongoing growth in the UK and partly to the launch in 
+Australia in July 2016.
+The IG Smart Portfolio product was launched in the UK in  
+April 2017, in partnership with BlackRock. This product seeks to 
+take advantage of the growing market for low-cost passive portfolio 
+investment products, and is based on BlackRock ETFs.
+FINANCIAL REVIEW 
+Summary Group Income Statement
+Year ended 31 May 2017 Year ended 31 May 2016
+£m £m
+Net trading revenue 491.1 456.3
+Net interest on segregated client funds 4.0 3.4
+Betting duty and financial transaction taxes (7.5) (11.2)
+Other operating income 1.9 0.6
+Net operating income 489.5 449.1
+Operating expenses (276.1) (241.5)
+Operating profit 213.4 207.6
+Net finance income / (expense) 0.3 0.3
+Profit before taxation 213.7 207.9
+Profit before tax margin
+43.5% 45.6%
+Taxation (44.5) (43.6)
+Profit for the year 169.2 164.3
+Diluted earnings per share 45.9p 44.6p
+Total dividend per share 32.3p 31.4p
+Net operating income 
+Net operating income increased by 9% to £489.5 million (2016: £449.1 million), reflecting the 8% growth in net trading revenue, and 
+a reduction in betting duties reflecting lower client losses on spread betting contracts. The long-term average for betting duties as a 
+percentage of net trading revenue is around 2%. Net interest income on segregated client funds increased by £0.6 million to £4.0 million 
+(2016: £3.4 million), driven by increases in the amount of client money held.
+Operating expenses 
+Operating expenses increased by 14% to £276.1 million (2016: £241.5 million). 
+Year ended 31 May 2017 Year ended 31 May 2016
+£m £m
+Employee remuneration costs – fixed 95.5 83.3
+Employee remuneration costs – variable 23.6 30.2
+Advertising and marketing 64.5 49.7
+Depreciation and amortisation 16.4 12.7
+Irrecoverable VAT and other sales taxes 14.1 11.2
+Regulatory fees 2.3 5.7
+Other costs 59.7 48.7
+276.1 241.5
+Employee remuneration costs 
+Fixed employee remuneration costs increased by 15% to £95.5 million (2016: £83.3 million). This reflects an 8% increase in average 
+headcount and a 6% increase in average cost per head. The increase in average headcount reflects investment in client-service roles; the 
+additional headcount associated with DailyFX; and the dual-running of teams during the process of offshoring functions to the Group’s 
+resource hub in Poland. The increase in the average cost per head reflects the introduction of flexible benefits; the impact of salary 
+benchmarking and the increase in the GBP equivalent cost of non-UK staff, due to the weakening of GBP compared with most other 
+currencies relative to the 2016 financial year. Variable employee remuneration costs reduced by 22%, due to lower discretionary bonus 
+payments for staff in the 2017 financial year compared to those made for the prior year.
+Year ended 31 May 2017 Year ended 31 May 2016
+Average headcount 1,522 1,412
+Year-end headcount 1,546 1,408
+OPERATING AND FINANCIAL REVIEW
+OPERATING REVIEW
+With the increasing geographic and product diversity of IG’s business, and following a management realignment, the make-up of the 
+segments reported on for the 2017 financial year has been adjusted. This reflects the information format that management reviews for 
+the purposes of both allocating resources and assessing performance, and includes increased disclosure around the share dealing and 
+investments business. For further details and a restatement of the prior year’s performance refer to note 3 of the Financial Statements.
+Reporting segment Revenue (£m) % Change
+(1)
+Clients (‘000s) % Change Revenue per client
+(1)
+FY17 FY16 FY17 FY16
+UK 223.0 222.3 0.3% 64.7 59.9 8% (7%)
+EMEA 137.5 117.3 17% 45.9 41.6 10% 6%
+APAC
+114.1 104.7 9% 37.4 36.4 2.8% 6%
+Leverage OTC
+474.6 444.3 7% 148.0 137.9 7% (0.5%)
+US 14.1 11.2 26% 22.3 15.2 47% (14%)
+Share dealing and investments
+2.4 0.8 187% 20.4 6.7 203% (5%)
+Multi-product clients
+(5.0) (2.4) 112%
+Group
+491.1 456.3 8% 185.8 157.5 18% (9%)
+(1)  The financial tables above contain numbers which have been rounded, while all year-on-year percentages are calculated off underlying unrounded numbers. 33
+|  IG Group Holdings plc • Annual Report 2017 32 IG Group Holdings plc • Annual Report 2017  |
+Company overview Strategic report Corporate Governance report Financial statements
+Advertising and marketing costs 
+Advertising and marketing costs increased by 30% to £64.5 million 
+(2016: £49.7 million). The Group has continued to manage its 
+external marketing spend, to drive client recruitment while keeping 
+acquisition cost per client flat. The cost per first trade in the 2017 
+financial year (excluding Nadex clients, and including irrecoverable 
+VAT) was £1,172 (2016: £1,205). 
+Depreciation and amortisation 
+Depreciation and amortisation increased by £3.7 million to  
+£16.4 million (2016: £12.7 million). The increase includes the  
+£1.9 million amortisation of the investment in DailyFX, which 
+delivers market-leading education, research, analysis and news 
+focused on the FX markets, and which is a key part of our future 
+marketing strategy. In addition, the charge in the 2017 financial 
+year includes £1.6 million relating to the write-down of leasehold 
+improvements and fixtures and fittings, as a result of the office 
+refurbishment that took place during the year. 
+Irrecoverable VAT and other sales taxes
+The Group does not recover all of the input VAT and other sales 
+taxes it incurs on its costs, and the £14.1 million charge in the 2017 
+financial year reflects the amounts not recovered. The increase 
+in irrecoverable VAT and sales taxes reflects the increase in costs 
+in the year on which VAT and other sales taxes are charged – 
+predominantly marketing and advertising costs. 
+Regulatory fees
+The Group is charged regulatory fees by the various regulators in 
+the jurisdictions in which it operates, and in addition is required 
+to make a contribution to the Financial Services Compensation 
+Scheme (FSCS) in the UK. The £3.4 million reduction in the cost 
+of regulatory fees reflects the rebate the Group received during 
+the 2017 financial year relating to FSCS levies paid in prior years, 
+and the benefit from the actual FSCS levy for 2016 which was 
+charged in FY16 being lower than the cost accrued. The charge for 
+regulatory fees is expected to revert to the normal level in the 2018 
+financial year.
+Dividend policy
+The business continues to be highly cash-generative, and the Board 
+seeks to reflect this in the direct cash returns to shareholders. IG has 
+a progressive dividend policy, and it remains the Board’s intention 
+to pay out, as an ordinary dividend, approximately 70% of Group 
+post-tax earnings. Accordingly, the Board is recommending a final 
+dividend of 22.88 pence per share, giving a full-year dividend 
+of 32.3 pence per share, 3% higher than the 31.4 pence per 
+share paid for the year to 31 May 2016, reflecting the increase in 
+post-tax earnings.
+Cash generation, investments and dividends
+The Group uses own funds, and net own funds, generated from 
+operations as its key measures of cash generation. The make-up of 
+own funds is shown on the Balance Sheet in Note A, and the Own 
+Funds cash flow is shown in note C of the Other Information section 
+in the Financial Statements. 
+Cash generation remains strong. Own funds generated from 
+operations of £229.2 million (2016: £239.8 million), compares with 
+operating profit of £213.4 million (2016: £207.6 million), with a cash 
+conversion rate, calculated as own funds generated from operations 
+divided by operating profit, of 107% (2016: 116%). The reduction in 
+the conversion rate reflects the reduction in year-end bonus accruals 
+at 31 May 2017 compared with the prior year-end. The Group 
+continues to benefit from a net credit balance in working capital.
+Capital expenditure in the year of £17.1 million includes  
+£7.6 million relating to the purchase and development of intangible 
+assets during the year, including the new web trading platform and 
+new financial systems to improve the control environment for cash 
+and client money. It also includes £10.5 million on tangible assets, 
+including £2.8 million for the office refurbishment in London and 
+£6.3 million for new and replacement IT hardware.
+During the year the Group purchased the assets of DailyFX, a 
+leading global news and research portal, from FXCM Inc. for  
+$40.0 million (£32.7 million), with $4.0 million (£3.3 million) of this 
+amount deferred for a year. 
+Dividend payments to shareholders during the year to 31 May 2017 
+of £118.7 million comprise the final dividend for the year to  
+31 May 2016 of £84.1 million, as well as the interim dividend for the 
+year to 31 May 2017 of £34.6 million.
+The final dividend for the year to 31 May 2017 of £83.9 million will, 
+if approved, be paid in October 2017.
+The Group’s own funds of £614.3 million at the end of the year 
+are £26.6 million higher than at the end of the prior year. This 
+reflects the £17.8 million own funds cash flow after investments and 
+dividends, and £8.8 million of FX translation benefit reflecting the 
+increased GBP equivalent value of own funds in non-UK businesses.
+Liquidity 
+The Group’s total liquid assets at the end of year were  
+£731.4 million (2016: £626.7 million). The increase in liquid  
+assets reflects the increase in own funds, and the increase in  
+client funds on the balance sheet to £117.1 million at 31 May 2017 
+from £39.0 million at 31 May 2016. Client funds on the balance  
+sheet include £60.0 million (2016: £25.5 million) deposited by 
+clients under title transfer arrangements, and £57.1 million  
+(2016: £13.5 million) of client deposits with IG Bank SA, the Group’s 
+subsidiary in Switzerland. The Group does not currently use any of 
+the Swiss Bank deposits for liquidity purposes.
+The Group’s primary requirement for liquidity is for the margin it is 
+required to deposit with its hedging brokers. The average broker 
+margin requirement in the 2017 financial year was £286 million,  
+£73 million higher than in the 2016 financial year, with a peak  
+broker margin requirement of £367 million during the year.  
+At 31 May 2017, the actual broker margin requirement was  
+£356 million (2016: £228 million). 
+The Group has access to a committed Revolving Credit Facility 
+(RCF) of £160 million to assist in liquidity risk management. The 
+Group draws down on its RCF during periods when broker margin 
+is at elevated levels and in advance of events that could result in 
+an elevated broker margin requirement, in order to reduce liquidity 
+risk. During the year, draw downs of the facility were made ahead 
+of three political events: the EU referendum on 23 June 2016, 
+the US presidential elections on 8 November 2016 and the Italian 
+referendum on 4 December 2016. These precautionary drawdowns 
+were repaid after the event. In June 2017 the Group renewed the 
+£160 million RCF with a syndicate of four UK banks. Of the  
+£160 million, £60 million is available for three years, with  
+£100 million available for 12 months.
+Segregated client funds
+At 31 May 2017 the Group held £1,215.3 million  
+(2016: £917.3 million) of client money in segregated trust bank 
+accounts, and £499.8 million (2016: £177.8 million) of client assets 
+in third-party custodian accounts. These amounts are segregated 
+client money and assets, and are therefore excluded from the 
+balance sheet.
+Regulatory capital resources
+The calculation of the Group’s consolidated capital resources and 
+capital ratio is shown in note E of the Other Information section in 
+the Financial Statements. The Group’s capital ratio – resources as a 
+percentage of the total requirement was 26.7% as at 31 May 2017, 
+compared with the minimum ratio for the Group of 18.7%. The 
+Group continues to have sufficient capital headroom.
+Impact of changes in foreign currency 
+exchange rates
+IG offers its clients opportunities to trade in over 15,000 markets. 
+Our clients have the opportunity to gain exposure to these markets 
+in the natural currency of that market or, in many cases, their 
+account currency. The Group hedges its exposure to the underlying 
+markets and to currencies. The Group’s trading revenue from OTC 
+leveraged derivatives is the aggregate of the transaction fees on 
+many millions of individual client trades net of the transaction fees 
+on hedging the exposures, which are also denominated in a number 
+of currencies. These transactions are almost all booked in entities 
+whose functional currency is GBP . It is impractical to isolate the 
+effect that changes in foreign currency exchange rates have on the 
+Group’s GBP reported revenue.
+Around one third of the Group’s operating expenses are incurred 
+in currencies other than GBP . Although it is possible to identify the 
+effect that changes in foreign currency exchange rates have on the 
+GBP reported costs, as it is not practical to do so on revenue, the 
+Group accepts that it manages its earnings in GBP , and reports on 
+and explains its results accordingly.
+OPERATING AND FINANCIAL REVIEW continued
+Other costs
+The £11.0 million increase in other costs to £59.7 million reflects changes as follows:
+Year ended 31 May 2017 Year ended 31 May 2016
+Premises-related costs 13.2 12.1
+Telephone and data 2.0 1.7
+IT Maintenance and support 12.2 9.7
+Market data 9.7 7.9
+Legal and professional costs 8.0 6.8
+Net charge for impaired trade receivables 3.0 1.6
+Payment card charges 2.2 0.4
+Other costs 9.4 8.5
+59.7 48.7
+The higher IT maintenance and support costs reflect investments made in data security and IT infrastructure. The higher market data costs 
+reflect the growth in client numbers. The higher payment card charges are due to the increased volume of card payments by clients. 
+Taxation
+The effective rate of tax for the year ended 31 May 2017 was 20.8% – slightly lower than the effective rate of 21.0% for the prior year. The 
+effective rate of tax has continued to benefit from the reduction in the standard rate of UK corporation tax, which reduced from 20% to 19% 
+on 1 April 2017.
+The vast majority of the Group’s taxable profit arises in the UK. An analysis of the tax charge by geographic segment is shown in note F of 
+the Other Information section of the Financial Statements. The Group’s effective rate of tax remains dependent on the mix of taxable profit 
+by geography, the availability and use of taxable losses and the tax rates levied in those geographies. The Group’s current estimate of the 
+effective rate of tax for the year to 31 May 2018 is 20.5%.
+The calculation of the Group’s tax charge involves a degree of estimation and judgment, in particular with respect to certain items whose 
+tax treatment cannot be finally determined until agreement has been reached with the relevant tax authority.
+Diluted earnings per share
+Diluted earnings per share of 45.9 pence for the year to 31 May 2017 are 3% higher than the 44.6 pence for the year ended 31 May 2016. 
+Diluted earnings per share is used as a primary measure of profitability and as a financial measure in relation to the Executive Director and 
+senior management share plans. 35
+|  IG Group Holdings plc • Annual Report 2017 34 IG Group Holdings plc • Annual Report 2017  |
+Company overview Strategic report Corporate Governance report Financial statements
+RISK MANAGEMENT 
+FRAMEWORK
+IG has an established Risk Management Framework to identify, 
+measure, manage and monitor the risks faced by the business, 
+and to manage the risk that the Group’s conduct may pose to 
+the achievement of fair outcomes for consumers or to the sound, 
+stable, resilient and transparent operation of the financial markets. 
+This framework provides the Board with assurance that IG’s risks, 
+including the risks relating to the achievement of Group’s strategic 
+objectives, are understood and managed in accordance with 
+the appetite and tolerance levels set. It provides the basis for 
+enabling the Group’s ongoing assessment and monitoring of capital 
+adequacy and its liquidity risk management. The framework is 
+established around the following elements:
+• Risk culture
+• Risk Principles
+• Risk Taxonomy
+• Risk Appetite Statement
+• Risk management governance
+• Risk assessment, monitoring, control and reporting
+Risk culture
+The Board recognises that embedding a sound risk culture 
+is fundamental to the effective operation of the Group’s Risk 
+Management Framework, and sets the tone for broader conduct in 
+all business activities and for promoting a common set of IG values 
+and expected behaviours.
+The Group’s culture is defined by the shared values, attitudes, 
+competencies and behaviours present throughout the business.  
+A poor culture will inevitably lead to an increase in certain areas  
+of risk. 
+The Group seeks to achieve the implementation of its desired 
+risk management culture through principles, policies and 
+practices, including:
+• The core Risk Principles set out below that drive risk 
+management in IG 
+• The firm’s Risk Appetite Statement that clearly defines the type 
+and level of risk the Group is willing to accept in pursuit of 
+its objectives
+• The adoption of a comprehensive policy framework 
+to ensure that all employees are aware of their risk 
+management responsibilities
+• The allocation of responsibility for identification, assessment, 
+mitigation and reporting of risks to management across 
+the business (including front office, control functions and 
+executive management)
+• A performance management process that links staff appraisals 
+and remuneration to risk management and conduct
+• Corporate communications that reinforce awareness and 
+understanding of the Group’s desired risk management culture 
+and associated policies
+Risk Principles
+The IG Risk Management Framework is driven by a set of core 
+principles that set the context for risk management activities across 
+the Group:
+• Risk management should be clearly focused on enhancing 
+shareholder value and supporting the achievement of the 
+Group’s strategic objectives
+• The approach to risk management should address the 
+requirements and expectations of the firm’s key stakeholders 
+(including clients and employees as well as investors 
+and regulators)
+• Risk and control oversight functions should be independent of 
+business functions and supported by adequate resources
+• The Board risk appetite should clearly articulate the types 
+and amount of risk the Group is willing to accept in pursuit of 
+its objectives
+• Risk management should be fully embedded into all 
+departments and business processes of the Group and managed 
+as an integral part of day-to-day management
+• Risk management activities should be appropriate for the 
+level and complexity of the firm’s business activities and 
+associated risks
+• Risk management should be subject to continual review 
+and enhancement to ensure that the Group’s Risk 
+Management Framework remains effective and aligned to 
+stakeholder expectations
+Risk Taxonomy
+IG has developed a Risk Taxonomy to ensure that the Group 
+considers the full spectrum of risks faced by the business, and to 
+create a single language for classifying risks in all risk management 
+activities. The taxonomy categorises the principal risks faced 
+by the Group into five areas: the risks inherent in the regulatory 
+environment, the risks inherent in the commercial environment, 
+business model risk, operational risk and conduct risk. Each of these 
+areas of risk is considered below, with an overview of how IG seeks 
+to manage them.
+Risk Appetite Statement
+The Group’s Risk Appetite Statement (RAS) defines the level of risk 
+the IG Board is willing to take in pursuit of its business objectives 
+and strategic goals. The RAS provides parameters within which the 
+business can operate and facilitates an articulation of the business 
+risks to relevant stakeholders. 
+The statement contains a set of high-level principles and Key Risk 
+Indicators (KRIs). These are a balance of quantitative and qualitative 
+measures that provide an indication of increasing or reducing risk 
+levels, designed to alert the Board and management that risk is 
+approaching or has exceeded an acceptable level. This enables the 
+triggering of an appropriate responsive action.
+We use nine key financial and non-financial performance metrics to measure our performance 
+and progress against the short-term and long-term goals of the business.
+LEVERAGED OTC CLIENTS
+FY16 137,900
+FY17 148,000
+7.3%
+FY16 £3,223
+FY17 £3,207
+FY16 39,842
+FY17 45,727
+FY16 44.58p
+FY17 45.9p
+FY16 31.4p
+FY17 32.3p
+FY16 99.99%
+FY17 99.98%
+FY16 £207.9m
+FY17 £213.7m
+PROFIT BEFORE TAX
+LEVERAGED OTC  
+REVENUE PER CLIENT
+DILUTED EARNINGS PER 
+SHARE (DEPS) 
+REVENUE
+FY16 £456.3m
+FY17 £491.1m
+FY16 £197.3m
+FY17 £183.9m
+(6.8)%
+NUMBER OF LEVERAGED 
+OTC FIRST TRADES
+TOTAL DIVIDEND  
+PER SHARE
+PLATFORM UPTIME
+NET OWN FUNDS GENERATED 
+FROM OPERATIONS 
+Effective risk management is essential to the achievement of the Group’s strategy and 
+business objectives, and to preserve its financial strength and resilience. The Board is 
+responsible for ensuring that the Group maintains an appropriate risk management culture, 
+supported by a robust Risk Management Framework.
+7.6%
+15%
+2.8%
+2.9%
+2.9%
+KEY PERFORMANCE INDICATORS (KPIs) RISK MANAGEMENT AND VIABILITY STATEMENT 
+(0.5)% 37
+|  IG Group Holdings plc • Annual Report 2017 36 IG Group Holdings plc • Annual Report 2017  |
+Company overview Strategic report Corporate Governance report Financial statements
+The Group’s risk appetite is set within IG’s overall risk capacity, 
+at a level which considers the potential impact to IG’s various 
+stakeholders. It articulates a high-level view of the maximum loss 
+or exposure the firm is willing to accept with respect to each of its 
+principal risks.
+The RAS provides a benchmark for calibrating the risk limits and 
+indicators which operationally define the levels of exposure the firm 
+can take on (eg the market risk exposure limits), as well as the levels 
+of loss the firm can sustain without needing to escalate and take 
+action. These indicators are monitored daily and reported weekly to 
+the Executive Risk Committee and monthly in the Board Report.
+RISK MANAGEMENT 
+GOVERNANCE
+The Group’s risk management governance structure is 
+summarised below.
+The Board
+The Board has overall responsibility for the management of risk 
+within the Group. This includes determining the Group’s risk 
+appetite, which sets out the nature and extent of the principal 
+risks it is willing to take in achieving its objectives, and defining 
+the standards and expectations that drive the Group’s risk culture. 
+It also involves ensuring that the Group maintains an appropriate 
+and effective Risk Management Framework, and monitoring 
+performance and risk indicators to ensure that the Group remains 
+within its risk appetite. The Board delegates certain risk governance 
+responsibilities to Board Committees. 
+Board Risk Committee
+The Board Risk Committee provides the principal forum for the 
+ongoing review and evaluation of specific elements of the Risk 
+Management Framework and for making recommendations to 
+the Board as appropriate. To exercise these responsibilities, 
+the Committee:
+• Considers the risk appetite and KRIs and recommends for 
+approval by the Board
+• Reviews and challenges the Internal Capital Adequacy 
+Assessment Process (ICAAP), Individual Liquidity Adequacy 
+Assessment (ILAA) and Recovery Plan
+• Reviews the Group’s major risk exposures, oversees rigorous 
+stress-testing and scenario-testing of the Group’s business, and 
+ensures that a sufficient level of risk mitigation is in place
+• Considers the adequacy and effectiveness of the technology 
+infrastructure and supporting documentation in the Risk 
+Management Framework
+• Considers the adequacy and effectiveness of the second line of 
+defence risk management function
+• Provides input to the Remuneration Committee on the alignment 
+of the remuneration policy to risk performance
+Audit and Remuneration Committees
+The Audit Committee’s responsibilities include reviewing the 
+Group’s internal controls and risk management systems in the 
+performance of its duties, as well as the assessment of the 
+control environment through the review of internal audit activities 
+and of the progress on implementing internal and external 
+audit recommendations. The Audit Committee has a specific 
+responsibility to assess the accuracy and appropriateness of 
+financial reporting and narrative disclosures, the Group’s tax risk 
+management, the control environment for client money and assets, 
+and legal entity governance.
+The Remuneration Committee’s primary responsibility in relation 
+to risk management is to ensure that remuneration policies are 
+consistent with effective risk management across the Group, and 
+to consider the implications of those elements of the policies on 
+risk and risk management. The Committee reviews the design 
+and operation of performance-related pay schemes to ensure 
+their effectiveness and, with the assistance of the Board Risk 
+Committee, that the risks of the schemes are adequately monitored 
+and controlled.
+Risk management within the business
+IG operates a ‘three lines of defence’ risk governance model.
+First line of defence
+The first line of defence has primary responsibility for risk 
+management, including day-to-day responsibility for ensuring 
+that the business operates within risk appetite. Management is 
+responsible for the identification, assessment and management 
+of risks facing the business, in compliance with the firm’s risk 
+management policies. 
+The Executive Committee, chaired by the Chief Executive Officer, 
+provides advice and support to management in the monitoring of 
+the day-to-day management of the Group’s operations.
+The Executive Risk Committee supports the risk function and 
+operational management in the day-to-day operation of risk 
+management. The Committee meets weekly. The frequency of 
+Committee meetings reflects the corporate commitment of senior 
+management to play an active role in day-to-day management and 
+control of risk. This sets the tone across IG that risk management 
+is central to corporate culture. The Committee oversees the 
+day-to-day risk management activity across the Group, receives, 
+analyses and evaluates risk management information, and addresses 
+specific risk management issues as they arise.
+The Client Money and Assets Committee has specific 
+responsibilities with respect to risk management activities relating to 
+the segregation of client money and assets.
+Second line of defence
+The second line of defence, independent risk oversight, is provided 
+by the risk, compliance and other control functions. These are 
+independent from operational management in the first line, 
+and responsible for overseeing and challenging the business in 
+managing its risks day-to-day. This includes maintaining the Group’s 
+risk management and control policies, providing independent 
+analysis control of the Group’s risks and keeping abreast of industry 
+and regulatory developments that might require enhancements to 
+the Group’s Risk Management Framework.
+Third line of defence
+The third line of defence, independent assurance, is provided 
+by internal audit. The primary role of internal audit is to help the 
+Board and executive management to protect the assets, reputation 
+and sustainability of the organisation by providing independent, 
+objective assurance reviews designed to add value and improve our 
+operations. The scope of the annual audit plan includes reviews of 
+the firm’s Risk Management Framework and the management of the 
+firm’s principal risks. These will include assessments of the design 
+and operating effectiveness of the internal governance structures 
+and processes, the setting of and adherence to risk appetite and the 
+risk and control culture of the organisation.
+Risk assessment, monitoring, control  
+and reporting
+Risk assessment, monitoring and control are the responsibility of 
+operational management in each area. Risk and control assessments 
+are undertaken with support from the second and third lines of 
+defence, and key controls are identified and documented.
+Risk reporting is undertaken daily, with several reports covering key 
+market, credit, liquidity and capital adequacy metrics. 
+A weekly risk dashboard is presented to the Executive Risk 
+Committee and provides key metrics and commentary covering 
+market, credit, liquidity and operational risk exposures, including 
+stress-testing results. The dashboard also provides a review of 
+clients with significant exposures and a summary of operational 
+incidents and associated remedial actions.
+The monthly Board risk report sets out a suite of metrics covering 
+capital adequacy, liquidity and key risk exposures. This includes 
+summaries of market risk performance, credit provisions and debt 
+experience, and operational risk metrics. The report also contains 
+specific metrics on conduct risk, information security and cyber risk. 
+The metrics each have defined tolerance thresholds linked to the 
+Group’s risk appetite that require escalation and action where amber 
+or red thresholds are reached.
+The Group undertakes a quarterly review of its regulatory capital 
+and liquidity position, including a review of Pillar 2 risks and 
+scenarios used to assess the Group’s projected capital position 
+under stress scenarios, through the ICAAP and ILAA processes.
+Principal risks
+IG’s Risk Taxonomy categorises the principal risks faced by the firm 
+into five areas: the risks inherent in the regulatory environment, the 
+risks inherent in the commercial environment, business model risk, 
+operational risk and conduct risk. The major risks identified within 
+each of these areas are summarised in the table below, and overleaf 
+we provide an overview of how IG seeks to manage them.
+Principal risk areas Principal risks
+Regulatory environment risk 
+The risk that the regulatory environment in which the Group operates changes in a 
+way that has an adverse effect on the Group’s business or operations.
+Regulatory change
+Expansion risk
+Tax risk
+Commercial risk 
+The risk that the Group’s performance is affected by failure to adopt or implement 
+an effective business strategy, through competitors offering more attractive 
+products/services or prolonged adverse market conditions.
+Strategic management risk
+Market conditions risk
+Competitor risk
+Business model risk 
+The risk faced by the Group arising from the nature of its business and its 
+business model.
+Market risk
+Credit risk
+Liquidity risk
+Capital adequacy risk
+Operational risk 
+The risk of loss resulting from inadequate or failed internal processes, people 
+activities, systems or external events.
+The risk that the Group is unable to attract and retain the staff it requires to operate 
+its business successfully.
+Technology risk
+People risk
+Process risk
+External risk
+Conduct risk  
+The risk that the Group’s conduct poses to the achievement of fair outcomes 
+for consumers or to the sound, stable, resilient and transparent operation of the 
+financial markets.
+Client outcomes
+Markets and financial crime
+Employee behaviour
+RISK MANAGEMENT AND VIABILITY STATEMENT 
+continued

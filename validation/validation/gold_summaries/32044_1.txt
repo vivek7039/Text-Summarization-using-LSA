@@ -1,0 +1,1040 @@
+ 25546.04    9 August 2017 3:58 PM    Proof Six
+Interim Chief  
+Executive’s review
+OUR PERFORMANCE
+Group revenue 
+For the financial year ended 31 May 2017 , the Group increased 
+reported revenue by 17 per cent to £244.5m (2016: £209.1m). 
+Excluding Domain Services business that was exited during 
+the year, the growth was £37 .7m or 18 per cent. 
+The table below shows the proportions of growth that were 
+organic (net sales growth in businesses that were owned for 
+equivalent periods in the current and prior year), acquisitions 
+growth (includes the full year impact of prior year acquisitions), 
+and growth resulting from the impact of FX rates. Growth from 
+changes in FX rates is calculated by restating the prior year 
+revenue figures at current year rates.
+Growth driver (excluding Domain)
+2017
+£m
+2017
+% growth
+Organic 6.8 3
+Acquisition 21.1 10
+FX 9.8 5
+Total growth 37.7 18
+Note: the Group’s current information systems do not report the impact of foreign 
+exchange movements as a matter of course. The figures above are therefore 
+calculated at year end using assumed weighted average exchange rates for 
+each relevant currency for each year in question. This is being addressed in the 
+Group’s new consolidation system which is being implemented in the first quarter 
+of the new financial year.
+The FX growth above is driven by increases in the weighted 
+average exchange rates of both the US$ and €uro against 
+£GBP, both of which strengthened by around 15 per cent.
+The geographical breakdown of revenue by the location of the 
+delivering business for the current and past year is as follows 
+(Domain excluded):
+2017 2016
+£m % £m %
+UK 147.1 61 144.4 71
+US 58.4 24 39.2 19
+Europe and RoW 36.4 15 20.6 10
+Total revenue 241.9 100 204.2 100
+Note: some businesses sell a modest amount of services in other countries and 
+report that revenue as being within their own geography.
+The amount of Group revenue earned outside the UK 
+increased by £35.0m and reflects the impact of the Fox-
+IT acquisition in the Netherlands half way through the last 
+financial year and also strong growth in our US Assurance 
+business. Both of these factors occurred within the Assurance 
+division where the share of Group revenue has now risen to 
+85 per cent (2016: 83 per cent).
+Underlying organic revenue growth in the first half of the 
+financial year was 19 per cent but in the second half fell by 
+5 per cent compared to the prior year periods. The second half 
+of the current year actually saw revenue fall compared to the 
+first half,  contrary to the historical trends the business has 
+delivered. 
+Weakness in the second half compared to the prior year and 
+the first half of the current year was particularly focused in 
+MSS third party product sales which were £6.5m down in the 
+second half compared to the first half. 
+30
+www.nccgroup.trust      Stock Code: NCC
+STRATEGIC REPORT
+NCC AR2017 - proof 8-Front.indd   30 09/08/2017   16:04:43 25546.04    9 August 2017 3:58 PM    Proof Six
+Fox High Assurance product sales were also down £1.2m in 
+the second half. Between them these reductions accounted for 
+85 per cent of the fall in sales between the first and second 
+halves.
+A more detailed breakdown of the revenue performance of 
+the Group in each of the operating segments is shown earlier 
+in this announcement in the Assurance and Escrow divisional 
+reports.
+The Group is currently reviewing the basis on which revenue 
+analysis is further reported. This review will include concepts 
+such as recurring revenues, contracted revenues and repeat 
+business. The Group may need to implement systems changes 
+to accurately capture this analysis across all business units. 
+Some further analysis is set out in the divisional reviews.
+The Group continued to have minimal reliance on any one 
+customer or sector. Within Assurance the largest customer 
+represents approximately 4 per cent of Assurance revenue. 
+The largest customer in Escrow is just over 1 per cent of total 
+Escrow revenue. 
+Group profitability and margins
+The Board and Executive management use a number of 
+non-GAAP measures in their day-to-day management of 
+the business. The Group’s primary financial profitability 
+measure will be Adjusted EBIT. Last year the Group used 
+Adjusted EBITDA for this purpose. It is management’s view 
+that Adjusted EBIT is more closely aligned to the underlying 
+performance of the business. The majority of our peers and 
+stakeholders use this metric, and hence it is therefore a more 
+appropriate KPI for use in the business and in our external 
+communications.
+The table below sets out the reconciliation between reported 
+statutory measures and the non-GAAP measures of Adjusted 
+EBIT and Adjusted EBITDA.
+2017
+£m
+2016
+£m
+Reported operating (loss) / 
+profit (53.4) 1 1.4
+Results of Domain Services 
+(exited) (1.0) 1.4
+Individually significant items 
+(detailed below) 71.0 18.9
+Amortisation of acquired intangible 
+assets 10.3 6.8
+Share based payments 0.6 1.2
+Adjusted EBIT 27.5 39.7
+Depreciation 5.2 3.7
+Amortisation of software and 
+capitalised development costs 3.5 1.6
+Adjusted EBITDA 36.2 45.0
+2017
+Total Revenue
+£241.9m
+2016
+Total Revenue
+£204.2m
+Revenue 
+by location
+ UK £147.1m 60.8%
+  US £58.4m 24.1%
+ Europe and RoW £36.4m 15.0%
+ UK £144.4m 70.7%
+  US £39.2m 19.2%
+ Europe and RoW £20.6m 10.1%
+NCC Group plc Annual Report and Accounts for the year ended 31 May 2017
+31
+NCC AR2017 - proof 8-Front.indd   31 09/08/2017   16:04:44 25546.04    9 August 2017 3:58 PM    Proof Six
+Interim Chief  
+Executive’s review
+OUR PERFORMANCE
+During the year, despite delivering growth in most of our 
+business units, each business unit and the Group as a whole 
+have seen a contraction in our margins. The main cause relates 
+to cost increasing both before and at a faster rate than the 
+growth in our revenues in each business unit.
+Margins contracted due to increases in both direct and indirect 
+costs. Salary related costs represent approximately 70 per cent 
+of the Group’s cost base. Cost increases were largely driven 
+by a significant increase in headcount (16 per cent) combined 
+with average salary increases of 6-7 per cent to give total 
+salary-based cost increases of approximately 23 per cent, or 
+around 16 per cent of sales. 
+This compares with total organic and acquisition-based 
+revenue growth of 15 per cent and led to a consequent 
+reduction in utilisation and realisation from our professional 
+service delivery staff. 
+We also made investments in new sales structures that have 
+not yet born fruit in proportionately increased revenues.
+Other indirect cost increases reflect £3.4m of additional 
+depreciation and amortisation of tangible and intangible assets 
+linked to a number of systems having entered service, and 
+hence these have started amortising. In addition, there was 
+a £1.3m acquisition impact on these costs. Premises costs 
+increased by £1.4m, partly to accommodate extra staff and 
+also in upgrading facilities. Marketing spend rose £1.3m as the 
+Group sought to raise its profile in a number of areas. 
+As a result, Adjusted EBIT in the year fell from £39.7m to 
+£27 .5m despite the benefit of a positive foreign exchange 
+impact of £0.6m. At the same time, our Adjusted EBIT margin 
+fell from 19.4 per cent to1 1.4 per cent. The following shows the 
+key drivers for the reduction in year-on-year profitability.
+The Group’s overall EBIT result included £0.2m of losses from 
+the now closed Domain Services operating segment (2016: 
+operating losses of £1.4m). The current year charge was then 
+offset by a £1.2m profit on disposal of Open Registry (also 
+treated as an adjusting item).
+The Group’s reported pre-tax loss was £55.3m (2016:  
+£9.4m profit).
+50.0
+45.0
+40.0
+35.0
+30.0
+25.0
+20.0
+£m
+2016
+39.7
+FX
+0.6
+Acq’ns
+2.5
+Organic
+2.6
+GM%
+7.5
+G&A
+7.7
+D&A
+2.7
+2017
+27.5
+Adjusted EBIT bridge
+32
+www.nccgroup.trust      Stock Code: NCC
+STRATEGIC REPORT
+NCC AR2017 - proof 8-Front.indd   32 09/08/2017   16:04:51 25546.04    9 August 2017 3:58 PM    Proof Six
+How we are  
+part of your daily life
+ASSURANCE — SAFEGUARDING HEALTHCARE
+One of the biggest ransomware attacks in recent history started somewhere in 
+Europe on the morning of Friday 12 May 2017 .
+Unnoticed for several hours, it circulated itself across the globe, infecting 
+computers by exploiting a weakness in Windows operating systems that allows 
+malicious code to be spread through file-sharing structures without a user’s 
+consent.
+In the UK, the National Health Service (NHS) was the most high-profile victim. 
+Nearly one-third (30 per cent) of all NHS Trusts were affected, with staff being 
+forced to turn patients away and cancel appointments.
+Victims in other countries include US delivery service FedEx, French car maker 
+Renault and Russia’s Interior Ministry.
+The malware, called WannaDecrypter, WannaCry or WCry, spread easily due to 
+its ability to self-propagate; an instruction in the malicious code told it to jump 
+to other vulnerable machines if it cannot connect to a specified address. This is 
+reminiscent of the worm outbreaks of the early 2000s.
+How our business model enables this
+In these crisis situations, NCC Group’s 24/7 Security Operations Centres and 
+managed services capability demonstrate their worth. Working around the clock, 
+the team consistently delivers value and reassurance to customers across 
+the globe, taking proactive steps to protect our customers and enhance our 
+monitoring as new information and Indicators of Compromise (IoCs) become 
+available.
+Over the course of the WannaCry attack, our Security Operations Centres carried 
+out the following activities:
+ z Provided expert analysis of the threat and offered pragmatic advice to all our 
+SOC customers
+ z Developed and then enhanced advanced SIEM correlation logic to monitor 
+for attacks on customer networks, using IoC information provided from the 
+Threat Intelligence (TI) research by NCC Group analysts
+ z Used NCC Group’s threat sensors to proactively monitor for IoCs
+ z Ensured commercial Intrusion Protection Systems (IPS) signature sets were 
+up-to-date and monitored for the latest threats
+ z Delivered 24/7 security monitoring, proactively watching for attacks and 
+infection
+ z Updated our SOC customers on a regular basis, including direct telephone 
+calls to ensure that they were aware of the attack and to give them 
+reassurance and assurance
+How we will leverage this moving forward
+As large-scale cyber attacks continue to occur on an ever-more frequent basis, 
+it is important that your organisation is protected by utilising NCC Group’s 
+24/7 Security Operations Centres and range of protective monitoring managed 
+services. 
+As a result of these proactive steps and measures, NCC Group’s SOC received 
+the following feedback and praise:
+“We have indeed received a note from the NCC Group SOC as 
+part of the Network Threat Monitoring service, outlining the 
+details of the attack and what to do to prevent damage – greatly 
+appreciated. As always, we value the services that NCC Group 
+brings to the table and are confident that our layered defense 
+would offer the necessary resilience in this situation.”
+INTERNATIONAL EDUCATIONAL FOUNDATION, NCC GROUP NTM CLIENT
+HOW NCC GROUP’S SECURITY 
+OPERATIONS CENTRE 
+RESPONDED TO A GLOBAL 
+RANSOMWARE OUTBREAK. 
+Read more online at  
+www.nccgroup.trust/uk/our-services/security–consulting/ 
+technical–security–consulting
+NCC Group plc Annual Report and Accounts for the year ended 31 May 2017
+33
+NCC AR2017 - proof 8-Front.indd   33 09/08/2017   16:04:55 25546.04    9 August 2017 3:58 PM    Proof Six
+Interim Chief  
+Executive’s review
+OUR PERFORMANCE
+ASSURANCE DIVISION – BUSINESS PERFORMANCE REVIEW
+Assurance revenue
+Assurance now accounts for 85 per cent of Group revenue 
+and the impact of foreign exchange rates contributed £8.0m 
+to the growth in the division. In addition, Assurance benefited 
+from the full year effect of the prior year acquisition of Fox-IT 
+(impact in 2017: £14.0m) and acquisitions in the year just 
+completed (PSC £5.9m and VSR £1.1m). Net organic growth 
+was £6.8m which represented year-on-year growth of 4.0 per 
+cent with the balance due to changes in foreign exchange 
+rates (£8.0m impact). The table below shows the revenue 
+split between Security Consulting and a combined Web 
+Performance and Software Testing.
+Assurance revenue
+31 May 
+2017
+£m
+31 May 
+2016
+£m % Change
+Security Consulting 178.1 138.9 28
+Web Performance and 
+Software Testing 26.6 30.0 (1 1)
+Total 204.7 168.9 21
+Revenues in our Web Performance and Software Testing 
+businesses fell by £0.5m (5 per cent) and £2.9m (14 per 
+cent) respectively. In Web Performance we felt the impact of a 
+slower take up than expected for a new service line and have 
+taken an impairment charge on this business. In Software 
+Testing the loss of a project that was already underway at 
+the start of the year, following a strategic decision to cancel 
+a divestment by the customer, had a negative impact on both 
+revenue and costs as utilisation rates for permanent staff fell.
+Towards the end of the financial year, both Web Performance 
+and Software Testing businesses saw a pick up in sales 
+pipeline opportunities and also in some longer term contract 
+wins.
+The table above can act as a guide to the impact on revenue of 
+the proposed disposals of the Web Performance and Software 
+Testing businesses during the course of the new financial year 
+ending 31 May 2018. Neither business is particularly seasonal 
+and therefore any reduction to the Group total turnover 
+following the disposals is likely to be pro rated to the point in 
+the new year when the businesses are sold.
+The Assurance division saw very mixed revenue results during 
+the year. While the headline growth rate for the Security 
+Consulting activities is very attractive, some business lines saw 
+better performance than others. The underlying performance 
+of the Security Consulting business lines is much easier to 
+understand by using constant currency and also by splitting 
+performance between organic and acquisition based growth.  
+Assurance revenue is broken down into more detail in the table 
+below in terms of the impact of changes in foreign exchange 
+rate, the impact of acquisitions in both the prior year and the 
+year under review, and the “organic” performance of a number 
+of operating units within Security Consulting:
+Assurance revenue bridge
+Growth 
+£m £m
+Growth 
+%
+Revenue for the year ended 
+31 May 2016 168.9
+Impact of FX changes 8.0
+Full year of owning Fox-IT 14.0
+PSC acquisition this year 5.9
+VSR acquisition this year 1.1
+Net revenue growth from 
+FX and acquisitions 29.0 17
+UK Consulting organic growth 1 1.0 19
+US Consulting organic growth 5.3 24
+Fox-IT – excluding High 
+Assurance 1.6 17
+Fox-IT – High Assurance (3.6) (53)
+MSS – excluding product 
+sales 2.8 17
+MSS – product sales (7 .4) (48)
+Other including Web 
+Performance and  
+Software Testing (2.9)
+Net organic growth 6.8 5
+Total Assurance  
+revenue growth 35.8 21
+Revenue for the year 
+ended 31 May 2017 204.7
+34
+www.nccgroup.trust      Stock Code: NCC
+STRATEGIC REPORT
+NCC AR2017 - proof 8-Front.indd   34 09/08/2017   16:04:55 25546.04    9 August 2017 3:58 PM    Proof Six
+The table on the opposite page highlights the number and 
+variety of moving parts in explaining this year’s revenue 
+performance. The impact of changes in FX rates and 
+acquisitions are clearly shown in the top half of the table. For 
+the purposes of this analysis, given that Fox-IT was acquired 
+at the end of November 2015, the whole of the first half of 
+the current financial year’s revenue has been attributed to the 
+impact of the acquisition.
+Growth in UK and US consulting revenues was very 
+healthy, representing growth of 19 per cent and 24 per cent 
+respectively on a constant currency basis. This was driven 
+by a combination of market growth and our ability to capture 
+share due to our scale. In addition, we have been bringing new 
+products to market and continuing to expand our focus areas 
+beyond transactional activity. Within Fox-IT we saw two strong 
+opposing forces. As previously announced, a key customer for 
+Fox High Assurance products (Fox-HA) significantly slowed 
+down its purchases from the business following the change 
+in ownership of the company. It is clear that we should have 
+engaged with this customer in a transparent way ahead of 
+the acquisition to allay some of their concerns. However, we 
+have since been working hard and collaboratively to allay the 
+concerns of the customer and we are starting to see some 
+new orders coming in for Fox-HA products from this critical 
+customer. If momentum is maintained we should see some 
+growth in this service line in the new financial year compared 
+to the year ending 31 May 2017 .
+In sharp contrast to Fox-HA, the other Fox service lines saw 
+organic growth of 17 per cent in the second half of the year 
+compared to the same period of ownership in the prior year. 
+In particular, our CTMp platform and Threat Intelligence made 
+promising progress. This is particularly pleasing in that both 
+of these are key service lines that we aim to expand within 
+the Netherlands and then to leverage in other NCC Group 
+locations. The scalability of the CTMp platform will also support 
+margin recovery. It is for this reason and the emerging recovery 
+in Fox-HA, that while the execution challenges for the business 
+are reflected in the impairment of around 30 per cent of the 
+goodwill associated with the acquisition, we remain confident 
+about the prospects for the Fox-IT business and its capability 
+to support a broader platform of scalable high value add 
+services across NCC Group.
+In MSS we also saw two conflicting but slightly different 
+themes from those in Fox. The negative force there has 
+been in the resale of third party products which fell by £7 .4m 
+compared to the prior year, equating to a fall of 48 per cent, 
+and a fall in 2017 second half sales of products of almost 
+90 per cent to £0.7m. The fall partly reflects the end of an 
+earn-out period that had been put in place when the business 
+was acquired by the previous owners and subsequently 
+extended by NCC Group . In addition, we are trying to change 
+our focus to higher value add activities and the building of 
+long-term relationships with our customers.
+We have not pursued these sorts of sales as strongly as in 
+previous years. Instead, where we continue to sell third party 
+products, we will aim to link those purchases to implementation 
+consulting advice and after sales services such as monitoring 
+in our Leeds based Security Operations Centre (SOC). While  
+the revenue would have helped the year’s results, we are not 
+overly concerned as we seek to deliberately rebalance the 
+business away from single transaction reselling of third party 
+products. Similar to Fox, in the areas of the business where we 
+do see longer term value and growth potential, the service lines 
+grew by 17 per cent year-on-year.
+The summary of the Assurance revenue is:
+ z Good growth was delivered in those areas where we want 
+to place our future focus as this is where scalable margin 
+recovery can be created. 
+ z Fox-HA will start to recover in the coming year. 
+ z Reselling third party products in MSS in the medium-term 
+will be continued if we can create linkages to our own value 
+added after sales services. 
+ z Acquisitions and FX also played a strong supporting role in 
+the revenue growth story.
+ 
+ 
+15%
+Assurance  
+revenue by  
+service type
+  P rof essional  services 45%
+  Managed Security  
+Services 25%
+  Own product  
+and other 20%
+   T hird party  product 15%
+NCC Group plc Annual Report and Accounts for the year ended 31 May 2017
+35
+NCC AR2017 - proof 8-Front.indd   35 09/08/2017   16:04:56 25546.04    9 August 2017 3:58 PM    Proof Six
+Interim Chief  
+Executive’s review
+OUR PERFORMANCE
+ASSURANCE DIVISION – BUSINESS PERFORMANCE REVIEW
+The table below is based on an estimated split of our 
+Assurance revenue streams based on currently available 
+information. As noted elsewhere, we will be improving the 
+quality and granularity as well as the relevance of our internal 
+management information systems over the coming years. The 
+data is, however, accurate enough to give a broad indication of 
+the split of revenue streams.
+2017 2016
+Assurance revenue £m
+% of 
+total £m
+% of 
+total
+Consulting services 156.1 76.2 122.4 72.5
+Managed services 24.9 12.1 1 1.8 7 .0
+Product sales 23.8 11.6 34.7 20.5
+Total 204.7 100.0 168.9 100.0
+While revenue grew in total by £35.8m (21 per cent), the 
+absolute level of operating profit fell year-on-year by £9.1m 
+(35 per cent). The fall in operating profit is all the more stark 
+because it is after the positive impact of foreign exchange 
+gains of £0.4m and the benefit of acquisitions. The acquisition 
+benefits were from a full year of ownership of Fox-IT (£0.5m) 
+and part year ownership of PSC and VSR (£1.7m benefit).
+The underlying business performance in the Assurance 
+division generated £1 1.3m less operating profit than last 
+year (down 44 per cent) on £6.8m organic revenue growth. 
+Adjusted EBIT margins fell to 8.2 per cent (2016: 15.3 per 
+cent). The most significant driver for this was the increase in 
+overall salary costs.
+Our consulting businesses in the UK and US both saw a 
+fall in absolute profitability as a lack of control over the cost 
+base meant that it grew faster than our revenue streams. In 
+particular, this reflected a strategy to build sales and delivery 
+teams ahead of equivalent revenue growth and that led to 
+margins being compressed in both businesses at a gross 
+margin and EBIT margin level. At the same time, the Group 
+was starting to develop its strategic sales capability to allow us 
+to move further up our customers’ internal purchasing decision 
+chains to become less transactional and more strategic in 
+approach. That investment has been slower than anticipated in 
+bearing fruit.
+The Assurance business will typically see one or two major 
+unplanned contract wins in any particular year. These can 
+be related to the reaction to a major event at a customer or 
+a specific proactive project such as corporate activity. In the 
+year to May 2017 , the division did not have a material benefit 
+from any such contracts and actually suffered from the loss 
+of some. In one specific case, a large-scale Software Testing 
+project (referenced above) was already underway with staff 
+deployed on the ground. When the customer discontinued the 
+contract the revenue stream stopped very quickly in the first 
+half, whereas it had been expected to run for most of the year. 
+A second large-scale project was cancelled before it began. 
+In the third, which had not become a contracted order but 
+had been a firm prospect as NCC Group was the preferred 
+supplier for that type of work, the customer decided not to 
+proceed with the work. The estimated potential revenue from 
+the three contracts was around £14-17m and £6-7m of gross 
+margin (based on a gross margin assumption of 40 per cent). 
+Approximately £7-10m of this revenue had been included in 
+the Group’s operating plan at the start of the year.
+The most challenged part of the Assurance division was MSS 
+which saw a fall in revenue of £4.6m (14 per cent). As noted 
+earlier, while much of the revenue fall related to less attractive 
+sales of third party products, the gross margin delivered would 
+still have been a helpful contribution towards the overhead 
+base. 
+Similarly to the consulting businesses, in MSS the Group 
+set about rebalancing the sales efforts and teams towards 
+strategic and higher value added sales of customer solutions, 
+comprising product, professional services and managed 
+services. While we are confident that this is the correct 
+approach in the medium-term, the short term impact was to 
+increase our cost base at a time when revenues were falling. 
+There was also the impact of ongoing integration challenges 
+for the MSS service lines (acquired under the Accumuli plc 
+transaction).
+ Consulting services 76%
+ Managed services 12%
+ Product sales 12%
+Revenue  
+‘type’ 
+36
+www.nccgroup.trust      Stock Code: NCC
+STRATEGIC REPORT
+NCC AR2017 - proof 8-Front.indd   36 09/08/2017   16:04:57 25546.04    9 August 2017 3:58 PM    Proof Six
+ Consulting services 76%
+ Managed services 12%
+ Product sales 12%
+How we are  
+part of your daily life
+ASSURANCE — SECURING SUPPLY CHAINS 
+Supplier Assured
+Effective information security comprises a number of internal factors that 
+are directly within an organisation’s control – e.g. technologies, governance, 
+processes and people.  Other factors can be outside of an organisation’s control 
+such as interactions with suppliers. 
+Third party suppliers can be an attractive way for cyber criminals to gain access 
+to data and networks that would otherwise be beyond their reach. A huge range 
+of external suppliers, from marketing to accountants to legal firms, may all hold 
+intellectual property or sensitive personal information on employees and clients 
+or may provide access into an organisation’s environment. 
+In order to avoid costly damage to customer confidence, reputation and 
+ultimately the share price, organisations must ensure comprehensive security 
+audits of third party suppliers and partners are carried out and that all necessary 
+security measures are being implemented and maintained.
+NCC Group understands that organisations are using an increased number 
+of suppliers, and on-site audits for the whole supply chain is not financially 
+or operationally feasible. NCC Group has therefore developed a risk based 
+approach to help organisations gain assurance that information security risks 
+and requirements such as GDPR are managed effectively for their suppliers.
+How our business model enables this
+NCC Group has worked for a number of years auditing and assessing our 
+clients’ supply chains to ensure that they are secure and robust. As such, 
+we have made a significant investment in people, processes and technology 
+associated with this. More recently, we have developed an end-to-end “Supplier 
+Assured” managed service utilising a combination of on-site assessments and 
+a remote questionnaire and evidence based validation to deliver a cost effective 
+solution to our clients’ third party security.
+The service is made up of four key pillars:
+1. Supplier Landscape Assessment: We will conduct a questionnaire based 
+risk assessment on your entire supplier landscape to help you identify your 
+high risk suppliers and quantify how they impact your organisation’s data and 
+technologies.
+2. Supplier Audit: Suppliers will be asked to complete a 14 domain control 
+self-assessment to ensure they have appropriate security controls to 
+mitigate key risks. We will review the results of this self-assessment and 
+select suppliers for on-site audits to ensure that risks are captured fully and 
+effectively.
+3. Supplier Remediation Management: We can help manage supplier risk 
+remediation programmes by advising on measurable solutions that allow client 
+continued assurance that risks are managed in line with business objectives. 
+Lessons learnt from all remediation activities will be passed throughout the 
+client organisation and its supply chain.
+4. Supplier Management Strategy and Remediation: We can help 
+strengthen the effectiveness of your supplier management programmes 
+by providing assistance where you need it. We can help assess and build 
+security controls, policies and procedures, on-boarding security requirements, 
+off-boarding requirements etc. and assist in embedding this in your target 
+operating model.
+NCC Group works with a number of large organisations to successfully deliver 
+this service in a modular fashion. Its Supplier Assured managed service is based 
+on a secure portal platform to pseudo-automate the supplier review process and 
+remove the traditional email and spreadsheet supplier review approach which 
+can quickly become unmanageable for a large number of suppliers.   
+For one well known supermarket chain we have recently undertaken a proof of 
+concept exercise prior to a full roll out of the service, enabling the client to gain a 
+clear understanding of the supplier risk landscape and also develop, implement 
+and manage an appropriate remediation approach. Over 2,000 suppliers were 
+ranked and the top 50 were selected for assessment by NCC Group. To ensure 
+new suppliers were included within the tracker, a short-term due diligence 
+process was developed with a strategic plan to fully mature the process.  
+How we will leverage this going forward
+As the supply chain threat continues to increase, NCC Group will place more 
+emphasis on our Supplier Assured service. Utilising well established processes, 
+procedures and tooling we will be able to onboard more clients into the service, 
+enabling our clients to gain benefit from both cost savings and a well established 
+and experienced team. We will also continue to revise, amend and improve our 
+Supplier Assured framework, utilising the experience we gain from delivering in 
+excess of 1,000 assessments.
+Read more online at  
+www.nccgroup.trust/uk/our-services/security– 
+consulting/information–risk–management-and-
+governance/supplier–assured
+HOW SUPPLIER ASSURED 
+SERVICES HELP ENSURE SECURE 
+AND ROBUST SUPPLY CHAINS
+NCC Group plc Annual Report and Accounts for the year ended 31 May 2017
+37
+NCC AR2017 - proof 8-Front.indd   37 09/08/2017   16:04:59 25546.04    9 August 2017 3:58 PM    Proof Six
+Read more online at  
+www.nccgroup.trust/uk/our–services/security–consulting/
+cyber-defence-operations
+The financial services sector has dealt with online criminal threats for nearly 
+two decades yet the threats are ever increasing. Various types of criminals, and 
+at times, nation states, have targeted their continuously evolving techniques for 
+financial gain at banks and other financial institutions and their customers across 
+the globe. 
+In addition, espionage is a real and continuous threat for many organisations 
+including financial services and governments. A defining feature of espionage is 
+that it involves stealing of confidential or sensitive information such as intellectual 
+property or PII and that it is designed to go unnoticed. The information may be 
+used for competitive advantage or to support geopolitical goals. The damage 
+resulting from espionage campaigns is often material and the impact can 
+sometimes only be gauged after time. 
+How our business model enables  
+resilient finance
+NCC Group’s Dutch based subsidiary, Fox-IT, has tracked criminal threat groups 
+ever since the first attacks on online banking, giving us unique insight into 
+criminal organisations, their modus operandi and the tools that they use. We use 
+this insight and our knowledge to provide financial institutions with very specific 
+and real-time information to detect and mitigate attacks along with contextual 
+information about the individuals that may be unwittingly involved in fraud. 
+In 2010, one of the largest banks in the Netherlands approached Fox-IT to 
+help tackle the problem of fraud. Together, Fox-IT and the bank developed 
+an innovative fraud detection platform (DetACT) as a means to directly 
+operationalise our threat intelligence in order to help combat attacks such as 
+Internet banking and credit card fraud. 
+Other banks in the Netherlands joined later in our efforts to reduce damages 
+as a result of Internet banking fraud, which peaked to €33m in 2012. Last year, 
+fraud damages were less than €1m for the first time since 2007 in the Dutch 
+market. Fox-IT is proud to have significantly contributed to this successful 
+reduction in risk to the Dutch banking system. 
+Globally, financial regulators are increasing the scrutiny of their markets with 
+regards to demonstrated cyber resilience with the UK and the Netherlands 
+leading these efforts today. NCC Group, as a Bank of England approved provider 
+under the CBEST scheme, and Fox-IT, with wider NCC Group support as a De 
+Nederlandsche Bank for TIBER scheme, is well placed in the market. These 
+accreditations have resulted in NCC Group performing red team engagements 
+for some of the most prolific financial market infrastructure providers and 
+institutions in the UK, the Netherlands and the wider European market. 
+How we will leverage this going forward 
+Fox-IT continues to track criminal groups in order to understand how they 
+work and predict what they will do next. The more recent blending of criminal 
+and espionage operations shows the importance of following these threats 
+closely. This in turn helps continuously improve Fox-IT’s fraud detection platform 
+and it also feeds its Managed Detection and Response (MDR) platform with 
+threats intelligence in order to provide rapid detection of these threats at earlier 
+stages, when criminals infect systems that they can later use to carry out fraud. 
+Additionally, our fraud detection platform gained traction in other parts of Europe, 
+where we are currently helping banks fight fraud. 
+Incident Response assignments are opportunities to see attackers live at 
+work. They provide valuable information about the attacker’s means, motives 
+and technical indicators of successful attacks. Fox-IT and NCC Group use 
+information gained from such cases in multiple ways. 
+First and foremost, we use it to detect new attacks with our MDR platform that 
+protects all our customers. We also use the information for historic analysis to 
+determine if any of our other customers has been the victim of an attack similar 
+in nature. The insights we obtained during the IR case often lead to innovations 
+in our MDR platform, thus continuously improving the platform. Lastly, any 
+information about the attackers is used by our threat analysts as a starting point 
+for further investigation into that attacker.
+For red teaming in the financial sector, as Singapore, Hong Kong, the European 
+Central Bank and other regulators implement robust resilience programmes, 
+NCC Group’s experience, global reach, scale and technical investment means we 
+are well placed to capitalise on market opportunities.
+HOW THREAT INTELLIGENCE,  
+FRAUD DETECTION, INCIDENT 
+RESPONSE AND RED TEAMING 
+SERVICES INCREASE RESILIENCE  
+OF FINANCIAL SERVICES
+How we are  
+part of your daily life
+ASSURANCE — FINANCIAL NETWORKS  
+38
+www.nccgroup.trust      Stock Code: NCC
+STRATEGIC REPORT
+NCC AR2017 - proof 8-Front.indd   38 09/08/2017   16:05:03 25546.04    9 August 2017 3:58 PM    Proof Six
+How we are  
+part of your daily life
+ASSURANCE — AUTOMOTIVE SPECIALISM
+The Metrocab is London’s first zero emission capable taxi, developed by Frazer-
+Nash Research and Ecotive. The vehicle uses an electric battery and a petrol 
+engine, which extends the range of the battery. NCC Group works as a cyber 
+security and assurance partner to Frazer-Nash Research to independently advise 
+on the security of in-vehicle networks and systems.
+Automotive cyber security
+Many people talk about modern connected cars as “computers on wheels”. This 
+analogy is not technically correct – a better one would be “complex networks on 
+wheels”, comprising multiple network technologies and segments, connecting 
+a range of different embedded computers from many different suppliers to 
+sensors, actuators and display interfaces. Many of the embedded computers 
+present within vehicles have been connected to each other for years in closed 
+on-board vehicle networks. However, the big change that has prompted cyber 
+security concerns in recent years has been the connectivity between the 
+on-board vehicle network and the public mobile phone network, connecting 
+vehicles to Telematics Service Providers and to the wider Internet. This change 
+has required much greater scrutiny of the design and implementation of vehicle 
+systems than has previously been deemed necessary, to ensure that remote 
+attacks against connected cars cannot result in data theft or safety concerns.
+How our business model enables this
+NCC Group has been providing cyber security advice and guidance to  
+the automotive industry since 2012. Our dedicated Transport Assurance  
+Practice constantly updates assessment methodologies, tools and techniques 
+through a research-led approach to consultancy. By having specialist technical 
+teams, whose cyber security experience is augmented by domain-specific 
+knowledge, we are able to provide world-leading services to the global 
+automotive supply chain.
+How we will leverage this moving forward
+We already work as cyber security and assurance partners to many of the 
+world’s leading vehicle manufacturers and their suppliers. With our research-led 
+approach we are able to foresee new challenges facing the automotive industry, 
+from vehicle-based ransomware and security concerns around autonomous 
+vehicles, to the impact of GDPR legislation on car manufacturers.
+HOW NCC GROUP AUTOMOTIVE 
+CYBER SECURITY SERVICES 
+HELP SECURE THE EVOLVING 
+AUTOMOTIVE LANDSCAPE
+“The knowledge and expertise of NCC Group 
+has provided us with invaluable support 
+to ensure our products and services have 
+an unprecedented level of security for the 
+automotive landscape.”
+Read more online at  
+www.nccgroup.trust/uk/our-services/security-consulting
+NCC Group plc Annual Report and Accounts for the year ended 31 May 2017
+39
+NCC AR2017 - proof 8-Front.indd   39 09/08/2017   16:05:05 25546.04    9 August 2017 3:58 PM    Proof Six
+Interim Chief  
+Executive’s review
+OUR PERFORMANCE
+ESCROW DIVISION - BUSINESS PERFORMANCE REVIEW
+Revenue performance
+The Escrow division now accounts for 15 per cent of Group 
+revenues (2016: 17 per cent). Escrow revenue for the year grew 
+by £1.8m (5 per cent) to £37 .1m (2016: £35.3m). Excluding the 
+impact of FX, at constant currency rates underlying growth was 
+£0.1m (0.3 per cent).
+Escrow revenue
+31 May 
+2017
+£m
+31 May 
+2016
+£m % Change
+UK 25.4 25.7 (1)
+USA 7.9 6.2 27
+Europe 3.9 3.4 13
+Total Escrow revenue 37.2 35.3 5
+Escrow UK
+Escrow UK revenue was £25.4m (2016: £25.7m). During 
+the second half of the year we identified that some invoices 
+had been recognised as revenue ahead of the related service 
+delivery. The correction of this issue reduced reported revenue 
+in the year by £1.0m with an almost equivalent EBIT impact. 
+The issue had built up over three years and no individual year 
+required a material adjustment and hence the full impact 
+was recognised as a one-off, non-recurring, non-cash item 
+in the current year. While there was never any question of 
+not delivering the service, and in many cases payment was 
+received in advance, this revised approach is deemed to be a 
+more appropriate application of the Group’s unchanged policy 
+on revenue recognition. 
+The reported 1 per cent reduction in revenue (2016: 8 per cent 
+growth) would have been growth of 3 per cent if not for the 
+one-off adjustment.
+Escrow UK recurring revenues increased to £14.1m (2016: 
+£13.7m) and terminations remain at around 1 1 per cent with 
+nearly 90 per cent of all contracts renewed (2016: 90 per 
+cent). 
+We expect UK growth to remain modest given the relative 
+market maturity and our market share.
+Escrow USA 
+Escrow USA revenues grew by 27 per cent to £7 .9m (2016: 
+£6.2m) with recurring revenues of £4.5m. Approximately half 
+of this related to the impact of changes in FX rates with the 
+balance all being organic growth. In the fourth quarter we 
+restructured our senior management and sales team in Escrow 
+USA to build further on the significant opportunity we have in 
+that country.
+Escrow Europe 
+Escrow Europe revenues grew by 13 per cent to £3.9m 
+(2016: £3.4m) with recurring revenues of £2.1m. However, 
+all of this and more was the result of changes in FX rates. On 
+an underlying organic basis the business actually shrank by 
+3 per cent. This reflects significant management change in our 
+European Escrow team that are being addressed in the first 
+half of the new financial year.
+Escrow Rest of the World 
+The division has recently established an office in Dubai to take 
+advantage of the Group’s reputation and expertise in a region 
+that has good demand potential for escrow services and in 
+which we have a number of existing clients, allowing us to build 
+a larger footprint in anticipation of Expo 2020.
+Our short-term goals for the Escrow division as a whole are:
+ z To maintain our market leading position in the UK, delivering 
+modest annual organic growth
+ z To continue to develop evolving solutions for customers in a 
+SaaS and cloud based world
+ z To build on our scalable capability in the US
+ z To stabilise our relatively small footholds in a number 
+of European territories (the Netherlands, Germany, and 
+Switzerland)
+ z To begin to build out from our new positions in our “Rest of 
+the World” offices in Dubai and Singapore
+Escrow UK now has 1 1 1 employees (2016: 107), Escrow 
+Europe has 12 employees (2016: 15) and the North American 
+Escrow businesses have 41 employees (2016: 59). 
+Revenue  
+geography
+  U K 65%
+  USA 22%
+  Europe 10%
+   Rest of the World 3%
+40
+www.nccgroup.trust      Stock Code: NCC
+STRATEGIC REPORT
+NCC AR2017 - proof 8-Front.indd   40 09/08/2017   16:05:06 25546.04    9 August 2017 3:58 PM    Proof Six
+Escrow revenues and growth can be further analysed as 
+follows:
+2017
+£m
+2016
+£m % Change 
+Escrow contracts 26.3 24.6 7
+Verification testing 9.6 9.7 (1)
+Other services 1.3 1.0 30
+Total Escrow revenue 37.2 35.3 5
+Escrow profitability analysis
+The table below shows the split of EBIT by Escrow region. For 
+reporting purposes, RoW EBIT is included within the UK.
+EBIT
+31 May 
+2017
+31 May 
+2016 % Change
+UK 17.4 18.3 (5)
+USA 3.7 3.0 23
+Europe 1.9 2.0 (5)
+Share of corporate costs (3.9) (3.2) (22)
+Total Escrow EBIT 19.1 20.1 (5)
+The £1.0m impact on profitability of the revenue recognition 
+issue has been noted above. Because the revised approach was 
+adopted in the second half of the financial year but applied to 
+the year as a whole, it has had a disproportionate impact on the 
+reported results in the second half. Excluding this adjustment, 
+EBIT for Escrow would have been flat year-on-year.
+The division experienced some of the same increases in 
+the cost base as seen in the Assurance division but to a 
+lesser degree. As a result, EBIT margins in the division fell 
+by 5.6 per cent to 5 1.3 per cent (2016: 56.9 per cent) with 
+revenue recognition being a one-off 2.6 per cent reduction. 
+The revised operating model that is already in place for the 
+Escrow teams around the world mean that the division should 
+deliver an improvement in margins in the new financial year 
+ending May 2018.
+NCC Group plc Annual Report and Accounts for the year ended 31 May 2017
+41
+NCC AR2017 - proof 8-Front.indd   41 09/08/2017   16:05:06 How we are  
+part of your daily life
+ESCROW — BUSINESS CRITICAL  
+SOFTWARE CONTINUITY
+A leading holiday operator decided to introduce a new reservations system to 
+enable all of its high street outlets and businesses to have online access to the 
+same real time price information for holiday packages. 
+As a way of facilitating the real time availability of hotels, flights and car rental 
+information the system was key to the holiday operator’s strategy of improving its 
+service in line with its customers’ expectations and booking behaviour. 
+The holiday operator began the process of replacing its legacy systems with a 
+system that could communicate with the myriad of reservation systems used in 
+the travel market and enable agents to give customers instant availability and 
+reservation details. 
+The system was also designed for use on multiple channels including websites, 
+retail shops and call centres. 
+The holiday operator takes business continuity for its critical reservation 
+infrastructure seriously, so when planning for the new platform it wanted to 
+ensure that provisions were in place to protect itself should an event occur that 
+had the potential to disrupt the ongoing service of the application and affect 
+customer experience. 
+How our business model enables this
+Following a review of the marketplace and the protection solutions on offer, 
+the holiday operator decided to partner with one of the world’s leading 
+escrow providers, NCC Group. NCC Group’s software escrow solutions are 
+a smart, simple way of managing risk by protecting the huge investment that 
+organisations make in software each year. 
+Under the terms of an escrow agreement, NCC Group holds a copy of the 
+source code behind the business critical application or platform and commits 
+to release the material if a “trigger event” should occur that would render the 
+software supplier incapable of fulfilling its contractual obligations. If such an 
+event occurs, the holiday operator can apply for the material to be released 
+quickly and safely, minimising cost and disruption. This would then enable it to 
+maintain and support the application in-house or appoint a qualified contractor 
+to do so. 
+As part of all its escrow agreements, NCC Group carries out an Integrity Test on 
+the material received to ensure it is virus free, accessible and of the expected 
+type. This process ensures that any obvious mistakes in the deposit are detected 
+and resolved.
+However, due to the nature of the software in question and the uncertain 
+economic climate, NCC Group recommended that as well as ensuring that 
+the source code is stored and regularly updated, the holiday operator should 
+commission Full Verification testing of the application to ensure that the source 
+code deposited could be built into the working system if needed.
+NCC Group’s range of verification services are specifically designed to 
+remove any uncertainty of what is held in escrow and test the accessibility and 
+completeness of the material.
+The verification process gives both end users and suppliers complete peace 
+of mind. Initially, the verification consultant worked with the supplier through a 
+complete build of the source code and then worked with the team at the holiday 
+operator to test that the correct application was created. The entire process was 
+detailed in a comprehensive report, which the holiday operator can then use as a 
+step-by-step manual to build the source code into the working application.
+When its software supplier unfortunately went into administration, the holiday 
+operator needed to invoke the escrow agreement and requested a source code 
+release from NCC Group. The fact that the holiday operator had taken steps to 
+mitigate risk, and had ownership of the build reports for the reservation system, 
+played a crucial part in the legal negotiations that followed with its supplier’s 
+administrators.
+Only because the holiday operator had carried out verification of the source 
+code through NCC Group’s Full Verification and Build Assured Verification did 
+it have a full build report for the business critical reservation infrastructure that 
+enabled it to carry on maintaining and supporting the application by appointing 
+an alternative contractor to do so.
+How we will leverage this going forward
+Most businesses rely on IT applications to run important and critical functions 
+within their organisation. As the use of IT across organisations continues to grow 
+it is increasingly important to ensure that businesses have a plan in place to 
+mitigate against the risk of software supplier failure. NCC Group will continue to 
+engage with both software providers and our customers to help and form part of 
+an organisation’s business continuity plan.
+HOW NCC GROUP’S ESCROW 
+SERVICES HELP ENSURE 
+CONTINUITY OF BUSINESS 
+CRITICAL SOFTWARE
+Read more online at  
+www.nccgroup.trust/uk/our-services/software-escrow-
+and-verification
+25546.04    9 August 2017 3:58 PM    Proof Six
+42
+www.nccgroup.trust      Stock Code: NCC
+STRATEGIC REPORT
+NCC AR2017 - proof 8-Front.indd   42 09/08/2017   16:05:10 How we are  
+part of your daily life
+SOFTWARE TESTING — NEW SYSTEMS IMPLEMENTATION 
+NCC Group’s client, a major luxury fashion retailer, required a testing partner 
+who could manage the complex implementation of two third party solutions, 
+maintaining the quality standards in parallel development.
+The main challenge was the integration of the transformed EPOS system and 
+the new loyalty offering, from both a technical and process perspective, into its 
+current business model with minimum disruption.
+These two projects were of the upmost importance as they will ultimately 
+strengthen the client’s position in the retail industry and help it to maintain 
+customer loyalty while meeting key strategic goals.
+Software is not the client’s core business and it needed a quality partner to bring 
+a strong approach as well as a complete testing solution.
+How our business model enables this
+Given the scale of the EPOS transformation, the client needed absolute clarity 
+about how the validation and testing effort would ensure that both technical and 
+business requirements were delivered as expected to fully support its business 
+strategy and activities.
+NCC Group put together a joined-up approach to deliver testing across the 
+various transformation areas, ensuring that the solution delivered business value 
+for the client. This included:
+ z Leveraging NCC Group’s Delivery Centre to provide a remote, on-shore 
+capability, with a local test manager to ensure tight communication and 
+accountability.
+ z Testing of the EPOS system and devices from NCC Group’s Delivery Centre, 
+evaluating functionality from front of store to back end systems without 
+taking up space in the client’s offices.
+ z Testing of the loyalty solution across a range of browsers and devices, 
+ensuring consistent customer experience and supporting incentivisation by 
+the client.
+ z Testing of the international version of the client’s website, validating orders 
+across 1 1 7 countries into its fulfilment capability.
+ z Testing of the client’s marketplace functionality, allowing customers to order 
+directly through to suppliers through the client’s website and ensuring that 
+the expansion of this marketplace delivered value to customers.
+ z With NCC Group’s support at all stages of the process, the client 
+successfully implemented two new key initiatives. The transformed EPOS 
+system is now live in one of the main store locations and being rolled out at 
+other locations.
+ z The new loyalty application is currently being used by its customers and 
+the international website and new marketplace have also successfully gone 
+live. This allows the client to deliver a competitive retail experience to its 
+customers on a global scale.
+How we will leverage this going forward
+ z The transformation enabled the client to deliver value to customers and 
+NCC Group looks forward to working closely with the client as the company 
+continues to expand and refine its retail offering.
+ z This valued NCC Group client had a number of challenges, including lack of 
+expert test consultant skills, shortage of desk space in prime London territory 
+and expertise in delivering similar sized, business critical projects. The project 
+was both demanding and critical to the continual success of this client both 
+online and in store and failure to deliver was not an option. We partnered at 
+the most critical stage where business requirements were being determined, 
+we introduced testing early into every phase of development, and provided 
+this client with a robust strategy to deliver and go live without fault. Key 
+delivery points and objectives are below:
+ — Previous expertise in sector and project type
+ — Ability to scale with the exact skills at speed
+ — Flexible on-site / off-site model (but all on-shore)
+ — Develop a strategy that would be agreeable by the Board for budget 
+approval and sanction
+ — Ability to manage all test phases and manage stakeholders to  
+Board level
+ — Drive down costs where appropriate but without affecting test quality
+ — Shared responsibility to meet demanding timescales
+ — Secure, highly confidential off-site facilities
+HOW SOFTWARE TESTING 
+SERVICES HELP IMPLEMENT 
+NEW SYSTEMS INITIATIVES
+Read more online at  
+www.nccgroup.trust/uk/our-services/software-testing
+25546.04    9 August 2017 3:58 PM    Proof Six
+NCC Group plc Annual Report and Accounts for the year ended 31 May 2017
+43
+NCC AR2017 - proof 8-Front.indd   43 09/08/2017   16:05:13

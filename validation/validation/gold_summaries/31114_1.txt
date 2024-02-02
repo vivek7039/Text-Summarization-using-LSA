@@ -1,0 +1,203 @@
+ Chief Executive’s report
+Overview
+CentralNic continued to develop as an internet services
+business of substantial scale that is highly cash generative and
+built around a recurring revenue model. There are significant
+opportunities available for growth in the market, of which the
+Company continues to take advantage.
+During the year, the Company’s acquisition strategy continued
+to target companies with a strong existing customer base and
+a high proportion of recurring revenue, with a particular focus
+on businesses with exposure to high-growth and emerging
+markets. Building on the previous acquisitions of Internet.BS
+in the Bahamas (2014: US$7.5 million) and Instra Group in
+Australia and New Zealand (2016: AU$38.0 million), the Group
+acquired SK-NIC in December 2017 for a maximum cash
+consideration of €25.7 million. SK-NIC is the manager of the
+exclusive country code top-level domain for Slovakia, .sk and
+realises the majority of its earnings through a recurring revenue
+stream from a substantial embedded customer base.
+SK-NIC offers significant growth potential, achievable
+through the combination of the strongest domain product
+in the Slovak market and CentralNic’s specialist technical,
+sales and marketing expertise. CentralNic migrated .sk
+onto its proprietary software in 2017 and strengthened the
+local management team to ensure that .sk achieves global
+best practice as a foundation for that nation’s growing
+digital economy.
+Since its acquisition, the integration of SK-NIC has progressed
+according to plan. The .sk operation has been migrated
+onto a customised version of the CentralNic registry software
+in the Slovak language, and the management team in
+Bratislava has been strengthened with the addition of a Head
+of Communications. Tasks that were outsourced to the
+vendors as part of the transition plan are being successfully
+migrated in-house. Trading since the acquisition was
+completed is in line with expectations.
+In July, CentralNic was recognised as the best performing
+company in the Infrastructure Services category of the
+Quoted25 awards. This annual award, created by Megabuyte,
+acknowledges the top 25 performing technology companies
+in the mid-tier of the London Stock Exchange’s AIM market.
+Results
+CentralNic achieved revenues of £24.3 million, a 10%
+increase over 2016 revenues of £22.1 million, and Adjusted
+EBITDA of £6.6 million, a 20% increase on 2016’s Adjusted
+EBITDA of £5.5 million. The profit after tax reflected a 7%
+increase at £1.02m (2016: £0.96m).
+The Group continues to improve the quality of its earnings,
+increasing recurring revenues to 84% of total revenues. The
+Group’s global revenues also continued to grow, with over 37%
+of total revenues coming from outside the UK, North America,
+and Europe, reflecting a focus on high-growth emerging markets.
+10    CentralNic Group Plc Annual Report 2017
+Building on previous acquisitions of Internet.BS
+in the Bahamas and Instra Group in Australia
+and New Zealand, CentralNic has continued to
+successfully execute its acquisition strategy.
+In 2017, CentralNic acquired SK-NIC, the
+manager of the exclusive country code top-level
+domain for Slovakia, We will continue to grow
+the company both organically and through
+further acquisitions and remain entirely focused
+on expanding our global footprint in the domain
+and web services industry.
+Ben Crawford Chief Executive                                                                                                                                                  CentralNic Group Plc Annual Report 2017 11
+At the end of the year, the Group had cash balances of
+£10.9 million (2016: £9.9 million) with net debt (excluding
+prepaid costs) of £7.2m (2016: net cash £7.3m). During the
+year, CentralNic entered into a new facility agreement with
+Silicon Valley Bank, which enabled the group to acquire
+SK-NIC and optimise its capital structure and gain access
+to funding for growth opportunities.
+Operational review
+Wholesale (Registry Services)
+Wholesale revenues grew 48% to £4.7 million (2016: £3.2
+million) and the Company maintained its position as a leading
+wholesaler of domain names using new gTLDs, with 22.6%
+market share at the end of 2017. CentralNic’s Wholesale
+Division is the only registry services provider to count six of
+the top 20 new gTLDs as clients (from around 1,200
+launched in total).
+CentralNic has continued to be the world leader in winning
+new clients in its Wholesale Division, including a contract to
+manage 14 Top Level Domains from OpenRegistry, a
+subsidiary of KeyDrive Group. CentralNic manages 104
+domain extensions (gTLDs, ccTLDs and SLDs) overall, ranking
+as an impressive 5th globally. In September 2017, the Group
+renegotiated its exclusive wholesaler contract with .XYZ.com,
+the owner of the world’s leading new gTLD, .xyz, on a fixed fee
+basis until May 2032 with the potential to increase fees based
+on the number of .xyz domains managed.
+Retail
+Retail revenues grew 9% to £15.6 million in 2017 (2016:
+£14.3 million). The retail business serves three of the main
+customer groups for domain names and supporting services;
+small businesses, resellers and domain investment
+professionals. One of the Retail Division’s objectives during
+2017 was to broaden the number of supporting products it
+can provide to its existing customer base. During the year,
+it added IT security products, web and email hosting,
+website construction and analysis products to its portfolio
+available to its existing and future customer base.
+The Retail Division increased the number of domain extensions
+it provides and has continued to optimise the costs associated
+with domain name provision and therefore increased
+profitability. This was in part achieved through an outsource
+arrangement with the leading global reseller platform RRPProxy,
+a subsidiary of the KeyDrive Group. Considerable
+management and technical resource has been dedicated to
+this project which, when completed, will result in CentralNic’s
+retailers obtaining all their domains from a single supplier, rather
+than supporting hundreds of supplier relationships.
+Enterprise
+Revenues from CentralNic’s Enterprise Division decreased
+slightly in 2017, down to £4.1 million (2016: £4.6 million),
+reflecting the Group’s strategy to decrease the proportion of
+its overall revenues obtained through one-off premium domain
+name sales. The recurring revenue components of CentralNic’s
+enterprise business continue to grow. With CentralNic’s
+assistance, a number of corporate clients completed the
+ICANN delegation process in 2017 and have begun to prepare
+their “DotBrand” Top Level Domains for use. Other corporate
+and government clients continue to licence CentralNic software
+and many also use the Group’s fee-based support services to
+distribute domains, develop and implement their own policies
+and to market and manage their operations in-house.
+CentralNic’s premium domain name trading business
+performed well with revenues of £3.0 million achieved, reduced
+from £3.7 million the previous year. In line with the Group’s
+strategy to focus on increasing its revenues in the recurring
+category, premium domain name sales will be a decreasing
+proportion of revenues and contribution going forward.
+Acquisitions: progressing CentralNic’s strategy
+Moving forward, CentralNic will continue to identify
+acquisitions that will add scale and new market leading
+technology platforms to serve its customers as well as
+creating opportunities for savings by eliminating duplication
+in costs. The Group has established a robust foundation for
+future growth, is able to leverage a suite of world-class
+software and services, has a large and experienced
+management team and significant staff resources able to
+support customers around the world.
+Infrastructure for growth
+People
+During 2017, CentralNic made significant additions to its
+Board and management team to extend even further its ability
+to execute our acquisitions-led growth strategy. In July,
+Don Baladasan joined the Board as Chief Financial Officer,
+bringing significant public company acquisition and integration
+experience. At senior management level the Company had
+already recruited Group Commercial Director Stuart Fuller
+and Group Marketing Director Andy Churley, from NetNames
+(formerly GroupNBT), to reinforce and build sales and
+marketing operations. In May 2017, Sarah Ryan was
+appointed Corporate Development Director to support the
+Board in its M&A activities. Sarah was previously Director of
+International M&A for LexisNexis and Thomson Financial
+and brings significant transaction experience including in the
+Middle East, Russia, China, India, South Africa and Europe.
+Current market trends
+In December 2017, there were approximately 332.4 million
+domain names under management globally. This represents a
+growth of 3.1m domain names (0.9%) over 2016. Generic Top
+Level Domains (gTLDs e.g. .com and .net) had a combined
+total of approximately 146 million domain names (2.9% growth)
+and all country code Top Level Domains (e.g. .sk) accounted
+for approximately 146 million domain names (2.4% growth).
+The top 20 new gTLDs (of which CentralNic manages six)
+account for 65% of all registrations in this category. Chief Executive’s report continued
+Post year end
+In January 2018, the Group replenished its premium domain
+trading inventory for a total consideration of £2.5 million, as a
+step towards ensuring that the company retains the capacity
+to continue to trade profitably in premium domain names as
+required. CentralNic also continued winning new clients,
+including the .ooo TLD, owned by billion-dollar Mumbai-listed
+tech company, Infibeam.
+In March 2018, due to industry speculation, CentralNic
+announced that it was in advanced negotiations to merge with
+a leading operator of reseller and corporate platforms in the
+domain industry, KeyDrive S.A., a Luxembourg company.
+The combination of the two businesses has strong strategic
+logic and economies of scale and represents an opportunity
+to create a group with competitive technology platforms
+delivering significant recurring revenues for every major
+customer type within the industry. Discussions are ongoing
+at the time of publication.
+Outlook
+Current trading is in line with expectations as the Group
+continues to grow both organically and through further
+acquisitions and remains entirely focused on expanding its
+global footprint in the domain and web services industry.
+New products and services are added continually to service
+customers. For example, the group plans to offer online
+security and brand protection services to its corporate clients.
+Across all its business segments, new customer acquisition
+remains a priority for the Group.
+Finally, we will continue to make earnings enhancing
+acquisitions to achieve further scale, additional capabilities
+and greater economies of scale.
+Ben Crawford Chief Executive
+30 May 2018
+12    CentralNic Group Plc Annual Report 2017

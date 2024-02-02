@@ -1,0 +1,162 @@
+ Annual Report 2002
+9
+I am delighted to provide a review of the trading
+companies in my new position as Chief
+Executive of DICOM Group. Since being founded
+11 years ago and as a result of the vision and
+leadership provided by my predecessor Otto
+Schmid, the Group has shown an exceptional
+development. We were established as a Swiss
+company trading IT peripherals and have gone
+through a substantial evolution since. Today, we
+are recognised as the worldwide leader in our
+target markets, active in over 60 countries
+around the globe.
+In the past most enterprises have heavily
+invested in a broad range of IT solutions that
+automate their business transactions and
+support decision making. However connectivity
+between input devices and applications is
+frequently inadequate or absent resulting in
+data and document access being imprecise,
+slow and hence expensive.
+The EDC solutions offered by DICOM Group
+solve this dilemma at an attractive cost to
+benefit ratio. We have been able to grow the
+EDC Division by approximately 30% year over
+year since our flotation in 1996, through our
+technological leadership and strict adherence to
+our successful sales channel concept.  Building
+on this success it is my goal to improve the
+Group’s market position in the EDC market,
+whilst also adding businesses that are
+complementary to our core area of activities.
+DICOM Group achieved excellent results in its
+core EDC Division last year in contrast to
+further deteriorating conditions in the IT
+industry. Our business partners and customers
+have continued to report that IT budgets remain
+under tight scrutiny. EDC investments, however,
+were broadly saved from this development as
+they allow quick payback periods to be
+achieved.
+EDC now contributes more than 68% to total
+Group turnover. Turnover with own products
+and services showed substantial growth during
+the year and contributed 39% and 17%
+respectively of sales. Third party products sold
+by the EDC Division accounted for the balance.
+It is our strategy to leverage our position in the
+EDC market to make DICOM Group’s products
+available to the high and low end of the EDC
+market. As a result we have allocated
+significantly more funds to research and
+development.  Last year we increased spending
+by 41% to £7.4m (2001: £5.3m). This
+commitment has allowed us a high rate of
+product innovations for existing products and
+the launch of entirely new products at the same
+time.
+PRODUCT DEVELOPMENTS
+Our award winning Virtual ReScan™ (VRS)
+product line, which optimises both image quality
+and the scan process, continues to do very well.
+Turnover development in £m since IPO
+and number of employees
+160
+140
+120
+100
+80
+60
+40
+20
+96
+*
+97 98 99 00 01 02
+turnover                 Number of employees          
+* 
+pro forma unaudited
+117
+250
+320
+339
+486
+718
+773
+CHIEF EXE C UTIVE’ S
+REVIEW which is underscored by the successful
+participation in a rising number of large EDC
+projects. Consequently the number of Ascent
+Capture software licences sold to date has
+increased significantly to 32,500 (30 June 2001:
+22,500). 
+EUROPE
+DICOM Europe, our European sales and service
+operations, provided solid growth and better
+margins. In the Group’s major territories an
+improved performance was achieved in contrast
+to the general slow-down in the IT industry. The
+drive to provide consulting and other services
+continues to improve the quantity and quality of
+the Group’s service revenues.
+ASIA
+In June we announced that our stake in DICOM
+Asia was increased from 40% to 80%. This
+acquisition strengthens our involvement in
+South East Asia, the Greater China region and
+Australia and reinforces the Group’s ongoing
+strategy to grow both organically and by
+acquisitions. During the past four years, DICOM
+Asia has successfully managed to expand its
+reach, customer base and capabilities in very
+challenging market conditions. We are currently
+increasing our activities in the Greater China
+region and also intend to exploit fully our leading
+position in the high growth Asian market.
+DICOM Group is better placed than ever to
+capitalise on its increased global presence, with
+sales and support services in every major
+market in the world and a product range which
+is the most comprehensive in the industry, at the
+cutting edge of today’s technology in EDC
+software.
+Arnold von Büren
+Chief Executive Officer 10 October 2002
+DICOM Group plc
+10
+The software version of VRS (v2.1) now supports
+more than 40 document scanner models with
+real time image enhancement features. Several
+larger projects were secured. The ASIC version
+of VRS, which is being sold on the basis of OEM
+agreement for use in document scanners, is
+being sold to both new scanner manufacturers
+and for new scanner models thereby increasing
+its future sales prospects significantly. In May
+2002 we were awarded an US patent for VRS.
+Ascent Capture 5.5, a major release of the award
+winning capture application, was launched in
+May 2002 offering broader product functionality
+and improved support for high performance
+databases. With these improvements Ascent
+Capture has been able to gain further market
+share in the high end sector of the EDC market.
+In June 2002, we launched Ascent Ricochet. It is
+the first software product on the market that
+extends professional EDC features to every
+desktop in an enterprise, government
+organisation or not for profit organisation. It
+permits Multifunctional Products and digital
+copiers to be used as document scanners.
+Almost all organisations have copiers and
+scanner in use.  This new product brings added
+efficiency and features to these equipment
+investments.
+Blue chip software houses and system
+integrators have continued to integrate Ascent
+Capture products and VRS into their solutions as
+a result of ongoing focused sales and marketing
+initiatives. Ascent Capture, also described in the
+EDC market as “The Operating System of
+Capture”, continues to move upmarket – a trend

@@ -1,0 +1,174 @@
+ We are very pleased with the progress made 
+across our pipeline. The licensing of SRA737 to 
+Sierra Oncology places the development and 
+marketing of this exciting oncology candidate 
+in the hands of a highly experienced team. 
+The agreement has the potential to provide 
+substantial funds, enabling us to advance 
+and broaden our own pipeline programmes, 
+and overall provides important validation of 
+our business model and drug R&D expertise.
+At a Glance
+See our 
+research 
+update on 
+page 6
+What we do
+Sareum is a specialist drug discovery and development 
+company delivering targeted small molecule therapeutics, 
+focusing on cancer and autoimmune disease, and 
+generating value through licensing them to international 
+pharmaceutical and biotechnology companies at the 
+preclinical or early clinical trials stage.
+Our year
+June
+At the American Society of Clinical Oncology (ASCO), Sierra 
+Oncology reported initial progress of the two ongoing Phase 1 
+trials of SRA737, including the start of the cohort expansion phase 
+of the monotherapy trial. In addition, Sierra presented two posters 
+describing the innovative clinical designs of these trials.
+August
+Aurora+FLT3 patent grant notifications received for China 
+and Hong Kong.
+May
+Sierra Oncology announced that patents protecting SRA737 
+were granted in the USA and Europe, extending its protection 
+period to 2033 in the USA
+September
+SRA737 (formerly CCT245737), a novel Chk1 inhibitor, licensed 
+to Sierra Oncology (formerly ProNAi Therapeutics) for up to 
+US$328.5 million plus royalties by co-investment partner, the 
+CRT Pioneer Fund. Sareum eligible to receive 27 .5% of economics 
+and received £1.5 million share of US$7 million upfront on signing.
+January
+Received £450k share of US$2 million success milestone payment 
+as part of SRA737 licence agreement on transfer of two ongoing 
+Phase 1 clinical trials to Sierra Oncology.
+October
+Aurora+FLT3 patent grant notifications received for Japan 
+and Singapore, giving Sareum approved patent protection 
+in all the major territories.
+Successful conclusion to the BioMedical Catalyst funded 
+feasibility study for TYK2, with lead compounds showing 
+tumour regression in a disease model of T-ALL.
+2016
+2017
+November
+Updated results from TYK2 cancer research programme 
+presented at AACR-NCI-EORTC.
+STRATEGIC REPORT
+Sareum Holdings plc  
+Annual Report and Accounts 2017 2 Drug development pipeline
+Sareum’s pipeline is built on the drug discovery expertise of 
+its founders, particularly in the field of cancer. The Company 
+operates a collaborative and outsourced business model. 
+All our laboratory-based research is carried out in the facilities 
+of collaborators or third-party providers. This enables us 
+to access drug discovery expertise throughout the world 
+with a very flexible cost base.
+Sareum focuses on developing new therapies against 
+biochemical targets where existing preclinical or early clinical 
+data are available. This data can give a strong indication that 
+a therapy will disrupt a targeted biochemical process and 
+improve patient outcomes without significant side effects. 
+Sareum’s approach is lower risk than developing therapies 
+against entirely novel targets.
+Chk1 kinase – targeting genetically defined solid cancers
+SRA737 (formerly CCT245737) is a potent, highly selective, orally 
+bioavailable small molecule inhibitor of Chk1, a key regulator of 
+important cell cycle checkpoints and central mediator of the DNA 
+Damage Response (DDR) network. SRA737 was licensed to Sierra 
+Oncology in September 2016 and is in two innovative Phase 1 
+clinical trials in patients with advanced cancer and tumours with 
+genetic mutations that predict sensitivity to Chk1 inhibition. 
+Tumour cells can have many genetic mutations and several of these 
+may result in a strong reliance on Chk1 function for tumour survival. 
+By blocking Chk1 function in these cases, the tumour cells die; this 
+exemplifies the concept of “synthetic lethality.” 
+The clinical studies aim to take advantage of this fundamental 
+role of Chk1 in cancer and will enhance patient selection in order 
+to maximise responses of SRA737 in: 
+• 
+ a monotherapy study in genetically defined patients with five 
+solid tumour types.
+• 
+ a combination study with low-dose chemotherapy (gemcitabine) 
+in genetically defined patients with two solid tumour types where 
+gemcitabine is a standard care.
+In addition, Sierra Oncology is evaluating SRA737 with preclinical 
+studies in combination with targeted cancer therapeutics where 
+there is a strong rationale for synergy with Chk1 inhibition. These 
+include immuno-oncology approaches (anti-PD-1 and PD-L1) 
+and other DDR inhibitors (e.g. PARP inhibitors).
+Read more on page 5
+TYK2 kinase – targeting autoimmune diseases 
+and cancer
+TYK2 is a member of the Janus kinase (JAK) family with roles in 
+pro-inflammatory responses in autoimmune diseases and tumour 
+cell proliferation in certain cancers. Members of the JAK family are 
+the targets of several marketed and clinical-stage drugs, although 
+there are currently no marketed products specifically targeting TYK2.
+Sareum has an ongoing co-development agreement with SRI 
+International to develop TYK2 inhibitors in autoimmune diseases 
+and retains commercialisation rights for these and other TYK2 
+inhibitors for oncology and immuno-oncology applications.
+Autoimmune and inflammatory disorders
+Sareum has shown with several TYK2 inhibitors promising and 
+potentially superior therapeutic profiles in disease models of psoriasis, 
+RA and ulcerative colitis. Advanced lead molecules have also shown 
+promising initial efficacy in lupus models. Candidate selections are 
+expected in H1 2018.
+Cancers
+Several of Sareum’s TYK2 inhibitors have demonstrated good efficacy 
+and safety in disease models of T -ALL, both as a single agent and in 
+combination with chemotherapy. They also demonstrate good oral 
+bioavailability, good biodistribution and tumour reduction of up to 80%.
+The Company is investigating its TYK2 inhibitors in several solid 
+tumours and blood cancers at leading academic centres worldwide. 
+Sareum is also investigating the potential of its TYK2 inhibitors 
+to overcome resistance to immune checkpoint inhibitors, and is 
+evaluating combination opportunities.
+Candidate selection for further development in oncology is 
+targeted for H1 2018.
+Read more on page 7
+Aurora+FLT3 kinases - targeting AML 
+and other blood cancers
+Sareum has identified candidate molecules with potential to be 
+single-agent therapies for AML and other blood cancers. A lead 
+candidate is in preclinical development funded by Sareum’s Chinese 
+partner, Hebei Medical University Biomedical Engineering Center, and 
+these studies suggest good tolerability at the predicted therapeutic 
+dose. Preclinical studies are expected to complete in H2 2018.
+Read more on page 7
+Colorectal, head & neck, non-small cell 
+lung, ovarian and prostate cancers
+Bladder, pancreatic cancers
+AML, ALL
+T-ALL, ALCL, colon cancer
+Target
+Lead
+optimisation
+Candidate
+selection
+Preclinical
+Phase 1
+clinical
+Potential indications
+Aurora+FLT3
+TYK2
+Chk1 (SRA737)
+Autoimmune
+Cancer
+Psoriasis, RA, lupus, IBD, MS
+Chemotherapy combination
+Monotherapy
+RA: Rheumatoid Arthritis 
+IBD: Inflammatory Bowel Disease 
+MS: Multiple Sclerosis 
+T-ALL: T-cell Acute Lymphoblastic Leukaemia
+ALCL: Anaplastic Large Cell Lymphoma 
+AML: Acute Myeloid Leukaemia 
+ALL: Acute Lymphoblastic Leukaemia
+STRATEGIC REPORT
+Sareum Holdings plc  
+Annual Report and Accounts 2017 3

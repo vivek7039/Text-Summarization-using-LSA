@@ -1,0 +1,634 @@
+ Introduction
+The Micro Focus Product Portfolio represents 78.0% of total 
+Group revenue in FY17 (2016: pro-forma CCY 82.0%) and 
+comprises the following sub-product portfolios, which are shown 
+with their percentage of FY17 overall product portfolios revenues:
+Proportion of revenue delivered during FY17 
+by each of the Product Portfolio
+Product 
+portfolio 
+Revenues
+$m
+Percentage 
+of FY17 
+Revenues
+As reported
+%
+COBOL Development & Mainframe Solutions 
+(“CDMS”) 265.2 24.6
+Host Connectivity (“HC”) 175.4 16.3
+Identity, Access & Security (“IAS”) 207 .0 19.2
+Development & IT Operations Management 
+Tools (“Development & ITOM”) 285.2 26.5
+Collaboration & Networking (“C&N”) 144.5 13.4
+Micro Focus Portfolio 1,077.3 100.0
+From within the Micro Focus Product Portfolio we also manage, for the Group 
+overall, the corporate support functions of HR, IT, Facilities, Finance, Legal and 
+the Project Management Ofﬁce (“PMO”) for acquisitions and integration. In 
+addition we manage the delivery of a shared service for other elements of 
+support to the SUSE portfolio enabling SUSE to directly control what they 
+need to execute with speed and ﬂexibility whilst leveraging the larger Group 
+where effective as SUSE builds scale. During FY17 this shared service 
+approach was phased out to further enable the SUSE team to execute 
+autonomously such that in FY18 only the corporate support functions are 
+shared with all other resources dedicated to either SUSE or Micro Focus. 
+Wherever practical the corporate support functions staff are dedicated to 
+product portfolios, including SUSE, in order to provide the additional beneﬁt 
+of specialization whilst leveraging the scale of the shared function. 
+Progress in FY17
+During 2017 our main priority has been completing the integration of the 
+different businesses into a more coherent whole, focused on consistent and 
+sustained ﬁnancial performance and the delivery of innovation that matters to 
+customers – what we call customer centred innovation. This means helping 
+customers solve the real world challenges they face today as they wrestle with 
+balancing the ever increasing requirements for I.T. to deliver new capabilities 
+and support new business models with the demands of securing and running 
+day to day operations. We achieve this through the rigorous application of our 
+FOUR-BOX MODEL which has at its core direct engagement with customers 
+to enable highly targeted product development and delivery. 
+Highlights include:
+ – Our focus on delivering customer centred innovation continued to 
+gather momentum: 
+ – Delivered 185 product releases or signiﬁcant enhancements in FY17 
+with each sub-portfolio improving the levels of customer engagement 
+and cadence of product delivery; 
+ – Integration of Serena and acquisition and integration of GWAVA 
+completed on time and now executing as integral parts of the 
+Micro Focus Product Portfolio, adding further depth and new 
+capabilities within Development & ITOM and C&N respectively; and 
+ – Removed dependency on third party intellectual property in key 
+strategic elements of our IAS portfolio. 
+ – Integration of the business into a coherent whole is now broadly complete 
+as evidenced by the progress on removing sub-branding, completely 
+redesigning our websites, transitioning to a geographic Go-to-Market 
+(“GTM”) model globally and creating an integrated approach to product 
+development and management. The remaining focus area is on IT systems 
+where our stated goal of driving standardization will take longer to deliver 
+than originally anticipated. As a result of the planned merger with HPE 
+Software we have decided to implement the new set of systems being built 
+for HPE Software for the Group as a whole. This will enable more effective 
+integration of the existing Group with HPE Software and the creation of 
+a more ﬂexible platform from which to execute our strategy but it remains 
+a very signiﬁcant undertaking. 
+ – Financial performance in the year was in line with expectations, with 
+progress in Maintenance Fee Revenue being somewhat offset by 
+performance in Licence Fee Revenue where the loss to a competitor of an 
+entire sales team and management structure caused three to ﬁve months 
+of disruption which impacted our Host Connectivity business principally.
+20 Micro Focus International plc Annual Report and Accounts 2017
+CEO Review – Micro Focus Product Portfolio  The Micro Focus Portfolio Group in FY17
+Product Group
+We now execute as one global organization covering the ﬁve sub-portfolios. 
+During FY17 we delivered major product releases across each sub-portfolio 
+and more than 185 releases in total. We have established standard processes 
+for market and opportunity analysis through product development to product 
+launch and sales and partner enablement. Best practices in areas such as 
+development methodologies, pricing and licence management have been 
+identiﬁed and are now adopted across the Group. 
+The FOUR-BOX MODEL approach was applied across all products to optimize 
+returns and ensure product roadmaps reﬂect the appropriate priorities based 
+on the individual products life cycle and portfolio management position. 
+This more uniﬁed approach to product development and management has 
+presented new opportunities for delivering more value to customers through 
+sharing technology and best practice focused on speciﬁc customer use cases 
+or challenges. For example, we have delivered advanced security capabilities 
+from our IAS portfolio within our leading Host Connectivity solutions to bring 
+signiﬁcantly enhanced functionality for customers to secure mainframe 
+application access. 
+We continue to invest in product development and sharpen our focus in 
+product management. We are excited by the signiﬁcant enhancements to 
+existing products, the new products released in the past year and the product 
+roadmaps for the future. 
+Go to Market (“GTM”) – sales, services and marketing 
+The transition of the GTM approach from global business units measured on 
+annual bookings to a geographic organization focused on quarterly revenue 
+is now complete. 
+This realignment of structure and approach was executed to enable closer 
+engagement with the customer base and drive behaviour change at both the 
+management and individual level to underpin the move to a more granular, 
+quarterly cadence of sales forecasting and execution. 
+In services we have changed the direction and objectives to align fully with our 
+strategy of “making, selling and supporting software”. The teams have been 
+reorganized with compensation and incentives changed to be targeted on 
+delivering successful software implementations rather than more standalone 
+services engagements. This change also enables better alignment with our 
+channel partners. We have an extensive partner network that is a fundamental 
+part of our long-term plans and it is important we ensure consistency of 
+direction and focus to ensure objectives are aligned and mutual success is 
+achieved in support of our customers. 
+Our approach to and our engagement with our channel partners was improved 
+during FY17. Channel programmes were completely revamped to focus on 
+those partners who were adding most value to our customers through the 
+investment in complementary skills and technologies. Underpinning this is a 
+completely redesigned Channel Portal to simplify how we collaborate and to 
+provide improved visibility and analytics.
+Systems and Processes
+The decision to switch the focus of our long term strategic approach to 
+internal systems to leverage the HPE Software internal systems has had a 
+short term impact on our ability to make the fundamental structural improvements 
+we believe will underpin our long term strategy. In the interim we switched 
+focus to tackling other areas of process or technology inefﬁciencies. Key 
+examples include the continued simpliﬁcation of sales compensation plans, 
+rationalization of websites, marketing support systems and social media 
+platforms, improvements to our core data and voice infrastructure and 
+improvements to our business intelligence and data analytics capabilities. 
+We believe the changes made enable us to better serve our customers but 
+we still have a great deal to do across systems (beyond the main strategic 
+project), processes and people to deliver the levels of sales productivity 
+desired and possible. 
+We aim to increase sales productivity and predictability further by continuing 
+to simplify the underlying processes and systems we use to run the business 
+and improve customer insight by generating closer interaction between Sales 
+and Marketing, Product Management and Product Development. All of which 
+is key to effective operation today and faster integration with HPE Software 
+in the future. 
+Micro Focus Product Portfolio
+Details of our ﬁve sub portfolios are provided below.
+COBOL Development & Mainframe Solutions (“CDMS”) – 
+19.2% of FY17 Group revenues (2016: pro-forma CCY 18.5%)
+We have continued to invest in our core COBOL development (“CD”) products 
+that primarily target the off-mainframe distributed development market. The 
+CD products enable programmers to develop and deploy applications written 
+in COBOL across multiple platforms including Windows, UNIX, Linux and the 
+cloud. Visual COBOL provides the fastest way for customers to move 
+enterprise mainframe application workloads partially or wholly to Java Virtual 
+Machine (“JVM”), .NET or cloud environments whilst protecting their existing 
+investments and intellectual property.
+COBOL applications continue to be at the heart of the world’s business 
+transactions and to power the majority of large organizations’ key business 
+operations. Maintaining our leadership position in CD is at the core of our value 
+proposition. By embedding our products in industry standard development 
+environments speciﬁcally Visual Studio and Eclipse, we have addressed the 
+perceived skill issues, and expect that COBOL will provide a stable base and 
+strong cash ﬂow for the Group over the coming decades.
+Overview Strategic report Corporate governance
+Consolidated ﬁnancial 
+statements and notes
+Company ﬁnancial 
+statements and notes Additional information
+21 Micro Focus International plc Annual Report and Accounts 2017 Our Mainframe Solutions (“MS”) product set addresses a customer’s need to 
+get the most value out of their mainframe environment. These technologies 
+allow customers ﬂexibility in deciding the platform choice for development, 
+testing and deployment of their business applications. Various business and 
+technical drivers would determine if it is best to do these functions either within 
+the mainframe environment or outside of it on distributed Windows, UNIX and 
+Linux machines. We offer customers the choice to do either or both, enabling 
+the optimum balance of cost, risk and speed of execution across their 
+mainframe and distributed computing platforms. Increasingly businesses are 
+seeking to re-use existing business logic and data, while also looking to exploit 
+new innovations in technology such as mobile and cloud. Our mainframe 
+solutions allow customers to accomplish both by enabling the re-deployment 
+of enterprise mainframe applications to distributed systems, virtualized mobile 
+platforms, and the cloud. We estimate that the mainframe COBOL development 
+market opportunity is approximately three times as large as that for off 
+mainframe distributed COBOL development. 
+Micro Focus will maintain its leadership positions in CDMS through products 
+such as Visual COBOL and Enterprise Developer. The continued stable 
+revenue performance in this portfolio is showing that our strategy is working.
+Host Connectivity – 12.7% of FY17 Group revenues 
+(2016: pro-forma CCY 14.1%)
+The Host Connectivity product portfolio helps customers improve user 
+productivity as they extend host access to new web and mobile use cases 
+while ensuring that modern security practices around encryption, authorization, 
+and authentication can be enforced. We specialize in environments with 
+heterogeneous systems or platforms and this product set has, in one form 
+or another, assisted in these tasks for over 30 years. 
+The Host Connectivity capabilities are extended by other products that provide 
+legacy integration technologies that enable businesses to put their mainframe 
+assets to work in new ways by exposing applications and data to modern 
+development environments and business analytics systems. There are 
+additional Secure Shell (“SSH”) based ﬁle transfer solutions that solve a range 
+of tactical and strategic problems for securely transferring ﬁles of any size, 
+enabling businesses to work seamlessly with partners and customers.
+In Host Connectivity we will seek to build on our existing strengths in terms 
+of technology and customer base combined with our innovations in security 
+to establish a true leadership position in this area.
+Identity Access & Security (“IAS”) – 15.0% of FY17 Group 
+revenues (2016: pro-forma CCY 15.4%)
+This product set offers a broad set of proven solutions for Identity Governance 
+and Administration, Access Management and Authentication, and Security 
+Management. Our customers span all sectors with particular strength in 
+regulated industries, including Healthcare, Finance, Government, Retail, 
+Manufacturing, and Energy. In addition companies in non-regulated industries 
+also implement our IAS products as a best practice for protecting intellectual 
+property or other sensitive information, and to make their organizations 
+more efﬁcient.
+Customers use our Identity & Access Management (“IAM”) solutions to apply 
+integrated policies across local, mobile, and cloud environments to govern 
+access to information, administer and manage the identity and access lifecycle 
+of users, and demonstrate compliance with regulations or mandates. We provide 
+solutions that address identity lifecycle management, risk-based authentication, 
+single sign-on (“SSO”), access governance, and multi-factor authentication.
+Our Security Management solutions build upon this identity centric approach by 
+integrating identity and other contextual information with security monitoring, 
+ensuring organizations have the security intelligence they need, when they 
+need it, to detect and respond to abnormal activity that signals a data breach 
+or compliance gap. Our Security Management solutions provide privileged user 
+management, secure conﬁguration management and visibility and control over 
+user activities, security events, and critical systems across an organization to 
+enable them to quickly address evolving threats.
+Key trends driving growth in this area include the continued expansion and 
+diversity of security threats to organizations and the growth of the resulting 
+ﬁnancial risk, the increasing demand for organizations to demonstrate that they 
+have the processes in place to manage access, and the continued expansion 
+of virtualization and cloud deployments increasing the level of complexity of the 
+applications and information over which organizations need to manage access 
+and monitor activity. Additionally organizations have an opportunity cost, 
+effectively to implement stronger authentication methods than traditional 
+username/password to help minimize data breaches. 
+Our IAS solutions are well suited to address these trends, using unique 
+identity-powered technologies to help organizations govern and manage user 
+privileges, facilitate and control access to applications and data, and monitor 
+user and system activities. Although well positioned from a technology and 
+capability perspective in this growth market there are many niche players who 
+have point solutions and the trend in the market seems to be for customers 
+to look for the potentially quicker ﬁx of a single point solution rather than a 
+company-wide integrated solution. Our focus is to build on existing strengths 
+but transition the portfolio to enable these strengths to be packaged for easier 
+consumption and deployment giving the customer better longer term balance 
+between speed of deployment as part of a more integrated solution versus 
+disparate point solutions from multiple vendors.
+22 Micro Focus International plc Annual Report and Accounts 2017
+CEO Review – Micro Focus Product Portfolio 
+continued Development & IT Operations Management Tools – 20.6% 
+of FY17 Group revenues (2016: pro-forma CCY 22.7%)
+On 2 May 2016 we added important new capabilities and depth to this product 
+portfolio through the acquisition of Serena, a leading provider of Application 
+Lifecycle Management products enhancing both our expertise in mainframe 
+computing and distributed software change management. Consistent with our 
+philosophy of customer centred innovation we have continued to develop the 
+full suite of Serena products and started the process of leveraging existing 
+Micro Focus capabilities to the beneﬁt of Serena products and customers 
+and vice versa.
+The Application Delivery and Testing products offer a range of DevOps 
+solutions which span an organizations software development lifecycle – from 
+deﬁnition (requirements capture) through to delivery (testing and change 
+management). Organizations competing in a global marketplace must deliver 
+innovative applications that meet customer expectations anytime, anywhere. 
+Greater agility is required as software teams rapidly adapt to the volume and 
+velocity of evolving business requirements and the demand to work in more 
+diverse environments including mobile and cloud. Our Application Delivery and 
+Testing solutions improve communication and collaboration between business, 
+test, and development teams for continuous delivery of a superior applications 
+and user experience across all their device and platform combinations.
+Our Data Centre Management solutions integrate service management, 
+application management, and systems management to give organizations a 
+holistic view of their IT environment and business services, enabling companies 
+to manage increased complexity and capacity with the right balance of cost, 
+risk and speed of execution. We provide application performance management, 
+IT process automation, business service management, and systems 
+management solutions. 
+Our Workload Migration and Disaster Recovery products help organizations 
+complete data centre transformation and migration projects quickly and 
+efﬁciently with automatic, unattended high-speed physical-to-virtual, 
+virtual-to-virtual, or anywhere-to-cloud workload migrations. Additionally, our 
+high-performance disaster recovery solutions offer warm-standby recovery 
+speeds similar to mirroring but at the lower cost points more associated with 
+tape backup for all server workloads: physical and virtual, Windows and Linux.
+Endpoint Management products enable IT staff to handle the complexities of 
+securing and managing a large footprint of PC’s, Macs, tablets and smartphones 
+to give the proper and secure working environment to each employee. 
+Using a uniﬁed management console, these tools enable all devices to be 
+patched, compliant, secure and properly equipped. Due to the multifarious 
+and complex nature of the user and system endpoints within today’s large 
+organizations, this can be a burdensome and costly undertaking, and 
+accordingly the toolset is both broad and deep. The capabilities include service 
+desk; application virtualization; asset management; conﬁguration management; 
+software distribution; full disk encryption; mobile device management; and 
+patch management. 
+We offer a very broad set of solutions and capabilities for customers. Our focus 
+is on delivering the targeted innovation our customers need as they seek to 
+solve complex, real world and ever changing challenges in building, operating 
+and securing complex IT applications and infrastructure.
+Collaboration & Networking – 10.5% of FY17 Group revenues 
+(2016: pro-forma CCY 11.3%)
+Our collaboration products enable organizations to build and operate work 
+environments that are more secure and easier to manage, regardless of how 
+or where people work. The products form a complete collaboration solution 
+that has long been praised by customers and industry watchers for security 
+and reliability. Key capabilities include email, calendaring, instant messaging, 
+contact management, task management; team workspaces with document 
+management, and workﬂows. 
+On 30 September 2016 we completed the acquisition of GWAVA Inc. 
+(“GWAVA”), a leading provider of email security and enterprise information 
+archiving (“EIA”) solutions based in the US, Canada and Germany. GWAVA has 
+a full suite of products, including their award winning EIA product Retain, that 
+enable customers to protect, optimize, secure and ensure compliance for email, 
+mobile and social data across multiple platforms including Micro Focus 
+GroupWise, Microsoft Ofﬁce and Google.
+Collaboration brings people, projects, and processes together in one secure 
+place to enhance team productivity and this ﬁts closely with additional products 
+that offer ﬁle, print, and networking services designed to enable organizations 
+to securely print and share ﬁles both inside and outside their organization. The 
+products can automate the conﬁguration and management of high availability 
+collaboration and networking servers, that are simple to resource manage and 
+maintain. Suitable for small workgroups, right through to global enterprise 
+deployments, the end-user value proposition includes dynamic ﬁle services 
+which automates policies data storage; ﬁle access; secure ﬁle sharing; ﬁle 
+reporting; mobile access; and online, ofﬂine and mobile printing. 
+Fully distributed networking services such as centralized server management; 
+secure ﬁle storage; and storage management, provide full enterprise 
+distributed networking environments suitable for small workgroups, right 
+through to global enterprise deployments. 
+This product set also includes the CORBA based network and data transport 
+products which provide unrivalled functionality and performance to companies 
+with a requirement for high speed, and secure transfer of data between 
+systems on their multi-platform networks. This technology is deployed across 
+thousands of customers supporting more than a billion transactions per day. 
+We have been delivering value to our customer base with these products for 
+decades and are committed to delivering the practical innovation and support 
+our customers want and need to continue to leverage these investments. 
+Micro Focus will maintain its existing and seek to develop new leadership 
+positions through continued investment in customer centred innovation. We will 
+maintain our leadership in COBOL Development & Mainframe Solutions through 
+products such as Visual COBOL and Enterprise Developer. In Host Connectivity 
+we will seek to build on our existing strengths in terms of technology and 
+customer base combined with our innovations in security to establish a true 
+leadership position. In Development & ITOM and Collaboration & Networking 
+the strength of our existing franchises can be built upon through targeted 
+innovation and customer engagement. By continuing to sharpen our focus 
+in IAS we are well positioned for growth over the longer term. 
+Overview Strategic report Corporate governance
+Consolidated ﬁnancial 
+statements and notes
+Company ﬁnancial 
+statements and notes Additional information
+23 Micro Focus International plc Annual Report and Accounts 2017 Revenue for the year ended 30 April 2017 by product portfolio compared to 
+pro-forma CCY and reported revenue for the year ended 30 April 2016 is 
+shown in the table below: 
+Micro Focus Product Portfolio revenue
+Year
+ended
+30 April 
+2017
+As reported
+Actual
+$m
+Year ended
+30 April
+2016
+Pro-forma
+CCY
+1
+$m
+Growth/
+(Decline)
+%
+Year 
+ended
+30 April 
+2016
+As reported
+Actual
+$m
+CDMS
+Licence 106.0 104.2 1.7% 104.7
+Maintenance 149.7 145.0 3.2% 145.2
+Consultancy 9.5 8.8 8.0% 8.9
+265.2 258.0 2.8% 258.8
+Host connectivity
+Licence 69.2 89.0 (22.2%) 89.9
+Maintenance 104.4 105.2 (0.8%) 105.4
+Consultancy 1.8 2.8 (35.7%) 2.9
+175.4 197 .0 (1 1.0%) 198.2
+Identity, Access & Security
+Licence 48.6 51.7 (6.0%) 52.4
+Maintenance 140.0 140.6 (0.4%) 142.2
+Consultancy 18.4 22.0 (16.4%) 22.1
+207.0 214.3 (3.4%) 216.7
+Development & IT Operations 
+Management Tools
+Licence 55.4 64.4 (14.0%) 33.9
+Maintenance 215.9 235.9 (8.5%) 121.3
+Consultancy 13.9 15.5 (10.3%) 2.2
+285.2 315.8 (9.7%) 157 .4
+Collaboration & 
+Networking
+Licence 29.2 23.7 23.2% 23.9
+Maintenance 110.7 127 .8 (13.4%) 130.4
+Consultancy 4.6 5.7 (19.3%) 5.8
+144.5 157 .2 (8. 1%) 160. 1
+Micro Focus Product Portfolio
+Licence 308.4 333.0 (7 .4%) 304.8
+Maintenance 720.7 754.5 (4.5%) 644.5
+Consultancy 48.2 54.8 (12.0%) 41.9
+1,077.3 1, 142.3 (5.7%) 991.2
+1
+ unaudited.
+Revenue for the Micro Focus Product Portfolio declined by 5.7% on a 
+pro-forma CCY basis. 
+Licence revenue
+Licence revenue declined by 7.4% (2016: 4.8%) on a pro-forma CCY basis. 
+There was year-on-year Licence revenue growth in CDMS and Collaboration & 
+Networking offset by declines in the other sub-portfolios. 
+Maintenance revenue
+Maintenance revenues declined by 4.5% (2016: 6.1%) on a pro-forma CCY 
+basis. This was primarily in Development & ITOM Tools and Collaboration & 
+Networking. The fair value deferred revenue haircut reduced maintenance by 
+$6.9m (2016: $10.2m). Excluding this, underlying maintenance revenues fell 
+by 4.9% (2016: 6.2%). 
+Consultancy revenue
+Consultancy revenues declined by 12.0% (2016: 15.2%) on a pro-forma CCY 
+basis as we completed the implementation of the established Micro Focus policy 
+of focusing only on consulting business that supports our licence business.
+CDMS revenues were $265.2m; a growth of 2.8% on a pro-forma CCY basis 
+compared with the year to 30 April 2016. This portfolio continues to show 
+annual revenue growth underpinned by Visual COBOL and Enterprise 
+Developer which highlights the continuing value customers derive from our 
+CDMS products in support of their mission critical applications. Licence 
+revenues grew by 1.7% ($1.8m), Maintenance revenues grew by 3.2% ($4.7m) 
+and Consulting revenues grew by 8.0% ($0.7m). 
+Host Connectivity revenues declined by 1 1.0% ($21.6m) in the year on a 
+pro-forma CCY basis. Licence revenues declined by 22.2% ($19.8m) mostly 
+as a result of the loss to a competitor of an entire sales team and management 
+structure. Maintenance revenues declined marginally by 0.8% ($0.8m) and 
+there was a decline in Consulting revenues of 35.7% ($1.0m).
+Identity, Access & Security (“IAS”) revenues declined by 3.4% ($7.3m) 
+in the year on a pro-forma CCY basis. Licence revenues declined by 6.0% on 
+pro-forma CCY basis due to a lack of large scale projects in customers which 
+is an area of real strength for our products and increased competition in this 
+market from niche players for the smaller more point solutions. We will continue 
+to drive for growth in this area but expect that this will take time to be delivered. 
+Maintenance revenues declined by 0.4% ($0.6m). 
+Development & IT Operations Management Tools revenues which now 
+include Serena were $285.2m; a 9.7% ($30.6m) decline on pro-forma CCY 
+basis. $20.0m of the decline was in Maintenance revenues which declined by 
+8.5% compared with 1 1.3% in the prior year. Licence revenues declined in the 
+period by $9.0m partly due to lower sales of our Serena products which had a 
+number of large licence sales in the prior year. Consulting revenues declined 
+by 10.3% ($1.6m). 
+Collaboration & Networking revenues which now include GWAVA were 
+$144.5m a decline of 8.1% ($12.7m) on pro-forma CCY basis. Licence revenue 
+grew by 23.2% ($5.5m). Maintenance revenue declined by 13.4% ($17.1m) 
+in the period compared with 15.8% in the prior year. 
+24 Micro Focus International plc Annual Report and Accounts 2017
+CEO Review – Micro Focus Product Portfolio 
+continued Regional revenue performance
+Year
+ended
+30 April 
+2017
+As reported
+Actual
+$m
+Year ended
+30 April
+2016
+Pro-forma
+CCY
+1
+$m
+Growth/
+(Decline)
+%
+Year
+ended
+30 April 
+2016
+As reported
+Actual
+$m
+North America 591.4 627 .1 (5.7%) 525.2
+International 389.7 415.0 (6.1%) 377 .0
+Asia Pacific & Japan 96.2 100.2 (4.0%) 89.0
+ 1,077.3 1, 142.3 (5.7%) 991.2
+1
+ unaudited.
+North America started the year promisingly but had a disappointing third 
+quarter which resulted in year-on-year revenue decline of 5.7% (2016: 6.4% 
+decline) for the full year. The Federal business performed very well and CDMS 
+execution improved throughout the year to deliver year-on-year growth within 
+which Mainframe Solutions won exciting new customers and projects. Host 
+Connectivity was down signiﬁcantly mostly due to disruption and the impact of 
+losing an entire sales team and management structure to a competitor causing 
+both performance and pipeline development issues. 
+International had a challenging year with revenue decline year on year of 
+6.1% (2016: 4.6% decline). This region like in North America experienced 
+challenges in the Host Connectivity and IAS markets. CDMS was broadly ﬂat. 
+France performed well and Germany and Nordics improved signiﬁcantly in 
+the second half but this was not enough to make up for weaknesses in the 
+other territories. 
+Asia Paciﬁc & Japan saw a 4.0% year on year revenue decline (2016: 10.6% 
+decline). Licence revenues were marginally ahead of last year and maintenance 
+revenues were in line with trend. Strength in Japan and Australia was offset by 
+weakness in India & Asia. The Australia business was rebuilt to ensure that the 
+correct teams were in place to execute consistently and improve the overall 
+capabilities locally and these changes started to deliver improvements from 
+very early in FY17. There were some excellent wins in IAS that demonstrate 
+what can be delivered when skill and execution levels are maintained. 
+Adjusted Operating Proﬁt and Underlying 
+Adjusted EBITDA
+The table below shows the Adjusted Operating Proﬁt for the portfolio together 
+with a comparison to the pro-forma CCY and reported ﬁgures for the year 
+ended 30 April 2016:
+Adjusted Operating Proﬁt
+Year
+ended
+30 April 
+2017
+As reported
+Actual
+$m
+Year
+ended
+30 April
+2016
+Pro-forma
+CCY
+1
+$m 
+Year 
+ended
+30 April 
+2016
+As reported
+Actual
+$m
+Segment revenue 1,077.3 1, 142.3 991.2
+Directly managed costs (564.1) (633.0) (566.4)
+Allocation of centrally managed 
+costs to SUSE 26.2 27 .3 28.9
+Total Adjusted  
+Operating costs (537.9) (605.7) (537 .5)
+Adjusted Operating Profit 539.4 536.6 453.7
+Margin 50.1% 47 .0% 45.8%
+1
+ unaudited.
+The directly managed costs are those costs speciﬁcally managed by the CEO 
+of the Micro Focus Product Portfolio. In the year ended 30 April 2017 some 
+of the management of the Asia Paciﬁc and Japan (“APJ”) sales organization 
+moved under the direct management of SUSE. All the Group central support 
+costs are managed by the Micro Focus Product Portfolio group and the 
+allocation of these costs to SUSE is based on an appropriate methodology. 
+In the year ended 30 April 2018, SUSE will directly manage all of their own 
+consulting services and maintenance renewals activities.
+The adjusted operating proﬁt was $539.4m, delivering a margin of 50.1% 
+which compares with the margin in the pro-forma CCY numbers for the year 
+ended 30 April 2016 of 47.0%. The increase in margin arises because of the 
+continuing actions taken in managing costs. 
+Overview Strategic report Corporate governance
+Consolidated ﬁnancial 
+statements and notes
+Company ﬁnancial 
+statements and notes Additional information
+25 Micro Focus International plc Annual Report and Accounts 2017 The table below shows the reconciliation between Adjusted Operating Proﬁt 
+and Underlying Adjusted EBITDA with a comparative of the pro-forma CCY 
+and reported ﬁgures for the year ended 30 April 2016:
+Adjusted EBITDA and Underlying Adjusted EBITDA
+Year 
+ended
+30 April 
+2017
+As reported
+Actual
+$m
+Year ended
+30 April
+2016
+Pro-forma
+CCY
+1
+$m 
+Year
+ended
+30 April 
+2016
+As reported
+Actual
+$m
+Adjusted Operating Profit 539.4 536.6 453.7
+Depreciation of property, plant 
+and equipment 9.7 10.0 9.7
+Amortization of software  
+intangibles 1.1 1.6 1.7
+Adjusted EBITDA 550.2 548.2 465.1
+Foreign exchange credit (2.9) (3.0) (2.6)
+Net capitalization of product 
+development costs (5.3) (1 1.3) (1 1.4)
+Underlying Adjusted EBITDA 542.0 533.9 451.1
+1
+ unaudited.
+The Underlying Adjusted EBITDA improved by $8.1m in the year on a 
+pro-forma CCY basis primarily due to the staff related cost actions taken 
+during the year.
+Outlook
+We have achieved a great deal over the last 12 months and enter the new 
+ﬁnancial year with stronger foundations than a year ago. We continue to 
+focus on improving the way in which we operate to maximize the efﬁciency 
+of the organization. 
+The Group has undergone huge change in FY16 and FY17 but the one 
+constant has been clarity of strategy and the associated focus on aligning 
+operational execution to the delivery of that strategy. Looking forward to 
+FY18 this focus will continue with our key priorities being: 
+ – Delivery of our ﬁnancial plan;
+ – Continuing to operationalize the FOUR-BOX MODEL to better align 
+resources to optimize the performance of each sub-portfolio; and
+ – Planning for and subsequent integration with HPE Software following 
+Completion of the transaction.
+Stephen Murdoch
+Chief Executive Ofﬁcer
+Micro Focus
+17 July 2017
+26 Micro Focus International plc Annual Report and Accounts 2017
+CEO Review – Micro Focus Product Portfolio 
+continued

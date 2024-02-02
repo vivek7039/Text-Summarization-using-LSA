@@ -1,0 +1,351 @@
+ 16
+manx telecom plc
+annual report and accounts 2017
+I am very pleased to report a solid performance for 2017. 
+The dedication and hard work of our people has been 
+outstanding during 2017 and is the reason we have delivered 
+a very good result in a period of significant change during 
+our Transformation Programme.
+ceo’s review
+Our core business has 
+remained stable, with 
+a solid performance in 
+Fixed Line, Broadband 
+and Data Services, Mobile 
+and further growth in our 
+Global Solutions business.
+Overview
+The Company has had a busy 
+year operationally, and continues 
+to provide a wide range of 
+telecommunications services to 
+consumers, businesses and the 
+public sector on the Isle of Man 
+as we continue to demonstrate 
+our commitment to the Island 
+community. Our core domestic 
+business performance in Fixed 
+Line, Broadband, Data and Mobile 
+remained solid during the year. 
+Availability and take-up of high- 
+speed broadband services continues 
+to increase, and the introduction 
+of our Smartroam tariffs has been 
+a success, with a positive take-up 
+by our post-pay customer base. 
+Our 4G network is performing well, 
+supporting our significant market 
+share of mobile subscribers.
+Our International Global Solutions 
+business performed well during the 
+year, with continued year-on-year 
+growth across the majority of the 
+product portfolio.
+Results overview
+Revenue was lower than 2016 due to 
+the previously noted consolidation of 
+some of our Data Centre customers 
+and rescheduling of the directory 
+distribution, partially offset by 
+continued growth in Global Solutions.
+Cash performance in the year has 
+been exceptionally strong as a result 
+of tight control of our working capital 
+and capital expenditure, and 
+continues to support our progressive 
+dividend policy for 2017.
+Underlying EBITDA declined slightly 
+to £27.1m (2016: 27.7m). Reported 
+EBITDA was up for the year at 
+£23.1m (2016: 22.7m) as a result of a 
+reduction in the costs relating to the 
+Transformation Programme compared 
+with 2016 and a lower impairment 
+charge for obsolete assets. The cash 
+performance triggered the provision 
+for incentive payments, resulting in a 
+moderately lower underlying EBITDA, 
+while decreased revenues were offset 
+by cost saving initiatives made 
+throughout the year.
+Underlying profit after tax decreased 
+to £15.1m (2016: £16.3m), as a result 
+of a lower underlying EBITDA and 
+increased depreciation. Underlying 
+diluted earnings per share was 
+therefore reduced to 13.15p (2016: 
+14.26p). Reported profit after tax 
+increased year-on-year to £11.9m 
+(2016: £8.8m), primarily due to a 
+non-recurring £1.3m loss on the 
+revaluation of property costs in 
+Gary Lamb
+Chief Executive Officer 17
+manx telecom plc 
+annual report and accounts 2017
+overview strategic report governance report financial statements other
+the prior year and a £0.8m profit on 
+interest rate swaps (2016: £1.2m loss).
+In 2017, the Company continued to 
+invest in its infrastructure, specifically 
+in the mobile network, increasing 
+the availability of our VDSL high 
+speed broadband network, and 
+in key back office systems as part 
+of the Transformation Programme.
+Fixed, Broadband and 
+Data services
+Fixed, Broadband and Data services 
+provide fixed line voice, broadband 
+and connectivity services for 
+customers, connecting approximately 
+37,000 homes and 4,000 businesses 
+on the Isle of Man. Fixed, Broadband 
+and Data is our largest business, 
+representing 40% of all company 
+revenues. In 2017 revenue was stable, 
+at £31.5m (2016: £31.6m).
+Take up of our high-speed broadband 
+services, known as Ultima and Ultima 
+plus, delivered Broadband revenue 
+growth of 2.2% during 2017 to £9.3m. 
+During 2017 , we commenced our trial 
+rollout of our fibre to the premises 
+(FTTP) programme, with the first 
+businesses and consumers expected 
+to be serviced in H1 2018. Our planned 
+investment in FTTP for 2018 is included 
+in our 2018 capital expenditure 
+budget, and is expected to result in 
+ARPU accretion as customers upgrade 
+to the new service.
+In May 2017, we introduced changes 
+to our Fixed Line and Broadband Tariff 
+Charges. The price changes increased 
+fixed line rental charges, but offered 
+the opportunity to deliver greater 
+value for money to customers who 
+subscribe to multiple services.
+Mobile
+Our Mobile business performed well 
+with encouraging revenues following 
+successful Christmas promotions 
+and well-received additional 
+complementary products, offset by 
+the anticipated impact on revenues 
+from our roaming proposition 
+(Smartroam). In August 2017, we 
+launched inclusive roaming usage 
+for our post-pay customers, and 
+reduced roaming rates to all our 
+mobile customers; a first for the Isle 
+of Man market. These price reductions 
+were supported by improved cost 
+control and have proved popular with 
+our customer base.
+Our award-winning 4G network, which 
+provides 99% population coverage at 
+speeds of up to ten times faster than 
+3G services, continues to perform well 
+and enable us to defend our mobile 
+subscribers market share.
+Data Centre
+The Data Centre business offers 
+co-location, managed hosting, cloud 
+and disaster recovery services to an 
+international and local corporate client 
+base. These services are supplied by 
+Revenue
+2017
+£m
+%
+Total 
+revenue
+2016
+£m
+%
+Total 
+revenue
+Y-o-Y
+%
+Fixed Line, Broadband 
+and Data 31.5 40.1% 31.6 39.1% -0.5%
+Mobile 19.9 25.3% 20.2 24.9% -1.4%
+Data Centre 4.7 6.0% 5.9 7.3% -19.0%
+Global Solutions 16.5 21.1% 15.6 19.3% 6.2%
+Other 5.9 7.5% 7.6 9.4% -23.0%
+Total Revenue 78.5 80.8 -2.9%
+Dividend growth
++4.6%
+High speed broadband
+take up
+52% 18
+manx telecom plc
+annual report and accounts 2017
+ceo’s review continued
+three data centres at Douglas North, 
+Douglas Central and Greenhill Data 
+Centre (‘GDC’). The data centres at 
+GDC and Douglas North are Tier 3 
+designed data centres providing high 
+standards of data security, resilience, 
+and expandable hosting capacity, 
+including business continuity and 
+distributed denial of service 
+protection (‘DDoS’).
+Following a decline in Data Centre 
+revenue last year due to customer 
+consolidation, it is good to see 
+underlying growth for the year. 
+H2 saw improved performance, 
+with revenues up 4.9% compared 
+with H1. This growth was primarily 
+due to recurring revenues from  
+a good uptake of our intelligent  
+cloud services and from some 
+non-recurring sales. We continue  
+to be responsive in seeking to 
+re-populate capacity in our data 
+centres, with a focus on managed 
+service business, to better  
+utilise our investment, as well  
+as through new complimentary 
+product offerings.
+Global Solutions
+The Global Solutions business 
+generates revenue from services 
+which run on our domestic mobile 
+technology platform and utilise our 
+international roaming agreements. 
+This enables us to offer a variety of 
+products to UK and international 
+partners who use our Global  
+Solutions SIM cards. There are  
+four key revenue areas: wholesale  
+SMS and voice, international traveller 
+market, M2M and strongest signal 
+mobile (branded ‘Chameleon’).
+Global Solutions continues to perform 
+well with increased year on year 
+revenues, up 6.2% during the year 
+to £16.5m (2016: £15.6m), with most 
+of the product portfolio enjoying 
+growth, in particular M2M and the 
+international traveller market.
+In 2016, we signed an agreement 
+with China Unicom Global Limited, 
+a subsidiary of China Unicom Group, 
+the world’s fourth largest mobile 
+service provider by subscriber base, 
+to provide the connectivity to facilitate 
+China Unicom’s ‘CUniq’ UK mobile 
+and roaming product. Whilst there 
+were some delays in the project in the 
+first half of 2017 (as explained at the 
+half year), the partnership performed 
+better in H2. We remain excited about 
+the potential of this collaboration and 
+other growth opportunities for the 
+Global Solutions business in 2018.
+Other revenues
+Other revenues include the advertising 
+revenue from our telephone 
+directory, hardware equipment sales, 
+interconnection fees and managed 
+services. Other revenue also includes 
+our revenues from our standalone 
+business, Vannin Ventures and 
+its subsidiaries.
+Other revenue decreased in line with 
+management’s expectations by 23% 
+during the year to £5.9m (2016: £7 .6m) 
+due to the rescheduling of the directory 
+distribution and lower kit sales.
+In August 2016, we launched Vannin 
+Ventures, a standalone business 
+established to support the Company’s 
+long-term growth strategy. Wholly 
+owned by Manx Telecom, its purpose 
+is to identify new and promising 
+business opportunities in the telecoms 
+and technology sectors, acting 
+as an incubator to bring innovative 
+products and services to market. 
+There is a dedicated team behind 
+the new business with a view to 
+fostering a creative environment 
+and an entrepreneurial ethos.
+The acquisition of Partitionware, 
+an Isle of Man software developer 
+specialising in telecommunication 
+platforms, at the end of 2016 has 
+proven successful, with Partitionware 
+supporting Vannin Ventures 
+throughout the year as it seeks to 
+acquire new businesses in line with 
+our transformational growth strategy.
+In May 2017, the Group acquired a 67% 
+interest in Goshawk Communications 
+UK Limited (‘Goshawk’). Goshawk is 
+a UK-based company which develops 
+and exploits technology-based 
+solutions that enhance audio quality. 
+Goshawk was acquired in order to 
+support the Group’s growth strategy 
+by developing disruptive technologies 
+and bringing innovative products 
+and services to the market.
+Transformation Programme
+In October 2016, the Company 
+launched a two-year programme 
+aimed at improving the experience 
+it delivers to customers.
+Vannin Ventures, our business incubator, has successfully 
+integrated Partitionware following its acquisition in 
+December 2016, and has acquired a majority stake 
+in Goshawk Communications, a provider of technology 
+for those with hearing loss, bringing exciting growth 
+potential in the medium term. 19
+manx telecom plc 
+annual report and accounts 2017
+overview strategic report governance report financial statements other
+CEO in touch with the business
+The programme progressed well 
+in 2017 with the introduction of new 
+IT systems supporting improvements 
+in processes and organisational 
+structure. We are still on track to incur 
+exceptional costs of approximately 
+£10m over a 24-month period with 
+£8.2m recognised up to the year end 
+(2017: £3.9m, 2016: £4.3m), in addition, 
+capital expenditure of £3.2m has been 
+incurred to date (2017: £3.2m, 2016: nil) 
+over the course of the programme. 
+The cash cost of the programme 
+in 2017 was £8.9m (2016: £0.5m).
+We remain confident in 
+the outlook for the Group, 
+which is reflected in the 
+maintenance of our 
+progressive dividend policy. 
+The strong underlying 
+cashflow performance 
+during the year reflects our 
+focus on working capital 
+and control over capital 
+expenditure, and enables 
+us to create value for our 
+shareholders and invest in 
+our network infrastructure 
+in the Isle of Man.”
+Gary Lamb
+Chief Executive Officer
+CEO Gary Lamb is 
+often seen around 
+the business in our 
+data centres, out  
+in the field and 
+through our retail  
+and sponsorship 
+activity.

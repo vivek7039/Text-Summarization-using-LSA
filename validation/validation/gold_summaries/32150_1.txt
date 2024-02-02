@@ -1,0 +1,208 @@
+ CHIEF EXECUTIVE OFFICER’S STATEMENT
+FY17 WAS ANOTHER STRONG YEAR 
+FOR SOPHOS, IN WHICH WE MADE 
+SIGNIFICANT PROGRESS AGAINST 
+OUR STRATEGIC GOALS, AND 
+DELIVERED OPERATIONAL AND 
+FINANCIAL PERFORMANCE ABOVE 
+OUR EXPECTATIONS
+OVERVIEW
+Among the many highlights, the Group saw an 18.2 
+percent increase in total reported billings to $632.1 
+million, underpinned by 21.4 percent subscription 
+billings growth to $513.1 million, as we again delivered 
+growth in excess of the market in both network and 
+enduser security. Encouragingly, the strong momentum 
+at the heart of this performance was manifest across all 
+major regions and products, and in both new business 
+and renewals, and accelerated in the second half of 
+the year. Sophos Central remained a core driver of 
+our business, delivering growth of 220 percent and 
+an expanding opportunity for cross-sell and upsell 
+momentum. Our cash generation was very strong, 
+with unlevered free cash flow almost tripling to $133.4 
+million, from $46.4 million in the prior-year.
+STRATEGIC PROGRESS
+Sophos made significant progress in FY17, consolidating 
+its position as the leading vendor of innovative, simple, 
+and highly effective cybersecurity solutions for mid-
+market enterprises. A number of factors have helped to 
+deliver this success which will continue to drive Sophos 
+forward in the years ahead, including:
+ » World-class products and innovation that provide 
+leading enterprise-grade protection validated by 
+numerous third parties, that at the same time are 
+easy to deploy, use, and manage
+ » Cloud-enabled security solutions that include 
+a single, integrated cloud-based management 
+console and cloud delivery of multiple security 
+capabilities
+ » Synchronized security product strategy, in which 
+network, endpoint, and all the key offerings in our 
+product portfolio actively share threat intelligence 
+information to deliver better protection that is also 
+easier to manage
+ » 100% channel sales model
+ » Deepening and expanding our relationship with our 
+partners and customers, to drive upsell and cross-sell
+A FAST-GROWING CHANNEL 
+AND CUSTOMER BASE
+The number of Sophos partners grew to more than 
+30,000, up from 20,000 a year ago, and the number of 
+‘blue-chip’ partners rose from 4,700 to 6,100. In FY17 
+we added more than 40,000 new customers, with more 
+than 260,000 organisations now using one or more 
+Sophos IT security products. With more than 60 million 
+small and mid-market enterprises around the world who 
+could benefit from Sophos’ industry-leading security 
+portfolio, integrated and managed through a single, 
+easy-to-use cloud-based platform, and sold entirely 
+through the channel, our opportunity to continue to 
+grow our market share remains significant.
+SOPHOS CENTRAL
+A robust, comprehensive commitment to the cloud has 
+provided Sophos with a growing competitive advantage. 
+Sophos Central is a single, integrated cloud-based 
+management and reporting platform that has become a 
+meaningful driver of the Group’s software subscriptions. 
+Sophos Central represents 17.1 percent of subscription 
+billings, having grown by 220 percent in the period. 
+Leveraging the power of the cloud also allows us to 
+deliver compelling cross-sell and upsell opportunities 
+for partners, and many are now building additional 
+services businesses around the Sophos partner portal, 
+which enables them to manage, update and configure 
+their customers’ solutions remotely.
+The Group expanded and enhanced Sophos Central 
+throughout the year, with new endpoint, server and 
+mobile security solutions, as well as additional partner 
+and managed service provider (MSP) features. In 
+addition, Sophos made a number of applications 
+available on the platform for the first time, including 
+email, encryption, wireless, and web security. 
+September 2016 saw the launch of Intercept X, 
+an exciting next-generation endpoint protection 
+application, featuring signature-less anti-exploit, 
+anti-ransomware and root cause analytics capabilities. 
+Intercept X has resonated extremely well with partners 
+16 and customers. In just two quarters since its launch, 
+more than 8,000 customers have purchased Intercept X 
+on the Sophos Central cloud-management platform.
+WORLD-CLASS PRODUCTS AND INNOVATION
+A commitment to industry-leading innovation, focused 
+on our target customer, combined with a strong 
+demand backdrop and an increasingly powerful channel 
+ecosystem enabled Sophos to continue to gain market 
+share, outpacing market growth rates in both enduser 
+and network security.
+In addition to the launch of Intercept X, there was an 
+enthusiastic response to the newest release of the 
+Sophos XG Firewall, helping the Group achieve 17.8 
+percent growth in network security billings for the 
+year, at constant currency. With version 16.0 launched 
+in October 2016, customers are benefiting from over 
+100 new features and significant enhancements to 
+the user experience, particularly navigation, policy 
+management and logging, as well as additional 
+synchronized security features linking the XG firewall 
+with endpoint, encryption, mobile, and other security 
+offerings. Sophos is already a leader in the emerging 
+cloud-based infrastructure market for security, a 
+growing opportunity as enterprises adopt infrastructure 
+as a service via the cloud. XG Firewall version 16.0 
+introduced support for the Microsoft Azure cloud 
+platform in addition to the existing support for Amazon 
+Web Services.
+ACQUISITIONS
+In February 2017 Sophos announced the acquisition of 
+Invincea, Inc., a leading developer of advanced next-
+generation malware protection, consistently ranked 
+as among the best performing signature-less, next-
+generation endpoint technologies in third-party testing, 
+rated highly both for high detection and low false-
+positive rates. The Invincea endpoint security portfolio 
+prevents, detects, and remediates zero-day and 
+sophisticated attacks, and combines neural-network 
+based machine learning and behavioural monitoring to 
+enhance detection through artificial intelligence and 
+stop evasive malware before damage occurs.
+Invincea complements and enhances Sophos’ existing 
+presence in next-generation endpoint protection, a 
+dynamic new segment that is serving to increase 
+meaningfully the size and growth rate of the multi-
+billion dollar endpoint security market as a whole. 
+Invincea’s advanced machine learning technology is a 
+critical element in the broad array of advanced endpoint 
+technology components that customers will require 
+in order to protect themselves effectively against the 
+growing number and sophistication of cyber threats 
+that face organisations of all sizes. The integration 
+of the Invincea technology into the Sophos Central 
+endpoint product line is progressing well, with the first 
+Sophos products incorporating Invincea’s machine 
+learning technology expected to be available and sold 
+via our global channel of over 30,000 partners in 2017, 
+bringing immediate value to customers.
+INTRODUCTION STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS 17 DEEPENING THE RELATIONSHIP 
+WITH OUR CUSTOMERS
+We further increased the amount of cross-sell and upsell 
+business with existing customers, a key element of the 
+Group’s growth strategy. Our net renewal rate achieved 
+on our subscription business was over 106 percent in the 
+year, including cross-sell and upsell, versus 102 percent 
+a year ago. Furthermore, the proportion of customers 
+purchasing both the Sophos endpoint and unified threat 
+management (UTM) products was just under 10 percent 
+at the end of the period, up from 7 percent a year ago. The 
+continued improvement in these areas demonstrates 
+the Group’s success in leveraging its product portfolio 
+and the benefits that both partners and customers are 
+gaining from an integrated, synchronised approach 
+to IT security.
+INDUSTRY LEADERSHIP
+During the year, leading industry analysts including 
+Gartner and Forrester once again endorsed Sophos as a 
+leader for products in both enduser and network security. 
+In addition, Sophos won numerous channel awards, 
+including 2016 Endpoint Security Innovation winner (CRN 
+US), 2016 Data Security winner (CRN US), 2016 Network 
+Security winner (CRN US), 2016 Security Vendor of the 
+Year (CRN UK), and 2016 Channel Excellence Award 
+winner - Security Hardware (Channel Partner DACH). 
+Furthermore, in February 2017, five senior Sophos 
+executives were named in CRN’s prestigious list of 2017 
+Channel Chiefs, which represents top leaders in the IT 
+channel who excel at driving growth and revenue in their 
+organisations through channel partners.
+While we are pleased with the scale, growth, and 
+momentum we have established, we firmly believe 
+we are just getting started. Security continues to be a 
+mission-critical, board-level priority for organisations 
+of every size that only rises in importance with each 
+passing year. Delivering true enterprise-grade protection 
+to mid-market enterprises, in a way that is integrated 
+and simple to deploy and manage, all sold through the 
+channel, provides Sophos with a substantial market 
+opportunity. Our company mission is to be the best in the 
+world at delivering innovative, simple, and highly-effective 
+cybersecurity solutions to IT professionals and the channel 
+that serves them. We believe we are uniquely positioned 
+to successfully execute against that mission, and as we 
+do so, our opportunities to continue to grow and succeed, 
+both operationally and financially, are dramatic. 
+ 
+Sophos’ success is only possible through the 
+commitment and hard work of our global team of 
+employees and partners, and I would like to extend my 
+personal thanks to them for all they do to support and 
+protect hundreds of thousands of organisations around 
+the world each day.
+Kris Hagerman
+Chief Executive Officer
+16 May 2017
+AN EARLY COMMITMENT TO THE 
+CLOUD HAS GIVEN SOPHOS A 
+REAL AND GROWING COMPETITIVE 
+ADVANTAGE
+CHIEF EXECUTIVE OFFICER’S STATEMENT CONTINUED
+18

@@ -1,0 +1,562 @@
+ 25546.04    9 August 2017 3:58 PM    Proof Six
+NCC Group is a global expert in cyber security and 
+risk mitigation, providing organisations worldwide 
+with market leading business continuity services 
+focused on the digital world. 
+We aim to innovate and continually 
+develop new products and services to 
+match the rapidly evolving and complex 
+digital world. Our goal is to stay at the 
+forefront of thought leadership and 
+delivery in our current markets while 
+expanding geographically  
+where appropriate.
+ASSURANCE KEY FACTS
+ z One of the leading pure play cyber security businesses 
+focusing on services as opposed to products
+ z Customers in 50+ different countries
+ z Largest customer is 4 per cent of sales
+ z Services sold across multiple industry sectors (see across)
+ESCROW KEY FACTS
+ z Leading provider of Escrow services in the UK
+ z Growing positively in the US and Europe
+ z Customers in 85 different countries
+ z Top ten customers represent 7 .6 per cent of sales
+ z Largest customer is 1.2 per cent of sales
+ z Revenue by industry sector shown opposite
+Group at  
+a glance
+The Group now operates in two distinct but complementary divisions: Assurance and Escrow.  
+A short summary of the activities of each is set out below and on the following pages.
+BUSINESS OVERVIEW
+6
+www.nccgroup.trust      Stock Code: NCC
+NCC AR2017 - proof 8-Front.indd   6 09/08/2017   16:03:53 25546.04    9 August 2017 3:58 PM    Proof Six
+Revenue split
+ Escrow revenue £37.1m
+  Assurance revenue £204.7m
+Adjusted Revenue Adjusted EBIT
+Total staff Adjusted EBITDA
+USA
+£58.5m
+UK
+£144.2m
+Rest of 
+World
+£2.0m
+Europe
+£37.2m
+Where NCC Group operates
+We have a significant market presence in 
+the UK, the USA, Continental Europe, and 
+a smaller footprint in a number of other 
+international locations. All of our geographical 
+markets present opportunities for growth by 
+leveraging our core competencies.
+7
+NCC Group plc Annual Report and Accounts for the year ended 31 May 2017
+NCC AR2017 - proof 8-Front.indd   7 09/08/2017   16:03:55 25546.04    9 August 2017 3:58 PM    Proof Six
+Group at  
+a glance
+ASSURANCE DIVISION OVERVIEW
+The Assurance Division operates in two 
+discreet segments as described below.
+Security consulting
+The cyber landscape presents an ever 
+increasing and ever changing threat 
+to security as cyber intruders develop 
+increasingly sophisticated ways to attack 
+corporate networks, thereby gaining 
+access to organisations’ sensitive and 
+valuable data and systems.
+The Assurance Division brings together 
+a number of diverse product and service 
+offerings in a number of different 
+business lines. The “golden thread” 
+running through the core businesses is 
+“cyber security” – whether through the 
+provision of consulting and professional 
+services, managed services or hardware 
+and software products. These core areas 
+all focus on cyber security – in other 
+words – how to maintain and protect our 
+customers’ data and critical business 
+systems from interruption by malicious 
+or accidental events. 
+Information security and cyber security 
+continue to change at a rapid pace with 
+new areas of concern or vulnerabilities 
+frequently and regularly discovered. To 
+stay ahead in the cyber-arms race, our 
+global corporate culture is aligned with 
+this rapid and constant change. We have 
+created boutique ways of working with 
+cultural values that encourage individuals 
+to fulfil their full creative potential.
+In conjunction with this creativity, the 
+business is committed to listening to 
+its clients’ requirements. Since much 
+of the work carried out by the Group is 
+research based, in order to maintain its 
+equitable and ethical disclosure policies, 
+research paid for by third parties and 
+customers is not disclosed, unless 
+requested by the paying organisation. 
+Self-funded research by the Group will 
+always be provided to the organisation 
+that it affects in full, free of charge and 
+without disclosure, until such time as 
+the vulnerability has been resolved in 
+a reasonable timeframe. This does not 
+preclude the Group making a full public 
+disclosure if there is a threat to life or to 
+the general public’s online security, and 
+the third party is unwilling to remediate 
+the issue.
+Historically, Assurance Division 
+acquisitions have been based upon 
+culture, fit and service but never on the 
+basis of profit enhancement by cost 
+reduction or the ability to turn around 
+an ailing business. Threat intelligence 
+and cryptography is the most recent 
+example of this, where the Group 
+acquired a business, Fox-IT, to fill directly 
+a product and service need. While 
+progress in rolling these services out to 
+a much broader range of multinational 
+customers has been much slower than 
+expected, the opportunity remains an 
+attractive one if we can reorganise 
+ourselves effectively to deliver on it. 
+Threat intelligence is one of the most 
+important tools in an organisation’s 
+armoury to help prevent and mitigate 
+cyber-attack.
+Our future acquisition strategy will 
+be reviewed and developed after 
+a necessary period of stabilisation 
+and rebuilding of strong foundations 
+in scalable business systems and 
+processes.
+Following the acquisition of Accumuli plc, 
+the Group has the opportunity to offer 
+an integrated managed scanning service 
+as a single client solution (hence now 
+referred to as MSS). A project is also 
+underway to put all of our internal and 
+external monitoring services on to the 
+“CTMp” platform acquired with Fox-IT. 
+While the Group will continue to be open 
+to the sale of third party products, our 
+focus will be on instances where we can 
+offer value added after sales services. 
+Not all of the Group’s sales of products 
+are third party products. Particularly 
+through the Fox business, we offer some 
+very high-end products to customers 
+that combine hardware and software in 
+one package. This includes “DetACT” 
+(for use by transactional financial 
+services companies) and Data Diodes 
+(a product range that helps secure 
+one-way data communications such 
+as a utility meter). Both products are 
+sufficiently differentiated that they can 
+attract better margins than third party 
+product reselling.
+As one of the world’s largest service 
+led security consultancies, the Group is 
+capable of leading all cyber security bids 
+rather than having to look for support 
+from larger third parties. 
+Software testing and 
+website performance
+Essential websites, software and 
+infrastructure that support an 
+organisation do not just need protection 
+from malicious attacks, they also need 
+guaranteed performance levels. Flaws 
+in code can prevent software from 
+operating at optimum levels and spikes 
+in online traffic can throw websites 
+offline. Currently, NCC Group undertakes 
+more than three million web page tests 
+per day for clients worldwide. 
+Average monthly no. of 
+Associates globally
+(2016: 176)
+Employees globally
+(2016: 1,323)
+BUSINESS OVERVIEW
+8
+www.nccgroup.trust      Stock Code: NCC
+NCC AR2017 - proof 8-Front.indd   8 09/08/2017   16:03:55 25546.04    9 August 2017 3:58 PM    Proof Six
+CURRENT YEAR ACQUISITIONS
+PSC
+PSC was acquired in September 2016 as part of the Group’s 
+strategy of acquiring relatively small bolt-on consulting 
+businesses. The maximum price that will be paid is $18.75m in 
+cash ($15.0m up front and $3.75m contingent on performance 
+over two years).
+PSC is a leading provider of cyber security, payment  
+and compliance-related consulting services to the global 
+payments industry. PSC also serves the financial and retail 
+sectors and fits well with similar services the Group delivers  
+for a number of global customers around the world  
+(www.paysw.com).
+Key statistics for PSC
+ z Based in Silicon Valley, with presence in 29 states in the US
+ z Employs 37 staff
+ z Service lines include a cyber security practice and PCI 
+(Payment Card Industry) sector services that complement 
+the existing NCC Group PCI business in the UK
+ z Broad range of blue chip clients with relationships at 
+Board level including major financial institutions and other 
+businesses across the payment sector
+PSC financial information
+Constant fx
+Pre-acquisition
+Y ear ended 
+31 December 
+2015
+Post 
+acquisition
+7 months 
+ending 31 May
+2017
+Revenue £7 .4m £5.9m
+EBIT £1.2m £1.2m
+It is estimated that approximately 85 per cent of PSC’s 
+revenue is annually repeating in nature.
+Acquisition rationale
+PSC is one of a very small group of companies that can 
+provide expert services and solutions to organisations that 
+require specialist compliance, consulting and cyber security 
+testing services in the substantial and growing global 
+payments industry. 
+VSR
+VSR was acquired in November 2016, again as part of the 
+Group’s strategy of acquiring relatively small bolt-on consulting 
+businesses. The maximum price that will be paid is $6.0m in 
+cash ($4.0m up front and $2.0m contingent on performance 
+over two years).
+VSR is an information, network and application security 
+consultancy. It provides expert value added services to US 
+corporate clients. Several are in the Fortune 500 and are mainly 
+in the technology and financial services sectors.  
+(www.vsecurity.com).
+Key statistics for VSR
+ z Established in 2004 in Boston, Massachusetts
+ z Employs 1 1 staff
+ z Earnings enhancing and financed from existing debt 
+facilities and internally generated cash flow
+VSR financial information
+Constant fx
+Pre-acquisition
+Y ear ended  
+31 December 
+2015
+Post  
+acquisition
+6 months 
+ending 31 May 
+2017
+Revenue £1.6m £1.1m
+EBIT £0.6m £0.5m
+It is estimated that approximately 83 per cent of VSR’s revenue 
+is annually repeating in nature.
+Acquisition rationale
+Strong technical ability of senior security consultants and the 
+high quality of its services. VSR is based in Boston’s financial 
+district and is an important addition to the Group’s technical 
+skill set as well as being a valuable extension of NCC Group’s 
+US office network. VSR will provide a foundation stone into 
+Boston and that part of the north-eastern region of North 
+America.
+ASSURANCE  
+ACQUISITIONS
+NCC Group plc Annual Report and Accounts for the year ended 31 May 2017
+9
+NCC AR2017 - proof 8-Front.indd   9 09/08/2017   16:03:56 25546.04    9 August 2017 3:58 PM    Proof Six
+Group at  
+a glance
+ASSURANCE
+CORE CAPABILITIES
+In today’s threat landscape, understanding the risks that 
+organisations and their customers are exposed to is more 
+important than ever.
+Respond
+Rapid access to cyber incident 
+containment, investigation & 
+crisis management
+Mitigate
+Managing and maintaining 
+control of your business  
+enabling you to focus on 
+strategic priorities
+Assess
+Deliver assessment on  
+how to improve your  
+maturity and mitigation
+Identify
+Understand your current  
+security posture and maturity, 
+which will assist in prioritising 
+your investment
+Understanding the impact and the steps that organisations can 
+undertake to make themselves resilient is key to protecting 
+their brand, reputation and sensitive customer information.
+Building a cyber-resilient organisation can be a complex 
+process but it is not impossible.
+Through an extensive suite of services, NCC Group  
+provides organisations with peace of mind that that their most 
+important assets are protected, available and operating as they 
+should be, at all times.
+With extensive technical depth and strategic vision, NCC 
+Group is ideally placed to help organisations identify, assess, 
+mitigate and respond to the risks they face.
+BUSINESS OVERVIEW
+10
+www.nccgroup.trust      Stock Code: NCC
+NCC AR2017 - proof 8-Front.indd   10 09/08/2017   16:03:56 25546.04    9 August 2017 3:58 PM    Proof Six
+A WIDE RANGE OF SERVICES
+Identify
+Services designed to help organisations understand their 
+current security posture, allowing strategic improvements to 
+be identified and investment prioritised. These solutions aim 
+to help an organisation understand what the Board’s cyber 
+security strategy is or should be, the data and assets they 
+have, where high value data resides and if they are meeting 
+regulatory obligations. 
+Assess
+Technical assessments to enable effective mitigation. This 
+allows organisations to conduct informed risk mitigation 
+planning and understand how to improve their cyber maturity. 
+These services help organisations to understand their:
+ z Digital performance 
+ z Cyber threats 
+ z Vulnerability exposure
+ z Regulatory obligations and whether they are compliant
+ z Applications security and functionality
+ z Change plan
+Mitigate
+Mitigating organisations’ cyber risks through a complete 
+spectrum of consultancy and managed services which can 
+help organisations to:
+ z Ensure their software and applications meet business 
+requirements
+ z Comply with industry standards
+ z Implement change effectively
+ z Improve online performance
+ z Manage and monitor their cyber infrastructure effectively
+ z Understand staff training and support needs
+ z Protect investment in business critical software
+Respond
+Trusted discreet services for effective recovery support. An 
+end-to-end response solution, from incident planning to 
+investigation, crisis management and asset recovery. With 
+one of the largest incident response teams in the world, 
+NCC Group is equipped to reduce the likelihood of a breach 
+becoming a greater problem than it ought to be. NCC Group 
+offers services across the entire incident response life cycle.
+Identify
+Mitigate
+Assess
+Respond
+Examples
+ Æ M&A technical due diligence
+ Æ Incident response planning
+ Æ Data mapping
+ Æ Payment card compliance gap analysis
+ Æ Web advisory services
+Examples
+ Æ Managed threat protection
+ Æ Technology solutions
+ Æ Security analytics
+ Æ User acceptance testing
+ Æ First responder training
+Examples
+ Æ Penetration testing
+ Æ Reverse engineering
+ Æ Cryptographic review
+ Æ Static code analysis
+ Æ Policy review
+Examples
+ Æ Cyber incident helpline
+ Æ Cyber forensics
+ Æ Software escrow
+ Æ Takedown services
+ Æ Trusted advisor
+Identify strategic improvement
+ z Strategic advice and planning
+ z Data risk identification
+ z Enabling digital transformation
+ z Compliance accreditation
+Effective solutions to business challenges
+ z Software assurance
+ z Web performance
+ z Implementing change
+ z NCC Group products
+Technical assessments to enable effective mitigation
+ z Threat identification
+ z Vulnerability identification
+ z Digital performance
+ z Planning for change
+ z Strategic advice and planning
+ z Data risk identification
+ z Government and industry compliance
+ z Software development life cycle
+Trusted services for effective recovery
+ z Cyber incident response
+ z Post incident analysis
+ z Asset recovery
+ z Asset verification
+ z Industry standards compliance
+ z Hosted and managed services
+ z Virtual security team
+NCC Group plc Annual Report and Accounts for the year ended 31 May 2017
+11
+NCC AR2017 - proof 8-Front.indd   11 09/08/2017   16:03:56 25546.04    9 August 2017 3:58 PM    Proof Six
+Group at  
+a glance
+ESCROW
+Escrow background 
+The Escrow Division offers a high 
+value product to customers who rely 
+on mission critical applications and 
+software packages for the day-to-day 
+running of their business functions and 
+processes. In today’s integrated business 
+world, these applications typically extend 
+well beyond accounting and reporting 
+systems into Enterprise Resource 
+Planning (ERP) tools and even deeper 
+into an organisation’s service delivery 
+capability such as design tools in an 
+advertising agency or manufacturing 
+equipment in an engineering company.
+These applications are often supplied 
+by third party vendors. However, if a 
+software or Software as a Service 
+(SaaS) supplier goes out of business 
+and/or changes hands, the continuing 
+availability of these applications could be 
+in doubt and hence business continuity 
+is potentially put at risk.
+NCC Group’s escrow and verification 
+services assure the long-term availability 
+of these applications, protecting both 
+end users and software suppliers. 
+Working with all parties involved in 
+the development, supply and use of 
+business critical software applications, 
+NCC Group assures that source code, 
+data and other information is constantly 
+accessible and can be properly rebuilt 
+from its components, if required.
+Core services
+Both through contractual arrangements 
+and through verification testing services, 
+Escrow’s service offering is to provide 
+a safe and independent environment 
+in which customers and their software 
+suppliers can entrust NCC Group with 
+source code that will allow continued 
+access to key systems in the event of an 
+interruption in supply.
+Revenue by 
+geography
+ UK £25.4m
+  USA £7.9m
+ Europe £3.9m
+Atlanta
+San
+Francisco
+Manchester
+Dubai
+Munich
+Amsterdam
+Where Escrow operates
+The business began in the UK where 
+we now see a mature market. We have a 
+growing presence in the USA and have 
+a foothold in a number of European 
+markets as well as in the Middle East.
+Switzerland
+BUSINESS OVERVIEW
+12
+www.nccgroup.trust      Stock Code: NCC
+NCC AR2017 - proof 8-Front.indd   12 09/08/2017   16:04:00 25546.04    9 August 2017 3:58 PM    Proof Six
+The potential benefits include the 
+continued operation of the customers’ 
+core business systems at a relatively low 
+cost. Escrow services are provided in both 
+the traditional software market as well as 
+in all iterations of the outsourced model. 
+We continue to develop our SaaS service 
+to respond to the continuing evolution of 
+our marketplace, as well as developing 
+server testing services in order to 
+enhance the proposition.
+Further, we provide registry data escrow 
+services (a regulatory requirement) for all 
+registrars and registries of domains. The 
+IP address of each domain registered 
+within a TLD is safely secured along with 
+Registrar Data Escrow.
+Due to its importance to clients, Escrow 
+provides the Group with excellent 
+recurring revenues along with good 
+margins and cash generation. Escrow 
+can be provided both in the traditional 
+on-premise software market as well as 
+in the cloud, as the basic underpinnings 
+are the same; protection from an event 
+that disrupts the relationship between 
+the owner and licensee of a software 
+product.
+The Escrow Division remains a key 
+cornerstone of the Group and is the 
+platform upon which the organisation 
+has been built. The fundamentals of 
+the Group are fully encapsulated in this 
+division, which is based around the very 
+highest standards of customer care and 
+equitable treatment to all parties in the 
+contractual relationship. 
+While there are limited cross linkages 
+or shared sales opportunities with 
+the Assurance Division, Escrow does 
+offer services that complement those 
+in Assurance to protect customers 
+against the full range of cyber risks. 
+A good example of this has been the 
+development of offering SAST (static 
+application security testing) services to 
+software vendors on source code that 
+has been deposited and verified with the 
+Group’s Escrow Division.
+The Group is one of the world’s leading 
+and most established software escrow 
+providers, with more than 35 years’ 
+experience and protects over 15,000 
+organisations worldwide, combining 
+longevity and trust with technical 
+expertise. The expertise contained 
+within the Escrow Division, along with its 
+credentials, offerings, global scale and 
+reputation, sets NCC Group apart from 
+other escrow providers.
+51.3%
+EBIT Margin
+(2016: 56.9%)
+ 19.1m*
+Adjusted EBIT
+(2016: £20.1m)
+* Operating Profit £18.1m
+Employees globally
+(2016: 181)
+NCC Group plc Annual Report and Accounts for the year ended 31 May 2017
+13
+NCC AR2017 - proof 8-Front.indd   13 09/08/2017   16:04:06

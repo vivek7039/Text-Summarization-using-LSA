@@ -1,0 +1,229 @@
+ SysGroup Plc  Annual Report & Accounts 2017 9
+chief executive officer’s report
+Introduction
+The year to 31 March 2017 has been a year of both significant progress and change for SysGroup plc.
+The acquisition of System Professional Ltd (“Sys-Pro”) in July 2016 and subsequent disposal of the SME Mass Market 
+business unit in the same month marked the firm transition to a Cloud and Managed Services business.
+These were large undertakings for our business as firstly we acquired a business which had higher revenue and staff 
+numbers than ourselves and then disposed of a business which represented almost half of the Group’s size, before the 
+acquisition of Sys-Pro.
+Subsequent to the transactions, we reorganised the combined businesses and made several changes to the management 
+team.  We have created internal teams for managing the integration and have created liaisons between teams to maximise 
+the cross-selling opportunity to customers to take advantage of the increased range of services from our growing product 
+portfolio.
+Not only did this work to create a business that is now focused on Managed Services with a cloud bias but it allowed us to 
+put in place the foundations to better take advantage of the opportunities that present themselves in this growing market.
+The above corporate activity was in line with the Board’s stated strategy to exit from a light-touch, low margin and high 
+volume mass hosting market, which was largely commoditised and subject to high customer churn, to a business focused 
+exclusively on providing higher value Managed Services.
+Notwithstanding the management time that was involved in this, we maintained focus on the core business and delivered 
+results in line with market expectations for FY 2017.
+Our revenues (from continuing and discontinued operations) in the year were £7.87m, an increase of 65.3% on the 
+previous year (2016: £4.76m).  Our adjusted EBITDA (from continuing and discontinued operations) increased by 22.7% to 
+£0.81m (2016: £0.66m) and our adjusted profit before tax increased from £0.31m in 2016 to £0.45m representing a 45.2% 
+increase. At the year-end, we had a healthy net cash position of £3.07m.
+We believe that the foundations are now firmly laid for us to capture growth in our chosen markets and complement these 
+with carefully considered acquisitions.
+Market
+The market for managed and cloud services is large and long term, driven by the structural move to cloud delivered 
+solutions and IT outsourcing in general. IT is no longer seen as a cost base but is something which can really help drive 
+profits and efficiencies in businesses, and corporations are embracing technologies that will put them at a commercial 
+advantage compared with a competitor.
+This desire to embrace the best of breed technologies which can drive these efficiencies means that knowledge of 
+better, more cost effective, reliable and secure solutions in a changing environment drives customers to partner with us 
+as we help guide and advise them along their journey.  We become part of our customers’ IT function and our close and 
+increasing engagement with them is demonstrated by an overall net increase in customer spend year on year for the past 
+three years.
+strategic report SysGroup Plc  Annual Report & Accounts 2017 10
+Our Managed Service offerings include all forms of Cloud hosting (private, public and hybrid) but also outsourced service 
+desk and various IT consulting services including public cloud (Azure and AWS services).  Our Managed Services revenue 
+is predominantly derived from Cloud and this element of our service is growing at the fastest rate, with organic growth of 
+19.8% in 2017.
+Strategy
+SysGroup’s clear focus is to expand its position as a trusted provider of managed services and expert IT consultancy 
+to clients in the UK and Ireland. We have positioned the Group as an extension to a customer’s existing IT department 
+guiding them through the complexities and developments in the market.
+Our target market is servicing the UK corporate sector that has traditionally managed and housed their own IT 
+infrastructure on premise.  We operate in a variety of vertical sectors but have weighting in not for profit, education, health 
+services, financial services, insurance, technology and merchant and distribution sectors with a variety of well-known 
+clients in these verticals.
+Being a Visa Level 1 PCI-DSS service provider (highest level) and with our ISO9001 and ISO27001 credentials we are an 
+attractive partner to anyone who wishes to ensure platforms are built and maintained to the highest of security standards.
+Our IT consulting services often result in customers taking Cloud services from us, and the legacy VAR (Value Added 
+Reseller) element of the Sys-Pro business provides a feeder of cloud and managed service opportunities as customers 
+favour OPEX over CAPEX models and the flexibilities that offers.
+Along with seeking to engage with larger spending customers who have a specific need for a large custom built cloud 
+platform we also seek to engage with customers in our chosen markets who are at different stages of their IT journey.  
+This can initially be by partnering with us for functions like our monitoring services, remote service desk, backup and 
+disaster recovery services.  As our customers develop, the opportunity grows and results in more of their services 
+being outsourced to us. The result is that these customers can be very sticky in nature as the increased level of services 
+provided by the Group creates a greater reliance on the Group and significant barrier to entry for competitors. Customers 
+typically sign up for a contract period of one to three years, with larger contracts tending to be three years.
+We intend to supplement our organic growth with carefully considered acquisitions.
+Acquisitions
+In July 2016 the Group acquired Sys-Pro for an initial consideration of £4.0m, paid 85% cash and 15% in new ordinary 
+shares at 60 pence per share,  funded by way of a placing raising £5.0m gross. There have been certain operational 
+challenges at Sys-Pro since its acquisition but overall integration of the business into the Group is continuing and was 
+accelerated just prior to the year end, with a number of important milestones already reached.
+During the period the Group secured new banking facilities with Santander UK plc. The facilities comprise a £2.5m 
+Revolving Credit Term Loan Facility to finance acquisitions alongside a £0.5 million overdraft facility and a £0.5m finance 
+leasing facility.  
+In line with the Group’s stated growth strategy, the Board remains alert to strategic acquisition opportunities to supplement 
+organic growth. In a fragmented market, we believe we are well placed to make further astute acquisitions given our size 
+and funding availability.  SysGroup Plc  Annual Report & Accounts 2017 11
+Disposal
+On 22 July 2016 the Group announced the disposal of its SME Mass Market business for a total consideration of £2.7m in 
+cash, less an amount of £0.5m in respect of advance receipts/payments.
+As this business was based in the Group’s former head office in Nottingham a necessary reorganisation occurred and a 
+new finance function was established in the Liverpool office of the Group.  
+Operational Review
+All of the Group’s activities relate to delivering IT Managed Services with a Cloud bias along with consulting.  The Group 
+is segmented into Managed Services, VAR and SME Mass Market.  The SME Mass Market division was discontinued 
+following completion of the disposal of this division on 18 July 2016, and is therefore shown as discontinued in the table 
+below.  Managed Services segment consists of all the activities of Netplan Internet Solutions Ltd and that of Sys-Pro but 
+excluding its VAR business.
+The SME Mass Market and System Professional Ltd businesses are included in the results to their respective date of 
+disposal or acquisition.
+We have introduced a new operating segment of VAR. This is legacy activity from which Sys-Pro built its business.  
+Traditionally Sys-Pro was a provider of hardware and software but has followed the transformation to Cloud and IT 
+Managed Services and was at the beginning but established level of the curve in converting its traditional ‘on premise’ 
+customers to Cloud delivered solutions.  We continue our work educating our traditional customers of the benefits of Cloud 
+delivered services and the concept of moving from a CAPEX to an OPEX model.  Market drivers and overall trend underline 
+the substantial opportunity to us in this base.  We expect the VAR segment to decrease as customers continue to shift to 
+Managed Services.
+The revenue split of the divisions is shown below:
+ 
+Revenue by operating 
+segment
+2017
+£’000
+2017
+%
+2016
+£’000
+2016
+%
+Managed Services 5,400 69% 2,515 53%
+Value Added Reseller 1,765 22% - -
+SME Mass Market (discontinued) 700 9% 2,249 47%
+Total 7,865 100% 4,764 100%
+Key Performance Indicator Review
+Revenue Growth 2017 2016
+Revenue (continuing) £7.165m £2.515m
+Growth 184.9% 22.0%
+Revenue from continuing operations grew by 184.9% driven by Managed Services and the acquisition of System 
+Professional Ltd.  SysGroup Plc  Annual Report & Accounts 2017 12
+Adjusted EBITDA (including discontinued activities) improved 22.7% to £0.81m (2016: £0.66m).
+The growth in Adjusted EBITDA is a combination of improved performance from the Netplan business unit and from 
+contribution from Sys-Pro (acquired in the period)
+Performance Review
+Group revenue for the year grew by 65.3% to £7.865m for the year to 31 March 2017 (2016: £4.764m). Revenue growth 
+was driven by the Managed Services division, which consists of the Netplan brand (incorporating Q4Ex) and the System 
+Professional brand (acquired in the year), contributing revenues of £7.165m (2016: £2.52m).  The SME Mass Market division 
+generated revenues of £0.7m (2016: £2.2m) before being divested. 
+We continue to have good visibility of future revenues as the vast majority of our customers have entered into multi-year 
+contracts. As at 31 March 2017 there is £0.47m of deferred revenue (2016: £0.71m) which will be released to profit in future 
+periods. 
+Gross profit for the year on continuing and discontinued operations was £4.82m (2016: £3.01m) representing a gross 
+margin of 61.3% (2016: 63.2%). The reduction in gross margin is attributable to the change of sales mix during the year and 
+the slower conversion of Sys-Pro VAR customers into Managed Services revenue. 
+Adjusted earnings before interest, taxation, depreciation and amortisation (“EBITDA”) for the year to 31 March 2017 is 
+£0.81m (2016: £0.67m).  Adjusted EBITDA is calculated after excluding acquisition and restructuring costs, share based 
+payment costs and fair value adjustments.  The Directors consider that an adjusted EBITDA figure is a more appropriate 
+measure of the underlying performance of the business.
+Balance Sheet
+Net cash inflow from operating activities during the year amounted to £1.22m (2016: £0.65m). Cash at bank at 31 March 
+2017 was £3.47m (2016: £0.51m).
+ 
+Payables falling due within one year are reported at £2.36m (2016: £1.64m). This figure includes an amount of £0.47m 
+(2016: £0.71m) for deferred revenue which will be released to profit in future years. 
+Contingent consideration payable on the System Professional Ltd acquisition of £0.69m (2016: nil), which is the fair value of 
+the amounts payable in shares, is included within liabilities falling due after more than one year. Contingent consideration 
+on the acquisition of Q4Ex Ltd has now been fully settled given all performance criteria were satisfied.
+Based on certain performance criteria, the vendors of Sys-Pro could be due further consideration of up to £1.865m. At 
+the year-end the fair value of the contingent consideration stood at £0.69m.  Post period end however this has now been 
+settled by a one-off payment of £150,000.  This is a post balance sheet event and has also removed some operational 
+challenges by removing certain approval processes required with the vendors allowing for integration to be accelerated 
+and is explained in more detail in note 24.
+The Directors are confident there is sufficient working capital within the Group.  The Group also has surplus cash, is 
+cash generative and has £3.0m of committed but undrawn banking facilities (which includes a £2.5m acquisition facility).  
+However, should accretive acquisitions become available to the Group that cannot be met from existing resources (or with 
+enough headroom comfort), the Group may seek to raise additional finance either through debt, equity or a mixture of the 
+two. SysGroup Plc  Annual Report & Accounts 2017 13
+Our People
+Our people are very highly valued and the Directors place considerable emphasis on employees sharing in the success of 
+the Group. This is achieved through the participation in share option schemes. Due to the nature and size of the business, 
+employees are constantly encouraged to communicate with the Group’s senior management to discuss business issues 
+and potential improvements.
+It is the policy of the Group that there should be no unfair discrimination in recruiting and promoting staff, including 
+applicants who are disabled. The Directors are committed to maintaining and developing communication and consultation 
+processes with employees, who in turn are encouraged to develop an awareness of the issues affecting the Group. 
+Divisional split average as at 31 March 2017 2016
+Board of Directors 5 4
+SME Mass Market - 12
+Managed Services 59 14
+Total 64 30
+Gender diversity as at 
+31 March 2017
+Men Women
+Number % Number %
+Board of Directors 4 80% 1 20%
+Senior Managers 3 75% 1 25%
+Employees 50 91% 5 9%
+Total 57 89% 7 11%
+Infrastructure and Technology
+During the year, we invested in our capabilities and have begun deploying Cloud services from a newly fitted out location 
+on our network in a datacentre in Manchester.  We are utilising ‘hyper-scale’ technologies that the likes of Facebook, 
+Microsoft and Amazon utilise, such as software defined networking and continuous integration.  These technologies allow 
+us to automatically roll-out a whole network deployment and virtual machine build in minutes whilst continuous integration 
+means we can test changes in a virtual environment before pushing these to a live environment, minimising ‘change 
+control’ risks.
+Our work and contribution to the CEPH OpenSource community gained us recognition for the development of an industry 
+leading low cost storage solution which lead us to become the first VEEAM accredited service partner in the UK.  We will 
+continue our R&D efforts and bring new and interesting services to our customers.
+Principal Risks and Uncertainties
+In line with the nature, size and complexity of the business the senior management team work very closely to identify and 
+evaluate areas of risk whilst developing and monitoring action plans to deal with any potential threats.  SysGroup Plc  Annual Report & Accounts 2017 14
+All outcomes are reported to the Board and support is given as necessary to ensure actions are carried out.
+Identifiable areas of risk include:
+• Dependency on key suppliers – the Group is dependent on certain key suppliers for the continued operation of its 
+business, the most significant of which are the supply of third party software and datacentre services. If any of these 
+suppliers fail in the provision of their services it may have an adverse effect on the Group’s ability to provide services 
+to its customers. However, the Group continually assess suppliers for both price competitiveness and technical 
+innovation and are confident that alternative providers could be found.
+• Customer retention – the Group provides an essential service to its customers. Any diminution in service levels could 
+impact customer retention levels. However, the Group constantly monitors service levels and the low level of customer 
+attrition is evidence of the Group’s ability to provide the level of service required.
+• Network – the datacentres we utilise are linked by fibre that we lease.  Should the network fail there would be an 
+adverse impact on the service provided to our customers.  The Group has designed its network to have no single 
+point of failure, it connects with transit providers at different geographical locations.
+• Employees – the Group is a service organisation and as such, is dependent on the skills, knowledge and commitment 
+of its staff. The performance of the Group is dependent on retaining its staff. We mitigate this risk by offering 
+competitive reward packages.
+• Search engine optimisation – a significant amount of the Group’s sales revenues are generated from customers using 
+internet search engines.  Should the Group’s search engine optimisation performance deteriorate, this could have an 
+adverse impact on Group revenue.  The Group continually monitors the position of its websites with respect to these 
+search engines.  The Group has experienced staff that work with specialist agencies to maintain or enhance the 
+position of its websites for inclusion in search results.
+• Acquisitions – the Group has stated that its strategy is to continue to make acquisitions to strengthen its growth. 
+The risk is that we may not be able to find suitable acquisition targets. We mitigate this risk by regularly conducting 
+searches for targets and also retain advisers who introduce targets.
+Summary and Outlook
+We are pleased with our results, delivered in a year of both significant progress and change for the Group. We have 
+achieved our objectives of fundamentally transforming the business to focus on high growth managed services whilst 
+delivering enhanced profitability and results in line with market expectations, while at the same time integrating a large 
+acquisition. Our sales pipeline has grown by 28.8% from 30 September 2016 to £3.49m at 31 March 2017, showing the 
+tangible impact of our growth strategy. 
+Due to operational challenges at Sys-Pro since its acquisition the Group expects growth to be slower than originally 
+expected for FY 2018. The Board have taken the necessary remedial steps and following entry into the deed of variation 
+with the vendors of Sys- Pro, the management team has the ability to accelerate the integration process. 
+Our new management structure and internal teams will support further organic and acquisitive growth and given our 
+healthy levels of recurring revenue and long term contracts with key customers, coupled with our cash generation, we are 
+well placed to capture market opportunity.
+We look forward to the future with confidence.
+This Strategic Report was approved and signed by order of the board.
+Chris Evans
+Chief Executive Officer
+06 June 2017 SysGroup Plc  Annual Report & Accounts 2017 15
+board of directors’  
+profile

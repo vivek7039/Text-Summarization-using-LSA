@@ -1,0 +1,99 @@
+ AT A GLANCE / OUR MARKETS
+02  / Rosslyn Data Technologies plc / Annual report and accounts 2017
+The true value of data 
+is being recognised.
+Being able to visualise data isn’t enough today. Senior executives need to be 
+able to look into the future. This is why business and IT leaders are actively 
+searching for new technologies that deliver more insight, and faster. 
+For organisations to survive, business transformation must be prioritised. With its growing capabilities, following the acquisition of Integritie 
+in May 2017, Rosslyn Data Technologies is well positioned to become the go-to company for organisations seeking to accelerate business 
+outcomes by creating new opportunities from data.
+Welcome to the world of intelligent event-driven analytics. Rosslyn Data Technologies has built a powerful platform that provides more than just 
+business insight; the data used by customers for reporting and analysis automatically informs users of what decisions must be taken next. 
+Data challenges facing decision-makers How Rosslyn helps decision-makers 
+Fragmented data Structured and unstructured data in one database 
+Poor data quality Cleansed and enriched data for reporting and analysis
+Limited data control Integrated reporting and analytics with self-service tools 
+Delayed time to action Event-driven alerts and automated business processes
+One-off data usage Feed and host business applications with data from RAPid
+Rosslyn Data Technologies offices
+Partner locations
+44%
+see data as a  
+strategic asset
+23%
+of businesses closely 
+align their strategy 
+with data STRATEGIC REPORT
+ 03
+Our solutions are more flexible than traditional IT systems, reducing 
+deployment time, requiring less storage space and having a high 
+processing capacity. Both small and large enterprises are major 
+adopters of cloud analytics and the Directors expect this trend 
+to continue for the next few years.
+The overall cloud analytics market stands with a total revenue of 
+$7.5bn in 2015, and is expected to grow to $23.1bn at a compound 
+annual growth rate (CAGR) of 25.1% from 2015 to 2020.
+The growth in data is well documented with the majority of industry 
+analysts pointing towards exponential growth in consumer, M2M, 
+mobile and enterprise data while industry players are basing their 
+business models on 5–10x growth in volume of data over the next 
+five years.
+The Directors believe that the enterprise user base is increasingly 
+recognising the return on investment from analysing their data.
+IDC estimates that around one third of data by 2020 will 
+be ‘‘useful data if tagged and analysed’’ . This equates to 
+approximately 13,000 exabytes compared with total big 
+data today of approximately 5,000 exabytes.
+The true value of data
+Embracing the concept of “Fail fast, 
+succeed faster”, our award-winning 
+RAPid platform empowers customers to:
+A new era for Rosslyn 
+Data Technologies’ 
+customers and partners 
+Accelerate the time to insight from months 
+to days by automating data processes
+Reduce IT infrastructure costs and improve 
+agility by taking data into the cloud
+Integrate structured and unstructured 
+data quickly, without the need for coding 
+or data scientists
+Empower business users to improve the 
+quality and relevancy of data in real time
+Accelerate the development, testing and 
+deployment of data analytics applications
+Generate greater returns of investment 
+on your existing data assets
+2017 was a year of milestones including key client wins 
+and partnerships. The final months also culminated in 
+Rosslyn Data Technologies’ first acquisition, Integritie, 
+a British software company, which completed in May 2017.
+The acquisition has bolstered our capability to deliver 
+more value to our loyal customers and partners by 
+incorporating new technologies into our already powerful 
+RAPid Cloud Platform. We also brought into the company 
+outstanding talent to support our growth in the future. 
+Unlike traditional business intelligence offerings, which 
+limit the type and amount of data, RAPid provides a single 
+destination that incorporates structured and unstructured 
+data for self-service data reporting, analysis and 
+management. Furthermore, leveraging the same data 
+used for analytics, customers will significantly reduce 
+time-consuming, manual processes by automating 
+workflows on the same platform. 
+Rosslyn Data Technologies is well positioned to meet the 
+growing needs of executives and their teams seeking to 
+effectively monetise large swathes of under-utilised data 
+residing within and external to their organisations. 
+Organisations are failing to address business 
+issues and opportunities as decision-makers lack 
+a centralised and holistic repository of relevant, 
+ready-to-use information for continuous reporting 
+and analysis. The acquisition of Integritie extends 
+and expands our technological capabilities to meet 
+the growing information needs of operational 
+teams seeking to effectively obtain a complete 
+view of their customers, suppliers and employees.”
+Roger Bullen
+CEO, Rosslyn Data Technologies

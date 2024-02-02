@@ -1,0 +1,662 @@
+ The year ended 30 April 2017 was a signiﬁcant year for the 
+Group. On 7 September 2016 the Company and Hewlett 
+Packard Enterprise (“HPE”), announced that they had agreed 
+that Micro Focus would acquire HPE’s software business 
+segment (“HPE Software”) by way of merger (“Merger”) with 
+a wholly owned subsidiary of HPE incorporated to hold the 
+business of HPE Software. This major transaction is on track 
+to close at the beginning of September this year with the 
+listing of consideration shares on the London Stock Exchange 
+(“LSE”) and the simultaneous listing of American Depositary 
+Shares (“ADS”) on the New York Stock Exchange (“NYSE”) 
+(“Completion”). Micro Focus existing shareholders will also 
+be entitled to receive a Return of Value which in total will be 
+$500m that will be declared immediately prior to Completion.
+This will create a global infrastructure software business with pro-forma 
+revenues in the 12 months to 30 April 2017 of approximately $4.4 billion and 
+Underlying Adjusted EBITDA of approximately $1.4 billion making it one of the 
+largest dedicated software companies in the world and a leading technology 
+stock on the LSE. Following Completion we will align our ﬁnancial year end 
+to 31 October and will initially report an 18 month ﬁnancial period ending 
+31 October 2018. This will enable us to launch the new Company’s ﬁnancial 
+year with effect from 1 November 2017. 
+During the year ended 30 April 2017 the Micro Focus business traded in line 
+with the expectations we had set at the beginning of the year. This was 
+achieved during a year of signiﬁcant change and distraction as we;
+ – Completed the acquisition of Serena Software Inc. (“Serena”) together 
+with three other smaller acquisitions; 
+ – Integrated Serena into the Micro Focus Product Portfolio; 
+ – Entered the FTSE 100 on 6 September 2016;
+ – Became the spin/merge partner for HPE Software;
+ – Began to work on the plan for integrating HPE Software;
+ – Completed required regulatory ﬁlings in the UK, USA and elsewhere; 
+ – Reﬁnanced the Company’s existing debt; and
+ – Raised new banking facilities to enable the Completion of the HPE 
+Software transaction and the Return of Value.
+We have believed for some time that there are signiﬁcant segments of the 
+infrastructure software market that have matured. The response to this is 
+consolidation. To be successful in this stage of a market both operational 
+effectiveness and scale are critical. We believe that Micro Focus is now 
+well positioned to lead in this space.
+There is a clear customer requirement for a company that can innovate and 
+extend the life of mature software assets.
+Like the Attachmate Group (“TAG”) and Serena acquisitions, the combination 
+with HPE Software has clear business logic to extend Micro Focus’ market 
+presence in mature infrastructure software segments; to increase the 
+operational efﬁciency of the combined Group; to deliver effective product 
+management focused on customer centred innovation and improve sales 
+productivity. It is 100% consistent with the Company’s strategy which, as you 
+will see in the following pages, has not had any signiﬁcant changes from the 
+plan laid out ﬁve and a half years ago. Micro Focus sets out to deliver 
+consistent long-term shareholder returns of between 15% and 20% per 
+annum. The board is conﬁdent that medium-term low single digit revenue 
+growth, industry leading margins and strong cash conversion will ensure that 
+Micro Focus can deliver on that strategy. These returns can be further enhanced 
+by the appropriate deployment of capital in value enhancing acquisitions.
+The Company has a business strategy, a ﬁnancial strategy, an operating plan 
+and an incentive strategy that all support our objective to achieve 15% to 20% 
+compound annual return for shareholders. Since IPO in 2005 until 30 April 2017, 
+the annual compound shareholder return over 12 years has been 29.3%. 
+Adjusted diluted earnings per share have grown from 14.23 cents in 2006 to 
+175.65 cents in 2017 and dividends per share have grown from 6 cents to 
+88.06 cents with respective compound annual growth rates of 25.7% and 
+27.7% respectively.
+When we announced the acquisition of TAG on 15 September 2014 we set 
+out the four phase plan on page 4 for the combination of the businesses whilst 
+continuing to deliver sustainable shareholder returns. 
+The only changes to this original plan which are reﬂected in the table on 
+page 4 are that our detailed review concluded that the integration of systems 
+supporting the new business will extend throughout the four year period 
+and the rationalization of legal entities will extend through FY17 and beyond. 
+This has now been superseded by the plan to adopt new systems being 
+implemented in HPE Software. This software stack will give us one of the 
+most up to date system stacks in the industry and serve as a scale platform 
+for further Mergers and Acquisition (“M&A”) integration.
+We have set out a new four phase plan on page 4 for the combination of 
+the Micro Focus and HPE Software businesses whilst continuing to deliver 
+sustainable shareholder returns.
+The acquisition of HPE Software may delay the return to revenue growth as we 
+consolidate the HPE Software products. As with prior transactions we expect 
+HPE Software’s revenue trend to continue its historical decline until signiﬁcant 
+change has been implemented. This integration will be delivered by the four 
+year plan that will consolidate and strengthen the combined business, with the 
+goal of delivering modest revenue growth in the medium-term as well as 
+underpinning our margin improvement objectives.
+We are building a strong platform with the addition of HPE Software. 
+Once we achieve our target cash conversion ratio for the Enlarged Group of 
+90% to 95% we will generate signiﬁcant free cash ﬂows from which we can 
+deliver signiﬁcant returns of value to our shareholders and/or further highly 
+accretive acquisitions.
+Following our integration review in 2015 we decided that the Group should 
+operate two product portfolios, Micro Focus and SUSE, and have reported the 
+business this way since 1 May 2015. 
+Since April 201 1, I have held the roles of both Chairman and Chief Executive 
+Ofﬁcer (“CEO”). In December 2015 we announced that effective from 
+1 February 2016, I would be Executive Chairman and that Stephen Murdoch 
+and Nils Brauckmann would become CEO of Micro Focus and CEO of SUSE 
+respectively. Stephen and Nils discuss the operating performance of their 
+respective portfolios for the year completed in the CEO reports.
+Overview Strategic report Corporate governance
+Consolidated ﬁnancial 
+statements and notes
+Company ﬁnancial 
+statements and notes Additional information
+03 Micro Focus International plc Annual Report and Accounts 2017
+Executive Chairman’s statement  Our original four phase plan 
+Our new four phase plan 
+Phase 1:  
+Assessment
+Actions:
+ – Deliver plans for FY15
+ – Detailed review of 
+combined businesses
+ – Invigorate Product 
+Management
+Phase 2:  
+Integration
+Actions:
+ –Standardize systems
+ – Rationalize Properties
+ – Rationalize Legal entities
+ – New Go to Market 
+(“GTM”) model
+ – Maintain/improve cash 
+conversion
+ –Rationalize 
+underperforming 
+elements 
+ – New market initiatives
+Phase 3:  
+Stabilization
+Actions:
+ – Stabilize top line
+ – Improve GTM productivity
+ – Growth from new areas
+ –Improved proﬁtability
+ –Standardize systems
+ – Rationalize Legal entities
+Phase 4:  
+Growth
+Actions:
+ –Top line growth
+ –Standardize systems
+ – Rationalize Legal entities
+Phase 1:  
+Assessment
+Actions:
+ – Deliver plans for FY17
+ – Detailed review of 
+combined businesses
+ – Invigorate Product 
+Management
+Phase 2:  
+Integration
+Actions:
+ –Standardize systems
+ – Rationalize Properties
+ – Rationalize Legal entities
+ – New Go to Market 
+(“GTM”) model
+ – Maintain/improve cash 
+conversion
+ –Rationalize 
+underperforming 
+elements 
+ – New market initiatives
+Phase 3:  
+Stabilization
+Actions:
+ – Stabilize top line
+ – Improve GTM productivity
+ – Growth from new areas
+ –Improved proﬁtability
+ –Standardize systems
+ – Rationalize Legal entities 
+Phase 4:  
+Growth
+Actions:
+ –Top line growth
+ – Click and repeat!
+FY15 FY16 FY17 FY18
+FY17 FY18 FY19 FY20
+04 Micro Focus International plc Annual Report and Accounts 2017
+Executive Chairman’s statement 
+continued Our Business Model – strong and established 
+technology franchises
+As the Linux market and Open Source business have unique characteristics, 
+we have a dedicated focus on the SUSE Product Portfolio. This focus is 
+essential if we are to capitalize on the growth potential of these offerings and 
+be responsive to the Open Source community and strong heritage of SUSE. 
+In 2017 we continued to increase the headcount dedicated to development, 
+customer care and sales and marketing of the SUSE Portfolio and made the 
+ﬁrst acquisitions in this product portfolio. This investment has delivered 
+revenue growth ahead of the market and so we will be further increasing 
+this investment in 2018.
+Micro Focus specializes in managing mature infrastructure software assets 
+which have been delivering value to signiﬁcant numbers of customers over 
+long periods of time. Our product portfolios have some or all of the 
+following attributes:
+1. Broad based – covering all industrial sectors
+2. Signiﬁcant numbers of customers
+3. Signiﬁcant maintenance streams
+4. Relatively high switching costs
+5. Signiﬁcant market positions
+In any IT system the customers’ business logic and data remain critical to their 
+competitive advantage. The key is unlocking this competitive advantage 
+through exploitation of the latest technology innovation such as “OpenStack”, 
+“Software-deﬁned Distributed Storage”, “mobility”, “big data”, “virtualization” and 
+“cloud”. All of this needs to be done with the appropriate security to ensure 
+customer data, company data and intellectual property are protected at all 
+times. Typically customers would be forced into costly, disruptive and risky 
+change to make this possible but with Micro Focus, customers can take a 
+different approach that we characterize as bridging the old and the new. 
+We focus on Customer Centred Innovation that enables customers to exploit 
+new technologies without undue disruption.
+By enabling our customers to link their investments in established technology 
+with the latest innovation, Micro Focus helps customers gain incremental 
+returns on investments they have already made and to preserve and protect 
+their data and business logic. The most striking example of this is that an 
+application written in Micro Focus COBOL 40 years ago – before anyone had 
+thought of Linux, Windows, virtualization, cloud or wireless communications – 
+will work today in all of those environments. Micro Focus has made this a 
+reality. By contrast, if a COBOL application had been rewritten in another 
+language, to execute in Java or .NET the customer would have to undertake 
+additional incremental re-writes and incur signiﬁcant costs every time there 
+was a major technology change.
+Our acquisitions broaden the range and depth of our core infrastructure 
+software solutions and bring outstanding new capabilities in Linux, OpenStack 
+Cloud Infrastructure and security, the combination of which enables us to 
+further extend the philosophy of “bridging the old and the new” across much 
+more of our customer’s I.T. “footprint”.
+Overview Strategic report Corporate governance
+Consolidated ﬁnancial 
+statements and notes
+Company ﬁnancial 
+statements and notes Additional information
+05 Micro Focus International plc Annual Report and Accounts 2017 Current portfolio – underpinning the business model with clear execution and investment discipline
+The typical stages of a product life cycle are from new product introduction through to high growth to broad adoption and maturity, to decline and 
+ultimately obsolescence.
+When considering investment priorities, both organic and inorganic, we evaluate our options against a set of characteristics mapped to each stage of this 
+adoption cycle enabling the categorization of our product portfolio into one of the four quadrants represented in the chart (FOUR-BOX MODEL).
+Portfolio management
+New Models
+Products or consumption models (cloud and subscription) that open new 
+opportunities could become growth drivers or represent emerging use 
+cases that we need to be able to embrace.
+Growth Drivers
+Products with consistent growth performance and market opportunity 
+to build the future revenue foundations of the Group.
+Optimize
+Products with declining revenue performance driven by the market or 
+execution where the trajectory must be corrected to move back to the 
+core category or investments focused to optimize long-term returns.
+Core
+Products that have maintained broadly ﬂat revenue performance but 
+represent the current foundations of the Group and must be protected 
+and extended.
+“ Me too” 
+models
+Potential change 
+in trajectory 
+(return to growth)
+New tech 
+models
+Reduce rates 
+of decline
+06 Micro Focus International plc Annual Report and Accounts 2017
+Executive Chairman’s statement 
+continued
+Product Lifecycle
+Introduction Growth Maturity
+Micro Focus area of primary focus –  
+Customer Focused Innovation
+Decline
+Nature of software
+ – Innovative and often disruptive technologies
+ – High capex and R&D
+ – User base rapidly expanding products repeatedly enhanced
+Investment strategy and valuation
+ – Investing in growth = valuation and returns
+ – Rich valuations
+Micro Focus is a software company focusing on operational efﬁciency and scale  
+to lead consolidation in the mature infrastructure software market
+Nature of software
+ – Infrastructure software: embedded products with high switching costs
+ – Limited growth capex
+ – Margin expansion and efﬁciency opportunities
+Investment strategy and valuation
+ – Returns driven by maximising cash ﬂow
+ – Lower valuations Our approach to each category is summarized below:
+ – New Models: here our focus is on identifying new innovation in the 
+marketplace that is applicable to our core and growth driver propositions. 
+This is the case where new innovation is needed to connect or leverage 
+existing IT or application assets to deliver returns or open new opportunities. 
+An example of this is Silk Performer Cloudburst, a cloud based 
+implementation of our highly successful on premise Silk Performer product. 
+This combination enables customers to execute a hybrid on premise/cloud 
+solution ensuring day-to-day operations are handled effectively on premise 
+but offering broadly unlimited additional capacity as and when needed to 
+support business operational peaks, underpinned by the ﬂexibility and ease 
+of use of a common solution in both cases. In SUSE our investments in 
+OpenStack Cloud Infrastructure and Software-deﬁned Distributed Storage 
+are also clear examples. 
+ – Growth Drivers and Core: this represents the majority of our revenue 
+and investment focus. We look to identify critical technologies that have 
+delivered signiﬁcant value for customers and where the costs and risks 
+of replacement or re-write are high and the returns from such activities 
+are questionable. We determine how to enable these technologies for the 
+latest IT innovations whether new operating environments such as Linux, 
+OpenStack, JAVA or .NET or new use cases such as the cloud or mobile. 
+For example, Visual COBOL enables customers to take COBOL applications 
+forward with conﬁdence into the next phase of IT industry innovation, 
+speciﬁcally cloud and mobile, whilst protecting their investments in 
+business logic and data built up through prior investments. Security is a 
+major focus area for customers as they seek to balance being open and 
+accessible to their customers with the need to protect conﬁdential data 
+and intellectual property. Through our suite of identity, access and security 
+solutions we offer industry leading capabilities to help customers ﬁnd this 
+balance. These capabilities span multiple portfolios and signiﬁcant 
+opportunities for leverage and cross portfolio synergies exist.
+ – Optimize: as the I.T. landscape shifts in response to new opportunities 
+or challenges some technologies require repositioning or to be re-focused 
+to identify and exploit remaining or new growth potential. This requires 
+much more granular analysis and targeted investment. Our model forces 
+this discipline. Inevitably, some technologies eventually approach end of life 
+as some customers replace them with new solutions. For the remaining 
+customers they still represent signiﬁcant value. Our approach is to continue 
+to offer ﬂexible commercial and support models to enable customer access 
+to the intellectual property and capabilities of these technologies for 
+extended periods, again ensuring protection of customer investment for 
+as long as possible technically and commercially.
+Within this overall portfolio we have some products that are growing 
+signiﬁcantly and others that are stable or in decline. Our business model 
+means the way we manage the portfolio is analogous to a “fund of funds” with 
+the objective of generating moderate growth over the medium-term, delivering 
+high levels of proﬁtability and strong cash generation and cash conversion ratio 
+with a balanced portfolio approach. We will continue to focus investment in 
+growth and core products and will not dispose of declining products unless 
+we can achieve greater than the discounted cash ﬂow they would generate 
+in our ownership.
+In addition to strengthening and developing our strong franchises across 
+the product portfolio, we are uniquely positioned to help customers solve key 
+challenges as they seek to be more effective, more competitive and more 
+efﬁcient. Decades of technology innovation has opened up tremendous 
+opportunities for companies in almost every market but typically this has 
+resulted in very complex IT environments. Most organizations operate 
+infrastructure and applications which have emerged over time, often years 
+apart, such that core legacy platforms sit alongside distributed systems, 
+which more recently have been extended further again with web, cloud 
+and mobile technologies. 
+This is set to continue as today’s business environment is characterized by 
+unprecedented levels of change. Companies need to embrace this change 
+in a way that protects their most prized assets – their intellectual property; 
+their business logic; and their business data.
+Our core objective is to deliver consistent shareholder 
+returns of 15% to 20% over the long-term
+The underlying premise behind Micro Focus’ business strategy is that the 
+Company should consistently and over the long-term deliver shareholder 
+returns of at least 15% to 20% per annum. To deliver this objective the 
+Company has adopted an operational and ﬁnancial strategy underpinned 
+by consistent and effective management and reward systems. This strategy 
+is capable of execution over the long-term.
+The Company was listed on the London Stock Exchange on 12 May 2005 at 
+a price of 130 pence and in the year ended 30 April 2006 Diluted Adjusted 
+EPS was 14.23 cents and total dividends for the year of 6 cents per share was 
+declared. In the year ended 30 April 2017 Diluted Adjusted EPS is 175.65 cents 
+and the proposed full year dividend is 88.06 cents representing a compound 
+annual growth rate of 25.7% and 27.7% respectively. 
+Dividends paid on our shares since the IPO to 30 April 2017 have totaled 
+228.64 pence (350.21 cents) and in addition since January 2012 we have 
+made four Returns of Value totaling 215 pence per share. On 30 April 2017 
+our share price had increased to 2,588 pence. A shareholder who invested at 
+the time of the IPO and had reinvested the Returns of Value would have grown 
+their investment by 2,167% which is a compound annual return of 29.3%. 
+In addition the Company has announced that there will be a Return of Value 
+of $500m payable to existing Micro Focus shareholders on the register 
+immediately before closing the HPE Software transaction.
+On 28 March 201 1, on the back of two proﬁt warnings and poor performance 
+in the year ended 30 April 201 1, the Company announced a share buy-back 
+programme. The closing share price on 25 March 201 1, the day before the 
+announcement, was 308.6 pence and the dividends received since IPO at that 
+time were 43.56 pence. The annual rate of return for the shareholder from IPO 
+to 25 March 201 1 was 18.5% per annum. The Company’s market capitalization 
+on that date was £635.0m and by 30 April 2017 this had increased to £5,944.0m. 
+The Company made cash returns to shareholders during this period of 
+£764.9m, consisting of share buy-backs of £65.0m, ordinary dividends of 
+£360.3m and Returns of Value of £339.6m. These cash returns represent 
+120.5% of the market capitalization of the Company on 25 March 201 1 and 
+the annual compound return for shareholders from that date to 30 April 2017 
+is 29.3% per annum.
+Micro Focus intends to remain a high growth company in terms of returns 
+to shareholders.
+Overview Strategic report Corporate governance
+Consolidated ﬁnancial 
+statements and notes
+Company ﬁnancial 
+statements and notes Additional information
+07 Micro Focus International plc Annual Report and Accounts 2017 Our performance in the year
+Micro Focus Group delivered revenues and Underlying Adjusted EBITDA 
+of $1,380.7m and $640.9m respectively (2016: $1,245.0m and $532.5m). 
+On a pro-forma constant currency (“pro-forma CCY”) basis the revenue 
+reduced by 0.9% which is just above the mid-point of the guidance range 
+given at the beginning of the year and re-conﬁrmed at the interims. 
+Our net debt at 30 April 2017 was $1,410.6m and represents a multiple of 
+2.1 times Facility EBITDA of $673.4m, against our target of 2.5 times. 
+We would like to thank our employees for their continued dedication, 
+commitment and hard work in delivering the full year results. 
+For the year ended 30 April 2017 bonuses will be paid to executive 
+management and non-commissioned staff in Micro Focus in line with the 
+improvement in Underlying Adjusted EBITDA of the Group on a pro-forma CCY 
+basis excluding the impact of in year acquisitions. Staff bonuses will be paid at 
+45.0% of their on target amount reﬂecting a 4.5% increase in Underlying 
+Adjusted EBITDA of Micro Focus on a CCY basis excluding the impact of 
+in-year acquisitions. Executive Management received the same percentage.
+Non-commissioned staff fully aligned with SUSE, were targeted 50% on 
+improvement in Underlying Adjusted EBITDA of the Group on a CCY basis 
+excluding the impact of in year acquisitions and 50% on delivery of Annual 
+Contract Value (“ACV”) growth targets in SUSE. Their bonus payment is 
+75.5% of their on target amount, reﬂecting stronger than targeted 
+achievement in the ACV component. 
+The amount charged to the consolidated statement of comprehensive income 
+in respect of the Corporate Bonus plan in the actual results for the year ended 
+30 April 2017 was $20.8m (2016: $45.6m). 
+Operational strategy to deliver our core objective
+Operational excellence
+Micro Focus has set out to be the most effective company at managing a 
+portfolio of mature infrastructure software assets. This shows in our industry 
+leading EBITDA margins and our strong cash conversion. We believe that our 
+proven ability to execute not only delivers signiﬁcant amounts of cash and 
+consequently great ﬂexibility, but also a competitive advantage in the 
+acquisition of other similar assets as demonstrated this year.
+The aims of our portfolio focus and operational strategy are:
+1. Revenue growth;
+2. Operating leverage; and
+3. Signiﬁcant cash generation.
+Our key areas of operational focus in order to deliver single digit revenue 
+growth to achieve our core objective are Financial Discipline in M&A, 
+Go-to-Market (“GTM”) (including indirect channels) and Product Development.
+Adjusted diluted earnings per share and dividend per share in cents
+Adjusted diluted EPS – 25.3%
+Dividend per share – 27.7%
+CAGR – FY2006 to FY2017
+FY06 FY07 FY08 FY09 FY10 FY11 FY12 FY13 FY14 FY15 FY16 FY17
+23.72
+10.00
+14.23
+6.00
+31.27
+13.00
+40.32
+16.00
+56.07
+21.80
+53.81
+23.40
+70.93
+31.60
+84.87
+40.00
+97.48
+44.00
+129.43
+48.40
+146.70
+66.68
+175.65
+88.06
+08 Micro Focus International plc Annual Report and Accounts 2017
+Executive Chairman’s statement 
+continued Financial discipline, mergers and acquisitions (“M&A”)
+Micro Focus has a strong ﬁnancial discipline around the uses of cash. The 
+Company has a base case model that estimates the returns to shareholders 
+from organic execution and the return of excess cash. This gives a sound basis 
+on which to evaluate M&A where any acquisition contemplated would need 
+to generate a risk adjusted return greater than the base case. Successful 
+execution of M&A has been instrumental in achieving an annual compound 
+total shareholder return of 29.3% since IPO compared to a base case target 
+of 15% to 20%. The TAG and Serena acquisitions demonstrate this strong 
+discipline and the returns that are achievable.
+Industry and market dynamics mean that there are signiﬁcant numbers of 
+potential assets that could ﬁt with our business model. These are either:
+1. Bolt-on transactions like those completed in FY13, FY14, FY16 and FY17;
+2. Signiﬁcant transactions such as Serena in FY17; or 
+3.  Transformational deals such as the acquisition of TAG in FY15 and 
+HPE Software. 
+Each year the world of IT gets another year older (and we should remember 
+that IT is still a relatively young industry). Whilst the vast majority of companies 
+will choose to focus on the “new and exciting”; we believe that there will be an 
+increasing opportunity to help clients derive value from their existing and often 
+highly complex IT investments. 
+Since the Completion of the TAG acquisition, the Company continues to 
+receive signiﬁcant numbers of approaches from owners of companies who 
+would be interested in becoming part of the larger Group. 
+GTM and Product Development are covered in the CEO reports.
+Linkage of management incentive to 
+shareholder returns
+Micro Focus has deployed a simple model to link management incentives 
+to the delivery of shareholder returns. This model has worked successfully 
+in motivating management to deliver exceptional returns to shareholders and 
+is well understood and supported by our investment manager population. 
+The annual cash bonus applies to all members of staff in Micro Focus 
+(excluding those on sales incentives). If the Group’s Underlying Adjusted 
+EBITDA is no greater than the prior year’s CCY comparative at budgeted 
+exchange rates there is no bonus. The bonus for executive directors and 
+operating committee members is maximized on achieving 10% growth over 
+the prior year CCY Underlying Adjusted EBITDA with a straight line between 
+the two points and for other staff there is no maximum. The staff neither 
+beneﬁts nor loses from elements outside of their control such as exchange 
+rates with the board taking a view that these items balance out over the 
+business cycle. In year acquisitions are not included for bonus purposes. 
+The board sees no value in bonuses being based on “soft” or non-ﬁnancial 
+measures as evidence would suggest that these tend to serve to increase 
+bonuses to levels not merited by ﬁnancial performance. Such targets are best 
+achieved by executives managing and having appropriate management and 
+control systems in place.
+The normal stock plan starts to vest at EPS annual growth over the 
+performance period of RPI plus 3%, with maximum vesting at RPI plus 9%. 
+With RPI per annum over the three years to 30 April 2017 of approximately 
+1.9% full vesting required 10.9% growth in EPS and dividend yield of 
+approximately 3% this means that full vesting is aligned to lower end of 
+the overall objective of 15% to 20% shareholder returns.
+At the time of the TAG acquisition shareholder approval was obtained for an 
+Additional Share Grant (“ASG”) of up to 5,412,240 ordinary shares, representing 
+a maximum of 2.5% of the enlarged Group’s share capital at announcement 
+which could be awarded to up to 15 senior managers in the 18 months 
+following Completion. The performance period expires on 1 November 2017 
+and vesting is dependent upon shareholder return of between 50% and 100% 
+over the performance period, with straight-line vesting of the ASG between 
+50% and 100% of shareholder return. 
+As at 30 April 2017 ASGs are outstanding over only 3,262,420 ordinary 
+shares granted to seven senior managers representing 1.4% of the voting 
+rights of the Company at 30 April 2017. As it is more than 18 months since the 
+Completion of the acquisition, no further ASGs relating to TAG will be made. 
+This means that if, at the date of vesting, the share price is a minimum of 
+1,490.27 pence per share or more, then 100% of the shares granted would 
+become exercisable. This is based on the current dividend per share of 
+148.58 pence for the relevant period. 
+The ASG was essential to the delivery of value and has proven to be a very 
+effective incentive from a shareholder perspective. Shareholders voted to 
+repeat this scheme for the HPE Software transaction which received 99.98% 
+support at the general meeting on 26 May 2017. If successfully executed, the 
+plan will deliver approximately an increase in shareholders’ investment of 
+£7.9 billion including ordinary dividends for full vesting of the ASG from the 
+base price of 1,817 pence per share. 
+As we look to the consolidation of the market the Company will be at a 
+disadvantage to US listed companies and private equity ﬁrms when negotiating 
+acquisitions if it is not free to negotiate appropriate management compensation.
+Key performance indicators to check that we are on track are Underlying 
+Adjusted EBITDA (absolute amount and growth percentage), cash conversion 
+(absolute amount and conversion percentage), free cash ﬂow and earnings 
+per share.
+Delivering value to shareholders
+The board has adopted a very clear plan of value creation.
+Our priority is to improve the performance of the business in order to maximize 
+the opportunity to generate modest revenue growth in the medium-term. At the 
+same time we have created ﬂexibility to allow value creation to shareholders 
+through cash distributions or acquisitions as appropriate. We deliver value to 
+our customers through customer centred innovation. We will do nothing that 
+will constrain our ability to achieve organic growth and we are currently 
+investing signiﬁcant amounts on activities designed to enhance growth.
+The TAG and HPE Software transactions are transformational in terms of 
+the size of the Group from an operating point of view. It involves the type of 
+transformation that many companies would have said that they needed to 
+go private to achieve out of the public eye. The board and management of 
+Micro Focus believe that it is quite possible to do this on the public market 
+and deliver the resulting increase in value to existing shareholders.
+The HPE Software transaction was also transformational in terms of market 
+capitalization. The day before the announcement of the transaction Micro Focus 
+had a market capitalization of £4,480.7m which had increased to £5,944.0m 
+by 30 April 2017. This increased scale drew the attention of a new set of public 
+company institutional investors and also meant that some existing institutional 
+investors would be unable to hold their investments as we had become too big. 
+We will also list in the USA, through an ADS, which further expands 
+Micro Focus relevant investor base. 
+Overview Strategic report Corporate governance
+Consolidated ﬁnancial 
+statements and notes
+Company ﬁnancial 
+statements and notes Additional information
+09 Micro Focus International plc Annual Report and Accounts 2017 Working with our brokers, Numis Securities, we set about establishing a 
+signiﬁcant increase in our investor relations and outreach to the HPE 
+shareholder base. Following this activity approximately 30% of the Company’s 
+shares are now held in North America.
+The board continues to target a net debt to Facility EBITDA multiple of 
+approximately 2.5 times. This is a modest level of gearing for a company with 
+the cash generating qualities of Micro Focus. We are conﬁdent that this level 
+of debt will not reduce our ability to deliver growth, invest in products and/or 
+make appropriate acquisitions. As the integration of the businesses continues 
+the board will keep the appropriate level of debt under review.
+In order to complete the acquisition of HPE Software the Company has 
+extended its revolving credit facility from $375.0m to $500.0m, reﬁnanced its 
+term loan debt of $1,515.2m with an improved repayment proﬁle and raised 
+new term loan debt of $3,485m to complete the transaction and make the 
+Return of Value.
+At 30 April 2017 we had net debt of $1,410.6m representing a net debt to 
+Facility EBITDA of 2.1 times. On closing of the HPE Software transaction net 
+debt will be approximately $4.6 billion representing approximately 3.3 times net 
+debt to pro-forma Facility EBITDA for the 12 months ended 30 April 2017.
+The board has adopted a dividend policy of being two times covered by the 
+adjusted earnings of the Group. This policy has delivered a proposed second 
+interim dividend of 58.33 cents (2016: 49.74 cents per share), which represents 
+a 17.3% increase on last year’s ﬁnal dividend and gives a total proposed 
+dividend for the year of 88.06 cents per share (2016: 66.68 cents), an 
+increase of 32.1%.
+The dividend will be paid in Sterling equivalent to 45.22 pence per share, 
+based on an exchange rate of £1 = $1.29, the rate applicable on 1 1 July 2017, 
+the date on which the board resolved to pay the dividend. The dividend will be 
+paid on 25 August 2017 to shareholders on the register at 4 August 2017.
+Board changes and succession planning
+At the Completion of the HPE Software transaction the board has announced 
+that Chris Hsu will become CEO and Stephen Murdoch will become Chief 
+Operating Ofﬁcer (“COO”). Nils Brauckmann will continue as CEO of SUSE. 
+To ensure delivery of the integration the board has agreed that I will remain 
+Executive Chairman until the announcement of the ﬁrst full year results after 
+Completion. This is currently expected to be January 2019.
+During the year there were a number of other board changes which arose due to 
+the conditions of the agreement to acquire HPE Software (”Merger Agreement”).
+Effective 15 May 2017, Silke Scheiber and Darren Roos joined the board 
+as two of the three independent Non-Executive Directors nominated by HPE 
+pursuant to the Merger Agreement. Upon Completion, John Schultz, the 
+Executive Vice President and General Counsel of HPE, will join the board 
+as the Non-Executive Director nominated by HPE. The board has determined 
+that Mr Schultz will not be independent. In addition, Chris Hsu, who will 
+become CEO of Micro Focus upon Completion, will join the board at that time. 
+An additional independent Non-Executive Director nominated by HPE and 
+to be approved by the Micro Focus Nomination Committee, is expected to 
+be appointed after Completion. 
+Steve Schuckenbrock and Tom Virden both resigned as Directors of 
+Micro Focus, effective 25 April 2017, to ensure that the composition of the 
+board remained in line with the UK corporate governance code and met the 
+requirements of the Merger Agreement. We would like to thank Steve and 
+Tom for their signiﬁcant contributions to Micro Focus.
+Stephen Murdoch remains CEO of Micro Focus until Completion and will 
+then become COO and simultaneously step down from the board. Stephen 
+will remain a key member of the management team going forward and was 
+instrumental in operationalizing our FOUR-BOX MODEL during the integration 
+of TAG. We would like to thank him for his contributions as a board member 
+and his continued commitment to Micro Focus as COO.
+We welcome the new members of our board and biographical details of all 
+board members are available on pages 52 and 53.
+Outlook
+Following completion of the acquisition of HPE Software, the Group intends to 
+align its ﬁnancial year end to 31 October and will report an 18 month ﬁnancial 
+period ending 31 October 2018. Assuming the transaction remains on schedule, 
+the ﬁrst six months will comprise six months of the current Micro Focus business 
+and two months of the HPE Software business. There will then be a full 
+12 months trading of both businesses.
+We anticipate revenues for the current Micro Focus Group business for the 
+six months to 31 October 2017 will be broadly ﬂat on the comparative period. 
+In anticipation of the impending integration of the Micro Focus and HPE 
+Software businesses in November we have put on hold any operational 
+changes in the existing Micro Focus business. We will provide guidance for the 
+combined 12 month period to 31 October 2018 when we report in January 
+2018 on the Group’s performance in the six months ending 31 October 2017.
+Having delivered 12 years of approximately 29.3% compound annual returns 
+to investors we believe we have a strong operational and ﬁnancial model that 
+can continue to scale and provide excellent returns to our shareholders.
+Kevin Loosemore
+Executive Chairman
+17 July 2017
+10 Micro Focus International plc Annual Report and Accounts 2017
+Executive Chairman’s statement 
+continued

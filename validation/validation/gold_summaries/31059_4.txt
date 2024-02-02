@@ -1,0 +1,131 @@
+ 2
+Medica Group Plc
+Annu Al RepoR t And Accounts 2017
+WHAT IS TELERADIOLOGY? WHAT WE DO
+t eleradiology is the electronic transmission of 
+radiological patient images, including plain film x-rays 
+(pF), computerised tomography (ct ) scans and 
+magnetic resonance imaging (MRI) scans, from one 
+location to another, for the purposes of diagnostic 
+interpretation and reporting. t hrough teleradiology, 
+images can be transmitted from the hospital setting, 
+where the images are created, to a radiologist who can 
+review and report on the images remotely. In the case of 
+Medica, these are c onsultant Radiologists specialising in 
+the relevant field, who typically report on the image 
+from their own home or from one of Medica’s dedicated 
+reporting centres. t eleradiology improves patient care 
+by enabling radiologists to provide their services 
+remotely, thereby facilitating the rapid availability of 
+trained specialists 24 hours a day, 365 days a year.
+24/7 365
+RAPID AVAILABILITY OF  
+TRAINED SPECIALISTS
+Medica provides outsourced interpretation and 
+reporting on MRI, CT and plain film images. The 
+Company currently offers three primary services to 
+hospital radiology departments: NightHawk, an out-of-
+hours service, routine cross-sectional (Routine CS) 
+reporting on MRI and CT scans, and routine plain film 
+(Routine PF) reporting on x-ray images.
+Primary services:
+NightHawk
+o ut-of-hours emergency 
+ct and MR reporting in 
+less than an hour.
+Routine CS/PF
+Routine teleradiology 
+reporting of cross-
+sectional and plain film 
+images.
+Other services include:
+DayHawk
+Fast day-time reporting 
+(<60 minutes).
+Colonography
+s ub-speciality ‘virtual 
+colonoscopy’ service.
+DXA
+Flexible reporting by u K 
+rheumatologists.
+Radiographer reporting
+Quality assured 
+radiographer plain film 
+reporting service.
+Audit
+Highly experienced and 
+robust external auditing 
+service.
+Mammography
+s ub-speciality 
+symptomatic breast 
+reporting.
+MEDICA IS THE LARGEST 
+TELERADIOLOGY PROVIDER 
+BY REVENUE IN THE UK
+AT A GLANCE 3
+Medica Group Plc
+Annu Al RepoR t And Accounts 2017
+strategic Report Governance Financial statements Overview
+HOW WE DO IT
+Medica has a bespoke IT platform 
+that provides market-leading 
+linkage between a hospital’s 
+Radiology Information System (RIS) 
+and Consultant Radiologists who 
+contract with Medica. 
+t his link to the hospital RIs is a key 
+advantage Medica has over 
+competitors in the teleradiology 
+market. t his unique linkage offers 
+Medica’s contracted radiologists 
+equivalence to n Hs in-house 
+reporting by providing the same 
+radiology history and previous 
+images that an in-house radiologist 
+would have access to.
+What this means 
+direct access to the hospital’s RIs 
+system and thus to a patients’ 
+historical clinical records allows 
+Medica radiologists to give the most 
+complete and accurate reports 
+adhering to the highest standards, 
+in the same way that the hospital-
+based radiologist does.
+Among other benefits, Medica offers 
+hospital radiology departments the 
+ability to manage their workflow 
+more efficiently and flexibly, and 
+provides rapid access to specialist 
+c onsultant Radiologists, who may
+not be available to that hospital at 
+the relevant time, or at all. 
+HOSPITALS
+Image Store 
+(PACS)
+Patient 
+Scan
+Patient Booking/
+Reporting System
+(RIS)
+Medica 
+Group
+Radiologist 
+reports 
+directly 
+into hospital 
+RIS
+Current 
+and Historic 
+Images
+Medica Radiologist 
+(Home Office/Hub)
+Medica Server/
+PACS
+Clinical Governance Framework and Support
+24 Hour Technical and Administrative Support
+Secure Medica Firewall
+Unique technical  
+solution to ensure  
+optimal patient care.

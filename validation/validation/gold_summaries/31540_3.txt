@@ -1,0 +1,193 @@
+ Introduction
+04
+Synectics plc
+Annual Report and Accounts 2017
+Chairman’s statement
+Overview
+Last year saw the 30th anniversary of the start-up of Synectics. 
+This landmark provided the occasion not only to celebrate the 
+achievements of all those who have helped to build Synectics 
+into a successful technology business, from the founders to our 
+current apprentices, but also to reflect on what has changed 
+and what endures.
+I am pleased to say that during my engagement across the 
+various parts of the business in 2017 I found a high degree of 
+alignment around the enduring purpose and values of Synectics; 
+I won’t repeat these, since they are set out in detail elsewhere, 
+suffice it to say here that the core elements are, and have been 
+for 30 years, value to customers and innovation. I believe these 
+will remain the foundation for a sustainable and prosperous 
+future for the Company.
+During the 2016/17 financial year the Group’s results continued to 
+reflect the impact of the 2015 collapse in global oil & gas prices on 
+one of our largest customer sectors. Management has taken action 
+to maintain profitability in that area by reducing costs, and delivered a 
+very creditable increase in operating margin in our oil & gas activities 
+last year. The Board remains convinced that the right course is to 
+preserve the critical capability that underlies our leading market 
+position in the sector, and indeed to focus on positioning the business 
+to gain market share once the recovery is underway. We believe the 
+right balance has been struck in the interests of long-term value.
+Other underlying factors that influenced our results include a 
+global gaming market that remained buoyant, increased demand 
+from infrastructure customers, such as utilities, data centres and 
+transport hubs, and a sharp decline in new bus deliveries in the UK.
+Against that background, the Board is pleased with the performance 
+of the Company for 2016/17, which was in line with our expectations.
+We expect the trend of growing profitability of our business 
+operations to continue in the current financial year. In addition, 
+opportunities have been identified for innovative development 
+of our core product set, using emerging technology applications 
+being introduced in other fields to expand Synectics’ offerings 
+to its current markets. Consistent with our growth strategy, 
+the Board has authorised a significant increase in research 
+& development expense to capitalise on those opportunities. 
+The increased expense for this investment means that the 
+Board’s current expectations are for reported profits in 2017/18 
+to be broadly flat compared to last year. Further detail is set 
+out in the Outlook section below.
+Results
+For the year to 30 November 2017, Synectics’ consolidated 
+revenue was £70.1 million (2016: £70.9 million). This reflected 
+a reduction in gaming sector revenue following the exceptionally 
+high level achieved in 2016, lower than expected revenues in 
+UK transport, offset with progress in infrastructure projects 
+and integrated systems.
+An improvement in operating margins across both of the Group’s 
+divisions led to a 15% increase in underlying profit before tax
+1
+ to 
+£3.0 million (2016: £2.6 million). There were no material non-underlying 
+costs in the year, so statutory profit before tax was also £3.0 million 
+(2016: £2.0 million). Underlying diluted earnings per share were 15.2p 
+(2016: 12.4p) and diluted earnings per share were 15.1p (2016: 8.8p). 
+On a constant currency basis
+2
+, these results benefited directly by 
+around £0.2 million from the impact of the depreciation of sterling 
+across the year on the earnings of our foreign subsidiaries. However, 
+this translation benefit was partially offset by corresponding increases 
+in the sterling costs of US dollar-denominated components used 
+in our systems sold in the UK.
+The Group’s balance sheet continued to strengthen, with net 
+cash at 30 November 2017 of £3.8 million (2016: £2.2 million). 
+The consolidated firm order book at year end was £24.4 million 
+(2016: £26.2 million).
+Dividend
+The Board is recommending payment of an increased final 
+dividend of 3.0p per share (2016: 2.0p), payable on 4 May 2018 
+to shareholders registered on 3 April 2018, for approval by 
+shareholders at the Company’s Annual General Meeting 
+to be held on 26 April 2018.
+For 30 years, the core elements of Synectics’ 
+purpose and values have been value to customers 
+and innovation. I believe these will remain the 
+foundation for a sustainable and prosperous 
+future for the Company.”
+ David Coghlan
+ Chairman 05
+Synectics plc
+Annual Report and Accounts 2017
+Introduction
+People
+I would like once again to pass on the Board’s sincere thanks to 
+Synectics’ employees at all levels. This is an organisation with a culture 
+of high expectations for commitment and performance, especially in 
+delivering on our promises to customers. As such, the pressures on 
+employees are often considerable and are consistently borne with 
+fortitude and good humour. We recognise and are deeply grateful 
+for their continuing contributions to the business.
+Our annual employee opinion survey last summer demonstrated 
+high and upward-trending results across most areas of the business. 
+This reflected substantial efforts by management to increase 
+communication and engagement throughout the Group. This 
+effort, which is strongly supported by the Board, will continue. 
+Strategy
+Synectics’ strategy remains to create leadership positions within 
+specialised sectors of the electronic security and surveillance industry, 
+through the combination of expert, sector-specific market knowledge 
+and, where appropriate, our own proprietary technologies. These 
+proprietary technologies are based on open systems and built around 
+Synectics’ core command and control integration software; they 
+are developed specifically for our chosen specialist market sectors 
+and provide fundamental differentiation from the offerings of 
+mainstream suppliers in the wider electronic security market.
+As the volume of digital data generated by high-end, video-centric 
+security systems continues to grow exponentially, the complexity 
+of extracting meaningful and actionable intelligence from that data is 
+opening up many opportunities for innovation. Throughout its 30-year 
+history, Synectics has consistently demonstrated the combination 
+of deep technical capability and practical, expertise-based sales 
+approach needed to benefit from such opportunities. This is 
+essentially an entrepreneurial skill.
+A core element of our strategy is to ensure that the business 
+keeps building the culture and processes necessary to maintain 
+that entrepreneurial essence at larger scale as we continue to grow.
+Outlook
+The 2018 financial year has begun in line with the Board’s expectations. 
+The year will be marked by a number of positive and short-term 
+negative countercurrents in our largest market sectors, and also 
+by clear opportunities to invest organically in solidifying Synectics’ 
+position as a market leader in specialist high-end surveillance. 
+The Integration & Managed Services division continues to perform 
+well, and we expect further growth in profits this year.
+Within the larger Systems division, Synectics’ revenue and profit 
+trends over the remainder of this year are likely to be different in 
+our three major end-user segments:
+• The gaming sector, which has performed exceptionally well in the 
+last two years and where Synectics continues to gain market share, 
+will see a respite in major new resort developments coming on 
+stream in the Far East and a likely slowdown in surveillance upgrade 
+programmes in the United States. Despite entering the current 
+financial year with an order book and qualified pipeline of new 
+business 50% higher than at the same time last year, we anticipate 
+at this stage that the profit contribution from the sector in 2017/18, 
+although still strong, is likely to be lower than last year’s.
+• The global oil & gas surveillance sector should continue to 
+generate a stable positive contribution to profits in the current 
+year. There is evidence of a recent pick-up in market activity, 
+and Synectics is well placed to benefit as soon as new projects 
+come on line. However, the normal gestation period of upstream 
+oil & gas projects means that the upturn in our revenues in that 
+sector should not be expected before 2019.
+• Following further investment in sales resources, revenues from 
+the transport & infrastructure sector, outside the UK bus market, 
+are expected to grow at an increased rate in 2017/18. 
+Finally, after close evaluation the Board has authorised an increase 
+of approximately £500,000 in this year’s research & development 
+expense to accelerate Synectics’ development of our core software 
+product base. We see an opportunity to provide sophisticated 
+end users with real improvements in the capability, breadth and 
+cost-effectiveness of their security systems. With its established 
+customer base and trusted reputation for successful technical 
+innovation, Synectics is ideally positioned to benefit from the 
+increasing pace of developments in the wider information technology 
+sphere, which we believe can now be profitably applied to our markets. 
+Although this increased research & development is in one sense 
+discretionary expenditure, the Board’s judgement is that the long-term 
+interests of the Company will best be served by ensuring that we 
+invest sufficient resources now to capitalise fully on the capabilities 
+and market positions that Synectics has successfully established 
+and built over recent years. 
+Taken together, the above factors lead the Board to conclude that 
+the Group’s consolidated underlying profit before tax in our 2018 
+financial year is most likely to be broadly flat compared to last year, 
+as the impact of growth in underlying current business is offset by 
+increased investment in strengthening our position for the future.
+We believe that Synectics continues to make good progress 
+towards its objectives. The improvements made to management 
+and operational structures over the past couple of years are working 
+well, the Group is starting to behave much more like a single focussed 
+business, and there is an apparent growing sense of confidence in 
+most parts of our operations. The Board has recently reviewed the 
+Group’s latest medium-term plans. It remains our belief that, given 
+normal economic conditions, Synectics is capable within its current 
+business base of achieving its targets of significant revenue growth 
+from current levels, and an operating profit margin of 8–10%.
+David Coghlan 
+Chairman
+20 February 2018
+1.  Underlying profit before tax represents profit before tax and 
+non-underlying items (which comprise restructuring costs and 
+amortisation of acquired intangibles).
+2. Using average exchange rates for the year ended 30 November 2016.
