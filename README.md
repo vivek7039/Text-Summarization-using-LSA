@@ -11,4 +11,4 @@ In addition to employing the ROUGE score for evaluation, we utilized a Java-base
 
 Also, the entire FNS dataset can be accessed [here](https://drive.google.com/file/d/1o7iW-cpIXCpQI7mNaYJ4T-2vQOwgRbVw/view).
 
-The complete file takes time to run. If you want to see a demo you can use the toy dataset and toy file.
+The complete file takes time to run. If you want to see a demo you can use the toy dataset and toy file included in the repository.
