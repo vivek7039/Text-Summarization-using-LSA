@@ -12,3 +12,24 @@ In addition to employing the ROUGE score for evaluation, we utilized a Java-base
 Also, the entire FNS dataset can be accessed [here](https://drive.google.com/file/d/1o7iW-cpIXCpQI7mNaYJ4T-2vQOwgRbVw/view).
 
 The complete file takes time to run. If you want to see a demo you can use the toy dataset and toy file included in the repository.
+
+STEPS:
+
+Running Locally
+
+1. Upload the zip of validation dataset on drive
+2. Comment out the import statement for google colab and the code in cell below "use_colab=False"
+3. Using the summaries generated in the gen_sum folder use JAVA tool to evaulate the rouge score which will be a result.csv file.
+5. Place the file in the Text-Summarization-using-LSA folder outside all folders.
+6. Check for the rouge scores.
+
+
+Running on COLAB
+
+1. Upload the zip of validation dataset on drive
+2. Uncomment import statement for google colab and the code in cell below "use_colab=False"
+3. After running the cell set the "dataset_path" of the folder where the validation zip is uploaded.
+4. Using the summaries generated in the gen_sum folder use JAVA tool to evaulate the rouge score which will be a result.csv file.
+5. Place the file in the Text-Summarization-using-LSA folder outside all folders.
+6. Check for the rouge scores.
+
