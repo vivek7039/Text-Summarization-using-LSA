@@ -33,3 +33,6 @@ Running on COLAB
 5. Place the file in the Text-Summarization-using-LSA folder outside all folders.
 6. Check for the rouge scores.
 
+
+You can use the same process and steps with toy dataset by updating the respective paths.
+
